@@ -1,7 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'56dca2743f',extremes,Drought,#edc291,edo,sequía en guinea ecuatorial,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.7619164875327683,0,2,es,WAF,Africa
-'c4be795f03',extremes,Drought,#edc291,edo,falta de lluvia guinea ecuatorial,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.7602062400597186,0,2,es,WAF,Africa
-'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2025-11-25T03:37:00+00:00,Argentina,0.7595702179770072,0,2,es,SES,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2025-11-24T03:46:00+00:00,Argentina,0.7591460826701688,0,2,es,SES,South-America
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,tormenta uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.7548594275463982,0,2,es,SES,South-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2025-11-26T03:37:00+00:00,Chile,0.7547220207159953,0,2,es,SWS,South-America
@@ -17,3 +14,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd61de81685',extremes,Storm,#b3b2b1,wmo,marejada ciclónica chile,2025-12-09T03:41:00+00:00,Chile,0.7515820865070967,0,2,es,SWS,South-America
 '4496a0cd3b',extremes,Storm,#b3b2b1,wmo,marejada ciclónica territorio nacional.,2025-12-01T04:02:00+00:00,Paraguay,0.751266045890377,0,2,es,SES,South-America
 'ee23d47ac0',extremes,Heat Wave,#c40202,wmo,ola de calor rio cuarto y alrededores,2025-12-07T03:47:00+00:00,Argentina,0.7506757492637017,0,2,es,SES,South-America
+'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2025-11-25T03:37:00+00:00,Argentina,0.6505861252804561,1,3,es,SES,South-America
+'c4be795f03',extremes,Drought,#edc291,edo,falta de lluvia guinea ecuatorial,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.6461753040507607,1,1,es,WAF,Africa
