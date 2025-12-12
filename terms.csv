@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'6977afac24',extremes,Volcano,#b83202,eonet,volcán puracé colombia,2025-12-06T03:32:00+00:00,Colombia,0.7859443849222071,0,2,es,NWS,South-America
 '56dca2743f',extremes,Drought,#edc291,edo,sequía en guinea ecuatorial,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.7619164875327683,0,2,es,WAF,Africa
 'c4be795f03',extremes,Drought,#edc291,edo,falta de lluvia guinea ecuatorial,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.7602062400597186,0,2,es,WAF,Africa
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2025-11-25T03:37:00+00:00,Argentina,0.7595702179770072,0,2,es,SES,South-America
