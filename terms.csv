@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'6977afac24',extremes,Volcano,#b83202,eonet,volcán puracé colombia,2025-12-06T03:32:00+00:00,Colombia,0.7859443849222071,0,2,es,NWS,South-America
-'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial argentina,2025-12-10T03:45:00+00:00,Argentina,0.7593223888844285,0,2,es,SES,South-America
 'fa77cf1f9e',extremes,Storm,#b3b2b1,wmo,tormenta mendoza gral alvear malargue.,2025-12-04T03:42:00+00:00,Argentina,0.7442722920562657,0,2,es,SES,South-America
 '8744ccb432',extremes,Storm,#b3b2b1,wmo,tormenta la rioja la rioja.,2025-12-06T03:32:00+00:00,Argentina,0.744107816607531,0,2,es,SES,South-America
 'e3449c4e60',extremes,Earthquake,#870007,usgs,terremoto de atocha,2025-12-01T04:02:00+00:00,Bolivia,0.7419957997091131,0,2,es,SWS,South-America
@@ -25,6 +23,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2025-11-26T03:37:00+00:00,Chile,0.6464645126085959,1,2,es,SWS,South-America
 'c4be795f03',extremes,Drought,#edc291,edo,falta de lluvia guinea ecuatorial,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.6461753040507607,1,1,es,WAF,Africa
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2025-11-24T03:46:00+00:00,Argentina,0.6461742602696435,1,2,es,SES,South-America
+'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial argentina,2025-12-10T03:45:00+00:00,Argentina,0.6458740755517642,1,2,es,SES,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2025-11-23T03:46:00+00:00,Argentina,0.645327917066698,1,2,es,SES,South-America
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,tormenta uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.6449308434144384,1,2,es,SES,South-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2025-12-01T04:02:00+00:00,Argentina,0.6429884182508526,1,2,es,SES,South-America
