@@ -1,19 +1,29 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'6977afac24',extremes,Volcano,#b83202,eonet,volcán puracé colombia,2025-12-06T03:32:00+00:00,Colombia,0.7859443849222071,0,2,es,NWS,South-America
 '5808ad2034',extremes,Earthquake,#870007,usgs,terremoto josé maría morelos,2025-12-06T03:32:00+00:00,Mexico,0.7390989625384293,0,2,es,NCA,North-America
+'80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2025-11-29T03:34:00+00:00,Bolivia,0.7389700682875348,0,2,es,SWS,South-America
 'c1499c4445',extremes,Earthquake,#870007,usgs,terremoto yuyapichis,2025-12-03T03:40:00+00:00,Peru,0.7361677877590268,0,2,es,NWS,South-America
 'b26829887e',extremes,Earthquake,#870007,usgs,terremoto jordán,2025-12-11T03:46:00+00:00,Colombia,0.7357819295085921,0,2,es,NWS,South-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2025-11-24T03:45:00+00:00,Chile,0.7346362190243966,0,2,es,SWS,South-America
+'4d422738b1',extremes,Earthquake,#870007,usgs,terremoto palca,2025-12-08T03:44:00+00:00,Peru,0.7333663600648332,0,2,es,SWS,South-America
 'bb591d955d',extremes,Earthquake,#870007,usgs,terremoto achanizo,2025-11-26T03:37:00+00:00,Peru,0.7325381004709394,0,2,es,SWS,South-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2025-11-28T03:34:00+00:00,Chile,0.7323802895576234,0,2,es,SWS,South-America
 'd389bc4f63',extremes,Earthquake,#870007,usgs,terremoto mexico,2025-12-08T03:44:00+00:00,Mexico,0.7317807393240491,0,2,es,NCA,North-America
+'9349bd9c5e',extremes,Drought,#edc291,edo,sequedad guinea ecuatorial,2025-12-11T03:46:00+00:00,Equatorial Guinea,0.7317629885326558,0,2,es,WAF,Africa
+'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2025-11-30T03:46:00+00:00,Argentina,0.727449680958157,0,2,es,SES,South-America
 'd5d4b91634',extremes,Earthquake,#870007,usgs,terremoto vinchina,2025-12-02T03:41:00+00:00,Argentina,0.7267842316758032,0,2,es,SWS,South-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2025-12-07T03:46:00+00:00,Chile,0.7249014245958724,0,2,es,SWS,South-America
+'cff0a88351',extremes,Earthquake,#870007,usgs,terremoto ecuador,2025-12-03T03:40:00+00:00,Ecuador,0.7175920771515617,0,2,es,EPO,South-America
 '22055e4283',extremes,Drought,#edc291,edo,sequía nicaragua,2025-12-05T03:41:00+00:00,Nicaragua,0.7140312082032085,0,2,es,SCA,North-America
 'f760624a54',extremes,Earthquake,#870007,usgs,terremoto vallenar,2025-12-11T03:46:00+00:00,Chile,0.7135684299185135,0,2,es,SWS,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2025-12-07T03:46:00+00:00,Argentina,0.710712586488482,0,2,es,SWS,South-America
 'a65a81b59a',extremes,Earthquake,#870007,usgs,terremoto tectitán,2025-11-29T03:34:00+00:00,Guatemala,0.6991546376210271,0,2,es,SCA,North-America
 '4bc262e8d8',extremes,Earthquake,#870007,usgs,terremoto amatenango de la frontera,2025-12-05T03:40:00+00:00,Mexico,0.6991152930172487,0,2,es,SCA,North-America
 '17065d269f',extremes,Drought,#edc291,edo,falta de lluvia honduras,2025-12-07T03:47:00+00:00,Honduras,0.6980234819582386,0,2,es,SCA,North-America
+'d9ffdd914a',extremes,Fog,#d60d2b,wmo,niebla meseta de valladolid,2025-11-28T03:34:00+00:00,Spain,0.6944874559687569,0,2,es,MED,Europe
+'8068e6b5b7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica españa,2025-12-09T03:41:00+00:00,Spain,0.6930113203389063,0,2,es,MED,Europe
+'e0f92188ed',extremes,Fog,#d60d2b,wmo,niebla meseta de zamora,2025-11-28T03:34:00+00:00,Spain,0.6895301673495543,0,2,es,MED,Europe
+'69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,ola de calor paraná y alrededores,2025-12-06T03:32:00+00:00,Argentina,0.6886566710678034,0,2,es,SES,South-America
 '25902e48eb',extremes,Storm,#b3b2b1,wmo,tormenta territorio nacional.,2025-12-08T03:44:00+00:00,Paraguay,0.6516787595132941,1,2,es,SES,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2025-11-25T03:37:00+00:00,Argentina,0.6505861252804561,1,3,es,SES,South-America
 '56dca2743f',extremes,Drought,#edc291,edo,sequía en guinea ecuatorial,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.647629014402853,1,1,es,WAF,Africa
