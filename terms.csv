@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'b26829887e',extremes,Earthquake,#870007,usgs,terremoto jordán,2025-12-11T03:46:00+00:00,Colombia,0.7357819295085921,0,1,es,NWS,South-America
-'66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2025-11-24T03:45:00+00:00,Chile,0.7346362190243966,0,1,es,SWS,South-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2025-11-28T03:34:00+00:00,Chile,0.7323802895576234,0,1,es,SWS,South-America
 '9349bd9c5e',extremes,Drought,#edc291,edo,sequedad guinea ecuatorial,2025-12-11T03:46:00+00:00,Equatorial Guinea,0.7317629885326558,0,1,es,WAF,Africa
 'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2025-11-30T03:46:00+00:00,Argentina,0.727449680958157,0,1,es,SES,South-America
