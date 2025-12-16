@@ -8,7 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0335b20cbc',extremes,Storm,#b3b2b1,wmo,marejada ciclónica reg. 15 cordillera,2025-12-16T03:47:00+00:00,Chile,0.735614048011793,0,2,es,SWS,South-America
 'b759e0d5cd',extremes,Drought,#edc291,edo,sequía en Panamá,2025-12-08T03:45:00+00:00,Panama,0.7321400449015324,0,2,es,SCA,North-America
 'af6244e0ab',extremes,Drought,#edc291,edo,sequedad nicaragua,2025-12-16T03:47:00+00:00,Nicaragua,0.7281581097716111,0,2,es,SCA,North-America
-'cff0a88351',extremes,Earthquake,#870007,usgs,terremoto ecuador,2025-12-03T03:40:00+00:00,Ecuador,0.7175920771515617,0,1,es,EPO,South-America
 'deebf112c9',extremes,Drought,#edc291,edo,falta de lluvia colombia,2025-12-08T03:45:00+00:00,Colombia,0.7153431364192889,0,2,es,NWS,South-America
 'f760624a54',extremes,Earthquake,#870007,usgs,terremoto vallenar,2025-12-11T03:46:00+00:00,Chile,0.7135684299185135,0,1,es,SWS,South-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2025-12-14T03:49:00+00:00,Chile,0.705579000535988,0,2,es,SWS,South-America
