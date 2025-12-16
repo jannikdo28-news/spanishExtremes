@@ -1,15 +1,12 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'6977afac24',extremes,Volcano,#b83202,eonet,volcán puracé colombia,2025-12-06T03:32:00+00:00,Colombia,0.7859443849222071,0,2,es,NWS,South-America
 'c1499c4445',extremes,Earthquake,#870007,usgs,terremoto yuyapichis,2025-12-03T03:40:00+00:00,Peru,0.7361677877590268,0,2,es,NWS,South-America
 'b26829887e',extremes,Earthquake,#870007,usgs,terremoto jordán,2025-12-11T03:46:00+00:00,Colombia,0.7357819295085921,0,2,es,NWS,South-America
 '9349bd9c5e',extremes,Drought,#edc291,edo,sequedad guinea ecuatorial,2025-12-11T03:46:00+00:00,Equatorial Guinea,0.7317629885326558,0,1,es,WAF,Africa
-'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2025-11-30T03:46:00+00:00,Argentina,0.727449680958157,0,1,es,SES,South-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2025-12-07T03:46:00+00:00,Chile,0.7249014245958724,0,1,es,SWS,South-America
 'cff0a88351',extremes,Earthquake,#870007,usgs,terremoto ecuador,2025-12-03T03:40:00+00:00,Ecuador,0.7175920771515617,0,1,es,EPO,South-America
 'f760624a54',extremes,Earthquake,#870007,usgs,terremoto vallenar,2025-12-11T03:46:00+00:00,Chile,0.7135684299185135,0,1,es,SWS,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2025-12-07T03:46:00+00:00,Argentina,0.710712586488482,0,1,es,SWS,South-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2025-12-14T03:49:00+00:00,Chile,0.705579000535988,0,2,es,SWS,South-America
-'a65a81b59a',extremes,Earthquake,#870007,usgs,terremoto tectitán,2025-11-29T03:34:00+00:00,Guatemala,0.6991546376210271,0,1,es,SCA,North-America
 '4bc262e8d8',extremes,Earthquake,#870007,usgs,terremoto amatenango de la frontera,2025-12-05T03:40:00+00:00,Mexico,0.6991152930172487,0,1,es,SCA,North-America
 '17065d269f',extremes,Drought,#edc291,edo,falta de lluvia honduras,2025-12-07T03:47:00+00:00,Honduras,0.6980234819582386,0,1,es,SCA,North-America
 'd9ffdd914a',extremes,Fog,#d60d2b,wmo,niebla meseta de valladolid,2025-11-28T03:34:00+00:00,Spain,0.6944874559687569,0,1,es,MED,Europe
@@ -54,9 +51,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2025-11-29T03:34:00+00:00,Bolivia,0.6282745730444045,1,2,es,SWS,South-America
 '5808ad2034',extremes,Earthquake,#870007,usgs,terremoto josé maría morelos,2025-12-06T03:32:00+00:00,Mexico,0.628234118157665,1,1,es,NCA,North-America
 '4d422738b1',extremes,Earthquake,#870007,usgs,terremoto palca,2025-12-08T03:44:00+00:00,Peru,0.6233614060551083,1,1,es,SWS,South-America
-'34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2025-11-28T03:34:00+00:00,Chile,0.6226732611239798,1,1,es,SWS,South-America
 'bb591d955d',extremes,Earthquake,#870007,usgs,terremoto achanizo,2025-11-26T03:37:00+00:00,Peru,0.6226573854002985,1,1,es,SWS,South-America
 'd389bc4f63',extremes,Earthquake,#870007,usgs,terremoto mexico,2025-12-08T03:44:00+00:00,Mexico,0.6220136284254417,1,1,es,NCA,North-America
 '5ce57f419d',extremes,Earthquake,#870007,usgs,terremoto venezuela,2025-12-10T03:45:00+00:00,Venezuela,0.6186088582487416,1,1,es,CAR,North-America
+'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2025-11-30T03:46:00+00:00,Argentina,0.6183322288144334,1,1,es,SES,South-America
 'd5d4b91634',extremes,Earthquake,#870007,usgs,terremoto vinchina,2025-12-02T03:41:00+00:00,Argentina,0.6177665969244327,1,1,es,SWS,South-America
 '22055e4283',extremes,Drought,#edc291,edo,sequía nicaragua,2025-12-05T03:41:00+00:00,Nicaragua,0.6072265569727272,1,1,es,SCA,North-America
+'a65a81b59a',extremes,Earthquake,#870007,usgs,terremoto tectitán,2025-11-29T03:34:00+00:00,Guatemala,0.594281441977873,1,1,es,SCA,North-America
+'34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2025-11-28T03:34:00+00:00,Chile,0.5294222869553828,2,1,es,SWS,South-America
