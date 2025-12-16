@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c1499c4445',extremes,Earthquake,#870007,usgs,terremoto yuyapichis,2025-12-03T03:40:00+00:00,Peru,0.7361677877590268,0,2,es,NWS,South-America
 'b26829887e',extremes,Earthquake,#870007,usgs,terremoto jordán,2025-12-11T03:46:00+00:00,Colombia,0.7357819295085921,0,2,es,NWS,South-America
 '9349bd9c5e',extremes,Drought,#edc291,edo,sequedad guinea ecuatorial,2025-12-11T03:46:00+00:00,Equatorial Guinea,0.7317629885326558,0,1,es,WAF,Africa
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2025-12-07T03:46:00+00:00,Chile,0.7249014245958724,0,1,es,SWS,South-America
@@ -9,7 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2025-12-14T03:49:00+00:00,Chile,0.705579000535988,0,2,es,SWS,South-America
 '4bc262e8d8',extremes,Earthquake,#870007,usgs,terremoto amatenango de la frontera,2025-12-05T03:40:00+00:00,Mexico,0.6991152930172487,0,1,es,SCA,North-America
 '17065d269f',extremes,Drought,#edc291,edo,falta de lluvia honduras,2025-12-07T03:47:00+00:00,Honduras,0.6980234819582386,0,1,es,SCA,North-America
-'d9ffdd914a',extremes,Fog,#d60d2b,wmo,niebla meseta de valladolid,2025-11-28T03:34:00+00:00,Spain,0.6944874559687569,0,1,es,MED,Europe
 '8068e6b5b7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica españa,2025-12-09T03:41:00+00:00,Spain,0.6930113203389063,0,1,es,MED,Europe
 'e0f92188ed',extremes,Fog,#d60d2b,wmo,niebla meseta de zamora,2025-11-28T03:34:00+00:00,Spain,0.6895301673495543,0,1,es,MED,Europe
 '69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,ola de calor paraná y alrededores,2025-12-06T03:32:00+00:00,Argentina,0.6886566710678034,0,1,es,SES,South-America
@@ -58,4 +56,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd5d4b91634',extremes,Earthquake,#870007,usgs,terremoto vinchina,2025-12-02T03:41:00+00:00,Argentina,0.6177665969244327,1,1,es,SWS,South-America
 '22055e4283',extremes,Drought,#edc291,edo,sequía nicaragua,2025-12-05T03:41:00+00:00,Nicaragua,0.6072265569727272,1,1,es,SCA,North-America
 'a65a81b59a',extremes,Earthquake,#870007,usgs,terremoto tectitán,2025-11-29T03:34:00+00:00,Guatemala,0.594281441977873,1,1,es,SCA,North-America
+'d9ffdd914a',extremes,Fog,#d60d2b,wmo,niebla meseta de valladolid,2025-11-28T03:34:00+00:00,Spain,0.5910644125734434,1,1,es,MED,Europe
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2025-11-28T03:34:00+00:00,Chile,0.5294222869553828,2,1,es,SWS,South-America
