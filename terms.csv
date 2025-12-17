@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8be002d270',extremes,Drought,#edc291,edo,falta de lluvias venezuela,2025-12-02T03:41:00+00:00,Venezuela,0.7528570683607303,0,2,es,NSA,South-America
 '57401e749f',extremes,Storm,#b3b2b1,wmo,tormenta reg. 11 patagonia subandina norte,2025-12-16T03:47:00+00:00,Chile,0.7446572460036601,0,2,es,SWS,South-America
 'cff0a88351',extremes,Earthquake,#870007,usgs,terremoto ecuador,2025-12-03T03:40:00+00:00,Ecuador,0.7408068902111039,0,2,es,EPO,South-America
 '9349bd9c5e',extremes,Drought,#edc291,edo,sequedad guinea ecuatorial,2025-12-11T03:46:00+00:00,Equatorial Guinea,0.7397300094623795,0,2,es,WAF,Africa
@@ -23,6 +24,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '174e70acae',extremes,Thunderstorm,#53785a,wmo,clima severo españa,2025-12-12T03:45:00+00:00,Spain,0.6836685097164805,0,2,es,MED,Europe
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,lluvia brasil,2025-11-27T03:34:00+00:00,Brazil,0.6832684224450803,0,2,es,SAM,South-America
 'ee7d8f3c6f',extremes,Fog,#d60d2b,wmo,niebla meseta de burgos,2025-12-03T03:40:00+00:00,Spain,0.68307090649745,0,2,es,MED,Europe
+'58f77fa85f',extremes,Thunderstorm,#53785a,wmo,granizo españa,2025-11-30T03:46:00+00:00,Spain,0.683007447352763,0,2,es,MED,Europe
+'d783c27979',extremes,Drought,#edc291,edo,sequía en cuba,2025-12-08T03:45:00+00:00,Cuba,0.6811791511923105,0,2,es,CAR,North-America
+'687d982c31',extremes,Drought,#edc291,edo,falta de lluvia costa rica,2025-12-07T03:47:00+00:00,Costa Rica,0.6803701655068037,0,2,es,SCA,South-America
+'2f9f258435',extremes,Fog,#d60d2b,wmo,niebla vegas del guadiana,2025-12-06T03:32:00+00:00,Spain,0.6801955072339931,0,2,es,MED,Europe
+'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial brasil,2025-11-28T03:34:00+00:00,Brazil,0.6790049312247215,0,2,es,SAM,South-America
+'4ecd68b9d9',extremes,Storm,#b3b2b1,wmo,marejada ciclónica oeste de la palma,2025-12-12T03:45:00+00:00,Spain,0.6775087671006651,0,2,es,MED,Europe
+'68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2025-12-09T03:41:00+00:00,Spain,0.6757392945468979,0,2,es,MED,Europe
+'c6ce45829e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica brasil,2025-12-14T03:49:00+00:00,Brazil,0.6739037367829179,0,2,es,SAM,South-America
+'070edfe74d',extremes,Fog,#d60d2b,wmo,niebla sur de huesca,2025-12-07T03:47:00+00:00,Spain,0.6733447612024036,0,2,es,MED,Europe
 '6977afac24',extremes,Volcano,#b83202,eonet,volcán puracé colombia,2025-12-06T03:32:00+00:00,Colombia,0.668502772183876,1,2,es,NWS,South-America
 '25902e48eb',extremes,Storm,#b3b2b1,wmo,tormenta territorio nacional.,2025-12-08T03:44:00+00:00,Paraguay,0.6516787595132941,1,2,es,SES,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2025-11-25T03:37:00+00:00,Argentina,0.6505861252804561,1,3,es,SES,South-America
