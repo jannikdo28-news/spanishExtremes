@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'f3823dead6',extremes,Storm,#b3b2b1,wmo,marejada ciclónica amazonía ecuatoriana,2025-12-18T03:44:00+00:00,Ecuador,0.7472247273111368,0,2,es,NWS,South-America
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitación litoral,2025-12-18T03:44:00+00:00,Ecuador,0.7458641384211947,0,2,es,NWS,South-America
 'cff0a88351',extremes,Earthquake,#870007,usgs,terremoto ecuador,2025-12-03T03:40:00+00:00,Ecuador,0.7409813998134105,0,2,es,EPO,South-America
 '9349bd9c5e',extremes,Drought,#edc291,edo,sequedad guinea ecuatorial,2025-12-11T03:46:00+00:00,Equatorial Guinea,0.7397300094623795,0,2,es,WAF,Africa
@@ -14,7 +13,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '77a3be546a',extremes,Earthquake,#870007,usgs,terremoto acajutla,2025-12-13T03:37:00+00:00,El Salvador,0.6931497492300399,0,2,es,SCA,North-America
 'cb207f7e4e',extremes,Drought,#edc291,edo,falta de lluvia argentina,2025-12-13T03:38:00+00:00,Argentina,0.6894929318517085,0,2,es,SES,South-America
 'cd74d750ef',extremes,Drought,#edc291,edo,falta de lluvia bolivia,2025-11-30T03:47:00+00:00,Bolivia,0.6890322907842933,0,2,es,SAM,South-America
-'dfbb2a2a1d',extremes,Drought,#edc291,edo,falta de lluvias uruguay,2025-11-28T03:34:00+00:00,Uruguay,0.687801848774484,0,2,es,SES,South-America
 '7681e065ae',extremes,Storm,#b3b2b1,wmo,tormenta este de la palma,2025-12-11T03:46:00+00:00,Spain,0.6861336295767431,0,2,es,MED,Europe
 '26bf785d72',extremes,Fog,#d60d2b,wmo,niebla meseta de palencia,2025-11-28T03:34:00+00:00,Spain,0.6850287222371242,0,2,es,MED,Europe
 '4c455ec158',extremes,Fog,#d60d2b,wmo,niebla centro de lugo,2025-12-13T03:38:00+00:00,Spain,0.6848069044478371,0,2,es,MED,Europe
@@ -93,5 +91,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e0f92188ed',extremes,Fog,#d60d2b,wmo,niebla meseta de zamora,2025-11-28T03:34:00+00:00,Spain,0.5867007022471211,1,1,es,MED,Europe
 '105ee03aff',extremes,Earthquake,#870007,usgs,terremoto el salvador,2025-11-27T03:33:00+00:00,El Salvador,0.5855910296405974,1,2,es,SCA,North-America
 '69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,ola de calor paraná y alrededores,2025-12-06T03:32:00+00:00,Argentina,0.5853581704076328,1,1,es,SES,South-America
+'dfbb2a2a1d',extremes,Drought,#edc291,edo,falta de lluvias uruguay,2025-11-28T03:34:00+00:00,Uruguay,0.5849316014583115,1,2,es,SES,South-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2025-11-28T03:34:00+00:00,Chile,0.5294222869553828,2,1,es,SWS,South-America
 '22055e4283',extremes,Drought,#edc291,edo,sequía nicaragua,2025-12-05T03:41:00+00:00,Nicaragua,0.5164426034268181,2,1,es,SCA,North-America
