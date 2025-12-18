@@ -1,13 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'f3823dead6',extremes,Storm,#b3b2b1,wmo,marejada ciclónica amazonía ecuatoriana,2025-12-18T03:44:00+00:00,Ecuador,0.7472247273111368,0,2,es,NWS,South-America
-'d709206c08',extremes,Storm,#b3b2b1,wmo,tormenta reg. 15 cordillera,2025-12-18T03:44:00+00:00,Chile,0.7463563190308835,0,2,es,SWS,South-America
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitación litoral,2025-12-18T03:44:00+00:00,Ecuador,0.7458641384211947,0,2,es,NWS,South-America
 'cff0a88351',extremes,Earthquake,#870007,usgs,terremoto ecuador,2025-12-03T03:40:00+00:00,Ecuador,0.7409813998134105,0,2,es,EPO,South-America
 '9349bd9c5e',extremes,Drought,#edc291,edo,sequedad guinea ecuatorial,2025-12-11T03:46:00+00:00,Equatorial Guinea,0.7397300094623795,0,2,es,WAF,Africa
-'e40d44c836',extremes,Earthquake,#870007,usgs,terremoto burica,2025-12-18T03:44:00+00:00,Panama,0.7394666898035186,0,2,es,SCA,South-America
 'c1499c4445',extremes,Earthquake,#870007,usgs,terremoto yuyapichis,2025-12-03T03:40:00+00:00,Peru,0.7361677877590268,0,2,es,NWS,South-America
 'b26829887e',extremes,Earthquake,#870007,usgs,terremoto jordán,2025-12-11T03:46:00+00:00,Colombia,0.7357819295085921,0,2,es,NWS,South-America
-'b759e0d5cd',extremes,Drought,#edc291,edo,sequía en Panamá,2025-12-08T03:45:00+00:00,Panama,0.7321400449015324,0,2,es,SCA,North-America
 'af6244e0ab',extremes,Drought,#edc291,edo,sequedad nicaragua,2025-12-16T03:47:00+00:00,Nicaragua,0.7281581097716111,0,2,es,SCA,North-America
 'deebf112c9',extremes,Drought,#edc291,edo,falta de lluvia colombia,2025-12-08T03:45:00+00:00,Colombia,0.7153431364192889,0,2,es,NWS,South-America
 'f760624a54',extremes,Earthquake,#870007,usgs,terremoto vallenar,2025-12-11T03:46:00+00:00,Chile,0.7135684299185135,0,2,es,SWS,South-America
@@ -76,10 +73,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e3449c4e60',extremes,Earthquake,#870007,usgs,terremoto de atocha,2025-12-01T04:02:00+00:00,Bolivia,0.6306964297527461,1,1,es,SWS,South-America
 '3a67915e02',extremes,Earthquake,#870007,usgs,terremoto peru,2025-12-07T03:46:00+00:00,Peru,0.629872476953869,1,1,es,NWS,South-America
 '12141e6d2a',extremes,Storm,#b3b2b1,wmo,tormenta litoral provincia de huasco,2025-12-12T03:45:00+00:00,Chile,0.6289326558368681,1,1,es,SWS,South-America
+'e40d44c836',extremes,Earthquake,#870007,usgs,terremoto burica,2025-12-18T03:44:00+00:00,Panama,0.6285466863329908,1,1,es,SCA,South-America
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2025-11-29T03:34:00+00:00,Bolivia,0.6282745730444045,1,2,es,SWS,South-America
 '5808ad2034',extremes,Earthquake,#870007,usgs,terremoto josé maría morelos,2025-12-06T03:32:00+00:00,Mexico,0.628234118157665,1,1,es,NCA,North-America
 '0335b20cbc',extremes,Storm,#b3b2b1,wmo,marejada ciclónica reg. 15 cordillera,2025-12-16T03:47:00+00:00,Chile,0.625271940810024,1,1,es,SWS,South-America
 '4d422738b1',extremes,Earthquake,#870007,usgs,terremoto palca,2025-12-08T03:44:00+00:00,Peru,0.6233614060551083,1,1,es,SWS,South-America
+'b759e0d5cd',extremes,Drought,#edc291,edo,sequía en Panamá,2025-12-08T03:45:00+00:00,Panama,0.6227690831663025,1,2,es,SCA,North-America
 'bb591d955d',extremes,Earthquake,#870007,usgs,terremoto achanizo,2025-11-26T03:37:00+00:00,Peru,0.6226573854002985,1,1,es,SWS,South-America
 'd389bc4f63',extremes,Earthquake,#870007,usgs,terremoto mexico,2025-12-08T03:44:00+00:00,Mexico,0.6220136284254417,1,1,es,NCA,North-America
 '5ce57f419d',extremes,Earthquake,#870007,usgs,terremoto venezuela,2025-12-10T03:45:00+00:00,Venezuela,0.6186088582487416,1,1,es,CAR,North-America
