@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
-'8be002d270',extremes,Drought,#edc291,edo,falta de lluvias venezuela,2025-12-02T03:41:00+00:00,Venezuela,0.7528570683607303,0,2,es,NSA,South-America
 '88f49d6040',extremes,Storm,#b3b2b1,wmo,tormenta zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7490691798616852,0,2,es,NWS,South-America
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,precipitación ecuador,2025-12-19T03:46:00+00:00,Ecuador,0.7468807881214315,0,2,es,NWS,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2025-12-19T03:46:00+00:00,Ecuador,0.7464203092752836,0,2,es,NWS,South-America
@@ -70,6 +68,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,marejada ciclónica argentina,2025-11-23T03:46:00+00:00,Argentina,0.6405801062355523,1,1,es,SES,South-America
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2025-12-04T03:42:00+00:00,Chile,0.6405308047371323,1,1,es,SWS,South-America
 '0f045e33e1',extremes,Storm,#b3b2b1,wmo,marejada ciclónica reg. 4 cordilleras,2025-12-04T03:42:00+00:00,Chile,0.6403186558457756,1,1,es,SWS,South-America
+'8be002d270',extremes,Drought,#edc291,edo,falta de lluvias venezuela,2025-12-02T03:41:00+00:00,Venezuela,0.6402285381066207,1,2,es,NSA,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paraguay,2025-11-30T03:46:00+00:00,Paraguay,0.639894558412418,1,1,es,SES,South-America
 'd61de81685',extremes,Storm,#b3b2b1,wmo,marejada ciclónica chile,2025-12-09T03:41:00+00:00,Chile,0.6388447735310322,1,1,es,SWS,South-America
 '4496a0cd3b',extremes,Storm,#b3b2b1,wmo,marejada ciclónica territorio nacional.,2025-12-01T04:02:00+00:00,Paraguay,0.6385761390068204,1,1,es,SES,South-America
