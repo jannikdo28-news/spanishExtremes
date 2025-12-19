@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8be002d270',extremes,Drought,#edc291,edo,falta de lluvias venezuela,2025-12-02T03:41:00+00:00,Venezuela,0.7528570683607303,0,2,es,NSA,South-America
 'f3823dead6',extremes,Storm,#b3b2b1,wmo,marejada ciclónica amazonía ecuatoriana,2025-12-18T03:44:00+00:00,Ecuador,0.7472247273111368,0,2,es,NWS,South-America
 'd709206c08',extremes,Storm,#b3b2b1,wmo,tormenta reg. 15 cordillera,2025-12-18T03:44:00+00:00,Chile,0.7463563190308835,0,2,es,SWS,South-America
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitación litoral,2025-12-18T03:44:00+00:00,Ecuador,0.7458641384211947,0,2,es,NWS,South-America
