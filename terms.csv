@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
+'88f49d6040',extremes,Storm,#b3b2b1,wmo,tormenta zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7490691798616852,0,2,es,NWS,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2025-12-19T03:46:00+00:00,Ecuador,0.7464203092752836,0,2,es,NWS,South-America
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitación litoral,2025-12-18T03:44:00+00:00,Ecuador,0.7458641384211947,0,2,es,NWS,South-America
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,tormenta litoral,2025-12-19T03:46:00+00:00,Ecuador,0.7454252010760375,0,2,es,NWS,South-America
@@ -22,6 +24,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '174e70acae',extremes,Thunderstorm,#53785a,wmo,clima severo españa,2025-12-12T03:45:00+00:00,Spain,0.6836685097164805,0,2,es,MED,Europe
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,lluvia brasil,2025-11-27T03:34:00+00:00,Brazil,0.6832684224450803,0,2,es,SAM,South-America
 'ee7d8f3c6f',extremes,Fog,#d60d2b,wmo,niebla meseta de burgos,2025-12-03T03:40:00+00:00,Spain,0.68307090649745,0,2,es,MED,Europe
+'58f77fa85f',extremes,Thunderstorm,#53785a,wmo,granizo españa,2025-11-30T03:46:00+00:00,Spain,0.683007447352763,0,2,es,MED,Europe
 'd783c27979',extremes,Drought,#edc291,edo,sequía en cuba,2025-12-08T03:45:00+00:00,Cuba,0.6811791511923105,0,2,es,CAR,North-America
 '2f9f258435',extremes,Fog,#d60d2b,wmo,niebla vegas del guadiana,2025-12-06T03:32:00+00:00,Spain,0.6801955072339931,0,2,es,MED,Europe
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial brasil,2025-11-28T03:34:00+00:00,Brazil,0.6790049312247215,0,2,es,SAM,South-America
@@ -66,6 +69,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '51a9c660ce',extremes,Flood,#030ba1,wmo,inundaciones cowlitz wa,2025-12-13T03:38:00+00:00,United States,0.6672517860136709,0,2,es,CNA,North-America
 'b3a04bec13',extremes,Flood,#030ba1,wmo,inundaciones snohomish wa,2025-12-10T03:45:00+00:00,United States,0.6672389193183536,0,2,es,CNA,North-America
 '04486be4d5',extremes,Flood,#030ba1,wmo,inundación repentina clatsop otilamook o,2025-12-10T03:45:00+00:00,United States,0.6671225925419487,0,2,es,CNA,North-America
+'060066f2cf',extremes,Flood,#030ba1,wmo,inundación lewis wa,2025-12-09T03:41:00+00:00,United States,0.6668233533871096,0,2,es,CNA,North-America
+'06532967b8',extremes,Drought,#edc291,edo,falta de lluvia brasil,2025-12-10T03:45:00+00:00,Brazil,0.666810867768198,0,2,es,SAM,South-America
+'74fb8fe53f',extremes,Storm,#b3b2b1,wmo,marejada ciclónica este de la palma,2025-12-12T03:45:00+00:00,Spain,0.666683302682237,0,2,es,MED,Europe
+'179db1ae1a',extremes,Thunderstorm,#53785a,wmo,granizo دولة قطر,2025-12-15T03:54:00+00:00,Qatar,0.6666293515186156,0,2,es,ARP,Asia
+'da981f1496',extremes,Flood,#030ba1,wmo,inundación repentina benton wa,2025-12-14T03:49:00+00:00,United States,0.6665605398548874,0,2,es,CNA,North-America
+'6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2025-12-16T03:47:00+00:00,Qatar,0.6664942449514816,0,2,es,ARP,Asia
+'b74cc3ed00',extremes,Flood,#030ba1,wmo,inundación repentina mason wa,2025-12-19T03:46:00+00:00,United States,0.6662355798672428,0,2,es,CNA,North-America
 '25902e48eb',extremes,Storm,#b3b2b1,wmo,tormenta territorio nacional.,2025-12-08T03:44:00+00:00,Paraguay,0.6516787595132941,1,2,es,SES,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2025-11-25T03:37:00+00:00,Argentina,0.6505861252804561,1,3,es,SES,South-America
 '56dca2743f',extremes,Drought,#edc291,edo,sequía en guinea ecuatorial,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.647629014402853,1,1,es,WAF,Africa
