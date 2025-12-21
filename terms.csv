@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2025-12-19T03:46:00+00:00,Ecuador,0.7464203092752836,0,2,es,NWS,South-America
-'6560ef8c08',extremes,Storm,#b3b2b1,wmo,tormenta litoral,2025-12-19T03:46:00+00:00,Ecuador,0.7454252010760375,0,2,es,NWS,South-America
 'cff0a88351',extremes,Earthquake,#870007,usgs,terremoto ecuador,2025-12-03T03:40:00+00:00,Ecuador,0.7409813998134105,0,2,es,EPO,South-America
 '9349bd9c5e',extremes,Drought,#edc291,edo,sequedad guinea ecuatorial,2025-12-11T03:46:00+00:00,Equatorial Guinea,0.7397300094623795,0,2,es,WAF,Africa
 'c1499c4445',extremes,Earthquake,#870007,usgs,terremoto yuyapichis,2025-12-03T03:40:00+00:00,Peru,0.7361677877590268,0,2,es,NWS,South-America
