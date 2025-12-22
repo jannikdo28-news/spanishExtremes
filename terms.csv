@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2025-12-19T03:46:00+00:00,Ecuador,0.7464203092752836,0,2,es,NWS,South-America
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitación litoral,2025-12-18T03:44:00+00:00,Ecuador,0.7458641384211947,0,2,es,NWS,South-America
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,tormenta litoral,2025-12-19T03:46:00+00:00,Ecuador,0.7454252010760375,0,2,es,NWS,South-America
