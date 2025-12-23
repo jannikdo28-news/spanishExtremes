@@ -1,6 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
+'b26829887e',extremes,Earthquake,#870007,usgs,terremoto jordán,2025-12-11T03:46:00+00:00,Colombia,0.7399181995570623,0,2,es,NWS,South-America
 'c1499c4445',extremes,Earthquake,#870007,usgs,terremoto yuyapichis,2025-12-03T03:40:00+00:00,Peru,0.7361677877590268,0,2,es,NWS,South-America
 'af6244e0ab',extremes,Drought,#edc291,edo,sequedad nicaragua,2025-12-16T03:47:00+00:00,Nicaragua,0.7281581097716111,0,2,es,SCA,North-America
+'deebf112c9',extremes,Drought,#edc291,edo,falta de lluvia colombia,2025-12-08T03:45:00+00:00,Colombia,0.7153431364192889,0,2,es,NWS,South-America
 'f760624a54',extremes,Earthquake,#870007,usgs,terremoto vallenar,2025-12-11T03:46:00+00:00,Chile,0.7135684299185135,0,2,es,SWS,South-America
 '48457b6eba',extremes,Earthquake,#870007,usgs,terremoto ovalle,2025-12-09T03:40:00+00:00,Chile,0.7077928780394481,0,2,es,SWS,South-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2025-12-14T03:49:00+00:00,Chile,0.705579000535988,0,2,es,SWS,South-America
@@ -82,6 +85,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7385efc9e1',extremes,Drought,#edc291,edo,falta de lluvia peru,2025-12-01T04:02:00+00:00,Peru,0.6635332445081895,0,2,es,NWS,South-America
 '64393be751',extremes,Drought,#edc291,edo,sequía ecuador,2025-11-30T03:47:00+00:00,Ecuador,0.6632284870116952,0,2,es,EPO,Pacific Ocean
 '0bcfb9c197',extremes,Flood,#030ba1,wmo,inundación repentina en washington o,2025-12-19T03:46:00+00:00,United States,0.6630310975979319,0,2,es,CNA,North-America
+'4d738c4938',extremes,Flood,#030ba1,wmo,inundación pacífico wa wahkiakum wa,2025-12-09T03:41:00+00:00,United States,0.6629566261651229,0,2,es,CNA,North-America
+'5b657d1aec',extremes,Flood,#030ba1,wmo,inundación de la costa del condado del puerto de Grays,2025-12-06T03:32:00+00:00,United States,0.6628947485976259,0,2,es,CNA,North-America
+'53dadb7e4e',extremes,Flood,#030ba1,wmo,inundación perforar wa,2025-12-09T03:41:00+00:00,United States,0.6627929130046379,0,2,es,CNA,North-America
+'acb64f8584',extremes,Flood,#030ba1,wmo,inundación wahkiakum wa,2025-12-08T03:44:00+00:00,United States,0.662494306278737,0,2,es,CNA,North-America
+'276eca33cd',extremes,Flood,#030ba1,wmo,rey de la inundación repentina wa pierce wa,2025-12-15T03:54:00+00:00,United States,0.6624420172129124,0,2,es,CNA,North-America
+'784121ab4b',extremes,Fog,#d60d2b,wmo,niebla valle del guadiana,2025-12-18T03:44:00+00:00,Spain,0.6621131106026603,0,2,es,MED,Europe
+'2d125d122b',extremes,Flood,#030ba1,wmo,inundación repentina mineral mt,2025-12-09T03:41:00+00:00,United States,0.6620493699492754,0,2,es,CNA,North-America
 '25902e48eb',extremes,Storm,#b3b2b1,wmo,tormenta territorio nacional.,2025-12-08T03:44:00+00:00,Paraguay,0.6516787595132941,1,2,es,SES,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2025-11-25T03:37:00+00:00,Argentina,0.6505861252804561,1,3,es,SES,South-America
 '56dca2743f',extremes,Drought,#edc291,edo,sequía en guinea ecuatorial,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.647629014402853,1,1,es,WAF,Africa
