@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'c1499c4445',extremes,Earthquake,#870007,usgs,terremoto yuyapichis,2025-12-03T03:40:00+00:00,Peru,0.7361677877590268,0,2,es,NWS,South-America
 'af6244e0ab',extremes,Drought,#edc291,edo,sequedad nicaragua,2025-12-16T03:47:00+00:00,Nicaragua,0.7281581097716111,0,2,es,SCA,North-America
-'deebf112c9',extremes,Drought,#edc291,edo,falta de lluvia colombia,2025-12-08T03:45:00+00:00,Colombia,0.7153431364192889,0,2,es,NWS,South-America
 'f760624a54',extremes,Earthquake,#870007,usgs,terremoto vallenar,2025-12-11T03:46:00+00:00,Chile,0.7135684299185135,0,2,es,SWS,South-America
 '48457b6eba',extremes,Earthquake,#870007,usgs,terremoto ovalle,2025-12-09T03:40:00+00:00,Chile,0.7077928780394481,0,2,es,SWS,South-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2025-12-14T03:49:00+00:00,Chile,0.705579000535988,0,2,es,SWS,South-America
@@ -157,4 +156,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5808ad2034',extremes,Earthquake,#870007,usgs,terremoto josé maría morelos,2025-12-06T03:32:00+00:00,Mexico,0.5339990004340152,2,1,es,NCA,North-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2025-11-28T03:34:00+00:00,Chile,0.5294222869553828,2,1,es,SWS,South-America
 '22055e4283',extremes,Drought,#edc291,edo,sequía nicaragua,2025-12-05T03:41:00+00:00,Nicaragua,0.5164426034268181,2,1,es,SCA,North-America
-'8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2025-11-27T03:34:00+00:00,Brazil,0.49418695411709895,2,1,es,SAM,South-America
+'8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2025-11-27T03:34:00+00:00,Brazil,0.4941869541170989,2,1,es,SAM,South-America
