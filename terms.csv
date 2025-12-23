@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
 'b26829887e',extremes,Earthquake,#870007,usgs,terremoto jordán,2025-12-11T03:46:00+00:00,Colombia,0.7399181995570623,0,2,es,NWS,South-America
 'c1499c4445',extremes,Earthquake,#870007,usgs,terremoto yuyapichis,2025-12-03T03:40:00+00:00,Peru,0.7361677877590268,0,2,es,NWS,South-America
 'af6244e0ab',extremes,Drought,#edc291,edo,sequedad nicaragua,2025-12-16T03:47:00+00:00,Nicaragua,0.7281581097716111,0,2,es,SCA,North-America
