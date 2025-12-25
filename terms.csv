@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'174e70acae',extremes,Thunderstorm,#53785a,wmo,clima severo españa,2025-12-12T03:45:00+00:00,Spain,0.6836685097164805,0,2,es,MED,Europe
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial brasil,2025-11-28T03:34:00+00:00,Brazil,0.6790049312247215,0,2,es,SAM,South-America
 '4ecd68b9d9',extremes,Storm,#b3b2b1,wmo,marejada ciclónica oeste de la palma,2025-12-12T03:45:00+00:00,Spain,0.6775087671006651,0,2,es,MED,Europe
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tormenta brasil,2025-12-14T03:49:00+00:00,Brazil,0.6722685497710672,0,2,es,SAM,South-America
