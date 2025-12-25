@@ -1,7 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
-'174e70acae',extremes,Thunderstorm,#53785a,wmo,clima severo españa,2025-12-12T03:45:00+00:00,Spain,0.6836685097164805,0,2,es,MED,Europe
-'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial brasil,2025-11-28T03:34:00+00:00,Brazil,0.6790049312247215,0,2,es,SAM,South-America
 '4ecd68b9d9',extremes,Storm,#b3b2b1,wmo,marejada ciclónica oeste de la palma,2025-12-12T03:45:00+00:00,Spain,0.6775087671006651,0,2,es,MED,Europe
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2025-12-09T03:41:00+00:00,Spain,0.6757392945468979,0,2,es,MED,Europe
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tormenta brasil,2025-12-14T03:49:00+00:00,Brazil,0.6722685497710672,0,2,es,SAM,South-America
@@ -165,11 +162,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,aguacero brasil,2025-12-18T03:44:00+00:00,Brazil,0.5831871971231184,1,2,es,SAM,South-America
 '4c455ec158',extremes,Fog,#d60d2b,wmo,niebla centro de lugo,2025-12-13T03:38:00+00:00,Spain,0.5831359737806615,1,2,es,MED,Europe
 'e043fce1a2',extremes,Drought,#edc291,edo,sequía bolivia,2025-12-01T04:02:00+00:00,Bolivia,0.5817819781323689,1,2,es,SAM,South-America
+'174e70acae',extremes,Thunderstorm,#53785a,wmo,clima severo españa,2025-12-12T03:45:00+00:00,Spain,0.5811183532590085,1,1,es,MED,Europe
 'ee7d8f3c6f',extremes,Fog,#d60d2b,wmo,niebla meseta de burgos,2025-12-03T03:40:00+00:00,Spain,0.5806103605228324,1,1,es,MED,Europe
 '58f77fa85f',extremes,Thunderstorm,#53785a,wmo,granizo españa,2025-11-30T03:46:00+00:00,Spain,0.5805568102498485,1,1,es,MED,Europe
 '687d982c31',extremes,Drought,#edc291,edo,falta de lluvia costa rica,2025-12-07T03:47:00+00:00,Costa Rica,0.5795147606807832,1,2,es,SCA,South-America
 'd783c27979',extremes,Drought,#edc291,edo,sequía en cuba,2025-12-08T03:45:00+00:00,Cuba,0.579002293513464,1,1,es,CAR,North-America
 '2f9f258435',extremes,Fog,#d60d2b,wmo,niebla vegas del guadiana,2025-12-06T03:32:00+00:00,Spain,0.5781662411488941,1,1,es,MED,Europe
+'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial brasil,2025-11-28T03:34:00+00:00,Brazil,0.5773042065410132,1,2,es,SAM,South-America
 'eddc59f608',extremes,Snow&Ice,#d60d2b,wmo,heladas españa,2025-12-12T03:45:00+00:00,Spain,0.5742975634650949,1,3,es,MED,Europe
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica brasil,2025-12-14T03:49:00+00:00,Brazil,0.5728181762654803,1,1,es,SAM,South-America
 '070edfe74d',extremes,Fog,#d60d2b,wmo,niebla sur de huesca,2025-12-07T03:47:00+00:00,Spain,0.5723431670220431,1,1,es,MED,Europe
