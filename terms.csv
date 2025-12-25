@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tormenta brasil,2025-12-14T03:49:00+00:00,Brazil,0.6722685497710672,0,2,es,SAM,South-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,inundaciones estados unidos,2025-12-08T03:44:00+00:00,United States,0.6709290507992616,0,2,es,CNA,North-America
 '037bb37761',extremes,Flood,#030ba1,wmo,inundación estados unidos,2025-12-07T03:47:00+00:00,United States,0.6704761022118584,0,2,es,CNA,North-America
 '3a9e626ae6',extremes,Flood,#030ba1,wmo,inundación repentina en tilamook o,2025-12-09T03:41:00+00:00,United States,0.6702957049767079,0,2,es,CNA,North-America
@@ -192,5 +191,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4bc262e8d8',extremes,Earthquake,#870007,usgs,terremoto amatenango de la frontera,2025-12-05T03:40:00+00:00,Mexico,0.5051107992049622,2,1,es,SCA,North-America
 '17065d269f',extremes,Drought,#edc291,edo,falta de lluvia honduras,2025-12-07T03:47:00+00:00,Honduras,0.5047270062148274,2,1,es,SCA,North-America
 '7681e065ae',extremes,Storm,#b3b2b1,wmo,tormenta este de la palma,2025-12-11T03:46:00+00:00,Spain,0.4996322688691967,2,2,es,MED,Europe
-'4c455ec158',extremes,Fog,#d60d2b,wmo,niebla centro de lugo,2025-12-13T03:38:00+00:00,Spain,0.49566568271356226,2,1,es,MED,Europe
+'4c455ec158',extremes,Fog,#d60d2b,wmo,niebla centro de lugo,2025-12-13T03:38:00+00:00,Spain,0.4956656827135622,2,1,es,MED,Europe
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2025-11-27T03:34:00+00:00,Brazil,0.4941869541170989,2,1,es,SAM,South-America
