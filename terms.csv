@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
 'e043fce1a2',extremes,Drought,#edc291,edo,sequía bolivia,2025-12-01T04:02:00+00:00,Bolivia,0.6840964095674927,0,2,es,SAM,South-America
 '174e70acae',extremes,Thunderstorm,#53785a,wmo,clima severo españa,2025-12-12T03:45:00+00:00,Spain,0.6836685097164805,0,2,es,MED,Europe
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial brasil,2025-11-28T03:34:00+00:00,Brazil,0.6790049312247215,0,2,es,SAM,South-America
@@ -8,6 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,inundaciones estados unidos,2025-12-08T03:44:00+00:00,United States,0.6709290507992616,0,2,es,CNA,North-America
 '037bb37761',extremes,Flood,#030ba1,wmo,inundación estados unidos,2025-12-07T03:47:00+00:00,United States,0.6704761022118584,0,2,es,CNA,North-America
 '3a9e626ae6',extremes,Flood,#030ba1,wmo,inundación repentina en tilamook o,2025-12-09T03:41:00+00:00,United States,0.6702957049767079,0,2,es,CNA,North-America
+'432bab655c',extremes,Wildfire,#d60d2b,eonet,incendio forestal estados unidos,2025-12-07T03:46:00+00:00,United States,0.6701207884978138,0,2,es,ENA,North-America
 '44c67905ab',extremes,Flood,#030ba1,wmo,inundación clackamas o marion o,2025-12-13T03:38:00+00:00,United States,0.669136593633568,0,2,es,CNA,North-America
 '2c8681b398',extremes,Flood,#030ba1,wmo,inundación benton o polk o,2025-12-11T03:46:00+00:00,United States,0.6687110005622776,0,2,es,CNA,North-America
 'a7e8b5d526',extremes,Flood,#030ba1,wmo,inundación yakima wa,2025-12-12T03:45:00+00:00,United States,0.6686455994975626,0,2,es,CNA,North-America
@@ -18,13 +20,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '40f47c67f6',extremes,Flood,#030ba1,wmo,inundación repentina perforar wa,2025-12-10T03:45:00+00:00,United States,0.66782928341138,0,2,es,CNA,North-America
 'b4e820ac0f',extremes,Flood,#030ba1,wmo,inundación repentina jardín ne keith ne,2025-12-04T03:42:00+00:00,United States,0.6678115756798552,0,2,es,CNA,North-America
 '0d6443fd8b',extremes,Thunderstorm,#53785a,wmo,clima severo qatar,2025-12-16T03:47:00+00:00,Qatar,0.6677738482840802,0,2,es,ARP,Asia
+'cf6c49ebd3',extremes,Flood,#030ba1,wmo,inundación yakima wa,2025-12-10T03:45:00+00:00,United States,0.6677122254069093,0,2,es,CNA,North-America
 '36c712529e',extremes,Flood,#030ba1,wmo,inundaciones clackamas o multnomah o,2025-12-10T03:45:00+00:00,United States,0.6676845602455191,0,2,es,CNA,North-America
 '1602fa7979',extremes,Flood,#030ba1,wmo,inundación clackamas o multnomah o,2025-12-09T03:41:00+00:00,United States,0.6676520325042447,0,2,es,CNA,North-America
+'071fe3bb43',extremes,Flood,#030ba1,wmo,inundación repentina lewis wa,2025-12-09T03:41:00+00:00,United States,0.6674819180600517,0,2,es,CNA,North-America
 '09c2075ff6',extremes,Flood,#030ba1,wmo,inundación repentina benton o polk o,2025-12-18T03:44:00+00:00,United States,0.6673116880650949,0,2,es,CNA,North-America
 'b775da0237',extremes,Flood,#030ba1,wmo,inundación rey wa,2025-12-09T03:41:00+00:00,United States,0.6672889675009591,0,2,es,CNA,North-America
 '51a9c660ce',extremes,Flood,#030ba1,wmo,inundaciones cowlitz wa,2025-12-13T03:38:00+00:00,United States,0.6672517860136709,0,2,es,CNA,North-America
 'b3a04bec13',extremes,Flood,#030ba1,wmo,inundaciones snohomish wa,2025-12-10T03:45:00+00:00,United States,0.6672389193183536,0,2,es,CNA,North-America
 '04486be4d5',extremes,Flood,#030ba1,wmo,inundación repentina clatsop otilamook o,2025-12-10T03:45:00+00:00,United States,0.6671225925419487,0,2,es,CNA,North-America
+'060066f2cf',extremes,Flood,#030ba1,wmo,inundación lewis wa,2025-12-09T03:41:00+00:00,United States,0.6668233533871096,0,2,es,CNA,North-America
 '06532967b8',extremes,Drought,#edc291,edo,falta de lluvia brasil,2025-12-10T03:45:00+00:00,Brazil,0.666810867768198,0,2,es,SAM,South-America
 '74fb8fe53f',extremes,Storm,#b3b2b1,wmo,marejada ciclónica este de la palma,2025-12-12T03:45:00+00:00,Spain,0.666683302682237,0,2,es,MED,Europe
 'da981f1496',extremes,Flood,#030ba1,wmo,inundación repentina benton wa,2025-12-14T03:49:00+00:00,United States,0.6665605398548874,0,2,es,CNA,North-America
@@ -74,6 +79,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,nieve estados unidos,2025-12-01T04:02:00+00:00,United States,0.6562904995369488,0,2,es,CNA,North-America
 'abb5c22cfe',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa rias baixas,2025-12-02T03:41:00+00:00,Spain,0.6562774157500344,0,2,es,MED,Europe
 '7ec89fdd56',extremes,Earthquake,#870007,usgs,terremoto la esperanza el zapotal,2025-12-04T03:42:00+00:00,Mexico,0.6554925495948354,0,2,es,SCA,North-America
+'518916cb55',extremes,Fog,#d60d2b,wmo,niebla parameras de molina,2025-12-06T03:32:00+00:00,Spain,0.654402288480195,0,2,es,MED,Europe
+'3dd8c66577',extremes,Fog,#d60d2b,wmo,niebla ribera del ebro de navarra,2025-12-11T03:46:00+00:00,Spain,0.6531862340880623,0,2,es,MED,Europe
+'6ef78a80e8',extremes,Drought,#edc291,edo,falta de lluvia méxico,2025-12-10T03:45:00+00:00,Mexico,0.6531624017550438,0,2,es,NCA,North-America
+'4edbdea66a',extremes,Flood,#030ba1,wmo,inundaciones hawaii en hawai hola,2025-12-19T03:46:00+00:00,United States,0.6528745610271768,0,2,es,CNA,North-America
+'e8d558c618',extremes,Flood,#030ba1,wmo,inundación clearwater id idaho id,2025-12-09T03:41:00+00:00,United States,0.6523768440403951,0,2,es,CNA,North-America
 '25902e48eb',extremes,Storm,#b3b2b1,wmo,tormenta territorio nacional.,2025-12-08T03:44:00+00:00,Paraguay,0.6516787595132941,1,2,es,SES,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2025-11-25T03:37:00+00:00,Argentina,0.6505861252804561,1,3,es,SES,South-America
 '56dca2743f',extremes,Drought,#edc291,edo,sequía en guinea ecuatorial,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.647629014402853,1,1,es,WAF,Africa
