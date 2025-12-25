@@ -1,6 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
+'174e70acae',extremes,Thunderstorm,#53785a,wmo,clima severo españa,2025-12-12T03:45:00+00:00,Spain,0.6836685097164805,0,2,es,MED,Europe
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial brasil,2025-11-28T03:34:00+00:00,Brazil,0.6790049312247215,0,2,es,SAM,South-America
 '4ecd68b9d9',extremes,Storm,#b3b2b1,wmo,marejada ciclónica oeste de la palma,2025-12-12T03:45:00+00:00,Spain,0.6775087671006651,0,2,es,MED,Europe
+'68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2025-12-09T03:41:00+00:00,Spain,0.6757392945468979,0,2,es,MED,Europe
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tormenta brasil,2025-12-14T03:49:00+00:00,Brazil,0.6722685497710672,0,2,es,SAM,South-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,inundaciones estados unidos,2025-12-08T03:44:00+00:00,United States,0.6709290507992616,0,2,es,CNA,North-America
 '037bb37761',extremes,Flood,#030ba1,wmo,inundación estados unidos,2025-12-07T03:47:00+00:00,United States,0.6704761022118584,0,2,es,CNA,North-America
@@ -21,6 +24,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1602fa7979',extremes,Flood,#030ba1,wmo,inundación clackamas o multnomah o,2025-12-09T03:41:00+00:00,United States,0.6676520325042447,0,2,es,CNA,North-America
 '071fe3bb43',extremes,Flood,#030ba1,wmo,inundación repentina lewis wa,2025-12-09T03:41:00+00:00,United States,0.6674819180600517,0,2,es,CNA,North-America
 '09c2075ff6',extremes,Flood,#030ba1,wmo,inundación repentina benton o polk o,2025-12-18T03:44:00+00:00,United States,0.6673116880650949,0,2,es,CNA,North-America
+'b775da0237',extremes,Flood,#030ba1,wmo,inundación rey wa,2025-12-09T03:41:00+00:00,United States,0.6672889675009591,0,2,es,CNA,North-America
 '51a9c660ce',extremes,Flood,#030ba1,wmo,inundaciones cowlitz wa,2025-12-13T03:38:00+00:00,United States,0.6672517860136709,0,2,es,CNA,North-America
 'b3a04bec13',extremes,Flood,#030ba1,wmo,inundaciones snohomish wa,2025-12-10T03:45:00+00:00,United States,0.6672389193183536,0,2,es,CNA,North-America
 '04486be4d5',extremes,Flood,#030ba1,wmo,inundación repentina clatsop otilamook o,2025-12-10T03:45:00+00:00,United States,0.6671225925419487,0,2,es,CNA,North-America
@@ -79,8 +83,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6ef78a80e8',extremes,Drought,#edc291,edo,falta de lluvia méxico,2025-12-10T03:45:00+00:00,Mexico,0.6531624017550438,0,2,es,NCA,North-America
 '4edbdea66a',extremes,Flood,#030ba1,wmo,inundaciones hawaii en hawai hola,2025-12-19T03:46:00+00:00,United States,0.6528745610271768,0,2,es,CNA,North-America
 'e8d558c618',extremes,Flood,#030ba1,wmo,inundación clearwater id idaho id,2025-12-09T03:41:00+00:00,United States,0.6523768440403951,0,2,es,CNA,North-America
+'b55290ca0d',extremes,Drought,#edc291,edo,sequía argentina,2025-12-08T03:45:00+00:00,Argentina,0.6519143407528941,0,2,es,SES,South-America
 '25902e48eb',extremes,Storm,#b3b2b1,wmo,tormenta territorio nacional.,2025-12-08T03:44:00+00:00,Paraguay,0.6516787595132941,1,2,es,SES,South-America
+'d18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2025-12-05T03:40:00+00:00,Argentina,0.6515467687342595,0,2,es,SES,South-America
+'d8161a5967',extremes,Flood,#030ba1,wmo,inundación repentina en el este de Bergen,2025-12-19T03:46:00+00:00,United States,0.6513911812146091,0,2,es,CNA,North-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2025-11-25T03:37:00+00:00,Argentina,0.6505861252804561,1,3,es,SES,South-America
+'642448c2be',extremes,Storm,#b3b2b1,wmo,tormenta costa noroeste de a coruña,2025-12-01T04:02:00+00:00,Spain,0.6501059348619226,0,2,es,MED,Europe
+'333baf64d4',extremes,Flood,#030ba1,wmo,inundaciones marquette alger,2025-12-18T03:44:00+00:00,United States,0.6497618621415218,0,2,es,CNA,North-America
+'0f62c5618c',extremes,Storm,#b3b2b1,wmo,marejada ciclónica estados unidos,2025-12-07T03:47:00+00:00,United States,0.6495129471729154,0,2,es,CNA,North-America
 '56dca2743f',extremes,Drought,#edc291,edo,sequía en guinea ecuatorial,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.647629014402853,1,1,es,WAF,Africa
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2025-11-26T03:37:00+00:00,Chile,0.6464645126085959,1,2,es,SWS,South-America
 'c4be795f03',extremes,Drought,#edc291,edo,falta de lluvia guinea ecuatorial,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.6461753040507607,1,1,es,WAF,Africa
