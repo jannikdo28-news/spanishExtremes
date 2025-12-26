@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tormenta brasil,2025-12-14T03:49:00+00:00,Brazil,0.6722685497710672,0,2,es,SAM,South-America
-'d3ea8177c3',extremes,Flood,#030ba1,wmo,inundaciones estados unidos,2025-12-08T03:44:00+00:00,United States,0.6709290507992616,0,2,es,CNA,North-America
 '037bb37761',extremes,Flood,#030ba1,wmo,inundación estados unidos,2025-12-07T03:47:00+00:00,United States,0.6704761022118584,0,2,es,CNA,North-America
 '3a9e626ae6',extremes,Flood,#030ba1,wmo,inundación repentina en tilamook o,2025-12-09T03:41:00+00:00,United States,0.6702957049767079,0,2,es,CNA,North-America
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,incendio forestal estados unidos,2025-12-07T03:46:00+00:00,United States,0.6701207884978138,0,2,es,ENA,North-America
@@ -17,7 +16,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cf6c49ebd3',extremes,Flood,#030ba1,wmo,inundación yakima wa,2025-12-10T03:45:00+00:00,United States,0.6677122254069093,0,2,es,CNA,North-America
 '36c712529e',extremes,Flood,#030ba1,wmo,inundaciones clackamas o multnomah o,2025-12-10T03:45:00+00:00,United States,0.6676845602455191,0,2,es,CNA,North-America
 '1602fa7979',extremes,Flood,#030ba1,wmo,inundación clackamas o multnomah o,2025-12-09T03:41:00+00:00,United States,0.6676520325042447,0,2,es,CNA,North-America
-'071fe3bb43',extremes,Flood,#030ba1,wmo,inundación repentina lewis wa,2025-12-09T03:41:00+00:00,United States,0.6674819180600517,0,2,es,CNA,North-America
 '09c2075ff6',extremes,Flood,#030ba1,wmo,inundación repentina benton o polk o,2025-12-18T03:44:00+00:00,United States,0.6673116880650949,0,2,es,CNA,North-America
 'b775da0237',extremes,Flood,#030ba1,wmo,inundación rey wa,2025-12-09T03:41:00+00:00,United States,0.6672889675009591,0,2,es,CNA,North-America
 '51a9c660ce',extremes,Flood,#030ba1,wmo,inundaciones cowlitz wa,2025-12-13T03:38:00+00:00,United States,0.6672517860136709,0,2,es,CNA,North-America
@@ -175,6 +173,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f9f258435',extremes,Fog,#d60d2b,wmo,niebla vegas del guadiana,2025-12-06T03:32:00+00:00,Spain,0.5781662411488941,1,1,es,MED,Europe
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial brasil,2025-11-28T03:34:00+00:00,Brazil,0.5773042065410132,1,2,es,SAM,South-America
 '4ecd68b9d9',extremes,Storm,#b3b2b1,wmo,marejada ciclónica oeste de la palma,2025-12-12T03:45:00+00:00,Spain,0.5758824520355653,1,1,es,MED,Europe
+'d3ea8177c3',extremes,Flood,#030ba1,wmo,inundaciones estados unidos,2025-12-08T03:44:00+00:00,United States,0.5752411481793723,1,2,es,CNA,North-America
 'eddc59f608',extremes,Snow&Ice,#d60d2b,wmo,heladas españa,2025-12-12T03:45:00+00:00,Spain,0.5742975634650949,1,3,es,MED,Europe
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica brasil,2025-12-14T03:49:00+00:00,Brazil,0.5728181762654803,1,1,es,SAM,South-America
 '070edfe74d',extremes,Fog,#d60d2b,wmo,niebla sur de huesca,2025-12-07T03:47:00+00:00,Spain,0.5723431670220431,1,1,es,MED,Europe
