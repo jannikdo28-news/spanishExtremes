@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
+'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tormenta brasil,2025-12-14T03:49:00+00:00,Brazil,0.6722685497710672,0,2,es,SAM,South-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,inundaciones estados unidos,2025-12-08T03:44:00+00:00,United States,0.6709290507992616,0,2,es,CNA,North-America
 '037bb37761',extremes,Flood,#030ba1,wmo,inundación estados unidos,2025-12-07T03:47:00+00:00,United States,0.6704761022118584,0,2,es,CNA,North-America
 '3a9e626ae6',extremes,Flood,#030ba1,wmo,inundación repentina en tilamook o,2025-12-09T03:41:00+00:00,United States,0.6702957049767079,0,2,es,CNA,North-America
@@ -84,7 +86,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '642448c2be',extremes,Storm,#b3b2b1,wmo,tormenta costa noroeste de a coruña,2025-12-01T04:02:00+00:00,Spain,0.6501059348619226,0,2,es,MED,Europe
 '333baf64d4',extremes,Flood,#030ba1,wmo,inundaciones marquette alger,2025-12-18T03:44:00+00:00,United States,0.6497618621415218,0,2,es,CNA,North-America
 '0f62c5618c',extremes,Storm,#b3b2b1,wmo,marejada ciclónica estados unidos,2025-12-07T03:47:00+00:00,United States,0.6495129471729154,0,2,es,CNA,North-America
+'531f521f39',extremes,Snow&Ice,#d60d2b,wmo,heladas estados unidos,2025-12-09T03:41:00+00:00,United States,0.6492567402388163,0,2,es,CNA,North-America
+'1327c453bc',extremes,Precipitation,#d60d2b,wmo,precipitación españa,2025-12-01T04:02:00+00:00,Spain,0.6492528821029029,0,2,es,MED,Europe
+'ea58233d00',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa norte de gran canaria,2025-12-13T03:38:00+00:00,Spain,0.649205531736455,0,2,es,MED,Europe
+'67bd93f326',extremes,Earthquake,#870007,usgs,terremoto el morro,2025-12-05T03:40:00+00:00,Mexico,0.6490845500319602,0,2,es,SCA,North-America
+'779ddd5d81',extremes,Thunderstorm,#53785a,wmo,tiempo severo este sur y oeste de gran canaria,2025-12-13T03:38:00+00:00,Spain,0.6489930390842964,0,2,es,MED,Europe
+'e1736dd734',extremes,Earthquake,#870007,usgs,terremoto el rosario,2025-12-01T04:02:00+00:00,El Salvador,0.6483395392581965,0,2,es,SCA,North-America
 '56dca2743f',extremes,Drought,#edc291,edo,sequía en guinea ecuatorial,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.647629014402853,1,1,es,WAF,Africa
+'331f9db5d5',extremes,Snow&Ice,#d60d2b,wmo,hielo españa,2025-12-13T03:38:00+00:00,Spain,0.6474671140530659,0,2,es,MED,Europe
+'48a5be945f',extremes,Flood,#030ba1,wmo,inundación de la cuenca baja de columbia en washington,2025-12-19T03:46:00+00:00,United States,0.6473389819210021,0,2,es,CNA,North-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2025-11-26T03:37:00+00:00,Chile,0.6464645126085959,1,2,es,SWS,South-America
 'c4be795f03',extremes,Drought,#edc291,edo,falta de lluvia guinea ecuatorial,2025-12-10T03:45:00+00:00,Equatorial Guinea,0.6461753040507607,1,1,es,WAF,Africa
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2025-11-24T03:46:00+00:00,Argentina,0.6461742602696435,1,2,es,SES,South-America
