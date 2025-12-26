@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tormenta brasil,2025-12-14T03:49:00+00:00,Brazil,0.6722685497710672,0,2,es,SAM,South-America
 '3a9e626ae6',extremes,Flood,#030ba1,wmo,inundación repentina hasta tilamook o,2025-12-09T03:41:00+00:00,United States,0.6702957049767079,0,2,es,CNA,North-America
 '331dc2fd4a',extremes,Thunderstorm,#53785a,wmo,tormenta españa,2025-11-30T03:46:00+00:00,Spain,0.668368991053163,0,2,es,MED,Europe
