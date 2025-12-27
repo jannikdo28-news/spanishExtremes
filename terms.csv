@@ -1,7 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2025-12-16T03:47:00+00:00,Qatar,0.6664942449514816,0,2,es,ARP,Asia
-'73742b91aa',extremes,Flood,#030ba1,wmo,inundaciones kittitas wa,2025-12-10T03:45:00+00:00,United States,0.6661907492339264,0,2,es,CNA,North-America
-'02dc9a1088',extremes,Flood,#030ba1,wmo,inundación repentina benton o,2025-12-19T03:46:00+00:00,United States,0.6655850658494092,0,2,es,CNA,North-America
 '86e72ff688',extremes,Flood,#030ba1,wmo,inundaciones lewis wa,2025-12-09T03:41:00+00:00,United States,0.665498672539393,1,1,es,CNA,North-America
 '8792d4e099',extremes,Flood,#030ba1,wmo,inundación kittitas wa,2025-12-09T03:41:00+00:00,United States,0.6648474503222449,0,2,es,CNA,North-America
 '5e0c447e93',extremes,Flood,#030ba1,wmo,inundación repentina chelan wa,2025-12-16T03:47:00+00:00,United States,0.664831521806487,0,2,es,CNA,North-America
@@ -13,9 +10,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b657d1aec',extremes,Flood,#030ba1,wmo,inundación de la costa del condado del puerto de Grays,2025-12-06T03:32:00+00:00,United States,0.6628947485976259,0,2,es,CNA,North-America
 'acb64f8584',extremes,Flood,#030ba1,wmo,inundación wahkiakum wa,2025-12-08T03:44:00+00:00,United States,0.662494306278737,0,2,es,CNA,North-America
 '276eca33cd',extremes,Flood,#030ba1,wmo,rey de la inundación repentina wa pierce wa,2025-12-15T03:54:00+00:00,United States,0.6624420172129124,0,2,es,CNA,North-America
-'784121ab4b',extremes,Fog,#d60d2b,wmo,niebla valle del guadiana,2025-12-18T03:44:00+00:00,Spain,0.6621131106026603,0,2,es,MED,Europe
 '2d125d122b',extremes,Flood,#030ba1,wmo,inundación repentina mineral mt,2025-12-09T03:41:00+00:00,United States,0.6620493699492754,0,2,es,CNA,North-America
-'6be0c66131',extremes,Flood,#030ba1,wmo,inundación repentina linn o marion o,2025-12-19T03:46:00+00:00,United States,0.6609762890041506,1,1,es,CNA,North-America
 'f01d6af0d4',extremes,Flood,#030ba1,wmo,inundación de la cuenca baja de columbia de washington,2025-12-18T03:44:00+00:00,United States,0.6604848448176386,0,2,es,CNA,North-America
 '09eac01848',extremes,Flood,#030ba1,wmo,inundación linn o marion o,2025-12-19T03:46:00+00:00,United States,0.6599306576975301,0,2,es,CNA,North-America
 '2b6ea8c56f',extremes,Flood,#030ba1,wmo,inundación whatcom wa,2025-12-11T03:46:00+00:00,United States,0.6598754667749862,0,2,es,CNA,North-America
@@ -28,7 +23,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,nieve estados unidos,2025-12-01T04:02:00+00:00,United States,0.6562904995369488,0,2,es,CNA,North-America
 'abb5c22cfe',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa rias baixas,2025-12-02T03:41:00+00:00,Spain,0.6562774157500344,0,2,es,MED,Europe
 '7ec89fdd56',extremes,Earthquake,#870007,usgs,terremoto la esperanza el zapotal,2025-12-04T03:42:00+00:00,Mexico,0.6554925495948354,0,2,es,SCA,North-America
-'518916cb55',extremes,Fog,#d60d2b,wmo,niebla parameras de molina,2025-12-06T03:32:00+00:00,Spain,0.654402288480195,0,2,es,MED,Europe
 '3dd8c66577',extremes,Fog,#d60d2b,wmo,niebla ribera del ebro de navarra,2025-12-11T03:46:00+00:00,Spain,0.6531862340880623,0,2,es,MED,Europe
 '6ef78a80e8',extremes,Drought,#edc291,edo,falta de lluvia méxico,2025-12-10T03:45:00+00:00,Mexico,0.6531624017550438,0,2,es,NCA,North-America
 '4edbdea66a',extremes,Flood,#030ba1,wmo,inundaciones hawaii en hawai hola,2025-12-19T03:46:00+00:00,United States,0.6528745610271768,0,2,es,CNA,North-America
@@ -184,8 +178,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'da981f1496',extremes,Flood,#030ba1,wmo,inundación repentina benton wa,2025-12-14T03:49:00+00:00,United States,0.5665764588766543,1,1,es,CNA,North-America
 'f2a3d69edc',extremes,Earthquake,#870007,usgs,terremoto puerto san josé,2025-12-14T03:49:00+00:00,Guatemala,0.5663163213086901,1,2,es,SCA,North-America
 'b74cc3ed00',extremes,Flood,#030ba1,wmo,inundación repentina mason wa,2025-12-19T03:46:00+00:00,United States,0.5663002428871564,1,1,es,CNA,North-America
+'73742b91aa',extremes,Flood,#030ba1,wmo,inundaciones kittitas wa,2025-12-10T03:45:00+00:00,United States,0.5662621368488374,1,1,es,CNA,North-America
 '5b0167421c',extremes,Flood,#030ba1,wmo,inundación repentina grises puerto wa,2025-12-10T03:45:00+00:00,United States,0.5662166191792676,1,1,es,CNA,North-America
 'ae78869002',extremes,Flood,#030ba1,wmo,inundación snohomish wa,2025-12-11T03:46:00+00:00,United States,0.5662070357525105,1,1,es,CNA,North-America
+'02dc9a1088',extremes,Flood,#030ba1,wmo,inundación repentina benton o,2025-12-19T03:46:00+00:00,United States,0.5657473059719978,1,1,es,CNA,North-America
 'b6e71763d0',extremes,Flood,#030ba1,wmo,inundación repentina wahkiakum wa,2025-12-19T03:46:00+00:00,United States,0.565672745266047,1,1,es,CNA,North-America
 'a349721359',extremes,Flood,#030ba1,wmo,inundación repentina kootenai id shoshone id,2025-12-12T03:45:00+00:00,United States,0.5655323882858302,1,1,es,CNA,North-America
 '19966e8a82',extremes,Flood,#030ba1,wmo,inundación skagit wa,2025-12-11T03:46:00+00:00,United States,0.5648906928516453,1,1,es,CNA,North-America
@@ -195,10 +191,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '64393be751',extremes,Drought,#edc291,edo,sequía ecuador,2025-11-30T03:47:00+00:00,Ecuador,0.5637444239599408,1,1,es,EPO,Pacific Ocean
 '0bcfb9c197',extremes,Flood,#030ba1,wmo,inundación repentina en washington o,2025-12-19T03:46:00+00:00,United States,0.5635764329582421,1,1,es,CNA,North-America
 '53dadb7e4e',extremes,Flood,#030ba1,wmo,inundación perforar wa,2025-12-09T03:41:00+00:00,United States,0.5633739760539422,1,1,es,CNA,North-America
+'784121ab4b',extremes,Fog,#d60d2b,wmo,niebla valle del guadiana,2025-12-18T03:44:00+00:00,Spain,0.5632461890122613,1,2,es,MED,Europe
 'f4291ebc8d',extremes,Flood,#030ba1,wmo,inundación majuro,2025-12-05T03:41:00+00:00,United States,0.562638286534784,1,1,es,CNA,North-America
+'6be0c66131',extremes,Flood,#030ba1,wmo,inundación repentina linn o marion o,2025-12-19T03:46:00+00:00,United States,0.561829845653528,2,1,es,CNA,North-America
 '4d61ebcdfd',extremes,Flood,#030ba1,wmo,inundaciones grises puerto wa,2025-12-11T03:46:00+00:00,United States,0.5598466513319762,1,1,es,CNA,North-America
 '95d50a2dd4',extremes,Flood,#030ba1,wmo,inundación del valle de yakima,2025-12-16T03:47:00+00:00,United States,0.5591232988467008,1,1,es,CNA,North-America
 'fa1579cf47',extremes,Flood,#030ba1,wmo,identificación de agua clara de inundación repentina,2025-12-11T03:46:00+00:00,United States,0.5586126299486429,1,1,es,CNA,North-America
+'518916cb55',extremes,Fog,#d60d2b,wmo,niebla parameras de molina,2025-12-06T03:32:00+00:00,Spain,0.5562419602081657,1,1,es,MED,Europe
 'e8d558c618',extremes,Flood,#030ba1,wmo,inundación clearwater id idaho id,2025-12-09T03:41:00+00:00,United States,0.5545203174343358,1,1,es,CNA,North-America
 '5808ad2034',extremes,Earthquake,#870007,usgs,terremoto josé maría morelos,2025-12-06T03:32:00+00:00,Mexico,0.5339990004340152,2,1,es,NCA,North-America
 '0335b20cbc',extremes,Storm,#b3b2b1,wmo,marejada ciclónica reg. 15 cordillera,2025-12-16T03:47:00+00:00,Chile,0.5314811496885204,2,1,es,SWS,South-America
