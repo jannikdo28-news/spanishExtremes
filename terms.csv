@@ -1,4 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
+'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tormenta brasil,2025-12-14T03:49:00+00:00,Brazil,0.6722685497710672,0,2,es,SAM,South-America
+'51a9c660ce',extremes,Flood,#030ba1,wmo,inundaciones cowlitz wa,2025-12-13T03:38:00+00:00,United States,0.6672517860136709,0,2,es,CNA,North-America
+'b3a04bec13',extremes,Flood,#030ba1,wmo,inundaciones snohomish wa,2025-12-10T03:45:00+00:00,United States,0.6672389193183536,0,2,es,CNA,North-America
+'060066f2cf',extremes,Flood,#030ba1,wmo,inundación lewis wa,2025-12-09T03:41:00+00:00,United States,0.6668233533871096,0,2,es,CNA,North-America
+'6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2025-12-16T03:47:00+00:00,Qatar,0.6664942449514816,0,2,es,ARP,Asia
 '86e72ff688',extremes,Flood,#030ba1,wmo,inundaciones lewis wa,2025-12-09T03:41:00+00:00,United States,0.665498672539393,1,1,es,CNA,North-America
 '8792d4e099',extremes,Flood,#030ba1,wmo,inundación kittitas wa,2025-12-09T03:41:00+00:00,United States,0.6648474503222449,0,2,es,CNA,North-America
 '5e0c447e93',extremes,Flood,#030ba1,wmo,inundación repentina chelan wa,2025-12-16T03:47:00+00:00,United States,0.664831521806487,0,2,es,CNA,North-America
@@ -7,6 +13,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '01038989c1',extremes,Flood,#030ba1,wmo,inundaciones chelan wa,2025-12-08T03:44:00+00:00,United States,0.6638084763611373,0,2,es,CNA,North-America
 '00c846cb84',extremes,Flood,#030ba1,wmo,inundación chelan wa okanogan wa,2025-12-11T03:46:00+00:00,United States,0.6635740355491717,0,2,es,CNA,North-America
 '7385efc9e1',extremes,Drought,#edc291,edo,falta de lluvia peru,2025-12-01T04:02:00+00:00,Peru,0.6635332445081895,0,2,es,NWS,South-America
+'4d738c4938',extremes,Flood,#030ba1,wmo,inundación pacífico wa wahkiakum wa,2025-12-09T03:41:00+00:00,United States,0.6629566261651229,0,2,es,CNA,North-America
 '5b657d1aec',extremes,Flood,#030ba1,wmo,inundación de la costa del condado del puerto de Grays,2025-12-06T03:32:00+00:00,United States,0.6628947485976259,0,2,es,CNA,North-America
 'acb64f8584',extremes,Flood,#030ba1,wmo,inundación wahkiakum wa,2025-12-08T03:44:00+00:00,United States,0.662494306278737,0,2,es,CNA,North-America
 '276eca33cd',extremes,Flood,#030ba1,wmo,rey de la inundación repentina wa pierce wa,2025-12-15T03:54:00+00:00,United States,0.6624420172129124,0,2,es,CNA,North-America
@@ -64,6 +71,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b1448de486',extremes,Storm,#b3b2b1,wmo,tormenta la gomera,2025-12-14T03:49:00+00:00,Spain,0.6424734789149005,0,2,es,MED,Europe
 '466e2a51f6',extremes,Storm,#b3b2b1,wmo,marejada ciclónica cumbres de la palma,2025-12-13T03:38:00+00:00,Spain,0.6422828895628651,0,2,es,MED,Europe
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,estados unidos helados,2025-12-05T03:41:00+00:00,United States,0.641865348472096,0,2,es,CNA,North-America
+'d072ebb68e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa bizkaia litoral,2025-12-04T03:42:00+00:00,Spain,0.6418428871856562,0,2,es,MED,Europe
+'a247a43cd7',extremes,Snow&Ice,#d60d2b,wmo,avalancha norte de tenerife,2025-12-14T03:49:00+00:00,Spain,0.6417838474503554,0,2,es,MED,Europe
+'17abcf3665',extremes,Storm,#b3b2b1,wmo,tormenta costa suroeste de a coruña,2025-12-02T03:41:00+00:00,Spain,0.6417542467379094,0,2,es,MED,Europe
 '88f49d6040',extremes,Storm,#b3b2b1,wmo,tormenta zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.6416598528824323,1,3,es,NWS,South-America
 'be4e178bab',extremes,Storm,#b3b2b1,wmo,marejada ciclónica uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.6413747415803478,1,1,es,SES,South-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2025-12-02T03:41:00+00:00,Paraguay,0.6411669211754978,1,1,es,SES,South-America
