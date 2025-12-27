@@ -1,4 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
+'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tormenta brasil,2025-12-14T03:49:00+00:00,Brazil,0.6722685497710672,0,2,es,SAM,South-America
+'3a9e626ae6',extremes,Flood,#030ba1,wmo,inundación repentina hasta tilamook o,2025-12-09T03:41:00+00:00,United States,0.6702957049767079,0,2,es,CNA,North-America
 '232c35e7b5',extremes,Flood,#030ba1,wmo,inundación repentina skagit wa,2025-12-10T03:45:00+00:00,United States,0.6683658968530132,0,2,es,CNA,North-America
 '4bbcd1d583',extremes,Flood,#030ba1,wmo,inundación rey wa pierce wa,2025-12-10T03:45:00+00:00,United States,0.6680474041210516,0,2,es,CNA,North-America
 '40f47c67f6',extremes,Flood,#030ba1,wmo,inundación repentina perforar wa,2025-12-10T03:45:00+00:00,United States,0.66782928341138,0,2,es,CNA,North-America
@@ -82,8 +85,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2025-11-23T03:46:00+00:00,Argentina,0.645327917066698,1,2,es,SES,South-America
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,tormenta uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.6449308434144384,1,2,es,SES,South-America
 '5359a514f9',extremes,Storm,#b3b2b1,wmo,marejada ciclónica interior sur de valencia,2025-12-04T03:42:00+00:00,Spain,0.6444247397707448,0,2,es,MED,Europe
+'f200ff28aa',extremes,Earthquake,#870007,usgs,terremoto estados unidos,2025-12-09T03:40:00+00:00,United States,0.6437388012934138,0,2,es,NWN,North-America
+'c459c88eba',extremes,Snow&Ice,#d60d2b,wmo,españa helada,2025-12-12T03:45:00+00:00,Spain,0.6435760808200305,0,2,es,MED,Europe
+'2e97281900',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa oeste de a coruña,2025-11-30T03:46:00+00:00,Spain,0.6433922680289946,0,2,es,MED,Europe
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,tormenta litoral,2025-12-19T03:46:00+00:00,Ecuador,0.6431077304600864,1,2,es,NWS,South-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2025-12-01T04:02:00+00:00,Argentina,0.6429884182508526,1,2,es,SES,South-America
+'4fd45c9dac',extremes,Storm,#b3b2b1,wmo,tormenta el hierro,2025-12-11T03:46:00+00:00,Spain,0.6425734356591777,0,2,es,MED,Europe
+'b1448de486',extremes,Storm,#b3b2b1,wmo,tormenta la gomera,2025-12-14T03:49:00+00:00,Spain,0.6424734789149005,0,2,es,MED,Europe
+'466e2a51f6',extremes,Storm,#b3b2b1,wmo,marejada ciclónica cumbres de la palma,2025-12-13T03:38:00+00:00,Spain,0.6422828895628651,0,2,es,MED,Europe
+'5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,estados unidos helados,2025-12-05T03:41:00+00:00,United States,0.641865348472096,0,2,es,CNA,North-America
 '88f49d6040',extremes,Storm,#b3b2b1,wmo,tormenta zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.6416598528824323,1,3,es,NWS,South-America
 'be4e178bab',extremes,Storm,#b3b2b1,wmo,marejada ciclónica uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.6413747415803478,1,1,es,SES,South-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2025-12-02T03:41:00+00:00,Paraguay,0.6411669211754978,1,1,es,SES,South-America
