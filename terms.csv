@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'56dca2743f',extremes,Drought,#edc291,edo,sequía en guinea ecuatorial,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.7619164875327683,0,2,es,WAF,Africa
 '7385efc9e1',extremes,Drought,#edc291,edo,falta de lluvia peru,2025-12-01T04:02:00+00:00,Peru,0.6635332445081895,0,2,es,NWS,South-America
 'acb64f8584',extremes,Flood,#030ba1,wmo,inundación wahkiakum wa,2025-12-08T03:44:00+00:00,United States,0.662494306278737,1,1,es,CNA,North-America
 '276eca33cd',extremes,Flood,#030ba1,wmo,rey de la inundación repentina wa pierce wa,2025-12-15T03:54:00+00:00,United States,0.6624420172129124,1,1,es,CNA,North-America
@@ -17,7 +16,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '642448c2be',extremes,Storm,#b3b2b1,wmo,tormenta costa noroeste de a coruña,2025-12-01T04:02:00+00:00,Spain,0.6501059348619226,0,2,es,MED,Europe
 '333baf64d4',extremes,Flood,#030ba1,wmo,inundaciones marquette alger,2025-12-18T03:44:00+00:00,United States,0.6497618621415218,1,1,es,CNA,North-America
 '0f62c5618c',extremes,Storm,#b3b2b1,wmo,marejada ciclónica estados unidos,2025-12-07T03:47:00+00:00,United States,0.6495129471729154,0,2,es,CNA,North-America
-'531f521f39',extremes,Snow&Ice,#d60d2b,wmo,heladas estados unidos,2025-12-09T03:41:00+00:00,United States,0.6492567402388163,0,2,es,CNA,North-America
 '1327c453bc',extremes,Precipitation,#d60d2b,wmo,precipitación españa,2025-12-01T04:02:00+00:00,Spain,0.6492528821029029,0,2,es,MED,Europe
 'e1736dd734',extremes,Earthquake,#870007,usgs,terremoto el rosario,2025-12-01T04:02:00+00:00,El Salvador,0.6483395392581965,0,2,es,SCA,North-America
 '48a5be945f',extremes,Flood,#030ba1,wmo,inundación de la cuenca baja de columbia en washington,2025-12-19T03:46:00+00:00,United States,0.6473389819210021,0,2,es,CNA,North-America
@@ -206,6 +204,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e9380bba5b',extremes,Thunderstorm,#53785a,wmo,granizo norte de gran canaria,2025-12-14T03:49:00+00:00,Spain,0.5583210603136523,1,1,es,MED,Europe
 'abb5c22cfe',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa rias baixas,2025-12-02T03:41:00+00:00,Spain,0.5578358033875292,1,1,es,MED,Europe
 '7ec89fdd56',extremes,Earthquake,#870007,usgs,terremoto la esperanza el zapotal,2025-12-04T03:42:00+00:00,Mexico,0.5571686671556101,1,1,es,SCA,North-America
+'531f521f39',extremes,Snow&Ice,#d60d2b,wmo,heladas estados unidos,2025-12-09T03:41:00+00:00,United States,0.5568187692029938,1,2,es,CNA,North-America
 '518916cb55',extremes,Fog,#d60d2b,wmo,niebla parameras de molina,2025-12-06T03:32:00+00:00,Spain,0.5562419602081657,1,1,es,MED,Europe
 '331f9db5d5',extremes,Snow&Ice,#d60d2b,wmo,hielo españa,2025-12-13T03:38:00+00:00,Spain,0.555300661945106,1,3,es,MED,Europe
 '4edbdea66a',extremes,Flood,#030ba1,wmo,inundaciones hawaii en hawai hola,2025-12-19T03:46:00+00:00,United States,0.5549433768731002,1,1,es,CNA,North-America
