@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'09eac01848',extremes,Flood,#030ba1,wmo,inundación linn o marion o,2025-12-19T03:46:00+00:00,United States,0.6599306576975301,0,2,es,CNA,North-America
 '2b6ea8c56f',extremes,Flood,#030ba1,wmo,inundación whatcom wa,2025-12-11T03:46:00+00:00,United States,0.6598754667749862,0,2,es,CNA,North-America
 '721b7d6185',extremes,Drought,#edc291,edo,sequía estados unidos,2025-12-01T04:02:00+00:00,United States,0.6584068369331497,0,2,es,WCE,Europe
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2025-12-14T03:49:00+00:00,United States,0.6572622590963973,0,2,es,CNA,North-America
@@ -48,7 +47,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ee23d47ac0',extremes,Heat Wave,#c40202,wmo,ola de calor rio cuarto y alrededores,2025-12-07T03:47:00+00:00,Argentina,0.6380743868741464,1,1,es,SES,South-America
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitación litoral,2025-12-18T03:44:00+00:00,Ecuador,0.6380349226580154,1,2,es,NWS,South-America
 '41c95e6b02',extremes,Storm,#b3b2b1,wmo,tormenta costa oeste de a coruña,2025-11-30T03:46:00+00:00,Spain,0.6379495733164972,0,2,es,MED,Europe
-'04f9463542',extremes,Snow&Ice,#d60d2b,wmo,avalancha estados unidos,2025-12-10T03:45:00+00:00,United States,0.6377990236638166,0,2,es,CNA,North-America
 '6035bf1ea4',extremes,Drought,#edc291,wmo,sequía desde la bahía de maumee hasta la playa de reno oh,2025-11-30T03:46:00+00:00,United States,0.6377801966117239,0,2,es,CNA,North-America
 '4a0800597c',extremes,Storm,#b3b2b1,wmo,tormenta costa a mariña,2025-12-01T04:02:00+00:00,Spain,0.637583603936616,0,2,es,MED,Europe
 '8744ccb432',extremes,Storm,#b3b2b1,wmo,tormenta la rioja la rioja.,2025-12-06T03:32:00+00:00,Argentina,0.6371421091164013,1,2,es,SES,South-America
@@ -225,6 +223,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '67bd93f326',extremes,Earthquake,#870007,usgs,terremoto el morro,2025-12-05T03:40:00+00:00,Mexico,0.5517218675271661,1,1,es,SCA,North-America
 '779ddd5d81',extremes,Thunderstorm,#53785a,wmo,tiempo severo este sur y oeste de gran canaria,2025-12-13T03:38:00+00:00,Spain,0.5516440832216519,1,1,es,MED,Europe
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,tormenta litoral,2025-12-19T03:46:00+00:00,Ecuador,0.5515925308910734,2,2,es,NWS,South-America
+'04f9463542',extremes,Snow&Ice,#d60d2b,wmo,avalancha estados unidos,2025-12-10T03:45:00+00:00,United States,0.5470804001142441,1,3,es,CNA,North-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2025-12-01T04:02:00+00:00,Argentina,0.5465403355132248,2,1,es,SES,South-America
 '466e2a51f6',extremes,Storm,#b3b2b1,wmo,marejada ciclónica cumbres de la palma,2025-12-13T03:38:00+00:00,Spain,0.5459404561284353,1,1,es,MED,Europe
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,marejada ciclónica argentina,2025-11-23T03:46:00+00:00,Argentina,0.5444930903002194,2,1,es,SES,South-America
@@ -243,4 +242,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f1ffcdc5d3',extremes,Flood,#030ba1,wmo,rey de la inundación wa,2025-12-10T03:45:00+00:00,United States,0.4834812052258368,2,1,es,CNA,North-America
 '36c712529e',extremes,Flood,#030ba1,wmo,inundaciones clackamas o multnomah o,2025-12-10T03:45:00+00:00,United States,0.4824020947773875,2,1,es,CNA,North-America
 'da529b3ec8',extremes,Flood,#030ba1,wmo,inundación repentina kittitas wa,2025-12-15T03:54:00+00:00,United States,0.480142960878073,2,1,es,CNA,North-America
-'1327c453bc',extremes,Precipitation,#d60d2b,wmo,precipitación españa,2025-12-01T04:02:00+00:00,Spain,0.47403612306934734,2,2,es,MED,Europe
+'1327c453bc',extremes,Precipitation,#d60d2b,wmo,precipitación españa,2025-12-01T04:02:00+00:00,Spain,0.4740361230693473,2,2,es,MED,Europe
