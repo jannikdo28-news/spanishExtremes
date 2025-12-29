@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
+'56dca2743f',extremes,Drought,#edc291,edo,sequía en guinea ecuatorial,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.7619164875327683,0,2,es,WAF,Africa
 '276eca33cd',extremes,Flood,#030ba1,wmo,rey de la inundación repentina wa pierce wa,2025-12-15T03:54:00+00:00,United States,0.6624420172129124,1,1,es,CNA,North-America
 '2d125d122b',extremes,Flood,#030ba1,wmo,inundación repentina mineral mt,2025-12-09T03:41:00+00:00,United States,0.6620493699492754,0,2,es,CNA,North-America
 'f01d6af0d4',extremes,Flood,#030ba1,wmo,inundación de la cuenca baja de columbia de washington,2025-12-18T03:44:00+00:00,United States,0.6604848448176386,0,2,es,CNA,North-America
@@ -13,6 +15,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2025-11-25T03:37:00+00:00,Argentina,0.6505861252804561,1,3,es,SES,South-America
 '642448c2be',extremes,Storm,#b3b2b1,wmo,tormenta costa noroeste de a coruña,2025-12-01T04:02:00+00:00,Spain,0.6501059348619226,0,2,es,MED,Europe
 '333baf64d4',extremes,Flood,#030ba1,wmo,inundaciones marquette alger,2025-12-18T03:44:00+00:00,United States,0.6497618621415218,1,1,es,CNA,North-America
+'1327c453bc',extremes,Precipitation,#d60d2b,wmo,precipitación españa,2025-12-01T04:02:00+00:00,Spain,0.6492528821029029,0,2,es,MED,Europe
 'e1736dd734',extremes,Earthquake,#870007,usgs,terremoto el rosario,2025-12-01T04:02:00+00:00,El Salvador,0.6483395392581965,0,2,es,SCA,North-America
 '48a5be945f',extremes,Flood,#030ba1,wmo,inundación de la cuenca baja de columbia en washington,2025-12-19T03:46:00+00:00,United States,0.6473389819210021,0,2,es,CNA,North-America
 '19e427569b',extremes,Drought,#edc291,edo,sequía en uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.6469691400976707,0,2,es,SES,South-America
@@ -72,9 +75,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd709206c08',extremes,Storm,#b3b2b1,wmo,tormenta reg. 15 cordillera,2025-12-18T03:44:00+00:00,Chile,0.6344028711762509,1,1,es,SWS,South-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2025-12-07T03:46:00+00:00,Chile,0.6337197942938055,1,2,es,SWS,South-America
 '3967ab9290',extremes,Storm,#b3b2b1,wmo,marejada ciclónica valdez se estrecha,2025-12-11T03:46:00+00:00,United States,0.6336838894096728,0,2,es,CNA,North-America
+'793f85da70',extremes,Storm,#b3b2b1,wmo,marejada ciclónica interior de alicante,2025-12-04T03:42:00+00:00,Spain,0.6332411109902807,0,2,es,MED,Europe
 'a16de3dc21',extremes,Earthquake,#870007,usgs,terremoto mene grande,2025-12-03T03:40:00+00:00,Venezuela,0.6331616478445199,1,1,es,NSA,South-America
 '57401e749f',extremes,Storm,#b3b2b1,wmo,tormenta reg. 11 patagonia subandina norte,2025-12-16T03:47:00+00:00,Chile,0.6329586591031111,1,1,es,SWS,South-America
 'fa77cf1f9e',extremes,Storm,#b3b2b1,wmo,tormenta mendoza gral alvear malargue.,2025-12-04T03:42:00+00:00,Argentina,0.6326314482478258,1,1,es,SES,South-America
+'e89f635d08',extremes,Storm,#b3b2b1,wmo,marejada ciclónica interior sur de castellón,2025-12-14T03:49:00+00:00,Spain,0.6323993541801566,0,2,es,MED,Europe
+'22745518a1',extremes,Fog,#d60d2b,wmo,niebla central del condado de siskiyou,2025-12-12T03:45:00+00:00,United States,0.6322958501101198,0,2,es,CNA,North-America
+'e18a68b82b',extremes,Storm,#b3b2b1,wmo,tormenta costa la gomera,2025-12-12T03:45:00+00:00,Spain,0.6320114656801364,0,2,es,MED,Europe
+'68c47e3afd',extremes,Storm,#b3b2b1,wmo,tormenta al norte y oeste de la isla nunivak,2025-11-30T03:46:00+00:00,United States,0.6319969005044559,0,2,es,CNA,North-America
+'b152240858',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa noroeste de a coruña,2025-12-01T04:02:00+00:00,Spain,0.6318128253664402,0,2,es,MED,Europe
+'26dc110943',extremes,Drought,#edc291,edo,falta de lluvia nicaragua,2025-12-07T03:47:00+00:00,Nicaragua,0.6317640429487812,0,2,es,SCA,North-America
 '2f51d04c0e',extremes,Fog,#d60d2b,wmo,niebla españa,2025-12-03T03:40:00+00:00,Spain,0.6311088415870383,1,2,es,MED,Europe
 'a6e9427fb1',extremes,Earthquake,#870007,usgs,terremoto colombia,2025-12-12T03:45:00+00:00,Colombia,0.631069486311203,1,2,es,NWS,South-America
 'e3449c4e60',extremes,Earthquake,#870007,usgs,terremoto de atocha,2025-12-01T04:02:00+00:00,Bolivia,0.6306964297527461,1,1,es,SWS,South-America
