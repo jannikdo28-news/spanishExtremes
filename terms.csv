@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,marejada ciclónica argentina,2025-12-14T03:49:00+00:00,Argentina,0.7468161017074275,0,2,es,SES,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2025-12-14T03:49:00+00:00,Argentina,0.7466730725678932,0,2,es,SES,South-America
 '09eac01848',extremes,Flood,#030ba1,wmo,inundación linn o marion o,2025-12-19T03:46:00+00:00,United States,0.6599306576975301,0,2,es,CNA,North-America
