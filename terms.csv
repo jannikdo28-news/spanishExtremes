@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
-'56dca2743f',extremes,Drought,#edc291,edo,sequía en guinea ecuatorial,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.7619164875327683,0,2,es,WAF,Africa
 '09eac01848',extremes,Flood,#030ba1,wmo,inundación linn o marion o,2025-12-19T03:46:00+00:00,United States,0.6599306576975301,0,2,es,CNA,North-America
 '2b6ea8c56f',extremes,Flood,#030ba1,wmo,inundación whatcom wa,2025-12-11T03:46:00+00:00,United States,0.6598754667749862,0,2,es,CNA,North-America
 '721b7d6185',extremes,Drought,#edc291,edo,sequía estados unidos,2025-12-01T04:02:00+00:00,United States,0.6584068369331497,0,2,es,WCE,Europe
@@ -13,8 +11,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '642448c2be',extremes,Storm,#b3b2b1,wmo,tormenta costa noroeste de a coruña,2025-12-01T04:02:00+00:00,Spain,0.6501059348619226,0,2,es,MED,Europe
 '333baf64d4',extremes,Flood,#030ba1,wmo,inundaciones marquette alger,2025-12-18T03:44:00+00:00,United States,0.6497618621415218,1,1,es,CNA,North-America
 'e1736dd734',extremes,Earthquake,#870007,usgs,terremoto el rosario,2025-12-01T04:02:00+00:00,El Salvador,0.6483395392581965,0,2,es,SCA,North-America
+'56dca2743f',extremes,Drought,#edc291,edo,sequía en guinea ecuatorial,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.647629014402853,1,1,es,WAF,Africa
 '48a5be945f',extremes,Flood,#030ba1,wmo,inundación de la cuenca baja de columbia en washington,2025-12-19T03:46:00+00:00,United States,0.6473389819210021,0,2,es,CNA,North-America
-'19e427569b',extremes,Drought,#edc291,edo,sequía en uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.6469691400976707,0,2,es,SES,South-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2025-11-26T03:37:00+00:00,Chile,0.6464645126085959,1,2,es,SWS,South-America
 'a47a12323a',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa oeste de la palma,2025-12-11T03:46:00+00:00,Spain,0.6463257795238844,1,1,es,MED,Europe
 'd5edd2afe3',extremes,Storm,#b3b2b1,wmo,tormenta costa litoral oriental asturiano,2025-12-01T04:02:00+00:00,Spain,0.6462670470276443,0,2,es,MED,Europe
@@ -40,7 +38,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2025-12-02T03:41:00+00:00,Paraguay,0.6411669211754978,1,1,es,SES,South-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2025-11-24T03:46:00+00:00,Argentina,0.6410163106370576,1,1,es,SES,South-America
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2025-12-04T03:42:00+00:00,Chile,0.6405308047371323,1,1,es,SWS,South-America
-'0f045e33e1',extremes,Storm,#b3b2b1,wmo,marejada ciclónica reg. 4 cordilleras,2025-12-04T03:42:00+00:00,Chile,0.6403186558457756,1,1,es,SWS,South-America
 '8be002d270',extremes,Drought,#edc291,edo,falta de lluvias venezuela,2025-12-02T03:41:00+00:00,Venezuela,0.6402285381066207,1,2,es,NSA,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paraguay,2025-11-30T03:46:00+00:00,Paraguay,0.639894558412418,1,1,es,SES,South-America
 'b377630b78',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa el hierro,2025-12-12T03:45:00+00:00,Spain,0.6390653397830096,0,2,es,MED,Europe
@@ -75,8 +72,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa77cf1f9e',extremes,Storm,#b3b2b1,wmo,tormenta mendoza gral alvear malargue.,2025-12-04T03:42:00+00:00,Argentina,0.6326314482478258,1,1,es,SES,South-America
 'e89f635d08',extremes,Storm,#b3b2b1,wmo,marejada ciclónica interior sur de castellón,2025-12-14T03:49:00+00:00,Spain,0.6323993541801566,0,2,es,MED,Europe
 '22745518a1',extremes,Fog,#d60d2b,wmo,niebla central del condado de siskiyou,2025-12-12T03:45:00+00:00,United States,0.6322958501101198,0,2,es,CNA,North-America
-'e18a68b82b',extremes,Storm,#b3b2b1,wmo,tormenta costa la gomera,2025-12-12T03:45:00+00:00,Spain,0.6320114656801364,0,2,es,MED,Europe
-'68c47e3afd',extremes,Storm,#b3b2b1,wmo,tormenta al norte y oeste de la isla nunivak,2025-11-30T03:46:00+00:00,United States,0.6319969005044559,0,2,es,CNA,North-America
 'b152240858',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa noroeste de a coruña,2025-12-01T04:02:00+00:00,Spain,0.6318128253664402,0,2,es,MED,Europe
 '26dc110943',extremes,Drought,#edc291,edo,falta de lluvia nicaragua,2025-12-07T03:47:00+00:00,Nicaragua,0.6317640429487812,0,2,es,SCA,North-America
 'f1ec1ddd8d',extremes,Storm,#b3b2b1,wmo,tormenta costa este de la palma,2025-12-03T03:40:00+00:00,Spain,0.6316196795267066,0,2,es,MED,Europe
@@ -142,7 +137,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '331dc2fd4a',extremes,Thunderstorm,#53785a,wmo,tormenta españa,2025-11-30T03:46:00+00:00,Spain,0.5730665673951886,1,2,es,MED,Europe
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica brasil,2025-12-14T03:49:00+00:00,Brazil,0.5728181762654803,1,1,es,SAM,South-America
 '070edfe74d',extremes,Fog,#d60d2b,wmo,niebla sur de huesca,2025-12-07T03:47:00+00:00,Spain,0.5723431670220431,1,1,es,MED,Europe
-'434b868787',extremes,Fog,#d60d2b,wmo,niebla alcarria de guadalajara,2025-12-06T03:32:00+00:00,Spain,0.5722400051238229,1,1,es,MED,Europe
 'd1b13d8307',extremes,Tsunami,#690191,usgs,tsunami estados unidos,2025-11-29T03:34:00+00:00,United States,0.5719229484966251,1,3,es,NWN,North-America
 '5e4ea480a4',extremes,Thunderstorm,#53785a,wmo,granizo qatar,2025-12-13T03:38:00+00:00,Qatar,0.5718155907202238,1,1,es,ARP,Asia
 '3dea46c095',extremes,Flood,#030ba1,wmo,inundación repentina estados unidos,2025-12-08T03:44:00+00:00,United States,0.5710875276878429,1,1,es,CNA,North-America
@@ -227,6 +221,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e8d558c618',extremes,Flood,#030ba1,wmo,inundación clearwater id idaho id,2025-12-09T03:41:00+00:00,United States,0.5545203174343358,1,1,es,CNA,North-America
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2025-12-05T03:40:00+00:00,Argentina,0.5538147534241206,1,1,es,SES,South-America
 'd8161a5967',extremes,Flood,#030ba1,wmo,inundación repentina en el este de Bergen,2025-12-19T03:46:00+00:00,United States,0.5536825040324178,1,1,es,CNA,North-America
+'19e427569b',extremes,Drought,#edc291,edo,sequía en uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.5523240090830202,1,2,es,SES,South-America
 'f200ff28aa',extremes,Earthquake,#870007,usgs,terremoto estados unidos,2025-12-09T03:40:00+00:00,United States,0.5521298560994017,1,3,es,NWN,North-America
 '0f62c5618c',extremes,Storm,#b3b2b1,wmo,marejada ciclónica estados unidos,2025-12-07T03:47:00+00:00,United States,0.5520860050969781,1,1,es,CNA,North-America
 'ea58233d00',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa norte de gran canaria,2025-12-13T03:38:00+00:00,Spain,0.5518247019759868,1,1,es,MED,Europe
@@ -238,8 +233,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '466e2a51f6',extremes,Storm,#b3b2b1,wmo,marejada ciclónica cumbres de la palma,2025-12-13T03:38:00+00:00,Spain,0.5459404561284353,1,1,es,MED,Europe
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,marejada ciclónica argentina,2025-11-23T03:46:00+00:00,Argentina,0.5444930903002194,2,1,es,SES,South-America
 'eea762c52b',extremes,Snow&Ice,#d60d2b,wmo,nieve en la bahía de Bristol a más de 15 millas náuticas,2025-12-19T03:46:00+00:00,United States,0.5443667813260827,1,1,es,CNA,North-America
+'0f045e33e1',extremes,Storm,#b3b2b1,wmo,marejada ciclónica reg. 4 cordilleras,2025-12-04T03:42:00+00:00,Chile,0.5442708574689092,2,1,es,SWS,South-America
 'd61de81685',extremes,Storm,#b3b2b1,wmo,marejada ciclónica chile,2025-12-09T03:41:00+00:00,Chile,0.5430180575013773,2,1,es,SWS,South-America
 'e98677553f',extremes,Storm,#b3b2b1,wmo,tormenta este sur y oeste de tenerife,2025-12-14T03:49:00+00:00,Spain,0.5415151688152843,1,2,es,MED,Europe
+'e18a68b82b',extremes,Storm,#b3b2b1,wmo,tormenta costa la gomera,2025-12-12T03:45:00+00:00,Spain,0.537209775828116,1,1,es,MED,Europe
+'68c47e3afd',extremes,Storm,#b3b2b1,wmo,tormenta al norte y oeste de la isla nunivak,2025-11-30T03:46:00+00:00,United States,0.5371973654287875,1,1,es,CNA,North-America
 '5808ad2034',extremes,Earthquake,#870007,usgs,terremoto josé maría morelos,2025-12-06T03:32:00+00:00,Mexico,0.5339990004340152,2,1,es,NCA,North-America
 '0335b20cbc',extremes,Storm,#b3b2b1,wmo,marejada ciclónica reg. 15 cordillera,2025-12-16T03:47:00+00:00,Chile,0.5314811496885204,2,1,es,SWS,South-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2025-11-28T03:34:00+00:00,Chile,0.5294222869553828,2,1,es,SWS,South-America
@@ -249,6 +247,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7681e065ae',extremes,Storm,#b3b2b1,wmo,tormenta este de la palma,2025-12-11T03:46:00+00:00,Spain,0.4996322688691967,2,2,es,MED,Europe
 '4c455ec158',extremes,Fog,#d60d2b,wmo,niebla centro de lugo,2025-12-13T03:38:00+00:00,Spain,0.4956656827135622,2,1,es,MED,Europe
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2025-11-27T03:34:00+00:00,Brazil,0.4941869541170989,3,1,es,SAM,South-America
+'434b868787',extremes,Fog,#d60d2b,wmo,niebla alcarria de guadalajara,2025-12-06T03:32:00+00:00,Spain,0.48640400435524944,2,1,es,MED,Europe
 'f1ffcdc5d3',extremes,Flood,#030ba1,wmo,rey de la inundación wa,2025-12-10T03:45:00+00:00,United States,0.4834812052258368,2,1,es,CNA,North-America
 '36c712529e',extremes,Flood,#030ba1,wmo,inundaciones clackamas o multnomah o,2025-12-10T03:45:00+00:00,United States,0.4824020947773875,2,1,es,CNA,North-America
 'da529b3ec8',extremes,Flood,#030ba1,wmo,inundación repentina kittitas wa,2025-12-15T03:54:00+00:00,United States,0.480142960878073,2,1,es,CNA,North-America
