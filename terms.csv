@@ -83,7 +83,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dccbba8d54',extremes,Fog,#d60d2b,wmo,niebla lago sabine lago calcasieu,2025-12-07T03:47:00+00:00,United States,0.6303023806163354,0,2,es,CNA,North-America
 '3a67915e02',extremes,Earthquake,#870007,usgs,terremoto peru,2025-12-07T03:46:00+00:00,Peru,0.629872476953869,1,1,es,NWS,South-America
 'cff0a88351',extremes,Earthquake,#870007,usgs,terremoto ecuador,2025-12-03T03:40:00+00:00,Ecuador,0.6298342498413989,1,1,es,EPO,South-America
-'a2c93fba2d',extremes,Storm,#b3b2b1,wmo,tormenta costa oeste de la palma,2025-12-12T03:45:00+00:00,Spain,0.6297947585974581,0,2,es,MED,Europe
 '538af34cee',extremes,Earthquake,#870007,usgs,terremoto los andes,2025-12-18T03:44:00+00:00,Chile,0.6297717782682275,1,2,es,SWS,South-America
 '922c5fb2b3',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral cántabro,2025-12-04T03:42:00+00:00,Spain,0.6293645298261998,0,2,es,MED,Europe
 '12141e6d2a',extremes,Storm,#b3b2b1,wmo,tormenta litoral provincia de huasco,2025-12-12T03:45:00+00:00,Chile,0.6289326558368681,1,1,es,SWS,South-America
@@ -244,6 +243,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e98677553f',extremes,Storm,#b3b2b1,wmo,tormenta este sur y oeste de tenerife,2025-12-14T03:49:00+00:00,Spain,0.5415151688152843,1,2,es,MED,Europe
 'e18a68b82b',extremes,Storm,#b3b2b1,wmo,tormenta costa la gomera,2025-12-12T03:45:00+00:00,Spain,0.537209775828116,1,1,es,MED,Europe
 '68c47e3afd',extremes,Storm,#b3b2b1,wmo,tormenta al norte y oeste de la isla nunivak,2025-11-30T03:46:00+00:00,United States,0.5371973654287875,1,1,es,CNA,North-America
+'a2c93fba2d',extremes,Storm,#b3b2b1,wmo,tormenta costa oeste de la palma,2025-12-12T03:45:00+00:00,Spain,0.5357755898078395,1,2,es,MED,Europe
 '5808ad2034',extremes,Earthquake,#870007,usgs,terremoto josé maría morelos,2025-12-06T03:32:00+00:00,Mexico,0.5339990004340152,2,1,es,NCA,North-America
 '0335b20cbc',extremes,Storm,#b3b2b1,wmo,marejada ciclónica reg. 15 cordillera,2025-12-16T03:47:00+00:00,Chile,0.5314811496885204,2,1,es,SWS,South-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2025-11-28T03:34:00+00:00,Chile,0.5294222869553828,2,1,es,SWS,South-America
