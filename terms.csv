@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
 '09eac01848',extremes,Flood,#030ba1,wmo,inundación linn o marion o,2025-12-19T03:46:00+00:00,United States,0.6599306576975301,0,2,es,CNA,North-America
 '2b6ea8c56f',extremes,Flood,#030ba1,wmo,inundación whatcom wa,2025-12-11T03:46:00+00:00,United States,0.6598754667749862,0,2,es,CNA,North-America
 '721b7d6185',extremes,Drought,#edc291,edo,sequía estados unidos,2025-12-01T04:02:00+00:00,United States,0.6584068369331497,0,2,es,WCE,Europe
