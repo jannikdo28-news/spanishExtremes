@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'2b6ea8c56f',extremes,Flood,#030ba1,wmo,inundación whatcom wa,2025-12-11T03:46:00+00:00,United States,0.6598754667749862,0,2,es,CNA,North-America
-'721b7d6185',extremes,Drought,#edc291,edo,sequía estados unidos,2025-12-01T04:02:00+00:00,United States,0.6584068369331497,0,2,es,WCE,Europe
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2025-12-14T03:49:00+00:00,United States,0.6572622590963973,0,2,es,CNA,North-America
 '3dd8c66577',extremes,Fog,#d60d2b,wmo,niebla ribera del ebro de navarra,2025-12-11T03:46:00+00:00,Spain,0.6531862340880623,0,2,es,MED,Europe
 '6ef78a80e8',extremes,Drought,#edc291,edo,falta de lluvia méxico,2025-12-10T03:45:00+00:00,Mexico,0.6531624017550438,0,2,es,NCA,North-America
@@ -204,6 +202,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '19966e8a82',extremes,Flood,#030ba1,wmo,inundación skagit wa,2025-12-11T03:46:00+00:00,United States,0.5648906928516453,1,1,es,CNA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,hielo estados unidos,2025-12-09T03:41:00+00:00,United States,0.564639953518666,1,2,es,CNA,North-America
 'f8ac2951cb',extremes,Flood,#030ba1,wmo,inundación clearwater id idaho id,2025-12-08T03:44:00+00:00,United States,0.5646049265872766,1,1,es,CNA,North-America
+'721b7d6185',extremes,Drought,#edc291,edo,sequía estados unidos,2025-12-01T04:02:00+00:00,United States,0.5645977613931773,1,2,es,WCE,Europe
 '150d64029a',extremes,Flood,#030ba1,wmo,inundación skagit wa,2025-12-12T03:45:00+00:00,United States,0.5645311806370815,1,1,es,CNA,North-America
 '3c41d4f8cf',extremes,Flood,#030ba1,wmo,inundación repentina lincoln o,2025-12-19T03:46:00+00:00,United States,0.5643217969389881,1,1,es,CNA,North-America
 '01038989c1',extremes,Flood,#030ba1,wmo,inundaciones chelan wa,2025-12-08T03:44:00+00:00,United States,0.5642372049069667,1,1,es,CNA,North-America
