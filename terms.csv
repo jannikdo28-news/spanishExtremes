@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
-'6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2025-12-16T03:47:00+00:00,Argentina,0.743234242765926,0,2,es,SES,South-America
 '2b6ea8c56f',extremes,Flood,#030ba1,wmo,inundación whatcom wa,2025-12-11T03:46:00+00:00,United States,0.6598754667749862,0,2,es,CNA,North-America
 '721b7d6185',extremes,Drought,#edc291,edo,sequía estados unidos,2025-12-01T04:02:00+00:00,United States,0.6584068369331497,0,2,es,WCE,Europe
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2025-12-14T03:49:00+00:00,United States,0.6572622590963973,0,2,es,CNA,North-America
@@ -66,6 +64,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a16de3dc21',extremes,Earthquake,#870007,usgs,terremoto mene grande,2025-12-03T03:40:00+00:00,Venezuela,0.6331616478445199,1,1,es,NSA,South-America
 '57401e749f',extremes,Storm,#b3b2b1,wmo,tormenta reg. 11 patagonia subandina norte,2025-12-16T03:47:00+00:00,Chile,0.6329586591031111,1,1,es,SWS,South-America
 'fa77cf1f9e',extremes,Storm,#b3b2b1,wmo,tormenta mendoza gral alvear malargue.,2025-12-04T03:42:00+00:00,Argentina,0.6326314482478258,1,1,es,SES,South-America
+'6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2025-12-16T03:47:00+00:00,Argentina,0.6324991813510371,1,2,es,SES,South-America
 'e89f635d08',extremes,Storm,#b3b2b1,wmo,marejada ciclónica interior sur de castellón,2025-12-14T03:49:00+00:00,Spain,0.6323993541801566,0,2,es,MED,Europe
 '22745518a1',extremes,Fog,#d60d2b,wmo,niebla central del condado de siskiyou,2025-12-12T03:45:00+00:00,United States,0.6322958501101198,0,2,es,CNA,North-America
 'b152240858',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa noroeste de a coruña,2025-12-01T04:02:00+00:00,Spain,0.6318128253664402,0,2,es,MED,Europe
