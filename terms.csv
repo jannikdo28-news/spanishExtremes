@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
+'6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2025-12-16T03:47:00+00:00,Argentina,0.743234242765926,0,2,es,SES,South-America
 '2b6ea8c56f',extremes,Flood,#030ba1,wmo,inundación whatcom wa,2025-12-11T03:46:00+00:00,United States,0.6598754667749862,0,2,es,CNA,North-America
 '721b7d6185',extremes,Drought,#edc291,edo,sequía estados unidos,2025-12-01T04:02:00+00:00,United States,0.6584068369331497,0,2,es,WCE,Europe
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2025-12-14T03:49:00+00:00,United States,0.6572622590963973,0,2,es,CNA,North-America
@@ -104,7 +106,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8f80b66a9',extremes,Storm,#b3b2b1,wmo,tormenta oeste de a coruña,2025-12-07T03:47:00+00:00,Spain,0.6227741969433802,0,2,es,MED,Europe
 'b759e0d5cd',extremes,Drought,#edc291,edo,sequía en Panamá,2025-12-08T03:45:00+00:00,Panama,0.6227690831663025,1,2,es,SCA,North-America
 'bb591d955d',extremes,Earthquake,#870007,usgs,terremoto achanizo,2025-11-26T03:37:00+00:00,Peru,0.6226573854002985,1,1,es,SWS,South-America
+'0f7c09d3e3',extremes,Storm,#b3b2b1,wmo,tormenta islas áridas al este,2025-12-06T03:32:00+00:00,United States,0.622642844954939,0,2,es,CNA,North-America
+'e25cd0bfd5',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa litoral oriental asturiano,2025-12-12T03:45:00+00:00,Spain,0.6226287264261245,0,2,es,MED,Europe
+'caf8d96522',extremes,Storm,#b3b2b1,wmo,marejada ciclónica noroeste de murcia,2025-12-04T03:42:00+00:00,Spain,0.6225690022226662,0,2,es,MED,Europe
+'67bba572ad',extremes,Storm,#b3b2b1,wmo,tormenta costa rias baixas,2025-12-01T04:02:00+00:00,Spain,0.6225325720435045,0,2,es,MED,Europe
+'6fb174f18d',extremes,Storm,#b3b2b1,wmo,tormenta cumbres de la palma,2025-12-11T03:46:00+00:00,Spain,0.6223712024016063,0,2,es,MED,Europe
 'd389bc4f63',extremes,Earthquake,#870007,usgs,terremoto mexico,2025-12-08T03:44:00+00:00,Mexico,0.6220136284254417,1,1,es,NCA,North-America
+'7d308de224',extremes,Storm,#b3b2b1,wmo,tormenta costa poniente y almería capital,2025-12-03T03:40:00+00:00,Spain,0.621430034182444,0,2,es,MED,Europe
+'42fe9191c7',extremes,Thunderstorm,#53785a,wmo,granizo litoral norte de alicante,2025-12-14T03:49:00+00:00,Spain,0.6210469998976811,0,2,es,MED,Europe
+'9c483c3e11',extremes,Thunderstorm,#53785a,wmo,tiempo severo norte de tenerife,2025-12-12T03:45:00+00:00,Spain,0.6208797627234832,0,2,es,MED,Europe
 'af6244e0ab',extremes,Drought,#edc291,edo,sequedad nicaragua,2025-12-16T03:47:00+00:00,Nicaragua,0.6189343933058694,1,1,es,SCA,North-America
 '5ce57f419d',extremes,Earthquake,#870007,usgs,terremoto venezuela,2025-12-10T03:45:00+00:00,Venezuela,0.6186088582487416,1,1,es,CAR,North-America
 'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2025-11-30T03:46:00+00:00,Argentina,0.6183322288144334,1,1,es,SES,South-America
@@ -262,6 +272,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '36c712529e',extremes,Flood,#030ba1,wmo,inundaciones clackamas o multnomah o,2025-12-10T03:45:00+00:00,United States,0.4824020947773875,2,1,es,CNA,North-America
 'da529b3ec8',extremes,Flood,#030ba1,wmo,inundación repentina kittitas wa,2025-12-15T03:54:00+00:00,United States,0.480142960878073,2,1,es,CNA,North-America
 '00c846cb84',extremes,Flood,#030ba1,wmo,inundación chelan wa okanogan wa,2025-12-11T03:46:00+00:00,United States,0.4794322406842765,2,1,es,CNA,North-America
-'53dadb7e4e',extremes,Flood,#030ba1,wmo,inundación perforar wa,2025-12-09T03:41:00+00:00,United States,0.47886787964585087,2,1,es,CNA,North-America
+'53dadb7e4e',extremes,Flood,#030ba1,wmo,inundación perforar wa,2025-12-09T03:41:00+00:00,United States,0.4788678796458508,2,1,es,CNA,North-America
 '09eac01848',extremes,Flood,#030ba1,wmo,inundación linn o marion o,2025-12-19T03:46:00+00:00,United States,0.4767999001864655,2,1,es,CNA,North-America
 '1327c453bc',extremes,Precipitation,#d60d2b,wmo,precipitación españa,2025-12-01T04:02:00+00:00,Spain,0.4740361230693473,2,2,es,MED,Europe
