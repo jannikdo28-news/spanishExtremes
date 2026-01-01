@@ -1,4 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
+'2b6ea8c56f',extremes,Flood,#030ba1,wmo,inundación whatcom wa,2025-12-11T03:46:00+00:00,United States,0.6598754667749862,0,2,es,CNA,North-America
+'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2025-12-14T03:49:00+00:00,United States,0.6572622590963973,0,2,es,CNA,North-America
 '3dd8c66577',extremes,Fog,#d60d2b,wmo,niebla ribera del ebro de navarra,2025-12-11T03:46:00+00:00,Spain,0.6531862340880623,0,2,es,MED,Europe
 '6ef78a80e8',extremes,Drought,#edc291,edo,falta de lluvia méxico,2025-12-10T03:45:00+00:00,Mexico,0.6531624017550438,0,2,es,NCA,North-America
 'b55290ca0d',extremes,Drought,#edc291,edo,sequía argentina,2025-12-08T03:45:00+00:00,Argentina,0.6519143407528941,0,2,es,SES,South-America
@@ -111,6 +114,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d308de224',extremes,Storm,#b3b2b1,wmo,tormenta costa poniente y almería capital,2025-12-03T03:40:00+00:00,Spain,0.621430034182444,0,2,es,MED,Europe
 '42fe9191c7',extremes,Thunderstorm,#53785a,wmo,granizo litoral norte de alicante,2025-12-14T03:49:00+00:00,Spain,0.6210469998976811,0,2,es,MED,Europe
 '9c483c3e11',extremes,Thunderstorm,#53785a,wmo,tiempo severo norte de tenerife,2025-12-12T03:45:00+00:00,Spain,0.6208797627234832,0,2,es,MED,Europe
+'60d823a47b',extremes,Storm,#b3b2b1,wmo,tormenta estados unidos,2025-12-07T03:47:00+00:00,United States,0.6208373206889399,0,2,es,CNA,North-America
+'1cc1b90796',extremes,Storm,#b3b2b1,wmo,marejada ciclónica cuenca del nervión,2025-12-08T03:44:00+00:00,Spain,0.6206160095831261,0,2,es,MED,Europe
+'8f13e1df9b',extremes,Drought,#edc291,edo,sequía en venezuela,2025-12-05T03:41:00+00:00,Venezuela,0.6199777441156834,0,2,es,NSA,South-America
+'46ab9bddb2',extremes,Storm,#b3b2b1,wmo,marejada ciclónica depresión central de barcelona,2025-12-14T03:49:00+00:00,Spain,0.6199765418363572,0,2,es,MED,Europe
+'a2bf9bf375',extremes,Storm,#b3b2b1,wmo,marejada ciclónica suroeste Prince William Sound,2025-12-11T03:46:00+00:00,United States,0.6198924884804168,0,2,es,CNA,North-America
+'d2e6d13856',extremes,Storm,#b3b2b1,wmo,tormenta costa miño de pontevedra,2025-12-01T04:02:00+00:00,Spain,0.6198520392527456,0,2,es,MED,Europe
+'aeb5ee2ee2',extremes,Storm,#b3b2b1,wmo,marejada ciclónica este sur y oeste de tenerife,2025-12-13T03:38:00+00:00,Spain,0.6196368721124461,0,2,es,MED,Europe
 'af6244e0ab',extremes,Drought,#edc291,edo,sequedad nicaragua,2025-12-16T03:47:00+00:00,Nicaragua,0.6189343933058694,1,1,es,SCA,North-America
 '5ce57f419d',extremes,Earthquake,#870007,usgs,terremoto venezuela,2025-12-10T03:45:00+00:00,Venezuela,0.6186088582487416,1,1,es,CAR,North-America
 'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2025-11-30T03:46:00+00:00,Argentina,0.6183322288144334,1,1,es,SES,South-America
