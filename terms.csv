@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
+'4496a0cd3b',extremes,Storm,#b3b2b1,wmo,marejada ciclónica territorio nacional.,2025-12-01T04:02:00+00:00,Paraguay,0.751266045890377,0,2,es,SES,South-America
 '3dd8c66577',extremes,Fog,#d60d2b,wmo,niebla ribera del ebro de navarra,2025-12-11T03:46:00+00:00,Spain,0.6531862340880623,0,2,es,MED,Europe
 '6ef78a80e8',extremes,Drought,#edc291,edo,falta de lluvia méxico,2025-12-10T03:45:00+00:00,Mexico,0.6531624017550438,0,2,es,NCA,North-America
 'b55290ca0d',extremes,Drought,#edc291,edo,sequía argentina,2025-12-08T03:45:00+00:00,Argentina,0.6519143407528941,0,2,es,SES,South-America
@@ -21,6 +23,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c459c88eba',extremes,Snow&Ice,#d60d2b,wmo,españa helada,2025-12-12T03:45:00+00:00,Spain,0.6435760808200305,0,2,es,MED,Europe
 '2e97281900',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa oeste de a coruña,2025-11-30T03:46:00+00:00,Spain,0.6433922680289946,0,2,es,MED,Europe
 '4fd45c9dac',extremes,Storm,#b3b2b1,wmo,tormenta el hierro,2025-12-11T03:46:00+00:00,Spain,0.6425734356591777,0,2,es,MED,Europe
+'b1448de486',extremes,Storm,#b3b2b1,wmo,tormenta la gomera,2025-12-14T03:49:00+00:00,Spain,0.6424734789149005,0,2,es,MED,Europe
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,estados unidos helados,2025-12-05T03:41:00+00:00,United States,0.641865348472096,0,2,es,CNA,North-America
 'd072ebb68e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa bizkaia litoral,2025-12-04T03:42:00+00:00,Spain,0.6418428871856562,0,2,es,MED,Europe
 'a247a43cd7',extremes,Snow&Ice,#d60d2b,wmo,avalancha norte de tenerife,2025-12-14T03:49:00+00:00,Spain,0.6417838474503554,0,2,es,MED,Europe
@@ -115,9 +118,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a2bf9bf375',extremes,Storm,#b3b2b1,wmo,marejada ciclónica suroeste Prince William Sound,2025-12-11T03:46:00+00:00,United States,0.6198924884804168,0,2,es,CNA,North-America
 'd2e6d13856',extremes,Storm,#b3b2b1,wmo,tormenta costa miño de pontevedra,2025-12-01T04:02:00+00:00,Spain,0.6198520392527456,0,2,es,MED,Europe
 'aeb5ee2ee2',extremes,Storm,#b3b2b1,wmo,marejada ciclónica este sur y oeste de tenerife,2025-12-13T03:38:00+00:00,Spain,0.6196368721124461,0,2,es,MED,Europe
+'39b6c367ab',extremes,Storm,#b3b2b1,wmo,tormenta costa sol y guadalhorce,2025-12-13T03:38:00+00:00,Spain,0.619478899418555,0,2,es,MED,Europe
+'0a6a0784c5',extremes,Storm,#b3b2b1,wmo,marejada ciclónica rías baixas,2025-12-07T03:47:00+00:00,Spain,0.619298986622583,0,2,es,MED,Europe
+'565ef25bc4',extremes,Storm,#b3b2b1,wmo,marejada ciclónica en la bahía de Bristol superior a 15 millas náuticas,2025-12-04T03:42:00+00:00,United States,0.6192897092982855,0,2,es,CNA,North-America
+'61ca202682',extremes,Thunderstorm,#53785a,wmo,granizo poniente y almería capital,2025-12-15T03:54:00+00:00,Spain,0.6192892353665821,0,2,es,MED,Europe
+'d2ae80a4d6',extremes,Snow&Ice,#d60d2b,wmo,avalancha españa,2025-12-15T03:54:00+00:00,Spain,0.619042673869104,0,2,es,MED,Europe
 'af6244e0ab',extremes,Drought,#edc291,edo,sequedad nicaragua,2025-12-16T03:47:00+00:00,Nicaragua,0.6189343933058694,1,1,es,SCA,North-America
 '5ce57f419d',extremes,Earthquake,#870007,usgs,terremoto venezuela,2025-12-10T03:45:00+00:00,Venezuela,0.6186088582487416,1,1,es,CAR,North-America
+'82732fd6fe',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa estrecha,2025-12-13T03:38:00+00:00,Spain,0.6185468819173306,0,2,es,MED,Europe
 'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2025-11-30T03:46:00+00:00,Argentina,0.6183322288144334,1,1,es,SES,South-America
+'d3c0fac3e3',extremes,Storm,#b3b2b1,wmo,tormenta interior de alicante,2025-12-14T03:49:00+00:00,Spain,0.6183273718081341,0,2,es,MED,Europe
 'd5d4b91634',extremes,Earthquake,#870007,usgs,terremoto vinchina,2025-12-02T03:41:00+00:00,Argentina,0.6177665969244327,1,1,es,SWS,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2025-12-07T03:46:00+00:00,Argentina,0.6090562835152097,1,2,es,SWS,South-America
 'deebf112c9',extremes,Drought,#edc291,edo,falta de lluvia colombia,2025-12-08T03:45:00+00:00,Colombia,0.6080417409563955,1,1,es,NWS,South-America
