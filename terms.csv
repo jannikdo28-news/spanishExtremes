@@ -1,12 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2025-11-26T03:37:00+00:00,Chile,0.6464645126085959,1,2,es,SWS,South-America
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial argentina,2025-12-10T03:45:00+00:00,Argentina,0.6458740755517642,1,2,es,SES,South-America
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,tormenta uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.6449308434144384,1,2,es,SES,South-America
 '4fd45c9dac',extremes,Storm,#b3b2b1,wmo,tormenta el hierro,2025-12-11T03:46:00+00:00,Spain,0.6425734356591777,0,2,es,MED,Europe
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,estados unidos helados,2025-12-05T03:41:00+00:00,United States,0.641865348472096,0,2,es,CNA,North-America
 'd072ebb68e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa bizkaia litoral,2025-12-04T03:42:00+00:00,Spain,0.6418428871856562,0,2,es,MED,Europe
 'a247a43cd7',extremes,Snow&Ice,#d60d2b,wmo,avalancha norte de tenerife,2025-12-14T03:49:00+00:00,Spain,0.6417838474503554,0,2,es,MED,Europe
-'17abcf3665',extremes,Storm,#b3b2b1,wmo,tormenta costa suroeste de a coruña,2025-12-02T03:41:00+00:00,Spain,0.6417542467379094,0,2,es,MED,Europe
 '88f49d6040',extremes,Storm,#b3b2b1,wmo,tormenta zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.6416598528824323,1,3,es,NWS,South-America
 'be4e178bab',extremes,Storm,#b3b2b1,wmo,marejada ciclónica uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.6413747415803478,1,1,es,SES,South-America
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2025-12-04T03:42:00+00:00,Chile,0.6405308047371323,1,1,es,SWS,South-America
@@ -232,6 +230,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '25902e48eb',extremes,Storm,#b3b2b1,wmo,tormenta territorio nacional.,2025-12-08T03:44:00+00:00,Paraguay,0.5539274405863,2,1,es,SES,South-America
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2025-12-05T03:40:00+00:00,Argentina,0.5538147534241206,1,1,es,SES,South-America
 'd8161a5967',extremes,Flood,#030ba1,wmo,inundación repentina en el este de Bergen,2025-12-19T03:46:00+00:00,United States,0.5536825040324178,1,1,es,CNA,North-America
+'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2025-11-26T03:37:00+00:00,Chile,0.5533952257173065,2,2,es,SWS,South-America
 '642448c2be',extremes,Storm,#b3b2b1,wmo,tormenta costa noroeste de a coruña,2025-12-01T04:02:00+00:00,Spain,0.5525901196326342,1,1,es,MED,Europe
 '19e427569b',extremes,Drought,#edc291,edo,sequía en uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.5523240090830202,1,2,es,SES,South-America
 '333baf64d4',extremes,Flood,#030ba1,wmo,inundaciones marquette alger,2025-12-18T03:44:00+00:00,United States,0.5522975828202935,2,1,es,CNA,North-America
