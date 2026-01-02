@@ -1,4 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
+'4496a0cd3b',extremes,Storm,#b3b2b1,wmo,marejada ciclónica territorio nacional.,2025-12-01T04:02:00+00:00,Paraguay,0.751266045890377,0,2,es,SES,South-America
+'3dd8c66577',extremes,Fog,#d60d2b,wmo,niebla ribera del ebro de navarra,2025-12-11T03:46:00+00:00,Spain,0.6531862340880623,0,2,es,MED,Europe
 '25902e48eb',extremes,Storm,#b3b2b1,wmo,tormenta territorio nacional.,2025-12-08T03:44:00+00:00,Paraguay,0.6516787595132941,1,2,es,SES,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2025-11-25T03:37:00+00:00,Argentina,0.6505861252804561,1,3,es,SES,South-America
 '642448c2be',extremes,Storm,#b3b2b1,wmo,tormenta costa noroeste de a coruña,2025-12-01T04:02:00+00:00,Spain,0.6501059348619226,0,2,es,MED,Europe
@@ -113,7 +116,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82732fd6fe',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa estrecha,2025-12-13T03:38:00+00:00,Spain,0.6185468819173306,0,2,es,MED,Europe
 'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2025-11-30T03:46:00+00:00,Argentina,0.6183322288144334,1,1,es,SES,South-America
 'd3c0fac3e3',extremes,Storm,#b3b2b1,wmo,tormenta interior de alicante,2025-12-14T03:49:00+00:00,Spain,0.6183273718081341,0,2,es,MED,Europe
+'35e097af59',extremes,Snow&Ice,#d60d2b,wmo,hielo miami cass,2025-12-01T04:02:00+00:00,United States,0.6180887899558623,0,2,es,CNA,North-America
+'7f260ec036',extremes,Storm,#b3b2b1,wmo,marejada ciclónica en la bahía de unalaska,2025-12-07T03:47:00+00:00,United States,0.6180373185400468,0,2,es,CNA,North-America
+'7eda55b43b',extremes,Storm,#b3b2b1,wmo,tormenta costa lanzarote,2025-12-03T03:40:00+00:00,Spain,0.6179467092152909,0,2,es,MED,Europe
+'39ef6043d8',extremes,Precipitation,#d60d2b,wmo,lluvia españa,2025-12-14T03:49:00+00:00,Spain,0.6179208042972543,0,2,es,MED,Europe
 'd5d4b91634',extremes,Earthquake,#870007,usgs,terremoto vinchina,2025-12-02T03:41:00+00:00,Argentina,0.6177665969244327,1,1,es,SWS,South-America
+'1ef7a68493',extremes,Snow&Ice,#d60d2b,wmo,heladas puerto de valdez,2025-12-18T03:44:00+00:00,United States,0.6177281600049169,0,2,es,CNA,North-America
+'6edc062625',extremes,Storm,#b3b2b1,wmo,tormenta costa norte de gran canaria,2025-12-04T03:42:00+00:00,Spain,0.6174885273801877,0,2,es,MED,Europe
+'ef5184d05b',extremes,Storm,#b3b2b1,wmo,tormenta costa fuerteventura,2025-12-11T03:46:00+00:00,Spain,0.617436205222056,0,2,es,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2025-12-07T03:46:00+00:00,Argentina,0.6090562835152097,1,2,es,SWS,South-America
 'deebf112c9',extremes,Drought,#edc291,edo,falta de lluvia colombia,2025-12-08T03:45:00+00:00,Colombia,0.6080417409563955,1,1,es,NWS,South-America
 'f760624a54',extremes,Earthquake,#870007,usgs,terremoto vallenar,2025-12-11T03:46:00+00:00,Chile,0.6065331654307365,1,1,es,SWS,South-America
