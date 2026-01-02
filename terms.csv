@@ -1,6 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
+'4496a0cd3b',extremes,Storm,#b3b2b1,wmo,marejada ciclónica territorio nacional.,2025-12-01T04:02:00+00:00,Paraguay,0.751266045890377,0,2,es,SES,South-America
 '333baf64d4',extremes,Flood,#030ba1,wmo,inundaciones marquette alger,2025-12-18T03:44:00+00:00,United States,0.6497618621415218,1,1,es,CNA,North-America
 '56dca2743f',extremes,Drought,#edc291,edo,sequía en guinea ecuatorial,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.647629014402853,1,1,es,WAF,Africa
+'48a5be945f',extremes,Flood,#030ba1,wmo,inundación de la cuenca baja de columbia en washington,2025-12-19T03:46:00+00:00,United States,0.6473389819210021,0,2,es,CNA,North-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2025-11-26T03:37:00+00:00,Chile,0.6464645126085959,1,2,es,SWS,South-America
 'a47a12323a',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa oeste de la palma,2025-12-11T03:46:00+00:00,Spain,0.6463257795238844,1,1,es,MED,Europe
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2025-11-24T03:46:00+00:00,Argentina,0.6461742602696435,1,2,es,SES,South-America
@@ -110,6 +113,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1ef7a68493',extremes,Snow&Ice,#d60d2b,wmo,heladas puerto de valdez,2025-12-18T03:44:00+00:00,United States,0.6177281600049169,0,2,es,CNA,North-America
 '6edc062625',extremes,Storm,#b3b2b1,wmo,tormenta costa norte de gran canaria,2025-12-04T03:42:00+00:00,Spain,0.6174885273801877,0,2,es,MED,Europe
 'ef5184d05b',extremes,Storm,#b3b2b1,wmo,tormenta costa fuerteventura,2025-12-11T03:46:00+00:00,Spain,0.617436205222056,0,2,es,MED,Europe
+'7b34f7650e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa fuerteventura,2025-12-03T03:40:00+00:00,Spain,0.6174285783165007,0,2,es,MED,Europe
+'61638d8200',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa miño de pontevedra,2025-12-01T04:02:00+00:00,Spain,0.6169514025219817,0,2,es,MED,Europe
+'517e4b4a9e',extremes,Storm,#b3b2b1,wmo,tormenta canal norte de lynn,2025-12-18T03:44:00+00:00,United States,0.6166040345388315,0,2,es,CNA,North-America
+'6432f9d900',extremes,Earthquake,#870007,usgs,terremoto pueblo nuevo,2025-12-08T03:44:00+00:00,Venezuela,0.6165233012564595,0,2,es,CAR,North-America
+'6fb0f66509',extremes,Storm,#b3b2b1,wmo,marejada ciclónica en las montañas del Panhandle central,2025-12-06T03:32:00+00:00,United States,0.6160860504003294,0,2,es,CNA,North-America
+'d754055198',extremes,Thunderstorm,#53785a,wmo,tiempo severo دولة قطر,2025-12-18T03:44:00+00:00,Qatar,0.6155143949312596,0,2,es,ARP,Asia
+'f737adcac9',extremes,Storm,#b3b2b1,wmo,bahía de la resurrección de la tormenta,2025-12-05T03:41:00+00:00,United States,0.6154227154797517,0,2,es,CNA,North-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2025-12-07T03:46:00+00:00,Argentina,0.6090562835152097,1,2,es,SWS,South-America
 'deebf112c9',extremes,Drought,#edc291,edo,falta de lluvia colombia,2025-12-08T03:45:00+00:00,Colombia,0.6080417409563955,1,1,es,NWS,South-America
 'f760624a54',extremes,Earthquake,#870007,usgs,terremoto vallenar,2025-12-11T03:46:00+00:00,Chile,0.6065331654307365,1,1,es,SWS,South-America
