@@ -16,7 +16,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2eb8e690bc',extremes,Storm,#b3b2b1,wmo,tormenta costa ceuta,2025-12-13T03:38:00+00:00,Spain,0.6369656904307239,0,2,es,MED,Europe
 '30dd1a71a3',extremes,Storm,#b3b2b1,wmo,marejada ciclónica aguas de la isla san mateo,2025-12-01T04:02:00+00:00,United States,0.6363957298565412,0,2,es,CNA,North-America
 'd17fb9bc17',extremes,Snow&Ice,#d60d2b,wmo,avalancha Eastern Preston Eastern Tucker,2025-12-10T03:45:00+00:00,United States,0.6363626307408247,0,2,es,CNA,North-America
-'fdcca63d76',extremes,Fog,#d60d2b,wmo,niebla unión de mecklemburgo,2025-12-08T03:44:00+00:00,United States,0.6359522004697344,0,2,es,CNA,North-America
 '129c24a104',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa gipuzkoa litoral,2025-12-01T04:02:00+00:00,Spain,0.6357300856405806,0,2,es,MED,Europe
 '74ae24437b',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial españa,2025-12-14T03:49:00+00:00,Spain,0.6356840795239727,0,2,es,MED,Europe
 '8f29727ea9',extremes,Drought,#edc291,edo,sequía guinea ecuatorial,2025-12-05T03:41:00+00:00,Equatorial Guinea,0.6353272196471249,1,1,es,WAF,Africa
@@ -56,7 +55,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c1499c4445',extremes,Earthquake,#870007,usgs,terremoto yuyapichis,2025-12-03T03:40:00+00:00,Peru,0.6257426195951727,1,1,es,NWS,South-America
 'b4e660db49',extremes,Drought,#edc291,edo,sequía uruguay,2025-12-07T03:47:00+00:00,Uruguay,0.6245973278994812,0,2,es,SES,South-America
 '72c1fa8928',extremes,Thunderstorm,#53785a,wmo,tiempo severo prelitoral norte de tarragona,2025-12-14T03:49:00+00:00,Spain,0.6244825791183587,0,2,es,MED,Europe
-'f3276cea85',extremes,Storm,#b3b2b1,wmo,tormenta centro y valle de villaverde,2025-12-08T03:44:00+00:00,Spain,0.6238650362192284,0,2,es,MED,Europe
 '4d422738b1',extremes,Earthquake,#870007,usgs,terremoto palca,2025-12-08T03:44:00+00:00,Peru,0.6233614060551083,1,1,es,SWS,South-America
 '7c5cc2db00',extremes,Storm,#b3b2b1,wmo,tormenta costa axarquía,2025-12-12T03:45:00+00:00,Spain,0.6229188979583037,0,2,es,MED,Europe
 'a8f80b66a9',extremes,Storm,#b3b2b1,wmo,tormenta oeste de a coruña,2025-12-07T03:47:00+00:00,Spain,0.6227741969433802,0,2,es,MED,Europe
@@ -297,6 +295,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5808ad2034',extremes,Earthquake,#870007,usgs,terremoto josé maría morelos,2025-12-06T03:32:00+00:00,Mexico,0.5339990004340152,2,1,es,NCA,North-America
 '07eea948e4',extremes,Fog,#d60d2b,wmo,niebla bahía de monterey,2025-12-18T03:44:00+00:00,United States,0.5336298021947529,1,1,es,CNA,North-America
 '0335b20cbc',extremes,Storm,#b3b2b1,wmo,marejada ciclónica reg. 15 cordillera,2025-12-16T03:47:00+00:00,Chile,0.5314811496885204,2,1,es,SWS,South-America
+'f3276cea85',extremes,Storm,#b3b2b1,wmo,tormenta centro y valle de villaverde,2025-12-08T03:44:00+00:00,Spain,0.5310353557863441,1,2,es,MED,Europe
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2025-11-28T03:34:00+00:00,Chile,0.5294222869553828,2,1,es,SWS,South-America
 '67bba572ad',extremes,Storm,#b3b2b1,wmo,tormenta costa rias baixas,2025-12-01T04:02:00+00:00,Spain,0.5291526862369789,1,1,es,MED,Europe
 '6fb174f18d',extremes,Storm,#b3b2b1,wmo,tormenta cumbres de la palma,2025-12-11T03:46:00+00:00,Spain,0.5290156870413653,1,1,es,MED,Europe
