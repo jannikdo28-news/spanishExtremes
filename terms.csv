@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
 '8be002d270',extremes,Drought,#edc291,edo,falta de lluvias venezuela,2025-12-02T03:41:00+00:00,Venezuela,0.6402285381066207,1,2,es,NSA,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paraguay,2025-11-30T03:46:00+00:00,Paraguay,0.639894558412418,1,1,es,SES,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2025-12-14T03:49:00+00:00,Argentina,0.6390230416827092,1,3,es,SES,South-America
@@ -36,10 +37,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c1499c4445',extremes,Earthquake,#870007,usgs,terremoto yuyapichis,2025-12-03T03:40:00+00:00,Peru,0.6257426195951727,1,1,es,NWS,South-America
 'b4e660db49',extremes,Drought,#edc291,edo,sequía uruguay,2025-12-07T03:47:00+00:00,Uruguay,0.6245973278994812,0,2,es,SES,South-America
 '4d422738b1',extremes,Earthquake,#870007,usgs,terremoto palca,2025-12-08T03:44:00+00:00,Peru,0.6233614060551083,1,1,es,SWS,South-America
+'7c5cc2db00',extremes,Storm,#b3b2b1,wmo,tormenta costa axarquía,2025-12-12T03:45:00+00:00,Spain,0.6229188979583037,0,2,es,MED,Europe
 'a8f80b66a9',extremes,Storm,#b3b2b1,wmo,tormenta oeste de a coruña,2025-12-07T03:47:00+00:00,Spain,0.6227741969433802,0,2,es,MED,Europe
 'b759e0d5cd',extremes,Drought,#edc291,edo,sequía en Panamá,2025-12-08T03:45:00+00:00,Panama,0.6227690831663025,1,2,es,SCA,North-America
 'bb591d955d',extremes,Earthquake,#870007,usgs,terremoto achanizo,2025-11-26T03:37:00+00:00,Peru,0.6226573854002985,1,1,es,SWS,South-America
 '0f7c09d3e3',extremes,Storm,#b3b2b1,wmo,tormenta islas áridas al este,2025-12-06T03:32:00+00:00,United States,0.622642844954939,0,2,es,CNA,North-America
+'e25cd0bfd5',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa litoral oriental asturiano,2025-12-12T03:45:00+00:00,Spain,0.6226287264261245,0,2,es,MED,Europe
 'caf8d96522',extremes,Storm,#b3b2b1,wmo,marejada ciclónica noroeste de murcia,2025-12-04T03:42:00+00:00,Spain,0.6225690022226662,0,2,es,MED,Europe
 'd389bc4f63',extremes,Earthquake,#870007,usgs,terremoto mexico,2025-12-08T03:44:00+00:00,Mexico,0.6220136284254417,1,1,es,NCA,North-America
 '7d308de224',extremes,Storm,#b3b2b1,wmo,tormenta costa poniente y almería capital,2025-12-03T03:40:00+00:00,Spain,0.621430034182444,0,2,es,MED,Europe
@@ -117,6 +120,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e0ee13f0a6',extremes,Storm,#b3b2b1,wmo,tormenta bahía kachemak,2025-11-30T03:46:00+00:00,United States,0.606501405495464,0,2,es,CNA,North-America
 'f97489bce1',extremes,Storm,#b3b2b1,wmo,tormenta shirley cuenca,2025-12-09T03:41:00+00:00,United States,0.6063168964211598,0,2,es,CNA,North-America
 '92829ce601',extremes,Storm,#b3b2b1,wmo,tormenta puerto de valdez,2025-12-07T03:47:00+00:00,United States,0.6061022999924617,0,2,es,CNA,North-America
+'7e5dd54b87',extremes,Snow&Ice,#d60d2b,wmo,morris congelado,2025-12-02T03:41:00+00:00,United States,0.6060958490150149,0,2,es,CNA,North-America
+'3bc9b9f4cc',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa poniente y almería capital,2025-12-02T03:41:00+00:00,Spain,0.605951449385566,0,2,es,MED,Europe
+'c89c963081',extremes,Snow&Ice,#d60d2b,wmo,hielo fluvanna louisa occidental,2025-12-02T03:41:00+00:00,United States,0.6056216543740572,0,2,es,CNA,North-America
+'efef6ddbcf',extremes,Thunderstorm,#53785a,wmo,clima severo vega del segura,2025-12-13T03:38:00+00:00,Spain,0.6054971404028444,0,2,es,MED,Europe
+'e1704522e0',extremes,Thunderstorm,#53785a,wmo,tiempo severo litoral de barcelona,2025-12-14T03:49:00+00:00,Spain,0.6051817002592744,0,2,es,MED,Europe
+'925cc6c6e9',extremes,Drought,#edc291,edo,sequía en costa rica,2025-12-02T03:41:00+00:00,Costa Rica,0.6047343021764736,0,2,es,SCA,South-America
+'78c7256414',extremes,Snow&Ice,#d60d2b,wmo,escarcha cañón cimarrón estribaciones de sheridan,2025-12-02T03:41:00+00:00,United States,0.6046556134064728,0,2,es,CNA,North-America
 '48457b6eba',extremes,Earthquake,#870007,usgs,terremoto ovalle,2025-12-09T03:40:00+00:00,Chile,0.6016239463335309,1,1,es,SWS,South-America
 '76196dc5e1',extremes,Earthquake,#870007,usgs,terremoto guatemala,2025-12-09T03:40:00+00:00,Guatemala,0.6004976712145094,1,1,es,SCA,North-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2025-12-14T03:49:00+00:00,Chile,0.5997421954555897,1,1,es,SWS,South-America
