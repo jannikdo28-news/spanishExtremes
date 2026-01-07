@@ -1,9 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
-'93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2025-12-01T04:02:00+00:00,Argentina,0.7545155920598267,0,2,es,SES,South-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2025-12-02T03:41:00+00:00,Paraguay,0.7543138484417622,0,2,es,SES,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2025-12-14T03:49:00+00:00,Argentina,0.7475586202227803,0,2,es,SES,South-America
 '2f51d04c0e',extremes,Fog,#d60d2b,wmo,niebla españa,2025-12-03T03:40:00+00:00,Spain,0.736655590102398,0,2,es,MED,Europe
+'93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2025-12-01T04:02:00+00:00,Argentina,0.6518385532508526,1,2,es,SES,South-America
 '8be002d270',extremes,Drought,#edc291,edo,falta de lluvias venezuela,2025-12-02T03:41:00+00:00,Venezuela,0.6402285381066207,1,2,es,NSA,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paraguay,2025-11-30T03:46:00+00:00,Paraguay,0.639894558412418,1,1,es,SES,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2025-12-14T03:49:00+00:00,Argentina,0.6390230416827092,1,3,es,SES,South-America
