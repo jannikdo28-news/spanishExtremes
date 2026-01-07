@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2025-12-02T03:41:00+00:00,Paraguay,0.7543138484417622,0,2,es,SES,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2025-12-14T03:49:00+00:00,Argentina,0.7475586202227803,0,2,es,SES,South-America
 '8be002d270',extremes,Drought,#edc291,edo,falta de lluvias venezuela,2025-12-02T03:41:00+00:00,Venezuela,0.6402285381066207,1,2,es,NSA,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paraguay,2025-11-30T03:46:00+00:00,Paraguay,0.639894558412418,1,1,es,SES,South-America
@@ -138,7 +137,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '76196dc5e1',extremes,Earthquake,#870007,usgs,terremoto guatemala,2025-12-09T03:40:00+00:00,Guatemala,0.6004976712145094,1,1,es,SCA,North-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2025-12-14T03:49:00+00:00,Chile,0.5997421954555897,1,1,es,SWS,South-America
 'a65a81b59a',extremes,Earthquake,#870007,usgs,terremoto tectitán,2025-11-29T03:34:00+00:00,Guatemala,0.594281441977873,1,1,es,SCA,North-America
-'8a6ebb5b5c',extremes,Drought,#edc291,edo,sequedad cuba,2025-11-27T03:34:00+00:00,Cuba,0.5930157647732199,1,1,es,CAR,North-America
 '0a8dada260',extremes,Drought,#edc291,edo,sequía honduras,2025-11-27T03:34:00+00:00,Honduras,0.5922737664584359,1,2,es,SCA,North-America
 'd9ffdd914a',extremes,Fog,#d60d2b,wmo,niebla meseta de valladolid,2025-11-28T03:34:00+00:00,Spain,0.5910644125734434,1,1,es,MED,Europe
 'f478344c91',extremes,Drought,#edc291,edo,sequía paraguay,2025-12-16T03:47:00+00:00,Paraguay,0.5904339847035949,1,2,es,SES,South-America
@@ -284,7 +282,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '04f9463542',extremes,Snow&Ice,#d60d2b,wmo,avalancha estados unidos,2025-12-10T03:45:00+00:00,United States,0.5470804001142441,1,3,es,CNA,North-America
 '2e97281900',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa oeste de a coruña,2025-11-30T03:46:00+00:00,Spain,0.5468834278246454,1,1,es,MED,Europe
 '88f49d6040',extremes,Storm,#b3b2b1,wmo,tormenta zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.5466119849500675,2,3,es,NWS,South-America
-'93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2025-12-01T04:02:00+00:00,Argentina,0.5465403355132248,2,1,es,SES,South-America
 'b1448de486',extremes,Storm,#b3b2b1,wmo,tormenta la gomera,2025-12-14T03:49:00+00:00,Spain,0.5461025920776653,1,1,es,MED,Europe
 '17abcf3665',extremes,Storm,#b3b2b1,wmo,tormenta costa suroeste de a coruña,2025-12-02T03:41:00+00:00,Spain,0.5459411547272229,1,2,es,MED,Europe
 '466e2a51f6',extremes,Storm,#b3b2b1,wmo,marejada ciclónica cumbres de la palma,2025-12-13T03:38:00+00:00,Spain,0.5459404561284353,1,1,es,MED,Europe
