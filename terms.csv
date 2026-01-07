@@ -1,5 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
+'93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2025-12-01T04:02:00+00:00,Argentina,0.7545155920598267,0,2,es,SES,South-America
+'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2025-12-02T03:41:00+00:00,Paraguay,0.7543138484417622,0,2,es,SES,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2025-12-14T03:49:00+00:00,Argentina,0.7475586202227803,0,2,es,SES,South-America
+'2f51d04c0e',extremes,Fog,#d60d2b,wmo,niebla españa,2025-12-03T03:40:00+00:00,Spain,0.736655590102398,0,2,es,MED,Europe
 '8be002d270',extremes,Drought,#edc291,edo,falta de lluvias venezuela,2025-12-02T03:41:00+00:00,Venezuela,0.6402285381066207,1,2,es,NSA,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paraguay,2025-11-30T03:46:00+00:00,Paraguay,0.639894558412418,1,1,es,SES,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2025-12-14T03:49:00+00:00,Argentina,0.6390230416827092,1,3,es,SES,South-America
@@ -132,7 +136,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a0306f743b',extremes,Storm,#b3b2b1,wmo,tormenta oeste de la palma,2025-12-12T03:45:00+00:00,Spain,0.6024127215407841,0,2,es,MED,Europe
 '2b52ab7e3c',extremes,Thunderstorm,#53785a,wmo,granizo levante almeriense,2025-12-13T03:38:00+00:00,Spain,0.6023630694455142,0,2,es,MED,Europe
 'cedd1ba20a',extremes,Storm,#b3b2b1,wmo,marejada ciclónica cordillera sierra madre cordillera nevada,2025-12-05T03:41:00+00:00,United States,0.6023051974867952,0,2,es,CNA,North-America
+'5731fce9c0',extremes,Thunderstorm,#53785a,wmo,tiempo severo interior norte de castellón,2025-12-14T03:49:00+00:00,Spain,0.6019261400298682,0,2,es,MED,Europe
+'2474f8e864',extremes,Storm,#b3b2b1,wmo,canal de paso de tormentas,2025-11-30T03:46:00+00:00,United States,0.6016763656255651,0,2,es,CNA,North-America
 '48457b6eba',extremes,Earthquake,#870007,usgs,terremoto ovalle,2025-12-09T03:40:00+00:00,Chile,0.6016239463335309,1,1,es,SWS,South-America
+'35dfb17566',extremes,Storm,#b3b2b1,wmo,marejada ciclónica puerto de valdez,2025-12-09T03:41:00+00:00,United States,0.601325813567695,0,2,es,CNA,North-America
+'d2fee1a180',extremes,Snow&Ice,#d60d2b,wmo,nieve montañas del sur de clearwater,2025-12-02T03:41:00+00:00,United States,0.6012622241261433,0,2,es,CNA,North-America
+'94af32816d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa lanzarote,2025-12-03T03:40:00+00:00,Spain,0.6010737904230541,0,2,es,MED,Europe
+'7e75768105',extremes,Thunderstorm,#53785a,wmo,tiempo severo oeste de la palma,2025-12-13T03:38:00+00:00,Spain,0.6008383207736839,0,2,es,MED,Europe
 '76196dc5e1',extremes,Earthquake,#870007,usgs,terremoto guatemala,2025-12-09T03:40:00+00:00,Guatemala,0.6004976712145094,1,1,es,SCA,North-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2025-12-14T03:49:00+00:00,Chile,0.5997421954555897,1,1,es,SWS,South-America
 'a65a81b59a',extremes,Earthquake,#870007,usgs,terremoto tectitán,2025-11-29T03:34:00+00:00,Guatemala,0.594281441977873,1,1,es,SCA,North-America
