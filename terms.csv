@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
+'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2025-12-02T03:41:00+00:00,Paraguay,0.7543138484417622,0,2,es,SES,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2025-12-14T03:49:00+00:00,Argentina,0.7475586202227803,0,2,es,SES,South-America
 '2f51d04c0e',extremes,Fog,#d60d2b,wmo,niebla españa,2025-12-03T03:40:00+00:00,Spain,0.736655590102398,0,2,es,MED,Europe
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2025-12-01T04:02:00+00:00,Argentina,0.6518385532508526,1,2,es,SES,South-America
@@ -10,6 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,precipitación ecuador,2025-12-19T03:46:00+00:00,Ecuador,0.6349986849032168,1,2,es,NWS,South-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2025-12-07T03:46:00+00:00,Chile,0.6337197942938055,1,2,es,SWS,South-America
 '3967ab9290',extremes,Storm,#b3b2b1,wmo,marejada ciclónica valdez se estrecha,2025-12-11T03:46:00+00:00,United States,0.6336838894096728,0,2,es,CNA,North-America
+'793f85da70',extremes,Storm,#b3b2b1,wmo,marejada ciclónica interior de alicante,2025-12-04T03:42:00+00:00,Spain,0.6332411109902807,0,2,es,MED,Europe
 'a16de3dc21',extremes,Earthquake,#870007,usgs,terremoto mene grande,2025-12-03T03:40:00+00:00,Venezuela,0.6331616478445199,1,1,es,NSA,South-America
 'fa77cf1f9e',extremes,Storm,#b3b2b1,wmo,tormenta mendoza gral alvear malargue.,2025-12-04T03:42:00+00:00,Argentina,0.6326314482478258,1,1,es,SES,South-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2025-12-16T03:47:00+00:00,Argentina,0.6324991813510371,1,2,es,SES,South-America
@@ -139,8 +142,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2fee1a180',extremes,Snow&Ice,#d60d2b,wmo,nieve montañas del sur de clearwater,2025-12-02T03:41:00+00:00,United States,0.6012622241261433,0,2,es,CNA,North-America
 '94af32816d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa lanzarote,2025-12-03T03:40:00+00:00,Spain,0.6010737904230541,0,2,es,MED,Europe
 '7e75768105',extremes,Thunderstorm,#53785a,wmo,tiempo severo oeste de la palma,2025-12-13T03:38:00+00:00,Spain,0.6008383207736839,0,2,es,MED,Europe
+'c04e6e9b37',extremes,Storm,#b3b2b1,wmo,tormenta elkhead y montañas del parque,2025-12-05T03:41:00+00:00,United States,0.6005938226894131,0,2,es,CNA,North-America
 '76196dc5e1',extremes,Earthquake,#870007,usgs,terremoto guatemala,2025-12-09T03:40:00+00:00,Guatemala,0.6004976712145094,1,1,es,SCA,North-America
+'85abccab8c',extremes,Thunderstorm,#53785a,wmo,tormenta la gomera,2025-12-13T03:38:00+00:00,Spain,0.6003877731963307,0,2,es,MED,Europe
+'9d62afe242',extremes,Storm,#b3b2b1,wmo,tormenta carroll whiteside,2025-12-07T03:47:00+00:00,United States,0.6002085546984512,0,2,es,CNA,North-America
+'453ac3d6b2',extremes,Storm,#b3b2b1,wmo,marejada ciclónica ceuta,2025-12-14T03:49:00+00:00,Spain,0.5998996566501558,0,2,es,MED,Europe
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2025-12-14T03:49:00+00:00,Chile,0.5997421954555897,1,1,es,SWS,South-America
+'c3b0bd6e01',extremes,Storm,#b3b2b1,wmo,tormenta kiska al lado attu bering,2025-12-03T03:40:00+00:00,United States,0.5996940566165462,0,2,es,CNA,North-America
+'ff585f8cff',extremes,Storm,#b3b2b1,wmo,tormenta ceuta,2025-12-14T03:49:00+00:00,Spain,0.5996362350949144,0,2,es,MED,Europe
+'b440dd1d18',extremes,Snow&Ice,#d60d2b,wmo,entrada de Snow Cook al norte de la isla de Kalgin,2025-12-18T03:44:00+00:00,United States,0.5996007552652939,0,2,es,CNA,North-America
 'a65a81b59a',extremes,Earthquake,#870007,usgs,terremoto tectitán,2025-11-29T03:34:00+00:00,Guatemala,0.594281441977873,1,1,es,SCA,North-America
 '0a8dada260',extremes,Drought,#edc291,edo,sequía honduras,2025-11-27T03:34:00+00:00,Honduras,0.5922737664584359,1,2,es,SCA,North-America
 'd9ffdd914a',extremes,Fog,#d60d2b,wmo,niebla meseta de valladolid,2025-11-28T03:34:00+00:00,Spain,0.5910644125734434,1,1,es,MED,Europe
