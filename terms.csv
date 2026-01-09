@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2025-12-01T04:02:00+00:00,Argentina,0.6518385532508526,1,2,es,SES,South-America
 '2e97281900',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa oeste de a coruña,2025-11-30T03:46:00+00:00,Spain,0.6433922680289946,0,2,es,MED,Europe
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2025-12-02T03:41:00+00:00,Paraguay,0.6423668911754978,1,2,es,SES,South-America
 'be4e178bab',extremes,Storm,#b3b2b1,wmo,marejada ciclónica uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.6413747415803478,1,1,es,SES,South-America
@@ -60,7 +59,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '39ef6043d8',extremes,Precipitation,#d60d2b,wmo,lluvia españa,2025-12-14T03:49:00+00:00,Spain,0.6179208042972543,0,2,es,MED,Europe
 'd5d4b91634',extremes,Earthquake,#870007,usgs,terremoto vinchina,2025-12-02T03:41:00+00:00,Argentina,0.6177665969244327,1,1,es,SWS,South-America
 '1ef7a68493',extremes,Snow&Ice,#d60d2b,wmo,heladas puerto de valdez,2025-12-18T03:44:00+00:00,United States,0.6177281600049169,0,2,es,CNA,North-America
-'61638d8200',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa miño de pontevedra,2025-12-01T04:02:00+00:00,Spain,0.6169514025219817,0,2,es,MED,Europe
 '517e4b4a9e',extremes,Storm,#b3b2b1,wmo,tormenta canal norte de lynn,2025-12-18T03:44:00+00:00,United States,0.6166040345388315,0,2,es,CNA,North-America
 '6432f9d900',extremes,Earthquake,#870007,usgs,terremoto pueblo nuevo,2025-12-08T03:44:00+00:00,Venezuela,0.6165233012564595,0,2,es,CAR,North-America
 '6fb0f66509',extremes,Storm,#b3b2b1,wmo,marejada ciclónica en las montañas del Panhandle central,2025-12-06T03:32:00+00:00,United States,0.6160860504003294,0,2,es,CNA,North-America
@@ -258,6 +256,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b55290ca0d',extremes,Drought,#edc291,edo,sequía argentina,2025-12-08T03:45:00+00:00,Argentina,0.55742801463996,1,3,es,SES,South-America
 '7ec89fdd56',extremes,Earthquake,#870007,usgs,terremoto la esperanza el zapotal,2025-12-04T03:42:00+00:00,Mexico,0.5571686671556101,1,1,es,SCA,North-America
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,heladas estados unidos,2025-12-09T03:41:00+00:00,United States,0.5568187692029938,1,2,es,CNA,North-America
+'93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2025-12-01T04:02:00+00:00,Argentina,0.5567630402632247,2,2,es,SES,South-America
 '518916cb55',extremes,Fog,#d60d2b,wmo,niebla parameras de molina,2025-12-06T03:32:00+00:00,Spain,0.5562419602081657,1,1,es,MED,Europe
 '331f9db5d5',extremes,Snow&Ice,#d60d2b,wmo,hielo españa,2025-12-13T03:38:00+00:00,Spain,0.555300661945106,1,3,es,MED,Europe
 '3dd8c66577',extremes,Fog,#d60d2b,wmo,niebla ribera del ebro de navarra,2025-12-11T03:46:00+00:00,Spain,0.5552082989748529,1,1,es,MED,Europe
