@@ -1,4 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
+'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paraguay,2025-11-30T03:46:00+00:00,Paraguay,0.7528171275440213,0,2,es,SES,South-America
 '2e97281900',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa oeste de a coruña,2025-11-30T03:46:00+00:00,Spain,0.6433922680289946,0,2,es,MED,Europe
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2025-12-02T03:41:00+00:00,Paraguay,0.6423668911754978,1,2,es,SES,South-America
 'be4e178bab',extremes,Storm,#b3b2b1,wmo,marejada ciclónica uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.6413747415803478,1,1,es,SES,South-America
@@ -38,6 +40,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b759e0d5cd',extremes,Drought,#edc291,edo,sequía en Panamá,2025-12-08T03:45:00+00:00,Panama,0.6227690831663025,1,2,es,SCA,North-America
 '0f7c09d3e3',extremes,Storm,#b3b2b1,wmo,tormenta islas áridas al este,2025-12-06T03:32:00+00:00,United States,0.622642844954939,0,2,es,CNA,North-America
 'e25cd0bfd5',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa litoral oriental asturiano,2025-12-12T03:45:00+00:00,Spain,0.6226287264261245,0,2,es,MED,Europe
+'caf8d96522',extremes,Storm,#b3b2b1,wmo,marejada ciclónica noroeste de murcia,2025-12-04T03:42:00+00:00,Spain,0.6225690022226662,0,2,es,MED,Europe
 'd389bc4f63',extremes,Earthquake,#870007,usgs,terremoto mexico,2025-12-08T03:44:00+00:00,Mexico,0.6220136284254417,1,1,es,NCA,North-America
 '7d308de224',extremes,Storm,#b3b2b1,wmo,tormenta costa poniente y almería capital,2025-12-03T03:40:00+00:00,Spain,0.621430034182444,0,2,es,MED,Europe
 '9c483c3e11',extremes,Thunderstorm,#53785a,wmo,tiempo severo norte de tenerife,2025-12-12T03:45:00+00:00,Spain,0.6208797627234832,0,2,es,MED,Europe
@@ -59,6 +62,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '39ef6043d8',extremes,Precipitation,#d60d2b,wmo,lluvia españa,2025-12-14T03:49:00+00:00,Spain,0.6179208042972543,0,2,es,MED,Europe
 'd5d4b91634',extremes,Earthquake,#870007,usgs,terremoto vinchina,2025-12-02T03:41:00+00:00,Argentina,0.6177665969244327,1,1,es,SWS,South-America
 '1ef7a68493',extremes,Snow&Ice,#d60d2b,wmo,heladas puerto de valdez,2025-12-18T03:44:00+00:00,United States,0.6177281600049169,0,2,es,CNA,North-America
+'61638d8200',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa miño de pontevedra,2025-12-01T04:02:00+00:00,Spain,0.6169514025219817,0,2,es,MED,Europe
 '517e4b4a9e',extremes,Storm,#b3b2b1,wmo,tormenta canal norte de lynn,2025-12-18T03:44:00+00:00,United States,0.6166040345388315,0,2,es,CNA,North-America
 '6432f9d900',extremes,Earthquake,#870007,usgs,terremoto pueblo nuevo,2025-12-08T03:44:00+00:00,Venezuela,0.6165233012564595,0,2,es,CAR,North-America
 '6fb0f66509',extremes,Storm,#b3b2b1,wmo,marejada ciclónica en las montañas del Panhandle central,2025-12-06T03:32:00+00:00,United States,0.6160860504003294,0,2,es,CNA,North-America
@@ -149,6 +153,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '25ca2338c6',extremes,Precipitation,#d60d2b,wmo,aguacero oeste de la palma,2025-12-14T03:49:00+00:00,Spain,0.5988220004568985,0,2,es,MED,Europe
 '69dfb15ea7',extremes,Storm,#b3b2b1,wmo,tormenta adak al lado de kiska bering,2025-12-08T03:44:00+00:00,United States,0.5987908056980442,0,2,es,CNA,North-America
 '4082d8bf20',extremes,Thunderstorm,#53785a,wmo,tiempo severo noroeste de murcia,2025-12-13T03:38:00+00:00,Spain,0.5986513223361459,0,2,es,MED,Europe
+'c00b565e50',extremes,Snow&Ice,#d60d2b,wmo,precio de la nieve,2025-11-30T03:46:00+00:00,United States,0.5983068096684505,0,2,es,CNA,North-America
+'ac81f8a89e',extremes,Thunderstorm,#53785a,wmo,tormenta altiplano de murcia,2025-12-14T03:49:00+00:00,Spain,0.5981243011530978,0,2,es,MED,Europe
+'dfe9f5bf1b',extremes,Storm,#b3b2b1,wmo,tormenta melekeok airai koror,2025-12-06T03:32:00+00:00,United States,0.5981225648691383,0,2,es,CNA,North-America
+'49891f2f26',extremes,Storm,#b3b2b1,wmo,tormenta del puerto de boston,2025-12-19T03:46:00+00:00,United States,0.5980682133009875,0,2,es,CNA,North-America
+'d39cb57e1a',extremes,Storm,#b3b2b1,wmo,marejada ciclónica currituck sound,2025-12-01T04:02:00+00:00,United States,0.5980583697962402,0,2,es,CNA,North-America
+'851233933e',extremes,Snow&Ice,#d60d2b,wmo,heladas montañas del noroeste de san juan,2025-12-03T03:40:00+00:00,United States,0.597928691502369,0,2,es,CNA,North-America
 '0a8dada260',extremes,Drought,#edc291,edo,sequía honduras,2025-11-27T03:34:00+00:00,Honduras,0.5922737664584359,1,2,es,SCA,North-America
 'f478344c91',extremes,Drought,#edc291,edo,sequía paraguay,2025-12-16T03:47:00+00:00,Paraguay,0.5904339847035949,1,2,es,SES,South-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2025-12-19T03:45:00+00:00,Chile,0.590165180794731,1,1,es,SWS,South-America
