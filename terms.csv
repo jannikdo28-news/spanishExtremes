@@ -36,7 +36,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0f7c09d3e3',extremes,Storm,#b3b2b1,wmo,tormenta islas áridas al este,2025-12-06T03:32:00+00:00,United States,0.622642844954939,0,2,es,CNA,North-America
 'e25cd0bfd5',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa litoral oriental asturiano,2025-12-12T03:45:00+00:00,Spain,0.6226287264261245,0,2,es,MED,Europe
 'caf8d96522',extremes,Storm,#b3b2b1,wmo,marejada ciclónica noroeste de murcia,2025-12-04T03:42:00+00:00,Spain,0.6225690022226662,0,2,es,MED,Europe
-'d389bc4f63',extremes,Earthquake,#870007,usgs,terremoto mexico,2025-12-08T03:44:00+00:00,Mexico,0.6220136284254417,1,1,es,NCA,North-America
 '7d308de224',extremes,Storm,#b3b2b1,wmo,tormenta costa poniente y almería capital,2025-12-03T03:40:00+00:00,Spain,0.621430034182444,0,2,es,MED,Europe
 '9c483c3e11',extremes,Thunderstorm,#53785a,wmo,tiempo severo norte de tenerife,2025-12-12T03:45:00+00:00,Spain,0.6208797627234832,0,2,es,MED,Europe
 '1cc1b90796',extremes,Storm,#b3b2b1,wmo,marejada ciclónica cuenca del nervión,2025-12-08T03:44:00+00:00,Spain,0.6206160095831261,0,2,es,MED,Europe
