@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2025-12-04T03:42:00+00:00,Chile,0.6508238118799895,1,2,es,SWS,South-America
-'d5edd2afe3',extremes,Storm,#b3b2b1,wmo,tormenta costa litoral oriental asturiano,2025-12-01T04:02:00+00:00,Spain,0.6462670470276443,0,2,es,MED,Europe
 '2e97281900',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa oeste de a coruña,2025-11-30T03:46:00+00:00,Spain,0.6433922680289946,0,2,es,MED,Europe
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2025-12-02T03:41:00+00:00,Paraguay,0.6411668761754978,1,1,es,SES,South-America
 '8be002d270',extremes,Drought,#edc291,edo,falta de lluvias venezuela,2025-12-02T03:41:00+00:00,Venezuela,0.6402285381066207,1,2,es,NSA,South-America
@@ -228,6 +226,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2025-12-14T03:49:00+00:00,United States,0.5636238952319377,1,2,es,CNA,North-America
 '0bcfb9c197',extremes,Flood,#030ba1,wmo,inundación repentina en washington o,2025-12-19T03:46:00+00:00,United States,0.5635764329582421,1,1,es,CNA,North-America
 '4d738c4938',extremes,Flood,#030ba1,wmo,inundación pacífico wa wahkiakum wa,2025-12-09T03:41:00+00:00,United States,0.5635131322403544,1,1,es,CNA,North-America
+'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2025-12-04T03:42:00+00:00,Chile,0.5634934122408483,2,2,es,SWS,South-America
 '5b657d1aec',extremes,Flood,#030ba1,wmo,inundación de la costa del condado del puerto de Grays,2025-12-06T03:32:00+00:00,United States,0.563460536307982,1,1,es,CNA,North-America
 '784121ab4b',extremes,Fog,#d60d2b,wmo,niebla valle del guadiana,2025-12-18T03:44:00+00:00,Spain,0.5632461890122613,1,2,es,MED,Europe
 '276eca33cd',extremes,Flood,#030ba1,wmo,rey de la inundación repentina wa pierce wa,2025-12-15T03:54:00+00:00,United States,0.5630757146309755,2,1,es,CNA,North-America
