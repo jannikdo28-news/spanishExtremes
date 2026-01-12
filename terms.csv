@@ -1,6 +1,16 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'8d6eb5f6e2',extremes,Precipitation,#d60d2b,wmo,aguacero zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.7622272452833816,0,2,es,NWS,South-America
+'be4e178bab',extremes,Storm,#b3b2b1,wmo,marejada ciclónica uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.7545585195062916,0,2,es,SES,South-America
+'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paraguay,2025-11-30T03:46:00+00:00,Paraguay,0.7528171275440213,0,2,es,SES,South-America
+'4496a0cd3b',extremes,Storm,#b3b2b1,wmo,marejada ciclónica territorio nacional.,2025-12-01T04:02:00+00:00,Paraguay,0.751266045890377,0,2,es,SES,South-America
+'a16de3dc21',extremes,Earthquake,#870007,usgs,terremoto mene grande,2025-12-03T03:40:00+00:00,Venezuela,0.7448960562876705,0,2,es,NSA,South-America
+'e3449c4e60',extremes,Earthquake,#870007,usgs,terremoto de atocha,2025-12-01T04:02:00+00:00,Bolivia,0.7419957997091131,0,2,es,SWS,South-America
+'5808ad2034',extremes,Earthquake,#870007,usgs,terremoto josé maría morelos,2025-12-06T03:32:00+00:00,Mexico,0.7390989625384293,0,2,es,NCA,North-America
+'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2025-11-30T03:46:00+00:00,Argentina,0.727449680958157,0,2,es,SES,South-America
+'d5d4b91634',extremes,Earthquake,#870007,usgs,terremoto vinchina,2025-12-02T03:41:00+00:00,Argentina,0.7267842316758032,0,2,es,SWS,South-America
 'cd74d750ef',extremes,Drought,#edc291,edo,falta de lluvia bolivia,2025-11-30T03:47:00+00:00,Bolivia,0.6890322907842933,0,2,es,SAM,South-America
 '331dc2fd4a',extremes,Thunderstorm,#53785a,wmo,tormenta españa,2025-11-30T03:46:00+00:00,Spain,0.668368991053163,0,2,es,MED,Europe
+'86e72ff688',extremes,Flood,#030ba1,wmo,inundaciones lewis wa,2025-12-09T03:41:00+00:00,United States,0.665498672539393,0,2,es,CNA,North-America
 '7385efc9e1',extremes,Drought,#edc291,edo,falta de lluvia peru,2025-12-01T04:02:00+00:00,Peru,0.6635332445081895,0,2,es,NWS,South-America
 'acb64f8584',extremes,Flood,#030ba1,wmo,inundación wahkiakum wa,2025-12-08T03:44:00+00:00,United States,0.662494306278737,0,2,es,CNA,North-America
 '2e97281900',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa oeste de a coruña,2025-11-30T03:46:00+00:00,Spain,0.6433922680289946,0,2,es,MED,Europe
