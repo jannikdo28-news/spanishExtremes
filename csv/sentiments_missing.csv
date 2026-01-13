@@ -1,0 +1,43 @@
+,phrase,label,sentiment,subjectivity,language,count
+Mexican,Mexican,NORP,,,en,3.4000000000000004
+one hour,one hour,TIME,,,en,1.9
+"this Tuesday, December 16","this Tuesday, December 16",DATE,,,en,1.9
+up to 20 liters,up to 20 liters,QUANTITY,,,en,1.9
+two,two,CARDINAL,,,en,1.8
+first,first,ORDINAL,,,en,1.8
+hundreds,hundreds,CARDINAL,,,en,1.0
+Friday,Friday,DATE,,,en,1.0
+the Statue of Liberty,the Statue of Liberty,FAC,,,en,1.0
+Brazilian,Brazilian,NORP,,,en,1.0
+this Monday,this Monday,DATE,,,en,1.0
+Cantabrian,Cantabrian,NORP,,,en,1.0
+Two,Two,CARDINAL,,,en,1.0
+Wednesday,Wednesday,DATE,,,en,1.0
+Monday,Monday,DATE,,,en,1.0
+50 years,50 years,DATE,,,en,1.0
+"December 22, 1975","December 22, 1975",DATE,,,en,1.0
+Boeing,Boeing,PRODUCT,,,en,1.0
+707,707,PRODUCT,,,en,1.0
+Italian,Italian,NORP,,,en,1.0
+Argentine,Argentine,NORP,,,en,1.0
+this morning,this morning,TIME,,,en,1.0
+four-year,four-year,DATE,,,en,1.0
+Colombian,Colombian,NORP,,,en,1.0
+winter,winter,DATE,,,en,1.0
+At least two,At least two,CARDINAL,,,en,1.0
+seven,seven,CARDINAL,,,en,1.0
+the Torres del Paine National Park,the Torres del Paine National Park,FAC,,,en,1.0
+36 years old,36 years old,DATE,,,en,1.0
+37 years old,37 years old,DATE,,,en,1.0
+Michoacan,Michoacan,NORP,,,en,1.0
+eight years,eight years,DATE,,,en,1.0
+Winter,Winter,DATE,,,en,1.0
+the last date of the Clausura,the last date of the Clausura,DATE,,,en,1.0
+80%,80%,PERCENT,,,en,1.0
+Chileans,Chileans,NORP,,,en,1.0
+Only 10%,Only 10%,PERCENT,,,en,1.0
+"1,425","1,425",CARDINAL,,,en,1.0
+second,second,ORDINAL,,,en,1.0
+the year,the year,DATE,,,en,1.0
+Uruguayan,Uruguayan,NORP,,,en,1.0
+one million,one million,CARDINAL,,,en,1.0

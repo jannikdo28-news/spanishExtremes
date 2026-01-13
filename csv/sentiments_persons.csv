@@ -1,0 +1,10 @@
+,phrase,label,sentiment,subjectivity,language,count
+Bernardo Morato,Bernardo Morato,PERSON,0.008333333333333318,0.5208333333333334,en,1
+Enrique Sánchez,Enrique Sánchez,PERSON,0.15,0.35,en,1
+Julián García Pimentel,Julián García Pimentel,PERSON,0.15,0.35,en,1
+Cristina Calvillo Tovar,Cristina Calvillo Tovar,PERSON,0.15,0.35,en,1
+Cerro Porteño,Cerro Porteño,PERSON,0.0,0.0,en,1
+Jorge Bava,Jorge Bava,PERSON,0.0,0.0,en,1
+ASTRID SUÁREZ BOGOTÁ,ASTRID SUÁREZ BOGOTÁ,PERSON,-0.125,0.375,en,1
+Emilia Storm,Emilia Storm,PERSON,-0.041666666666666664,0.125,en,1
+Luciano Pavarotti,Luciano Pavarotti,PERSON,0.0,0.0,en,1

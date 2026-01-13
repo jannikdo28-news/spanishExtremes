@@ -1,0 +1,10 @@
+domain,sentiment_mean,sentiment_std,subjectivity_mean,subjectivity_std,counting
+www.europapress.es,-0.04972222222222222,0.015145895422461763,0.23138888888888887,0.16104332865320345,3.0
+www.excelsior.com.mx,0.12555555555555556,0.12176175888153852,0.36185185185185187,0.07223361733466649,3.0
+www.bostonherald.com,-0.125,0.0,0.375,0.0,2.0
+actualidad.rt.com,0.0,1.0,0.0,1.0,1.0
+www.cnnchile.com,0.0,1.0,0.0,1.0,1.0
+www.elmundo.es,0.0,1.0,0.0,1.0,1.0
+www.milenio.com,0.0,1.0,0.0,1.0,1.0
+www.montevideo.com.uy,0.0,1.0,0.0,1.0,1.0
+www.nacion.com,0.0,1.0,0.0,1.0,1.0

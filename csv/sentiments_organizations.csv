@@ -1,0 +1,10 @@
+,phrase,label,sentiment,subjectivity,language,count
+AP,AP,ORG,-0.06578947368421052,0.19736842105263158,en,1.9
+Michoacán,Michoacán,ORG,0.016666666666666663,0.0,en,1.0
+The National Meteorological Service (SMN,The National Meteorological Service (SMN,ORG,0.25,0.0,en,1.0
+Colombian Ombudsman,Colombian Ombudsman,ORG,-0.125,0.0,en,1.0
+Ombudsman's,Ombudsman's,ORG,-0.125,0.0,en,1.0
+The Emergency Coordination Center,The Emergency Coordination Center,ORG,-0.05,0.0,en,1.0
+Mazarrón,Mazarrón,ORG,0.0,0.0,en,1.0
+The State Meteorological Agency,The State Meteorological Agency,ORG,-0.1,0.0,en,1.0
+TWA,TWA,ORG,0.1,0.0,en,1.0
