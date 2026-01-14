@@ -21,9 +21,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2025-11-29T03:34:00+00:00,Bolivia,0.6282745730444045,1,2,es,SWS,South-America
 '5808ad2034',extremes,Earthquake,#870007,usgs,terremoto josé maría morelos,2025-12-06T03:32:00+00:00,Mexico,0.628234118157665,1,1,es,NCA,North-America
 'd389bc4f63',extremes,Earthquake,#870007,usgs,terremoto mexico,2025-12-08T03:44:00+00:00,Mexico,0.6220136434254417,1,1,es,NCA,North-America
-'6fb0f66509',extremes,Storm,#b3b2b1,wmo,marejada ciclónica en las montañas del Panhandle central,2025-12-06T03:32:00+00:00,United States,0.6160860504003294,0,2,es,CNA,North-America
-'f737adcac9',extremes,Storm,#b3b2b1,wmo,bahía de la resurrección de la tormenta,2025-12-05T03:41:00+00:00,United States,0.6154227154797517,0,2,es,CNA,North-America
-'b369b1146e',extremes,Thunderstorm,#53785a,wmo,granizo litoral norte de castellón,2025-12-15T03:54:00+00:00,Spain,0.6133701696137364,0,2,es,MED,Europe
+'b369b1146e',extremes,Thunderstorm,#53785a,wmo,granizo litoral norte de castellón,2025-12-15T03:54:00+00:00,Spain,0.6133701696137364,1,1,es,MED,Europe
 '970631bf41',extremes,Storm,#b3b2b1,wmo,marejada ciclónica mason oceana muskegon ottawa,2025-12-02T03:41:00+00:00,United States,0.6126820962339826,0,2,es,CNA,North-America
 'ca8e8f590d',extremes,Storm,#b3b2b1,wmo,tormenta litoral sur de tarragona,2025-12-16T03:47:00+00:00,Spain,0.611477603151406,0,2,es,MED,Europe
 '18672f438d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica bahía marmota,2025-12-11T03:46:00+00:00,United States,0.6114254394340557,0,2,es,CNA,North-America
