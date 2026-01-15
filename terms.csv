@@ -1,12 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '8be002d270',extremes,Drought,#edc291,edo,falta de lluvias venezuela,2025-12-02T03:41:00+00:00,Venezuela,0.7902285381066207,1,2,es,NSA,South-America
+'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2025-12-16T03:47:00+00:00,Argentina,0.7886683271127867,1,3,es,SES,South-America
 '6977afac24',extremes,Volcano,#b83202,eonet,volcán puracé colombia,2025-12-06T03:32:00+00:00,Colombia,0.7859443849222071,0,1,es,NWS,South-America
-'56dca2743f',extremes,Drought,#edc291,edo,sequía en guinea ecuatorial,2025-12-07T03:47:00+00:00,Equatorial Guinea,0.7619164875327683,0,1,es,WAF,Africa
-'be4e178bab',extremes,Storm,#b3b2b1,wmo,marejada ciclónica uruguay,2025-12-02T03:41:00+00:00,Uruguay,0.7545585195062916,0,1,es,SES,South-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2025-12-01T04:02:00+00:00,Argentina,0.7545155920598267,0,1,es,SES,South-America
-'4bfa6ec544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paraguay,2025-11-30T03:46:00+00:00,Paraguay,0.7528171275440213,0,1,es,SES,South-America
-'4496a0cd3b',extremes,Storm,#b3b2b1,wmo,marejada ciclónica territorio nacional.,2025-12-01T04:02:00+00:00,Paraguay,0.751266045890377,0,1,es,SES,South-America
-'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2025-12-16T03:47:00+00:00,Argentina,0.7455492260150431,0,1,es,SES,South-America
 'a16de3dc21',extremes,Earthquake,#870007,usgs,terremoto mene grande,2025-12-03T03:40:00+00:00,Venezuela,0.7448960562876705,0,1,es,NSA,South-America
 '6432f9d900',extremes,Earthquake,#870007,usgs,terremoto pueblo nuevo,2025-12-08T03:44:00+00:00,Venezuela,0.6771951210679905,1,3,es,CAR,North-America
 'd2ae80a4d6',extremes,Snow&Ice,#d60d2b,wmo,avalancha españa,2025-12-15T03:54:00+00:00,Spain,0.6720465336978293,1,3,es,MED,Europe
