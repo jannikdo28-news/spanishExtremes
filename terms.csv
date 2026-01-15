@@ -294,3 +294,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eea762c52b',extremes,Snow&Ice,#d60d2b,wmo,nieve en la bahía de Bristol a más de 15 millas náuticas,2025-12-19T03:46:00+00:00,United States,0.4627117641271703,2,1,es,CNA,North-America
 'e98677553f',extremes,Storm,#b3b2b1,wmo,tormenta este sur y oeste de tenerife,2025-12-14T03:49:00+00:00,Spain,0.4626881334929916,2,2,es,MED,Europe
 '74ae24437b',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial españa,2025-12-14T03:49:00+00:00,Spain,0.4609469139560703,2,2,es,MED,Europe
+'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,el año más frío.,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,es,,
+'b6cef22543',extremes,Drought,#edc291,random,restricción de agua,2026-01-15T10:20:00+00:00,,0.25669966665781385,0,1,es,,
+'95b2881221',extremes,Precipitation,#d60d2b,random,río atmosférico,2026-01-15T10:20:00+00:00,,0.25657695119733326,0,1,es,,
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frío récord,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,es,,
+'633ed59c63',extremes,Iceberg,#d60d2b,random,hielo marino ártico,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,es,,
+'0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,es,,
