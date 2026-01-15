@@ -1,8 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'e5b46f3978',extremes,Drought,#edc291,edo,sequía argentina,2026-01-15T10:57:00+00:00,Argentina,0.8267001695066931,1,3,es,SES,South-America
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.8229892510184902,1,2,es,SES,South-America
-'072f41af80',extremes,Earthquake,#870007,usgs,terremoto de aratoca,2026-01-15T10:56:00+00:00,Colombia,0.7915472262949784,0,1,es,NWS,South-America
-'43165fdae0',extremes,Earthquake,#870007,usgs,terremoto villa basilio nieves,2026-01-15T12:13:00+00:00,Argentina,0.791546884645251,0,1,es,SWS,South-America
-'e5b46f3978',extremes,Drought,#edc291,edo,sequía argentina,2026-01-15T10:57:00+00:00,Argentina,0.7902933111843449,0,1,es,SES,South-America
 'c92435bdaa',extremes,Drought,#edc291,edo,falta de lluvia el salvador,2026-01-15T10:57:00+00:00,El Salvador,0.790287420370461,0,1,es,SCA,North-America
 '8be002d270',extremes,Drought,#edc291,edo,falta de lluvias venezuela,2025-12-02T03:41:00+00:00,Venezuela,0.7902285381066207,1,2,es,NSA,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2025-12-16T03:47:00+00:00,Argentina,0.7886683271127867,1,3,es,SES,South-America
@@ -14,6 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6432f9d900',extremes,Earthquake,#870007,usgs,terremoto pueblo nuevo,2025-12-08T03:44:00+00:00,Venezuela,0.6771951210679905,1,3,es,CAR,North-America
 '6bad2a8cbc',extremes,Earthquake,#870007,usgs,terremoto san agustín de valle fértil,2026-01-15T12:13:00+00:00,Argentina,0.6728924084616035,1,1,es,SES,South-America
 '464d595634',extremes,Earthquake,#870007,usgs,terremoto camiña,2026-01-15T12:13:00+00:00,Chile,0.6728696018177922,1,1,es,SWS,South-America
+'43165fdae0',extremes,Earthquake,#870007,usgs,terremoto villa basilio nieves,2026-01-15T12:13:00+00:00,Argentina,0.6728148519484634,1,1,es,SWS,South-America
 'd2ae80a4d6',extremes,Snow&Ice,#d60d2b,wmo,avalancha españa,2025-12-15T03:54:00+00:00,Spain,0.6720465336978293,1,3,es,MED,Europe
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2025-12-02T03:41:00+00:00,Paraguay,0.6417668311754978,1,2,es,SES,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2025-12-14T03:49:00+00:00,Argentina,0.6390230416827092,1,3,es,SES,South-America
