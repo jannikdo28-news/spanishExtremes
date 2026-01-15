@@ -23,9 +23,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5808ad2034',extremes,Earthquake,#870007,usgs,terremoto josé maría morelos,2025-12-06T03:32:00+00:00,Mexico,0.628234118157665,1,1,es,NCA,North-America
 'd389bc4f63',extremes,Earthquake,#870007,usgs,terremoto mexico,2025-12-08T03:44:00+00:00,Mexico,0.6220136434254417,1,1,es,NCA,North-America
 'b369b1146e',extremes,Thunderstorm,#53785a,wmo,granizo litoral norte de castellón,2025-12-15T03:54:00+00:00,Spain,0.6133701696137364,1,1,es,MED,Europe
-'bbf4913d20',extremes,Snow&Ice,#d60d2b,wmo,avalancha york lancaster,2025-12-02T03:41:00+00:00,United States,0.610122871776119,0,2,es,CNA,North-America
-'b76be369f8',extremes,Storm,#b3b2b1,wmo,tormenta prelitoral norte de tarragona,2025-12-05T03:41:00+00:00,Spain,0.610057133493404,0,2,es,MED,Europe
-'ecf3b73558',extremes,Snow&Ice,#d60d2b,wmo,nieve españa,2025-12-16T03:47:00+00:00,Spain,0.6099039441146444,0,2,es,MED,Europe
 '85fe200940',extremes,Storm,#b3b2b1,wmo,tormenta costa bizkaia litoral,2025-12-12T03:45:00+00:00,Spain,0.6098223179204937,0,2,es,MED,Europe
 'b6560405fd',extremes,Storm,#b3b2b1,wmo,tormenta costa norte de tenerife,2025-12-11T03:46:00+00:00,Spain,0.6094194908666214,0,2,es,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2025-12-07T03:46:00+00:00,Argentina,0.6090562835152097,1,2,es,SWS,South-America
@@ -43,6 +40,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '92829ce601',extremes,Storm,#b3b2b1,wmo,tormenta puerto de valdez,2025-12-07T03:47:00+00:00,United States,0.6061022999924617,0,2,es,CNA,North-America
 '7e5dd54b87',extremes,Snow&Ice,#d60d2b,wmo,morris congelado,2025-12-02T03:41:00+00:00,United States,0.6060958490150149,0,2,es,CNA,North-America
 'c89c963081',extremes,Snow&Ice,#d60d2b,wmo,hielo fluvanna louisa occidental,2025-12-02T03:41:00+00:00,United States,0.6056216543740572,0,2,es,CNA,North-America
+'ecf3b73558',extremes,Snow&Ice,#d60d2b,wmo,nieve españa,2025-12-16T03:47:00+00:00,Spain,0.6051937493156295,1,3,es,MED,Europe
 'e1704522e0',extremes,Thunderstorm,#53785a,wmo,tiempo severo litoral de barcelona,2025-12-14T03:49:00+00:00,Spain,0.6051817002592744,0,2,es,MED,Europe
 '925cc6c6e9',extremes,Drought,#edc291,edo,sequía en costa rica,2025-12-02T03:41:00+00:00,Costa Rica,0.6047343021764736,0,2,es,SCA,South-America
 '78c7256414',extremes,Snow&Ice,#d60d2b,wmo,escarcha cañón cimarrón estribaciones de sheridan,2025-12-02T03:41:00+00:00,United States,0.6046556134064728,0,2,es,CNA,North-America
@@ -295,8 +293,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e98677553f',extremes,Storm,#b3b2b1,wmo,tormenta este sur y oeste de tenerife,2025-12-14T03:49:00+00:00,Spain,0.4626881334929916,2,2,es,MED,Europe
 '74ae24437b',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial españa,2025-12-14T03:49:00+00:00,Spain,0.4609469139560703,2,2,es,MED,Europe
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,el año más frío.,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,es,,
-'b6cef22543',extremes,Drought,#edc291,random,restricción de agua,2026-01-15T10:20:00+00:00,,0.25669966665781385,0,1,es,,
-'95b2881221',extremes,Precipitation,#d60d2b,random,río atmosférico,2026-01-15T10:20:00+00:00,,0.25657695119733326,0,1,es,,
+'b6cef22543',extremes,Drought,#edc291,random,restricción de agua,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,es,,
+'95b2881221',extremes,Precipitation,#d60d2b,random,río atmosférico,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,es,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,frío récord,2026-01-15T10:20:00+00:00,,0.2565293677315337,0,1,es,,
 '633ed59c63',extremes,Iceberg,#d60d2b,random,hielo marino ártico,2026-01-15T10:20:00+00:00,,0.256417319727148,0,1,es,,
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-01-15T10:20:00+00:00,,0.2562914317228042,0,1,es,,
