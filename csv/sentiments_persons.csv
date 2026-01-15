@@ -1,10 +1,27 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Bernardo Morato,Bernardo Morato,PERSON,0.008333333333333318,0.5208333333333334,en,1
-Enrique Sánchez,Enrique Sánchez,PERSON,0.15,0.35,en,1
-Julián García Pimentel,Julián García Pimentel,PERSON,0.15,0.35,en,1
-Cristina Calvillo Tovar,Cristina Calvillo Tovar,PERSON,0.15,0.35,en,1
-Cerro Porteño,Cerro Porteño,PERSON,0.0,0.0,en,1
-Jorge Bava,Jorge Bava,PERSON,0.0,0.0,en,1
-ASTRID SUÁREZ BOGOTÁ,ASTRID SUÁREZ BOGOTÁ,PERSON,-0.125,0.375,en,1
-Emilia Storm,Emilia Storm,PERSON,-0.041666666666666664,0.125,en,1
-Luciano Pavarotti,Luciano Pavarotti,PERSON,0.0,0.0,en,1
+Carlos Soria,Carlos Soria,PERSON,0.06666666666666667,0.24871794871794872,en,1.3
+Andrea Canepa,Andrea Canepa,PERSON,0.0,0.45454545454545453,en,1.1
+Bernardo Morato,Bernardo Morato,PERSON,0.008333333333333318,0.5208333333333334,en,1.0
+Lynne Ramsay,Lynne Ramsay,PERSON,0.5,0.6,en,1.0
+Los Pericos,Los Pericos,PERSON,0.2,0.7,en,1.0
+Nancy Dupláa,Nancy Dupláa,PERSON,0.5,0.6,en,1.0
+Pablo Echarri,Pablo Echarri,PERSON,0.5,0.6,en,1.0
+Nicolás Maduro,Nicolás Maduro,PERSON,-0.14072727272727273,0.43890909090909086,en,1.0
+Casal Solleric,Casal Solleric,PERSON,0.0,0.4,en,1.0
+Sofía Jujuy Jiménez,Sofía Jujuy Jiménez,PERSON,0.0,0.6,en,1.0
+Ricardo Darín,Ricardo Darín,PERSON,0.0,0.0,en,1.0
+Guillermo Francella,Guillermo Francella,PERSON,-0.07777777777777779,0.14444444444444446,en,1.0
+Liquid Glass,Liquid Glass,PERSON,0.0,0.0,en,1.0
+Oliver Laxe,Oliver Laxe,PERSON,0.5,0.6,en,1.0
+Enrique Sánchez,Enrique Sánchez,PERSON,0.15,0.35,en,1.0
+Julia Ducournau,Julia Ducournau,PERSON,0.5,0.6,en,1.0
+Snow Monsters,Snow Monsters,PERSON,0.1,0.4,en,1.0
+Luciano Pavarotti,Luciano Pavarotti,PERSON,0.0,0.0,en,1.0
+Emilia Storm,Emilia Storm,PERSON,-0.041666666666666664,0.125,en,1.0
+Jujutsu Kaisen,Jujutsu Kaisen,PERSON,0.5,0.5,en,1.0
+ASTRID SUÁREZ BOGOTÁ,ASTRID SUÁREZ BOGOTÁ,PERSON,-0.125,0.375,en,1.0
+Jorge Bava,Jorge Bava,PERSON,0.0,0.0,en,1.0
+Cerro Porteño,Cerro Porteño,PERSON,0.0,0.0,en,1.0
+Cristina Calvillo Tovar,Cristina Calvillo Tovar,PERSON,0.15,0.35,en,1.0
+Julián García Pimentel,Julián García Pimentel,PERSON,0.15,0.35,en,1.0
+Ale Sergi,Ale Sergi,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
