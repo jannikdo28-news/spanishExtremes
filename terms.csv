@@ -5,7 +5,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8be002d270',extremes,Drought,#edc291,edo,falta de lluvias venezuela,2025-12-02T03:41:00+00:00,Venezuela,0.7902285381066207,1,2,es,NSA,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2025-12-16T03:47:00+00:00,Argentina,0.7886683271127867,1,3,es,SES,South-America
 '6977afac24',extremes,Volcano,#b83202,eonet,volcán puracé colombia,2025-12-06T03:32:00+00:00,Colombia,0.7859443849222071,0,1,es,NWS,South-America
-'6f3e07a7e3',extremes,Snow&Ice,#d60d2b,wmo,hielo cordillera cantábrica de león,2026-01-15T10:56:00+00:00,Spain,0.7721828262603864,0,1,es,MED,Europe
 '605d0fe596',extremes,Snow&Ice,#d60d2b,wmo,sistema de hielo central de ávila,2026-01-15T10:56:00+00:00,Spain,0.7721823213668076,0,1,es,MED,Europe
 'b5804f885d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica oeste de a coruña,2026-01-15T10:56:00+00:00,Spain,0.772178557777957,0,1,es,MED,Europe
 'dfddc79ff8',extremes,Snow&Ice,#d60d2b,wmo,hielo sierra de madrid,2026-01-15T10:56:00+00:00,Spain,0.7721497251709785,0,1,es,MED,Europe
