@@ -2,7 +2,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e5b46f3978',extremes,Drought,#edc291,edo,sequía argentina,2026-01-15T10:57:00+00:00,Argentina,0.8267001695066931,1,3,es,SES,South-America
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.8229892510184902,1,2,es,SES,South-America
 '1c9dc747da',extremes,Drought,#edc291,edo,falta de lluvia cuba,2026-01-15T10:57:00+00:00,Cuba,0.8226192854877789,1,2,es,CAR,North-America
+'2c38aada07',extremes,Earthquake,#870007,usgs,terremoto colchane,2026-01-15T12:13:00+00:00,Chile,0.7916525780964712,0,1,es,SWS,South-America
 '8be002d270',extremes,Drought,#edc291,edo,falta de lluvias venezuela,2025-12-02T03:41:00+00:00,Venezuela,0.7902285381066207,1,2,es,NSA,South-America
+'63b3a5e343',extremes,Earthquake,#870007,usgs,terremoto san marcos,2026-01-15T10:56:00+00:00,Mexico,0.7902182791294816,0,1,es,SCA,North-America
 '8ed666f950',extremes,Earthquake,#870007,usgs,terremoto végueta,2026-01-15T10:56:00+00:00,Peru,0.7900413387073579,0,1,es,NWS,South-America
 '871d9bdd41',extremes,Earthquake,#870007,usgs,terremoto las vigas,2026-01-15T10:56:00+00:00,Mexico,0.789854370842602,0,1,es,SCA,North-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2025-12-16T03:47:00+00:00,Argentina,0.7886683271127867,1,3,es,SES,South-America
@@ -14,6 +16,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2026-01-15T10:56:00+00:00,Chile,0.7718790585738416,0,1,es,SWS,South-America
 'ab8adba258',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral provincia de huasco,2026-01-15T12:14:00+00:00,Chile,0.771868628528534,0,1,es,SWS,South-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2026-01-15T10:56:00+00:00,Chile,0.7718649522052743,0,1,es,SWS,South-America
+'e31ab38b80',extremes,Storm,#b3b2b1,wmo,tormenta cordillera cantábrica de burgos,2026-01-15T12:14:00+00:00,Spain,0.7715447403334563,0,1,es,MED,Europe
+'58a1b5964e',extremes,Precipitation,#d60d2b,wmo,aguacero españa,2026-01-15T10:56:00+00:00,Spain,0.7715370805461149,0,1,es,MED,Europe
+'0a6a0784c5',extremes,Storm,#b3b2b1,wmo,marejada ciclónica rías baixas,2026-01-15T10:56:00+00:00,Spain,0.7715141829895255,0,1,es,MED,Europe
+'6ed3f23541',extremes,Storm,#b3b2b1,wmo,tormenta interior de gipuzkoa,2026-01-15T12:14:00+00:00,Spain,0.7715102083491027,0,1,es,MED,Europe
 '7d68920b56',extremes,Earthquake,#870007,usgs,terremoto nicaragua,2026-01-15T10:56:00+00:00,Nicaragua,0.7031254063420763,1,1,es,SCA,North-America
 '3e36cbc783',extremes,Earthquake,#870007,usgs,terremoto la concepción,2026-01-15T12:13:00+00:00,Venezuela,0.6879438372156313,1,1,es,NWS,South-America
 'f5e86f8f49',extremes,Earthquake,#870007,usgs,terremoto san miguel,2026-01-15T10:56:00+00:00,Ecuador,0.682462697066542,1,2,es,NWS,South-America
