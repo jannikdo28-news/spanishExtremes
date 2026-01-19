@@ -1,71 +1,96 @@
 ,phrase,label,sentiment,subjectivity,language,count
+2025,2025,DATE,,,en,3.6999999999999993
 Mexican,Mexican,NORP,,,en,3.4000000000000004
-2026,2026,DATE,,,en,1.9000000000000006
+first,first,ORDINAL,,,en,2.9999999999999996
+Argentine,Argentine,NORP,,,en,2.6000000000000005
+the year,the year,DATE,,,en,2.6
+2026,2026,DATE,,,en,2.2000000000000006
+eight,eight,CARDINAL,,,en,2.0
 two,two,CARDINAL,,,en,1.9000000000000001
 one hour,one hour,TIME,,,en,1.9
-up to 20 liters,up to 20 liters,QUANTITY,,,en,1.9
 "this Tuesday, December 16","this Tuesday, December 16",DATE,,,en,1.9
-first,first,ORDINAL,,,en,1.8
-Winter,Winter,DATE,,,en,1.7
+up to 20 liters,up to 20 liters,QUANTITY,,,en,1.9
 winter,winter,DATE,,,en,1.7
-eight,eight,CARDINAL,,,en,1.7
-another day,another day,DATE,,,en,1.7
+today,today,DATE,,,en,1.7
 three,three,CARDINAL,,,en,1.7
-2025,2025,DATE,,,en,1.6
-Argentine,Argentine,NORP,,,en,1.5000000000000004
-the year,the year,DATE,,,en,1.4000000000000001
+Winter,Winter,DATE,,,en,1.7
+another day,another day,DATE,,,en,1.7
+second,second,ORDINAL,,,en,1.5000000000000002
+this day,this day,DATE,,,en,1.3
+Uruguayan,Uruguayan,NORP,,,en,1.3
+almost three decades,almost three decades,DATE,,,en,1.3
 ten,ten,CARDINAL,,,en,1.3
+three years,three years,DATE,,,en,1.3
 Spanish,Spanish,NORP,,,en,1.2000000000000002
-second,second,ORDINAL,,,en,1.2000000000000002
 2010,2010,DATE,,,en,1.1
 the weekend,the weekend,DATE,,,en,1.1
 Brazilian,Brazilian,NORP,,,en,1.1
+this year,this year,DATE,,,en,1.1
 Three,Three,CARDINAL,,,en,1.1
-Ábalos,Ábalos,NORP,,,en,1.0
-Ten months later,Ten months later,DATE,,,en,1.0
-8 degrees,8 degrees,QUANTITY,,,en,1.0
-this year,this year,DATE,,,en,1.0
-six months,six months,DATE,,,en,1.0
-1980,1980,DATE,,,en,1.0
-Andalusian,Andalusian,NORP,,,en,1.0
-just over a month,just over a month,DATE,,,en,1.0
-zero,zero,CARDINAL,,,en,1.0
-a month,a month,DATE,,,en,1.0
-last April,last April,DATE,,,en,1.0
-Red Eléctrica de España,Red Eléctrica de España,FAC,,,en,1.0
-months,months,DATE,,,en,1.0
 the Junta de Andalucía,the Junta de Andalucía,PRODUCT,,,en,1.0
+a month,a month,DATE,,,en,1.0
+Last year,Last year,DATE,,,en,1.0
+six months,six months,DATE,,,en,1.0
+The year,The year,DATE,,,en,1.0
 this Friday,this Friday,DATE,,,en,1.0
+almost $17 billion,almost $17 billion,MONEY,,,en,1.0
+Ten months later,Ten months later,DATE,,,en,1.0
+Ábalos,Ábalos,NORP,,,en,1.0
+the end of Stranger Things,the end of Stranger Things,DATE,,,en,1.0
 next May.,next May.,DATE,,,en,1.0
-This year,This year,DATE,,,en,1.0
-80 euros,80 euros,MONEY,,,en,1.0
-Polynesian,Polynesian,NORP,,,en,1.0
+months,months,DATE,,,en,1.0
 January 12,January 12,DATE,,,en,1.0
-this day,this day,DATE,,,en,1.0
-"today, Monday, January 12, 2026","today, Monday, January 12, 2026",DATE,,,en,1.0
+1980,1980,DATE,,,en,1.0
+Red Eléctrica de España,Red Eléctrica de España,FAC,,,en,1.0
+Andalusian,Andalusian,NORP,,,en,1.0
+2027,2027,DATE,,,en,1.0
+Saturday,Saturday,DATE,,,en,1.0
+just over a month,just over a month,DATE,,,en,1.0
+last April,last April,DATE,,,en,1.0
+Russian,Russian,NORP,,,en,1.0
 the Museum Room,the Museum Room,FAC,,,en,1.0
+"more than 2,200 hectares","more than 2,200 hectares",QUANTITY,,,en,1.0
+17.5 million,17.5 million,CARDINAL,,,en,1.0
+Polynesian,Polynesian,NORP,,,en,1.0
 four decades in March,four decades in March,DATE,,,en,1.0
 40,40,DATE,,,en,1.0
+1965,1965,DATE,,,en,1.0
+"more than 15,000 hectares","more than 15,000 hectares",QUANTITY,,,en,1.0
+This year,This year,DATE,,,en,1.0
 six hours,six hours,TIME,,,en,1.0
-the end of Stranger Things,the end of Stranger Things,DATE,,,en,1.0
-17.5 million,17.5 million,CARDINAL,,,en,1.0
+78,78,CARDINAL,,,en,1.0
+80 euros,80 euros,MONEY,,,en,1.0
+"almost 12,000 hectares","almost 12,000 hectares",QUANTITY,,,en,1.0
+"12,000 hectares","12,000 hectares",QUANTITY,,,en,1.0
 This weekend,This weekend,DATE,,,en,1.0
+a dozen,a dozen,CARDINAL,,,en,1.0
 American,American,NORP,,,en,1.0
+four,four,CARDINAL,,,en,1.0
 The 10 days,The 10 days,DATE,,,en,1.0
+zero,zero,CARDINAL,,,en,1.0
+thousands of hectares,thousands of hectares,QUANTITY,,,en,1.0
+14,14,CARDINAL,,,en,1.0
+six,six,CARDINAL,,,en,1.0
+January 2026,January 2026,DATE,,,en,1.0
+"today, Monday, January 12, 2026","today, Monday, January 12, 2026",DATE,,,en,1.0
+16,16,CARDINAL,,,en,1.0
 Chinese,Chinese,NORP,,,en,1.0
-Russian,Russian,NORP,,,en,1.0
-Last year,Last year,DATE,,,en,1.0
-The year,The year,DATE,,,en,1.0
-10,10,CARDINAL,,,en,1.0
+Uruguayan Championship 2026,Uruguayan Championship 2026,EVENT,,,en,1.0
 Two,Two,CARDINAL,,,en,1.0
-"up to $1,000","up to $1,000",MONEY,,,en,1.0
-"up to $1,500","up to $1,500",MONEY,,,en,1.0
+8 degrees,8 degrees,QUANTITY,,,en,1.0
+10,10,CARDINAL,,,en,1.0
+this Monday,this Monday,DATE,,,en,1.0
+the Statue of Liberty,the Statue of Liberty,FAC,,,en,1.0
+17,17,CARDINAL,,,en,1.0
+the Lisbon Earthquake,the Lisbon Earthquake,EVENT,,,en,1.0
+one,one,CARDINAL,,,en,1.0
+winter 2026,winter 2026,DATE,,,en,1.0
+Friday,Friday,DATE,,,en,1.0
 hundreds,hundreds,CARDINAL,,,en,1.0
 Wednesday,Wednesday,DATE,,,en,1.0
 Colombian,Colombian,NORP,,,en,1.0
 four-year,four-year,DATE,,,en,1.0
 the last date of the Clausura,the last date of the Clausura,DATE,,,en,1.0
-Uruguayan,Uruguayan,NORP,,,en,1.0
 "1,425","1,425",CARDINAL,,,en,1.0
 Only 10%,Only 10%,PERCENT,,,en,1.0
 Chileans,Chileans,NORP,,,en,1.0
@@ -77,24 +102,30 @@ Michoacan,Michoacan,NORP,,,en,1.0
 the Torres del Paine National Park,the Torres del Paine National Park,FAC,,,en,1.0
 seven,seven,CARDINAL,,,en,1.0
 At least two,At least two,CARDINAL,,,en,1.0
-Friday,Friday,DATE,,,en,1.0
-winter 2026,winter 2026,DATE,,,en,1.0
-the Statue of Liberty,the Statue of Liberty,FAC,,,en,1.0
-50th,50th,ORDINAL,,,en,1.0
-one million,one million,CARDINAL,,,en,1.0
+Cantabrian,Cantabrian,NORP,,,en,1.0
+this morning,this morning,TIME,,,en,1.0
+"today, Thursday, December 18","today, Thursday, December 18",DATE,,,en,1.0
 Aragonese,Aragonese,NORP,,,en,1.0
+a week,a week,DATE,,,en,1.0
+Iranian,Iranian,NORP,,,en,1.0
+"up to $1,000","up to $1,000",MONEY,,,en,1.0
+"up to $1,500","up to $1,500",MONEY,,,en,1.0
+"1,500","1,500",CARDINAL,,,en,1.0
+5k,5k,CARDINAL,,,en,1.0
+a year,a year,DATE,,,en,1.0
+one million,one million,CARDINAL,,,en,1.0
+almost every year,almost every year,DATE,,,en,1.0
+Annual,Annual,DATE,,,en,1.0
+Galician,Galician,NORP,,,en,1.0
+Monday,Monday,DATE,,,en,1.0
 seventeen,seventeen,DATE,,,en,1.0
-today,today,DATE,,,en,1.0
 86 years old,86 years old,DATE,,,en,1.0
 the half century,the half century,DATE,,,en,1.0
 86,86,DATE,,,en,1.0
+50th,50th,ORDINAL,,,en,1.0
 Italian,Italian,NORP,,,en,1.0
-this Monday,this Monday,DATE,,,en,1.0
 707,707,PRODUCT,,,en,1.0
 Boeing,Boeing,PRODUCT,,,en,1.0
 "December 22, 1975","December 22, 1975",DATE,,,en,1.0
 50 years,50 years,DATE,,,en,1.0
-Monday,Monday,DATE,,,en,1.0
-this morning,this morning,TIME,,,en,1.0
-Cantabrian,Cantabrian,NORP,,,en,1.0
-four,four,CARDINAL,,,en,1.0
+780,780,CARDINAL,,,en,1.0

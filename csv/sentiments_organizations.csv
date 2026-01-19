@@ -1,39 +1,51 @@
 ,phrase,label,sentiment,subjectivity,language,count
-AP,AP,ORG,-0.06578947368421052,0.19736842105263158,en,1.9
+AP,AP,ORG,-0.023750000000000004,0.30000000000000004,en,2.4999999999999996
 The State Meteorological Agency,The State Meteorological Agency,ORG,-0.16176470588235295,0.35294117647058826,en,1.7
+Mercosur,Mercosur,ORG,0.18874289772727273,0.390625,en,1.6
+EU,EU,ORG,-0.20481770833333332,0.390625,en,1.6
 Elon Musk,Elon Musk,ORG,-0.19230769230769226,0.4999999999999999,en,1.3000000000000003
+Forest,Forest,ORG,0.0,0.0,en,1.3
+Trump,Trump,ORG,0.0909090909090909,0.0,en,1.3
 Manaslu,Manaslu,ORG,0.06666666666666667,0.24871794871794872,en,1.3
-V16,V16,ORG,0.375,0.3011363636363636,en,1.1
 BBC,BBC,ORG,1.1363636363636362,0.5,en,1.1
-Instagram,Instagram,ORG,0.0,0.9090909090909091,en,1.1
-iOS,iOS,ORG,0.1239669421487603,0.0,en,1.1
-CNI,CNI,ORG,-0.045454545454545456,0.0,en,1.1
 Toyota,Toyota,ORG,0.1239669421487603,0.4132231404958677,en,1.1
-Michoacán,Michoacán,ORG,0.016666666666666663,0.0,en,1.0
+V16,V16,ORG,0.375,0.3011363636363636,en,1.1
+Instagram,Instagram,ORG,0.0,0.9090909090909091,en,1.1
+CNI,CNI,ORG,-0.045454545454545456,0.0,en,1.1
+iOS,iOS,ORG,0.1239669421487603,0.0,en,1.1
 xAI,xAI,ORG,-0.25,0.0,en,1.0
-Petro,Petro,ORG,0.0,0.0,en,1.0
-Inumet,Inumet,ORG,0.4333333333333333,0.0,en,1.0
-Spanish Navy,Spanish Navy,ORG,0.0,0.0,en,1.0
-EU,EU,ORG,-0.49333333333333335,0.0,en,1.0
+UN,UN,ORG,0.06666666666666667,0.0,en,1.0
 Morena,Morena,ORG,0.5,0.0,en,1.0
-the Calasso Foundation,the Calasso Foundation,ORG,0.0,0.0,en,1.0
-Justice,Justice,ORG,0.0,0.0,en,1.0
+The United Nations,The United Nations,ORG,0.06666666666666667,0.0,en,1.0
+Michoacán,Michoacán,ORG,0.016666666666666663,0.0,en,1.0
 Oysho,Oysho,ORG,0.25000000000000006,0.0,en,1.0
+Nacional,Nacional,ORG,0.0,0.0,en,1.0
+Justice,Justice,ORG,0.0,0.0,en,1.0
+Inumet,Inumet,ORG,0.4333333333333333,0.0,en,1.0
+the Provincial Fire Management Service,the Provincial Fire Management Service,ORG,0.0,0.0,en,1.0
+Featured News,Featured News,ORG,0.0,0.0,en,1.0
+incendies de forêts sous un,incendies de forêts sous un,ORG,0.0,0.0,en,1.0
 DGT,DGT,ORG,0.30833333333333335,0.0,en,1.0
-Trump,Trump,ORG,0.0,0.0,en,1.0
-Del,Del,ORG,0.0,0.0,en,1.0
-Crisis-Bombón,Crisis-Bombón,ORG,0.0,0.0,en,1.0
-REE,REE,ORG,0.09523809523809523,0.0,en,1.0
-The National Meteorological Service (SMN,The National Meteorological Service (SMN,ORG,0.25,0.0,en,1.0
-Chavista Intelligence,Chavista Intelligence,ORG,0.0,0.0,en,1.0
-Pollo,Pollo,ORG,-0.05,0.0,en,1.0
-Mercosur,Mercosur,ORG,0.13636363636363635,0.0,en,1.0
-AI,AI,ORG,0.0,0.0,en,1.0
-Their Majesties of,Their Majesties of,ORG,0.16666666666666666,0.0,en,1.0
-Aragón,Aragón,ORG,0.15000000000000002,0.0,en,1.0
-TWA,TWA,ORG,0.1,0.0,en,1.0
-Mazarrón,Mazarrón,ORG,0.0,0.0,en,1.0
-The Emergency Coordination Center,The Emergency Coordination Center,ORG,-0.05,0.0,en,1.0
-Ombudsman's,Ombudsman's,ORG,-0.125,0.0,en,1.0
-Colombian Ombudsman,Colombian Ombudsman,ORG,-0.125,0.0,en,1.0
 the General Vehicle Regulations,the General Vehicle Regulations,ORG,0.10416666666666667,0.0,en,1.0
+Spanish Navy,Spanish Navy,ORG,0.0,0.0,en,1.0
+REE,REE,ORG,0.09523809523809523,0.0,en,1.0
+Petro,Petro,ORG,0.0,0.0,en,1.0
+the Calasso Foundation,the Calasso Foundation,ORG,0.0,0.0,en,1.0
+Colombian Ombudsman,Colombian Ombudsman,ORG,-0.125,0.0,en,1.0
+Ombudsman's,Ombudsman's,ORG,-0.125,0.0,en,1.0
+The Emergency Coordination Center,The Emergency Coordination Center,ORG,-0.05,0.0,en,1.0
+Mazarrón,Mazarrón,ORG,0.0,0.0,en,1.0
+TWA,TWA,ORG,0.1,0.0,en,1.0
+Aragón,Aragón,ORG,0.15000000000000002,0.0,en,1.0
+the White House,the White House,ORG,-0.1,0.0,en,1.0
+Cursa de Reis de Cornellà Guide,Cursa de Reis de Cornellà Guide,ORG,0.25,0.0,en,1.0
+the Cursa de Reis de Cornellà,the Cursa de Reis de Cornellà,ORG,0.125,0.0,en,1.0
+Spanish League,Spanish League,ORG,0.4,0.0,en,1.0
+Their Majesties of,Their Majesties of,ORG,0.16666666666666666,0.0,en,1.0
+AI,AI,ORG,0.0,0.0,en,1.0
+Pollo,Pollo,ORG,-0.05,0.0,en,1.0
+Chavista Intelligence,Chavista Intelligence,ORG,0.0,0.0,en,1.0
+Del,Del,ORG,0.0,0.0,en,1.0
+The National Meteorological Service (SMN,The National Meteorological Service (SMN,ORG,0.25,0.0,en,1.0
+Crisis-Bombón,Crisis-Bombón,ORG,0.0,0.0,en,1.0
+the European Union,the European Union,ORG,0.065625,0.0,en,1.0
