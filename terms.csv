@@ -9,7 +9,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2025-12-16T03:47:00+00:00,Argentina,0.7886683271127867,1,3,es,SES,South-America
 '6977afac24',extremes,Volcano,#b83202,eonet,volcán puracé colombia,2025-12-06T03:32:00+00:00,Colombia,0.7859443849222071,0,1,es,NWS,South-America
 '8068e6b5b7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica españa,2026-01-15T10:56:00+00:00,Spain,0.7715646468310768,0,1,es,MED,Europe
-'58a1b5964e',extremes,Precipitation,#d60d2b,wmo,aguacero españa,2026-01-15T10:56:00+00:00,Spain,0.7715370805461149,0,1,es,MED,Europe
 '0a6a0784c5',extremes,Storm,#b3b2b1,wmo,marejada ciclónica rías baixas,2026-01-15T10:56:00+00:00,Spain,0.7715141829895255,0,1,es,MED,Europe
 '6ed3f23541',extremes,Storm,#b3b2b1,wmo,tormenta interior de gipuzkoa,2026-01-15T12:14:00+00:00,Spain,0.7715102083491027,0,1,es,MED,Europe
 'abb5c22cfe',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa rias baixas,2026-01-15T10:56:00+00:00,Spain,0.7715048830738098,0,1,es,MED,Europe
