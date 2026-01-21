@@ -4,9 +4,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c9dc747da',extremes,Drought,#edc291,edo,falta de lluvia cuba,2026-01-15T10:57:00+00:00,Cuba,0.8226192854877789,1,2,es,CAR,North-America
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2026-01-15T10:56:00+00:00,Chile,0.8021046576449082,1,3,es,SWS,South-America
 'dfddc79ff8',extremes,Snow&Ice,#d60d2b,wmo,hielo sierra de madrid,2026-01-15T10:56:00+00:00,Spain,0.7967341331344621,1,3,es,MED,Europe
+'2c38aada07',extremes,Earthquake,#870007,usgs,terremoto colchane,2026-01-15T12:13:00+00:00,Chile,0.7916525780964712,0,1,es,SWS,South-America
 '8be002d270',extremes,Drought,#edc291,edo,falta de lluvias venezuela,2025-12-02T03:41:00+00:00,Venezuela,0.7902285381066207,1,2,es,NSA,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2025-12-16T03:47:00+00:00,Argentina,0.7886683271127867,1,3,es,SES,South-America
 '6977afac24',extremes,Volcano,#b83202,eonet,volcán puracé colombia,2025-12-06T03:32:00+00:00,Colombia,0.7859443849222071,0,1,es,NWS,South-America
+'b5804f885d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica oeste de a coruña,2026-01-15T10:56:00+00:00,Spain,0.772178557777957,0,1,es,MED,Europe
 'ab8adba258',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral provincia de huasco,2026-01-15T12:14:00+00:00,Chile,0.771868628528534,0,1,es,SWS,South-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2026-01-15T10:56:00+00:00,Chile,0.7718649522052743,0,1,es,SWS,South-America
 '8068e6b5b7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica españa,2026-01-15T10:56:00+00:00,Spain,0.7715646468310768,0,1,es,MED,Europe
@@ -21,6 +23,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5cf328df80',extremes,Storm,#b3b2b1,wmo,tormenta suroeste de a coruña,2026-01-15T12:14:00+00:00,Spain,0.7714501232351398,0,1,es,MED,Europe
 '98e971fa0f',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral de gipuzkoa,2026-01-15T12:14:00+00:00,Spain,0.771440869470248,0,1,es,MED,Europe
 '64faaa2bb5',extremes,Storm,#b3b2b1,wmo,tormenta cordillera y picos de europa,2026-01-15T10:56:00+00:00,Spain,0.7714397924238772,0,1,es,MED,Europe
+'28f61be3bd',extremes,Snow&Ice,#d60d2b,wmo,nieve sierra de madrid,2026-01-15T12:14:00+00:00,Spain,0.7714339663698578,0,1,es,MED,Europe
+'b152240858',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa noroeste de a coruña,2026-01-15T10:56:00+00:00,Spain,0.7713955084289138,0,1,es,MED,Europe
+'61638d8200',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa miño de pontevedra,2026-01-15T10:56:00+00:00,Spain,0.7713641782551084,0,1,es,MED,Europe
+'1661601ea6',extremes,Precipitation,#d60d2b,wmo,aguacero ibiza y formentera,2026-01-15T12:14:00+00:00,Spain,0.7713636785710222,0,1,es,MED,Europe
 '871d9bdd41',extremes,Earthquake,#870007,usgs,terremoto las vigas,2026-01-15T10:56:00+00:00,Mexico,0.7469762752162117,1,2,es,SCA,North-America
 '63b3a5e343',extremes,Earthquake,#870007,usgs,terremoto san marcos,2026-01-15T10:56:00+00:00,Mexico,0.7133859572600593,1,2,es,SCA,North-America
 '6f3e07a7e3',extremes,Snow&Ice,#d60d2b,wmo,hielo cordillera cantábrica de león,2026-01-15T10:56:00+00:00,Spain,0.7068054473213283,1,1,es,MED,Europe
