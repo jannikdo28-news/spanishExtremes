@@ -7,9 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '925cc6c6e9',extremes,Drought,#edc291,edo,sequía en costa rica,2026-01-15T10:57:00+00:00,Costa Rica,0.7903455271627613,0,1,es,SCA,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2025-12-16T03:47:00+00:00,Argentina,0.7886683271127867,1,3,es,SES,South-America
 '8068e6b5b7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica españa,2026-01-15T10:56:00+00:00,Spain,0.7715646468310768,0,1,es,MED,Europe
-'abb5c22cfe',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa rias baixas,2026-01-15T10:56:00+00:00,Spain,0.7715048830738098,0,1,es,MED,Europe
-'b86a04ca23',extremes,Storm,#b3b2b1,wmo,marejada ciclónica norte de burgos,2026-01-15T12:14:00+00:00,Spain,0.7714915441339242,0,1,es,MED,Europe
-'1327c453bc',extremes,Precipitation,#d60d2b,wmo,precipitación españa,2026-01-15T12:14:00+00:00,Spain,0.7714756253289093,0,1,es,MED,Europe
 '17abcf3665',extremes,Storm,#b3b2b1,wmo,tormenta costa suroeste de a coruña,2026-01-15T12:14:00+00:00,Spain,0.7714517611443473,0,1,es,MED,Europe
 '5cf328df80',extremes,Storm,#b3b2b1,wmo,tormenta suroeste de a coruña,2026-01-15T12:14:00+00:00,Spain,0.7714501232351398,0,1,es,MED,Europe
 '98e971fa0f',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral de gipuzkoa,2026-01-15T12:14:00+00:00,Spain,0.771440869470248,0,1,es,MED,Europe
@@ -24,6 +21,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db7218a192',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa suroeste de a coruña,2026-01-15T12:14:00+00:00,Spain,0.7712681278685863,0,1,es,MED,Europe
 'df2f695002',extremes,Precipitation,#d60d2b,wmo,lluvia rías baixas,2026-01-15T12:14:00+00:00,Spain,0.7712558539183311,0,1,es,MED,Europe
 '871d9bdd41',extremes,Earthquake,#870007,usgs,terremoto las vigas,2026-01-15T10:56:00+00:00,Mexico,0.7469762752162117,1,2,es,SCA,North-America
+'1327c453bc',extremes,Precipitation,#d60d2b,wmo,precipitación españa,2026-01-15T12:14:00+00:00,Spain,0.7288867447113911,1,2,es,MED,Europe
 '63b3a5e343',extremes,Earthquake,#870007,usgs,terremoto san marcos,2026-01-15T10:56:00+00:00,Mexico,0.7133859572600593,1,2,es,SCA,North-America
 '6f3e07a7e3',extremes,Snow&Ice,#d60d2b,wmo,hielo cordillera cantábrica de león,2026-01-15T10:56:00+00:00,Spain,0.7068054473213283,1,1,es,MED,Europe
 '7d68920b56',extremes,Earthquake,#870007,usgs,terremoto nicaragua,2026-01-15T10:56:00+00:00,Nicaragua,0.7031254063420763,1,1,es,SCA,North-America
@@ -57,6 +55,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,marejada ciclónica argentina,2026-01-15T10:56:00+00:00,Argentina,0.6563479397223776,1,1,es,SES,South-America
 'ab8adba258',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral provincia de huasco,2026-01-15T12:14:00+00:00,Chile,0.6560883342492538,1,1,es,SWS,South-America
 '6ed3f23541',extremes,Storm,#b3b2b1,wmo,tormenta interior de gipuzkoa,2026-01-15T12:14:00+00:00,Spain,0.6560837070967372,1,1,es,MED,Europe
+'b86a04ca23',extremes,Storm,#b3b2b1,wmo,marejada ciclónica norte de burgos,2026-01-15T12:14:00+00:00,Spain,0.6557678125138355,1,1,es,MED,Europe
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2025-12-14T03:49:00+00:00,Argentina,0.6390230416827092,1,3,es,SES,South-America
 '8744ccb432',extremes,Storm,#b3b2b1,wmo,tormenta la rioja la rioja.,2025-12-06T03:32:00+00:00,Argentina,0.6371421091164013,1,2,es,SES,South-America
 '2f51d04c0e',extremes,Fog,#d60d2b,wmo,niebla españa,2025-12-03T03:40:00+00:00,Spain,0.6356541461324928,1,3,es,MED,Europe
