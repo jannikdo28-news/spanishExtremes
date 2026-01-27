@@ -17,6 +17,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '74ae24437b',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial españa,2026-01-15T10:56:00+00:00,Spain,0.7722186796260393,0,1,es,MED,Europe
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial argentina,2026-01-15T10:56:00+00:00,Argentina,0.7718629134617986,0,1,es,SES,South-America
 '8068e6b5b7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica españa,2026-01-15T10:56:00+00:00,Spain,0.7715646468310768,0,1,es,MED,Europe
+'ec6ebc1f7a',extremes,Storm,#b3b2b1,wmo,tormenta reg. 11 sur insular,2026-01-26T04:09:00+00:00,Chile,0.7512188044768383,0,1,es,SWS,South-America
 '349b9f9026',extremes,Heat Wave,#c40202,wmo,ola de calor área 3 – menor,2026-01-24T03:48:00+00:00,Paraguay,0.7480256422337113,0,1,es,SES,South-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-01-21T03:56:00+00:00,Argentina,0.7472736340733603,0,1,es,SES,South-America
 '871d9bdd41',extremes,Earthquake,#870007,usgs,terremoto las vigas,2026-01-15T10:56:00+00:00,Mexico,0.7469762752162117,1,2,es,SCA,North-America
@@ -33,6 +34,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2026-01-15T10:56:00+00:00,Qatar,0.694972180646193,0,1,es,ARP,Asia
 'bbc9d44319',extremes,Storm,#b3b2b1,wmo,tormenta noroeste príncipe william sound,2026-01-15T10:56:00+00:00,United States,0.6949656905553042,0,1,es,CNA,North-America
 '517e4b4a9e',extremes,Storm,#b3b2b1,wmo,tormenta canal norte de lynn,2026-01-15T10:56:00+00:00,United States,0.6949654309424699,0,1,es,CNA,North-America
+'0bc923d7b5',extremes,Storm,#b3b2b1,wmo,marejada ciclónica capullo de rosa del norte capullo de rosa del sur,2026-01-15T10:56:00+00:00,United States,0.6949649928336326,0,1,es,CNA,North-America
+'4042a711c6',extremes,Storm,#b3b2b1,wmo,tormenta condado costero de collier,2026-01-15T10:56:00+00:00,United States,0.6949641449120131,0,1,es,CNA,North-America
+'cc7bbe599c',extremes,Storm,#b3b2b1,wmo,tormenta fuerte,2026-01-15T10:56:00+00:00,United States,0.6949638934212368,0,1,es,CNA,North-America
+'ddf79ea789',extremes,Storm,#b3b2b1,wmo,marejada ciclónica jefferson lewis,2026-01-15T10:56:00+00:00,United States,0.6949617345208172,0,1,es,CNA,North-America
 '3e36cbc783',extremes,Earthquake,#870007,usgs,terremoto la concepción,2026-01-15T12:13:00+00:00,Venezuela,0.6879438372156313,1,1,es,NWS,South-America
 '605d0fe596',extremes,Snow&Ice,#d60d2b,wmo,sistema de hielo central de ávila,2026-01-15T10:56:00+00:00,Spain,0.6871050481617865,1,1,es,MED,Europe
 'f5e86f8f49',extremes,Earthquake,#870007,usgs,terremoto san miguel,2026-01-15T10:56:00+00:00,Ecuador,0.682462697066542,1,2,es,NWS,South-America
