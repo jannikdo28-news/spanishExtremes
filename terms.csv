@@ -4,6 +4,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c9dc747da',extremes,Drought,#edc291,edo,falta de lluvia cuba,2026-01-15T10:57:00+00:00,Cuba,0.8226192854877789,1,2,es,CAR,North-America
 '74ae24437b',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial españa,2026-01-15T10:56:00+00:00,Spain,0.8071359526821333,1,2,es,MED,Europe
 'df2f695002',extremes,Precipitation,#d60d2b,wmo,lluvia rías baixas,2026-01-15T12:14:00+00:00,Spain,0.8064675658305813,1,2,es,MED,Europe
+'8068e6b5b7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica españa,2026-01-15T10:56:00+00:00,Spain,0.8061299798064152,1,2,es,MED,Europe
 '64fef03c50',extremes,Precipitation,#d60d2b,wmo,precipitación rías baixas,2026-01-15T10:56:00+00:00,Spain,0.8056721043630376,1,2,es,MED,Europe
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2026-01-15T10:56:00+00:00,Chile,0.8021046576449082,1,3,es,SWS,South-America
 '28f61be3bd',extremes,Snow&Ice,#d60d2b,wmo,nieve sierra de madrid,2026-01-15T12:14:00+00:00,Spain,0.80157956732347,1,3,es,MED,Europe
@@ -15,8 +16,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fcc3f80d6b',extremes,Heat Wave,#c40202,wmo,ola de calor paraguay,2026-01-24T03:48:00+00:00,Paraguay,0.7875097998844691,1,2,es,SES,South-America
 '2f486e78b4',extremes,Snow Avalanche,#deddd5,wmo,alud pirineo oscense,2026-01-19T04:03:00+00:00,Spain,0.7858144401592382,1,3,es,MED,Europe
 '01f0f04dd7',extremes,Heat Wave,#c40202,wmo,ola de calor caba y alrededores,2026-01-22T03:59:00+00:00,Argentina,0.7836644112765596,1,2,es,SES,South-America
-'8068e6b5b7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica españa,2026-01-15T10:56:00+00:00,Spain,0.7715646468310768,0,1,es,MED,Europe
-'6653d205b8',extremes,Heat Wave,#c40202,wmo,ola de calor marcos juarez y alrededores,2026-01-28T03:56:00+00:00,Argentina,0.7517472143349901,0,1,es,SES,South-America
 '349b9f9026',extremes,Heat Wave,#c40202,wmo,ola de calor área 3 – menor,2026-01-24T03:48:00+00:00,Paraguay,0.7480256422337113,0,1,es,SES,South-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-01-21T03:56:00+00:00,Argentina,0.7472736340733603,0,1,es,SES,South-America
 '871d9bdd41',extremes,Earthquake,#870007,usgs,terremoto las vigas,2026-01-15T10:56:00+00:00,Mexico,0.7469762752162117,1,2,es,SCA,North-America
@@ -87,6 +86,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,marejada ciclónica ecuador,2026-01-27T03:58:00+00:00,Ecuador,0.6406323953513116,1,1,es,NWS,South-America
 'e9f2b42100',extremes,Heat Wave,#c40202,wmo,ola de calor la plata y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.6396007706957705,1,1,es,SES,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2025-12-14T03:49:00+00:00,Argentina,0.6390230416827092,1,3,es,SES,South-America
+'6653d205b8',extremes,Heat Wave,#c40202,wmo,ola de calor marcos juarez y alrededores,2026-01-28T03:56:00+00:00,Argentina,0.6389851321847416,1,1,es,SES,South-America
 'ec6ebc1f7a',extremes,Storm,#b3b2b1,wmo,tormenta reg. 11 sur insular,2026-01-26T04:09:00+00:00,Chile,0.6385359838053125,1,1,es,SWS,South-America
 '2fbb3e12ae',extremes,Heat Wave,#c40202,wmo,ola de calor concordia y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.6385299680252213,1,1,es,SES,South-America
 '1d6da9893b',extremes,Heat Wave,#c40202,wmo,ola de calor junin y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.6378645298009231,1,1,es,SES,South-America
