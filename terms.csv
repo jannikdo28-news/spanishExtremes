@@ -98,7 +98,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3c536c7042',extremes,Snow Avalanche,#deddd5,wmo,avalancha pirineo navarro,2026-01-27T03:58:00+00:00,Spain,0.6300814244709338,1,1,es,MED,Europe
 '538af34cee',extremes,Earthquake,#870007,usgs,terremoto los andes,2025-12-18T03:44:00+00:00,Chile,0.6297717782682275,1,2,es,SWS,South-America
 '58e1428940',extremes,Snow Avalanche,#deddd5,wmo,alud valle de arán,2026-01-21T03:56:00+00:00,Spain,0.6242459101459451,1,1,es,MED,Europe
-'b6560405fd',extremes,Storm,#b3b2b1,wmo,tormenta costa norte de tenerife,2025-12-11T03:46:00+00:00,Spain,0.6094194908666214,0,2,es,MED,Europe
 '5a3e3b95e2',extremes,Storm,#b3b2b1,wmo,tormenta área metropolitana de tenerife,2025-12-12T03:45:00+00:00,Spain,0.609041647887534,0,2,es,MED,Europe
 'e45d3ee02d',extremes,Storm,#b3b2b1,wmo,tesoro de la marejada ciclónica norte de capullo de rosa custer,2025-12-13T03:38:00+00:00,United States,0.6083400785086919,0,2,es,CNA,North-America
 'a7d4577f91',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa axarquía,2025-12-13T03:38:00+00:00,Spain,0.6079692599127816,0,2,es,MED,Europe
