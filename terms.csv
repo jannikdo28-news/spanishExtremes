@@ -9,7 +9,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '28f61be3bd',extremes,Snow&Ice,#d60d2b,wmo,nieve sierra de madrid,2026-01-15T12:14:00+00:00,Spain,0.80157956732347,1,3,es,MED,Europe
 'dfddc79ff8',extremes,Snow&Ice,#d60d2b,wmo,hielo sierra de madrid,2026-01-15T10:56:00+00:00,Spain,0.7967341331344621,1,3,es,MED,Europe
 '5a9124c973',extremes,Heat Wave,#c40202,wmo,ola de calor las flores y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.790027082411808,1,2,es,SES,South-America
-'d716590c30',extremes,Storm,#b3b2b1,wmo,tormenta regiones pacífico norte.,2026-01-30T04:21:00+00:00,Costa Rica,0.7896767317575679,1,2,es,SCA,North-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2025-12-16T03:47:00+00:00,Argentina,0.7886683271127867,1,3,es,SES,South-America
 '64faaa2bb5',extremes,Storm,#b3b2b1,wmo,tormenta cordillera y picos de europa,2026-01-15T10:56:00+00:00,Spain,0.7881739435602956,1,2,es,MED,Europe
 'fcc3f80d6b',extremes,Heat Wave,#c40202,wmo,ola de calor paraguay,2026-01-24T03:48:00+00:00,Paraguay,0.7875097998844691,1,2,es,SES,South-America
@@ -25,6 +24,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2026-01-15T10:56:00+00:00,Qatar,0.7408763685492641,1,2,es,ARP,Asia
 '2f1cdbc4b0',extremes,Precipitation,#d60d2b,wmo,lluvia sur de mallorca,2026-01-15T12:14:00+00:00,Spain,0.7341773475504849,1,3,es,MED,Europe
 '1327c453bc',extremes,Precipitation,#d60d2b,wmo,precipitación españa,2026-01-15T12:14:00+00:00,Spain,0.7288867447113911,1,2,es,MED,Europe
+'d716590c30',extremes,Storm,#b3b2b1,wmo,tormenta regiones pacífico norte.,2026-01-30T04:21:00+00:00,Costa Rica,0.7193292631477789,2,2,es,SCA,North-America
 '06532967b8',extremes,Drought,#edc291,edo,falta de lluvia brasil,2026-01-15T10:57:00+00:00,Brazil,0.7185330972871325,1,2,es,SAM,South-America
 '63b3a5e343',extremes,Earthquake,#870007,usgs,terremoto san marcos,2026-01-15T10:56:00+00:00,Mexico,0.7133859572600593,1,2,es,SCA,North-America
 'df2f695002',extremes,Precipitation,#d60d2b,wmo,lluvia rías baixas,2026-01-15T12:14:00+00:00,Spain,0.7079761073845655,2,2,es,MED,Europe
@@ -100,7 +100,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fe7674590b',extremes,Storm,#b3b2b1,wmo,tormenta cordoba san justo.,2026-01-29T04:19:00+00:00,Argentina,0.6367065743039856,1,1,es,SES,South-America
 'ee23d47ac0',extremes,Heat Wave,#c40202,wmo,ola de calor rio cuarto y alrededores,2026-01-22T03:59:00+00:00,Argentina,0.6360192134459209,1,1,es,SES,South-America
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,aguacero costa rica,2026-01-30T04:21:00+00:00,Costa Rica,0.6360158728570432,1,1,es,SCA,North-America
-'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2025-12-14T03:49:00+00:00,Argentina,0.6355748421893632,1,2,es,SES,South-America
 '84c81d05e3',extremes,Heat Wave,#c40202,wmo,ola de calor villa reynolds y alrededores,2026-01-23T04:03:00+00:00,Argentina,0.6352642565492307,1,1,es,SES,South-America
 'd61de81685',extremes,Storm,#b3b2b1,wmo,marejada ciclónica chile,2026-01-21T03:56:00+00:00,Chile,0.6347369913283966,1,1,es,SWS,South-America
 '69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,ola de calor paraná y alrededores,2026-01-23T04:03:00+00:00,Argentina,0.6343946403167273,1,1,es,SES,South-America
@@ -109,7 +108,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3c536c7042',extremes,Snow Avalanche,#deddd5,wmo,avalancha pirineo navarro,2026-01-27T03:58:00+00:00,Spain,0.6300814244709338,1,1,es,MED,Europe
 '538af34cee',extremes,Earthquake,#870007,usgs,terremoto los andes,2025-12-18T03:44:00+00:00,Chile,0.6297717782682275,1,2,es,SWS,South-America
 '58e1428940',extremes,Snow Avalanche,#deddd5,wmo,alud valle de arán,2026-01-21T03:56:00+00:00,Spain,0.6242459101459451,1,1,es,MED,Europe
-'a7d4577f91',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa axarquía,2025-12-13T03:38:00+00:00,Spain,0.6079692599127816,0,2,es,MED,Europe
 '1c17f04489',extremes,Thunderstorm,#53785a,wmo,granizo interior de alicante,2025-12-14T03:49:00+00:00,Spain,0.607608504498664,0,2,es,MED,Europe
 '32cd6b8ef4',extremes,Storm,#b3b2b1,wmo,tormenta litoral norte de valencia,2025-12-14T03:49:00+00:00,Spain,0.6067470938966574,0,2,es,MED,Europe
 'f4e7397282',extremes,Tsunami,#690191,usgs,puerto tsunami alsworth,2026-01-15T10:56:00+00:00,United States,0.6055416668589907,1,1,es,NWN,North-America
@@ -119,8 +117,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e1704522e0',extremes,Thunderstorm,#53785a,wmo,tiempo severo litoral de barcelona,2025-12-14T03:49:00+00:00,Spain,0.6051817002592744,0,2,es,MED,Europe
 'e4b6fd64a5',extremes,Thunderstorm,#53785a,wmo,tormenta depresión central de tarragona,2025-12-14T03:49:00+00:00,Spain,0.6046293852004981,0,2,es,MED,Europe
 '876b6407e1',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral norte de alicante,2025-12-14T03:49:00+00:00,Spain,0.6026918334118945,0,2,es,MED,Europe
-'637dae8473',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa a mariña,2025-12-12T03:45:00+00:00,Spain,0.6025116654553739,0,2,es,MED,Europe
-'a0306f743b',extremes,Storm,#b3b2b1,wmo,tormenta oeste de la palma,2025-12-12T03:45:00+00:00,Spain,0.6024127215407841,0,2,es,MED,Europe
 '2b52ab7e3c',extremes,Thunderstorm,#53785a,wmo,granizo levante almeriense,2025-12-13T03:38:00+00:00,Spain,0.6023630694455142,0,2,es,MED,Europe
 '5731fce9c0',extremes,Thunderstorm,#53785a,wmo,tiempo severo interior norte de castellón,2025-12-14T03:49:00+00:00,Spain,0.6019261400298682,0,2,es,MED,Europe
 '7e75768105',extremes,Thunderstorm,#53785a,wmo,tiempo severo oeste de la palma,2025-12-13T03:38:00+00:00,Spain,0.6008383207736839,0,2,es,MED,Europe
@@ -128,10 +124,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '453ac3d6b2',extremes,Storm,#b3b2b1,wmo,marejada ciclónica ceuta,2025-12-14T03:49:00+00:00,Spain,0.5998996566501558,0,2,es,MED,Europe
 'ff585f8cff',extremes,Storm,#b3b2b1,wmo,tormenta ceuta,2025-12-14T03:49:00+00:00,Spain,0.5996362350949144,0,2,es,MED,Europe
 'b440dd1d18',extremes,Snow&Ice,#d60d2b,wmo,entrada de Snow Cook al norte de la isla de Kalgin,2025-12-18T03:44:00+00:00,United States,0.5996007552652939,0,2,es,CNA,North-America
-'ffafcf9489',extremes,Thunderstorm,#53785a,wmo,tormenta campo de cartagena y mazarrón,2025-12-13T03:38:00+00:00,Spain,0.5991045550846757,0,2,es,MED,Europe
 'b65df81551',extremes,Storm,#b3b2b1,wmo,tormenta montañas absaroka,2025-12-16T03:47:00+00:00,United States,0.5989937289109154,0,2,es,CNA,North-America
 '25ca2338c6',extremes,Precipitation,#d60d2b,wmo,aguacero oeste de la palma,2025-12-14T03:49:00+00:00,Spain,0.5988220004568985,0,2,es,MED,Europe
-'4082d8bf20',extremes,Thunderstorm,#53785a,wmo,tiempo severo noroeste de murcia,2025-12-13T03:38:00+00:00,Spain,0.5986513223361459,0,2,es,MED,Europe
 'ac81f8a89e',extremes,Thunderstorm,#53785a,wmo,tormenta altiplano de murcia,2025-12-14T03:49:00+00:00,Spain,0.5981243011530978,0,2,es,MED,Europe
 '49891f2f26',extremes,Storm,#b3b2b1,wmo,tormenta del puerto de boston,2025-12-19T03:46:00+00:00,United States,0.5980682133009875,0,2,es,CNA,North-America
 '422773ffe0',extremes,Heat Wave,#c40202,wmo,ola de calor zona 2 – moderada,2026-01-24T03:48:00+00:00,Paraguay,0.596511585801176,1,1,es,SES,South-America
@@ -141,13 +135,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ddf79ea789',extremes,Storm,#b3b2b1,wmo,marejada ciclónica jefferson lewis,2026-01-15T10:56:00+00:00,United States,0.5907174743426946,1,1,es,CNA,North-America
 'f478344c91',extremes,Drought,#edc291,edo,sequía paraguay,2025-12-16T03:47:00+00:00,Paraguay,0.5904339847035949,1,2,es,SES,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,aguacero brasil,2025-12-18T03:44:00+00:00,Brazil,0.5831871971231184,1,2,es,SAM,South-America
-'68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2025-12-09T03:41:00+00:00,Spain,0.5793314303648632,1,3,es,MED,Europe
 'eddc59f608',extremes,Snow&Ice,#d60d2b,wmo,heladas españa,2025-12-12T03:45:00+00:00,Spain,0.5742975634650949,1,3,es,MED,Europe
 '784121ab4b',extremes,Fog,#d60d2b,wmo,niebla valle del guadiana,2025-12-18T03:44:00+00:00,Spain,0.5632461890122613,1,2,es,MED,Europe
-'ca8e8f590d',extremes,Storm,#b3b2b1,wmo,tormenta litoral sur de tarragona,2025-12-16T03:47:00+00:00,Spain,0.562315218587786,1,2,es,MED,Europe
 '331f9db5d5',extremes,Snow&Ice,#d60d2b,wmo,hielo españa,2025-12-13T03:38:00+00:00,Spain,0.555300661945106,1,3,es,MED,Europe
-'1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitación litoral,2025-12-18T03:44:00+00:00,Ecuador,0.5518256788047676,2,2,es,NWS,South-America
-'04f9463542',extremes,Snow&Ice,#d60d2b,wmo,avalancha estados unidos,2025-12-10T03:45:00+00:00,United States,0.5470804001142441,1,3,es,CNA,North-America
 '88f49d6040',extremes,Storm,#b3b2b1,wmo,tormenta zona sur,2025-12-19T03:46:00+00:00,Ecuador,0.5466119849500675,2,3,es,NWS,South-America
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,tormenta litoral,2025-12-19T03:46:00+00:00,Ecuador,0.4783502158028669,3,3,es,NWS,South-America
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,el año más frío.,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,es,,
