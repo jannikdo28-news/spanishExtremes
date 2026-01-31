@@ -109,7 +109,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '538af34cee',extremes,Earthquake,#870007,usgs,terremoto los andes,2025-12-18T03:44:00+00:00,Chile,0.6297717782682275,1,2,es,SWS,South-America
 '58e1428940',extremes,Snow Avalanche,#deddd5,wmo,alud valle de arán,2026-01-21T03:56:00+00:00,Spain,0.6242459101459451,1,1,es,MED,Europe
 '1c17f04489',extremes,Thunderstorm,#53785a,wmo,granizo interior de alicante,2025-12-14T03:49:00+00:00,Spain,0.607608504498664,0,2,es,MED,Europe
-'32cd6b8ef4',extremes,Storm,#b3b2b1,wmo,tormenta litoral norte de valencia,2025-12-14T03:49:00+00:00,Spain,0.6067470938966574,0,2,es,MED,Europe
 'f4e7397282',extremes,Tsunami,#690191,usgs,puerto tsunami alsworth,2026-01-15T10:56:00+00:00,United States,0.6055416668589907,1,1,es,NWN,North-America
 '2fa9116266',extremes,Earthquake,#870007,usgs,puerto sísmico de Alsworth,2026-01-15T12:13:00+00:00,United States,0.6053765014721836,1,1,es,NWN,North-America
 '982d97b8ec',extremes,Earthquake,#870007,usgs,terremoto susanville,2026-01-15T12:13:00+00:00,United States,0.6052290591489315,1,1,es,WNA,North-America
