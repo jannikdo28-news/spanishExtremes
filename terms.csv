@@ -19,7 +19,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '01f0f04dd7',extremes,Heat Wave,#c40202,wmo,ola de calor caba y alrededores,2026-01-22T03:59:00+00:00,Argentina,0.7836644112765596,1,2,es,SES,South-America
 '1c9dc747da',extremes,Drought,#edc291,edo,falta de lluvia cuba,2026-01-15T10:57:00+00:00,Cuba,0.7748264526646119,2,2,es,CAR,North-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-01-21T03:56:00+00:00,Argentina,0.767010771740134,1,3,es,SES,South-America
-'2b54723d48',extremes,Precipitation,#d60d2b,wmo,aguacero amazonía,2026-01-30T04:21:00+00:00,Ecuador,0.7520343957059221,0,1,es,NWS,South-America
 '20d3210be7',extremes,Heat Wave,#c40202,wmo,ola de calor bernardo de irigoyen y alrededores,2026-01-30T04:21:00+00:00,Argentina,0.7513878426321523,0,1,es,SES,South-America
 'e7db391dce',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa rica,2026-01-31T04:16:00+00:00,Costa Rica,0.7503704870295113,0,1,es,SCA,North-America
 'a828348731',extremes,Storm,#b3b2b1,wmo,tormenta costa rica,2026-01-31T04:16:00+00:00,Costa Rica,0.7500568483548493,0,1,es,SCA,North-America
@@ -97,6 +96,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,aguacero ecuador,2026-01-26T04:09:00+00:00,Ecuador,0.6396636287000719,1,1,es,NWS,South-America
 'e9f2b42100',extremes,Heat Wave,#c40202,wmo,ola de calor la plata y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.6396007706957705,1,1,es,SES,South-America
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,ola de calor corrientes y alrededores,2026-01-28T03:56:00+00:00,Argentina,0.6394568564177138,1,1,es,SES,South-America
+'2b54723d48',extremes,Precipitation,#d60d2b,wmo,aguacero amazonía,2026-01-30T04:21:00+00:00,Ecuador,0.6393792513500338,1,1,es,NWS,South-America
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial ecuador,2026-01-29T04:19:00+00:00,Ecuador,0.639189041438258,1,1,es,NWS,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2025-12-14T03:49:00+00:00,Argentina,0.6390230416827092,1,3,es,SES,South-America
 '6653d205b8',extremes,Heat Wave,#c40202,wmo,ola de calor marcos juarez y alrededores,2026-01-28T03:56:00+00:00,Argentina,0.6389851321847416,1,1,es,SES,South-America
@@ -124,10 +124,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e1704522e0',extremes,Thunderstorm,#53785a,wmo,tiempo severo litoral de barcelona,2025-12-14T03:49:00+00:00,Spain,0.6051817002592744,0,2,es,MED,Europe
 'e4b6fd64a5',extremes,Thunderstorm,#53785a,wmo,tormenta depresión central de tarragona,2025-12-14T03:49:00+00:00,Spain,0.6046293852004981,0,2,es,MED,Europe
 '876b6407e1',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral norte de alicante,2025-12-14T03:49:00+00:00,Spain,0.6026918334118945,0,2,es,MED,Europe
-'2b52ab7e3c',extremes,Thunderstorm,#53785a,wmo,granizo levante almeriense,2025-12-13T03:38:00+00:00,Spain,0.6023630694455142,0,2,es,MED,Europe
 '5731fce9c0',extremes,Thunderstorm,#53785a,wmo,tiempo severo interior norte de castellón,2025-12-14T03:49:00+00:00,Spain,0.6019261400298682,0,2,es,MED,Europe
-'7e75768105',extremes,Thunderstorm,#53785a,wmo,tiempo severo oeste de la palma,2025-12-13T03:38:00+00:00,Spain,0.6008383207736839,0,2,es,MED,Europe
-'85abccab8c',extremes,Thunderstorm,#53785a,wmo,tormenta la gomera,2025-12-13T03:38:00+00:00,Spain,0.6003877731963307,0,2,es,MED,Europe
 '453ac3d6b2',extremes,Storm,#b3b2b1,wmo,marejada ciclónica ceuta,2025-12-14T03:49:00+00:00,Spain,0.5998996566501558,0,2,es,MED,Europe
 'ff585f8cff',extremes,Storm,#b3b2b1,wmo,tormenta ceuta,2025-12-14T03:49:00+00:00,Spain,0.5996362350949144,0,2,es,MED,Europe
 'b440dd1d18',extremes,Snow&Ice,#d60d2b,wmo,entrada de Snow Cook al norte de la isla de Kalgin,2025-12-18T03:44:00+00:00,United States,0.5996007552652939,0,2,es,CNA,North-America
