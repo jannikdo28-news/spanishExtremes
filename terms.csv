@@ -21,6 +21,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-01-21T03:56:00+00:00,Argentina,0.767010771740134,1,3,es,SES,South-America
 '2b54723d48',extremes,Precipitation,#d60d2b,wmo,aguacero amazonía,2026-01-30T04:21:00+00:00,Ecuador,0.7520343957059221,0,1,es,NWS,South-America
 '20d3210be7',extremes,Heat Wave,#c40202,wmo,ola de calor bernardo de irigoyen y alrededores,2026-01-30T04:21:00+00:00,Argentina,0.7513878426321523,0,1,es,SES,South-America
+'e7db391dce',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa rica,2026-01-31T04:16:00+00:00,Costa Rica,0.7503704870295113,0,1,es,SCA,North-America
+'a828348731',extremes,Storm,#b3b2b1,wmo,tormenta costa rica,2026-01-31T04:16:00+00:00,Costa Rica,0.7500568483548493,0,1,es,SCA,North-America
+'e93b64a215',extremes,Storm,#b3b2b1,wmo,marejada ciclónica córdoba ischilin totoral.,2026-01-29T04:19:00+00:00,Argentina,0.7487424107432546,0,1,es,SES,South-America
+'2e5d011ec9',extremes,Heat Wave,#c40202,wmo,ola de calor monte caseros y alrededores,2026-01-30T04:21:00+00:00,Argentina,0.7483976108934369,0,1,es,SES,South-America
 '871d9bdd41',extremes,Earthquake,#870007,usgs,terremoto las vigas,2026-01-15T10:56:00+00:00,Mexico,0.7469762752162117,1,2,es,SCA,North-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-01-15T10:56:00+00:00,Chile,0.7458193610723534,1,2,es,SWS,South-America
 'cc7bbe599c',extremes,Storm,#b3b2b1,wmo,tormenta fuerte,2026-01-15T10:56:00+00:00,United States,0.7456737944080513,1,3,es,CNA,North-America
