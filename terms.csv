@@ -14,11 +14,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '64faaa2bb5',extremes,Storm,#b3b2b1,wmo,tormenta cordillera y picos de europa,2026-01-15T10:56:00+00:00,Spain,0.7881739435602956,1,2,es,MED,Europe
 '349b9f9026',extremes,Heat Wave,#c40202,wmo,ola de calor área 3 – menor,2026-01-24T03:48:00+00:00,Paraguay,0.7861218258986544,1,2,es,SES,South-America
 '2f486e78b4',extremes,Snow Avalanche,#deddd5,wmo,alud pirineo oscense,2026-01-19T04:03:00+00:00,Spain,0.7858144401592382,1,3,es,MED,Europe
+'871d9bdd41',extremes,Earthquake,#870007,usgs,terremoto las vigas,2026-01-15T10:56:00+00:00,Mexico,0.7853798789337799,2,2,es,SCA,North-America
 '01f0f04dd7',extremes,Heat Wave,#c40202,wmo,ola de calor caba y alrededores,2026-01-22T03:59:00+00:00,Argentina,0.7836644112765596,1,2,es,SES,South-America
 '1c9dc747da',extremes,Drought,#edc291,edo,falta de lluvia cuba,2026-01-15T10:57:00+00:00,Cuba,0.7748264526646119,2,2,es,CAR,North-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-01-21T03:56:00+00:00,Argentina,0.767010771740134,1,3,es,SES,South-America
-'2e5d011ec9',extremes,Heat Wave,#c40202,wmo,ola de calor monte caseros y alrededores,2026-01-30T04:21:00+00:00,Argentina,0.7483976108934369,0,1,es,SES,South-America
-'871d9bdd41',extremes,Earthquake,#870007,usgs,terremoto las vigas,2026-01-15T10:56:00+00:00,Mexico,0.7469762752162117,1,2,es,SCA,North-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-01-15T10:56:00+00:00,Chile,0.7458193610723534,1,2,es,SWS,South-America
 'cc7bbe599c',extremes,Storm,#b3b2b1,wmo,tormenta fuerte,2026-01-15T10:56:00+00:00,United States,0.7456737944080513,1,3,es,CNA,North-America
 '87f28505d1',extremes,Snow Avalanche,#deddd5,wmo,avalancha españa,2026-01-18T03:57:00+00:00,Spain,0.7435171835432681,0,1,es,MED,Europe
@@ -112,6 +111,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e7db391dce',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa rica,2026-01-31T04:16:00+00:00,Costa Rica,0.6378149139750845,1,1,es,SCA,North-America
 'fe7674590b',extremes,Storm,#b3b2b1,wmo,tormenta cordoba san justo.,2026-01-29T04:19:00+00:00,Argentina,0.6367065743039856,1,1,es,SES,South-America
 'e93b64a215',extremes,Storm,#b3b2b1,wmo,marejada ciclónica córdoba ischilin totoral.,2026-01-29T04:19:00+00:00,Argentina,0.6364310491317664,1,1,es,SES,South-America
+'2e5d011ec9',extremes,Heat Wave,#c40202,wmo,ola de calor monte caseros y alrededores,2026-01-30T04:21:00+00:00,Argentina,0.6361379692594213,1,1,es,SES,South-America
 'ee23d47ac0',extremes,Heat Wave,#c40202,wmo,ola de calor rio cuarto y alrededores,2026-01-22T03:59:00+00:00,Argentina,0.6360192134459209,1,1,es,SES,South-America
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,aguacero costa rica,2026-01-30T04:21:00+00:00,Costa Rica,0.6360158728570432,1,1,es,SCA,North-America
 '84c81d05e3',extremes,Heat Wave,#c40202,wmo,ola de calor villa reynolds y alrededores,2026-01-23T04:03:00+00:00,Argentina,0.6352642565492307,1,1,es,SES,South-America
