@@ -18,13 +18,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f486e78b4',extremes,Snow Avalanche,#deddd5,wmo,alud pirineo oscense,2026-01-19T04:03:00+00:00,Spain,0.7858144401592382,1,3,es,MED,Europe
 '871d9bdd41',extremes,Earthquake,#870007,usgs,terremoto las vigas,2026-01-15T10:56:00+00:00,Mexico,0.7853798789337799,2,2,es,SCA,North-America
 '01f0f04dd7',extremes,Heat Wave,#c40202,wmo,ola de calor caba y alrededores,2026-01-22T03:59:00+00:00,Argentina,0.7836644112765596,1,2,es,SES,South-America
+'d2b3cefe08',extremes,Precipitation,#d60d2b,wmo,precipitación costa rica,2026-02-03T04:27:00+00:00,Costa Rica,0.7756130043741233,1,2,es,SCA,North-America
 '1c9dc747da',extremes,Drought,#edc291,edo,falta de lluvia cuba,2026-01-15T10:57:00+00:00,Cuba,0.7748264526646119,2,2,es,CAR,North-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-01-21T03:56:00+00:00,Argentina,0.767010771740134,1,3,es,SES,South-America
-'5cb766f03d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica área 2 – moderada,2026-02-01T04:41:00+00:00,Paraguay,0.755489670327206,0,1,es,SES,South-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-01-15T10:56:00+00:00,Chile,0.7458193610723534,1,2,es,SWS,South-America
 'cc7bbe599c',extremes,Storm,#b3b2b1,wmo,tormenta fuerte,2026-01-15T10:56:00+00:00,United States,0.7456737944080513,1,3,es,CNA,North-America
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2026-01-15T10:56:00+00:00,Qatar,0.7408763685492641,1,2,es,ARP,Asia
-'d2b3cefe08',extremes,Precipitation,#d60d2b,wmo,precipitación costa rica,2026-02-03T04:27:00+00:00,Costa Rica,0.7358388110283803,0,1,es,SCA,North-America
 '2f1cdbc4b0',extremes,Precipitation,#d60d2b,wmo,lluvia sur de mallorca,2026-01-15T12:14:00+00:00,Spain,0.7341773475504849,1,3,es,MED,Europe
 '1327c453bc',extremes,Precipitation,#d60d2b,wmo,precipitación españa,2026-01-15T12:14:00+00:00,Spain,0.7288867447113911,1,2,es,MED,Europe
 'eb47176b76',extremes,Wildfire,#d60d2b,emdat,incendio forestal en chile,2026-02-01T04:41:00+00:00,Chile,0.7275539197861496,0,1,es,SWS,South-America
@@ -98,6 +97,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db7218a192',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa suroeste de a coruña,2026-01-15T12:14:00+00:00,Spain,0.6555779086882983,1,1,es,MED,Europe
 'e1a4ee38e4',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial levante mallorquín,2026-01-15T12:14:00+00:00,Spain,0.6553254106193853,1,1,es,MED,Europe
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-01-15T10:56:00+00:00,Argentina,0.6538083154320162,2,1,es,SES,South-America
+'5cb766f03d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica área 2 – moderada,2026-02-01T04:41:00+00:00,Paraguay,0.6421662197781252,1,1,es,SES,South-America
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,marejada ciclónica ecuador,2026-01-27T03:58:00+00:00,Ecuador,0.6406323953513116,1,1,es,NWS,South-America
 '99e70937bb',extremes,Heat Wave,#c40202,wmo,ola de calor punta indio y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.6401932435533142,1,1,es,SES,South-America
 'aa38978c0b',extremes,Heat Wave,#c40202,wmo,ola de calor gualeguaychu y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.6399645702766285,1,1,es,SES,South-America
