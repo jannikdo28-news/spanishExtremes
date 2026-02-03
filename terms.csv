@@ -4,6 +4,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '39ef6043d8',extremes,Precipitation,#d60d2b,wmo,lluvia españa,2026-01-15T12:14:00+00:00,Spain,0.8109477643460361,1,3,es,MED,Europe
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-01-15T10:56:00+00:00,Spain,0.810839414348131,1,3,es,MED,Europe
 '74ae24437b',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial españa,2026-01-15T10:56:00+00:00,Spain,0.8071359526821333,1,2,es,MED,Europe
+'eddc59f608',extremes,Snow&Ice,#d60d2b,wmo,heladas españa,2026-01-15T10:56:00+00:00,Spain,0.8067594776035303,1,3,es,MED,Europe
 '8068e6b5b7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica españa,2026-01-15T10:56:00+00:00,Spain,0.8061299798064152,1,2,es,MED,Europe
 '64fef03c50',extremes,Precipitation,#d60d2b,wmo,precipitación rías baixas,2026-01-15T10:56:00+00:00,Spain,0.8056721043630376,1,2,es,MED,Europe
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2026-01-15T10:56:00+00:00,Chile,0.8021046576449082,1,3,es,SWS,South-America
@@ -17,10 +18,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '871d9bdd41',extremes,Earthquake,#870007,usgs,terremoto las vigas,2026-01-15T10:56:00+00:00,Mexico,0.7853798789337799,2,2,es,SCA,North-America
 '01f0f04dd7',extremes,Heat Wave,#c40202,wmo,ola de calor caba y alrededores,2026-01-22T03:59:00+00:00,Argentina,0.7836644112765596,1,2,es,SES,South-America
 '1c9dc747da',extremes,Drought,#edc291,edo,falta de lluvia cuba,2026-01-15T10:57:00+00:00,Cuba,0.7748264526646119,2,2,es,CAR,North-America
-'eddc59f608',extremes,Snow&Ice,#d60d2b,wmo,heladas españa,2026-01-15T10:56:00+00:00,Spain,0.7721792907635117,0,1,es,MED,Europe
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-01-15T10:56:00+00:00,Argentina,0.7691861828611957,1,2,es,SES,South-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-01-21T03:56:00+00:00,Argentina,0.767010771740134,1,3,es,SES,South-America
-'99e70937bb',extremes,Heat Wave,#c40202,wmo,ola de calor punta indio y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.7531685218274285,0,1,es,SES,South-America
 '6f0a779664',extremes,Heat Wave,#c40202,wmo,ola de calor tandil y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.7528794708054647,0,1,es,SES,South-America
 '325a7b8b17',extremes,Precipitation,#d60d2b,wmo,aguacero litoral y sierra.,2026-02-02T04:36:00+00:00,Ecuador,0.7522628414690977,0,1,es,NWS,South-America
 '6f572c7c08',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial litoral sierra y amazonía,2026-02-02T04:36:00+00:00,Ecuador,0.751446159827991,0,1,es,NWS,South-America
@@ -102,6 +101,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db7218a192',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa suroeste de a coruña,2026-01-15T12:14:00+00:00,Spain,0.6555779086882983,1,1,es,MED,Europe
 'e1a4ee38e4',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial levante mallorquín,2026-01-15T12:14:00+00:00,Spain,0.6553254106193853,1,1,es,MED,Europe
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,marejada ciclónica ecuador,2026-01-27T03:58:00+00:00,Ecuador,0.6406323953513116,1,1,es,NWS,South-America
+'99e70937bb',extremes,Heat Wave,#c40202,wmo,ola de calor punta indio y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.6401932435533142,1,1,es,SES,South-America
 'aa38978c0b',extremes,Heat Wave,#c40202,wmo,ola de calor gualeguaychu y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.6399645702766285,1,1,es,SES,South-America
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,aguacero ecuador,2026-01-26T04:09:00+00:00,Ecuador,0.6396636287000719,1,1,es,NWS,South-America
 'e9f2b42100',extremes,Heat Wave,#c40202,wmo,ola de calor la plata y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.6396007706957705,1,1,es,SES,South-America
