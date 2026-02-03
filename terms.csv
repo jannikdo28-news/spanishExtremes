@@ -25,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2026-01-15T10:56:00+00:00,Qatar,0.7408763685492641,1,2,es,ARP,Asia
 '2f1cdbc4b0',extremes,Precipitation,#d60d2b,wmo,lluvia sur de mallorca,2026-01-15T12:14:00+00:00,Spain,0.7341773475504849,1,3,es,MED,Europe
 '1327c453bc',extremes,Precipitation,#d60d2b,wmo,precipitación españa,2026-01-15T12:14:00+00:00,Spain,0.7288867447113911,1,2,es,MED,Europe
-'d0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,precipitación ecuador,2026-01-26T04:09:00+00:00,Ecuador,0.7281126795188602,0,1,es,NWS,South-America
 'eb47176b76',extremes,Wildfire,#d60d2b,emdat,incendio forestal en chile,2026-02-01T04:41:00+00:00,Chile,0.7275539197861496,0,1,es,SWS,South-America
 '8f29727ea9',extremes,Drought,#edc291,edo,sequía guinea ecuatorial,2026-01-17T03:44:00+00:00,Equatorial Guinea,0.7265499122120008,0,1,es,WAF,Africa
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-01-18T03:57:00+00:00,Paraguay,0.7265117706930854,1,2,es,SES,South-America
@@ -129,6 +128,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3c536c7042',extremes,Snow Avalanche,#deddd5,wmo,avalancha pirineo navarro,2026-01-27T03:58:00+00:00,Spain,0.6300814244709338,1,1,es,MED,Europe
 '538af34cee',extremes,Earthquake,#870007,usgs,terremoto los andes,2025-12-18T03:44:00+00:00,Chile,0.6297717782682275,1,2,es,SWS,South-America
 '58e1428940',extremes,Snow Avalanche,#deddd5,wmo,alud valle de arán,2026-01-21T03:56:00+00:00,Spain,0.6242459101459451,1,1,es,MED,Europe
+'d0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,precipitación ecuador,2026-01-26T04:09:00+00:00,Ecuador,0.6190457925910311,1,1,es,NWS,South-America
 'f4e7397282',extremes,Tsunami,#690191,usgs,puerto tsunami alsworth,2026-01-15T10:56:00+00:00,United States,0.6055416668589907,1,1,es,NWN,North-America
 '2fa9116266',extremes,Earthquake,#870007,usgs,puerto sísmico de Alsworth,2026-01-15T12:13:00+00:00,United States,0.6053765014721836,1,1,es,NWN,North-America
 '982d97b8ec',extremes,Earthquake,#870007,usgs,terremoto susanville,2026-01-15T12:13:00+00:00,United States,0.6052290591489315,1,1,es,WNA,North-America
