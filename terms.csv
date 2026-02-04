@@ -24,13 +24,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-01-15T10:56:00+00:00,Chile,0.7458193610723534,1,2,es,SWS,South-America
 'cc7bbe599c',extremes,Storm,#b3b2b1,wmo,tormenta fuerte,2026-01-15T10:56:00+00:00,United States,0.7456737944080513,1,3,es,CNA,North-America
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2026-01-15T10:56:00+00:00,Qatar,0.7408763685492641,1,2,es,ARP,Asia
-'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-01-18T03:57:00+00:00,Paraguay,0.7265117706930854,1,2,es,SES,South-America
-'33f847dd45',extremes,Precipitation,#d60d2b,wmo,aguacero formosa formosa laishi pirane.,2026-01-29T04:19:00+00:00,Argentina,0.7231419282268085,0,1,es,SES,South-America
 'd716590c30',extremes,Storm,#b3b2b1,wmo,tormenta regiones pacífico norte.,2026-01-30T04:21:00+00:00,Costa Rica,0.7193292631477789,2,2,es,SCA,North-America
 '06532967b8',extremes,Drought,#edc291,edo,falta de lluvia brasil,2026-01-15T10:57:00+00:00,Brazil,0.7185330972871325,1,2,es,SAM,South-America
 '63b3a5e343',extremes,Earthquake,#870007,usgs,terremoto san marcos,2026-01-15T10:56:00+00:00,Mexico,0.7133859572600593,1,2,es,SCA,North-America
-'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,tormenta invernal norteamericana nueva york,2026-01-31T04:17:00+00:00,United States,0.7128168116634354,0,1,es,ENA,North-America
-'f200ff28aa',extremes,Earthquake,#870007,usgs,terremoto estados unidos,2026-01-15T10:56:00+00:00,United States,0.7120737997298776,0,1,es,WNA,North-America
 '331f9db5d5',extremes,Snow&Ice,#d60d2b,wmo,hielo españa,2026-01-15T10:56:00+00:00,Spain,0.7112820274542868,1,2,es,MED,Europe
 'dbc72b57f2',extremes,Heat Wave,#c40202,wmo,ola de calor área 1 – severa,2026-01-25T04:06:00+00:00,Paraguay,0.7090799971418306,0,1,es,SES,South-America
 'df2f695002',extremes,Precipitation,#d60d2b,wmo,lluvia rías baixas,2026-01-15T12:14:00+00:00,Spain,0.7079761073845655,2,2,es,MED,Europe
@@ -134,8 +130,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3c536c7042',extremes,Snow Avalanche,#deddd5,wmo,avalancha pirineo navarro,2026-01-27T03:58:00+00:00,Spain,0.6300814244709338,1,1,es,MED,Europe
 '58e1428940',extremes,Snow Avalanche,#deddd5,wmo,alud valle de arán,2026-01-21T03:56:00+00:00,Spain,0.6242459101459451,1,1,es,MED,Europe
 '2f1cdbc4b0',extremes,Precipitation,#d60d2b,wmo,lluvia sur de mallorca,2026-01-15T12:14:00+00:00,Spain,0.6240513454179122,2,2,es,MED,Europe
+'f200ff28aa',extremes,Earthquake,#870007,usgs,terremoto estados unidos,2026-01-15T10:56:00+00:00,United States,0.6238511784067596,1,2,es,WNA,North-America
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,precipitación ecuador,2026-01-26T04:09:00+00:00,Ecuador,0.6190457925910311,1,1,es,NWS,South-America
 '8f29727ea9',extremes,Drought,#edc291,edo,sequía guinea ecuatorial,2026-01-17T03:44:00+00:00,Equatorial Guinea,0.6177174403802007,1,1,es,WAF,Africa
+'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-01-18T03:57:00+00:00,Paraguay,0.6175351100891225,2,1,es,SES,South-America
+'33f847dd45',extremes,Precipitation,#d60d2b,wmo,aguacero formosa formosa laishi pirane.,2026-01-29T04:19:00+00:00,Argentina,0.6146706389927872,1,1,es,SES,South-America
+'6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,tormenta invernal norteamericana nueva york,2026-01-31T04:17:00+00:00,United States,0.60589428991392,1,1,es,ENA,North-America
 'f4e7397282',extremes,Tsunami,#690191,usgs,puerto tsunami alsworth,2026-01-15T10:56:00+00:00,United States,0.6055416668589907,1,1,es,NWN,North-America
 '2fa9116266',extremes,Earthquake,#870007,usgs,puerto sísmico de Alsworth,2026-01-15T12:13:00+00:00,United States,0.6053765014721836,1,1,es,NWN,North-America
 '982d97b8ec',extremes,Earthquake,#870007,usgs,terremoto susanville,2026-01-15T12:13:00+00:00,United States,0.6052290591489315,1,1,es,WNA,North-America
