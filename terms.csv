@@ -1,5 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'e5b46f3978',extremes,Drought,#edc291,edo,sequía argentina,2026-01-15T10:57:00+00:00,Argentina,0.8457686610367675,3,3,es,SES,South-America
+'d389bc4f63',extremes,Earthquake,#870007,usgs,terremoto mexico,2026-02-05T04:27:00+00:00,Mexico,0.8319841878860488,2,2,es,SCA,North-America
 '55e8cccd81',extremes,Earthquake,#870007,usgs,terremoto san juan,2026-01-31T04:16:00+00:00,Peru,0.8236649793402964,2,3,es,SWS,South-America
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.8229892510184902,1,2,es,SES,South-America
 '39ef6043d8',extremes,Precipitation,#d60d2b,wmo,lluvia españa,2026-01-15T12:14:00+00:00,Spain,0.8109477643460361,1,3,es,MED,Europe
@@ -8,7 +9,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eddc59f608',extremes,Snow&Ice,#d60d2b,wmo,heladas españa,2026-01-15T10:56:00+00:00,Spain,0.8067594776035303,1,3,es,MED,Europe
 '8068e6b5b7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica españa,2026-01-15T10:56:00+00:00,Spain,0.8061299798064152,1,2,es,MED,Europe
 '64fef03c50',extremes,Precipitation,#d60d2b,wmo,precipitación rías baixas,2026-01-15T10:56:00+00:00,Spain,0.8056721043630376,1,2,es,MED,Europe
-'d389bc4f63',extremes,Earthquake,#870007,usgs,terremoto mexico,2026-02-05T04:27:00+00:00,Mexico,0.802157850454175,1,2,es,SCA,North-America
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2026-01-15T10:56:00+00:00,Chile,0.8021046576449082,1,3,es,SWS,South-America
 '28f61be3bd',extremes,Snow&Ice,#d60d2b,wmo,nieve sierra de madrid,2026-01-15T12:14:00+00:00,Spain,0.80157956732347,1,3,es,MED,Europe
 'dfddc79ff8',extremes,Snow&Ice,#d60d2b,wmo,hielo sierra de madrid,2026-01-15T10:56:00+00:00,Spain,0.7967341331344621,1,3,es,MED,Europe
@@ -31,7 +31,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '06532967b8',extremes,Drought,#edc291,edo,falta de lluvia brasil,2026-01-15T10:57:00+00:00,Brazil,0.7185330972871325,1,2,es,SAM,South-America
 '63b3a5e343',extremes,Earthquake,#870007,usgs,terremoto san marcos,2026-01-15T10:56:00+00:00,Mexico,0.7133859572600593,1,2,es,SCA,North-America
 '331f9db5d5',extremes,Snow&Ice,#d60d2b,wmo,hielo españa,2026-01-15T10:56:00+00:00,Spain,0.7112820274542868,1,2,es,MED,Europe
-'83f16d38a8',extremes,Earthquake,#870007,usgs,terremoto zirándaro de los chávez,2026-01-22T03:59:00+00:00,Mexico,0.7099688703410738,0,1,es,NCA,North-America
 'df2f695002',extremes,Precipitation,#d60d2b,wmo,lluvia rías baixas,2026-01-15T12:14:00+00:00,Spain,0.7079761073845655,2,2,es,MED,Europe
 '6f3e07a7e3',extremes,Snow&Ice,#d60d2b,wmo,hielo cordillera cantábrica de león,2026-01-15T10:56:00+00:00,Spain,0.7068054473213283,1,1,es,MED,Europe
 '7d68920b56',extremes,Earthquake,#870007,usgs,terremoto nicaragua,2026-01-15T10:56:00+00:00,Nicaragua,0.7031254063420763,1,1,es,SCA,North-America
@@ -147,6 +146,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2fa9116266',extremes,Earthquake,#870007,usgs,puerto sísmico de Alsworth,2026-01-15T12:13:00+00:00,United States,0.6053765014721836,1,1,es,NWN,North-America
 '982d97b8ec',extremes,Earthquake,#870007,usgs,terremoto susanville,2026-01-15T12:13:00+00:00,United States,0.6052290591489315,1,1,es,WNA,North-America
 'ecf3b73558',extremes,Snow&Ice,#d60d2b,wmo,nieve españa,2025-12-16T03:47:00+00:00,Spain,0.6051937493156295,1,3,es,MED,Europe
+'83f16d38a8',extremes,Earthquake,#870007,usgs,terremoto zirándaro de los chávez,2026-01-22T03:59:00+00:00,Mexico,0.6034735397899127,1,1,es,NCA,North-America
 'dbc72b57f2',extremes,Heat Wave,#c40202,wmo,ola de calor área 1 – severa,2026-01-25T04:06:00+00:00,Paraguay,0.602717997570556,1,1,es,SES,South-America
 '8e12d8e374',extremes,Heat Wave,#c40202,wmo,ola de calor resistencia y alrededores,2026-01-28T03:56:00+00:00,Argentina,0.5973738238672368,1,1,es,SES,South-America
 '422773ffe0',extremes,Heat Wave,#c40202,wmo,ola de calor zona 2 – moderada,2026-01-24T03:48:00+00:00,Paraguay,0.596511585801176,1,1,es,SES,South-America
