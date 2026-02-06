@@ -34,7 +34,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df2f695002',extremes,Precipitation,#d60d2b,wmo,lluvia rías baixas,2026-01-15T12:14:00+00:00,Spain,0.7079761073845655,2,2,es,MED,Europe
 '6f3e07a7e3',extremes,Snow&Ice,#d60d2b,wmo,hielo cordillera cantábrica de león,2026-01-15T10:56:00+00:00,Spain,0.7068054473213283,1,1,es,MED,Europe
 '7d68920b56',extremes,Earthquake,#870007,usgs,terremoto nicaragua,2026-01-15T10:56:00+00:00,Nicaragua,0.7031254063420763,1,1,es,SCA,North-America
-'0b4a22ce16',extremes,Wildfire,#d60d2b,emdat,incendio forestal chile,2026-01-31T04:16:00+00:00,Chile,0.7003487843153808,0,1,es,SWS,South-America
 '517e4b4a9e',extremes,Storm,#b3b2b1,wmo,tormenta canal norte de lynn,2026-01-15T10:56:00+00:00,United States,0.6949654309424699,0,1,es,CNA,North-America
 '541f3fa0f3',extremes,Storm,#b3b2b1,wmo,sonido de cruz de tormenta,2026-01-15T10:56:00+00:00,United States,0.6949599820081624,0,1,es,CNA,North-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,lluvia ecuador,2026-01-28T03:56:00+00:00,Ecuador,0.6945900757610748,2,2,es,NWS,South-America
@@ -102,6 +101,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '56dca2743f',extremes,Drought,#edc291,edo,sequía en guinea ecuatorial,2026-01-15T12:14:00+00:00,Equatorial Guinea,0.6443974464629447,2,1,es,WAF,Africa
 '5cb766f03d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica área 2 – moderada,2026-02-01T04:41:00+00:00,Paraguay,0.6421662197781252,1,1,es,SES,South-America
 'fda000bba3',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral y sierra,2026-02-03T04:27:00+00:00,Ecuador,0.6416899101369433,1,1,es,NWS,South-America
+'0b4a22ce16',extremes,Wildfire,#d60d2b,emdat,incendio forestal chile,2026-01-31T04:16:00+00:00,Chile,0.6411565325771645,1,2,es,SWS,South-America
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,marejada ciclónica ecuador,2026-01-27T03:58:00+00:00,Ecuador,0.6406323953513116,1,1,es,NWS,South-America
 '99e70937bb',extremes,Heat Wave,#c40202,wmo,ola de calor punta indio y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.6401932435533142,1,1,es,SES,South-America
 'b36377911d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica regiones pacífico norte.,2026-02-03T04:27:00+00:00,Costa Rica,0.6400048584445656,1,1,es,SCA,North-America
