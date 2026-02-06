@@ -1,7 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'e5b46f3978',extremes,Drought,#edc291,edo,sequía argentina,2026-01-15T10:57:00+00:00,Argentina,0.8457686610367675,3,3,es,SES,South-America
+'55e8cccd81',extremes,Earthquake,#870007,usgs,terremoto san juan,2026-01-31T04:16:00+00:00,Peru,0.8236649793402964,2,3,es,SWS,South-America
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.8229892510184902,1,2,es,SES,South-America
-'55e8cccd81',extremes,Earthquake,#870007,usgs,terremoto san juan,2026-01-31T04:16:00+00:00,Peru,0.8188081842506161,1,3,es,SWS,South-America
 '39ef6043d8',extremes,Precipitation,#d60d2b,wmo,lluvia españa,2026-01-15T12:14:00+00:00,Spain,0.8109477643460361,1,3,es,MED,Europe
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-01-15T10:56:00+00:00,Spain,0.810839414348131,1,3,es,MED,Europe
 '74ae24437b',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial españa,2026-01-15T10:56:00+00:00,Spain,0.8071359526821333,1,2,es,MED,Europe
@@ -24,7 +24,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1327c453bc',extremes,Precipitation,#d60d2b,wmo,precipitación españa,2026-01-15T12:14:00+00:00,Spain,0.7699594034592279,2,3,es,MED,Europe
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-01-21T03:56:00+00:00,Argentina,0.767010771740134,1,3,es,SES,South-America
 'a1d6f6b899',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral sierra y amazonía,2026-02-04T04:21:00+00:00,Ecuador,0.7567886978170804,0,1,es,NWS,South-America
-'b3c0051e90',extremes,Heat Wave,#c40202,wmo,ola de calor formosa y alrededores,2026-02-06T04:27:00+00:00,Argentina,0.7551343415574017,0,1,es,SES,South-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-01-15T10:56:00+00:00,Chile,0.7458193610723534,1,2,es,SWS,South-America
 'cc7bbe599c',extremes,Storm,#b3b2b1,wmo,tormenta fuerte,2026-01-15T10:56:00+00:00,United States,0.7456737944080513,1,3,es,CNA,North-America
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2026-01-15T10:56:00+00:00,Qatar,0.7408763685492641,1,2,es,ARP,Asia
@@ -102,6 +101,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-01-15T10:56:00+00:00,Argentina,0.6538083154320162,2,1,es,SES,South-America
 '56dca2743f',extremes,Drought,#edc291,edo,sequía en guinea ecuatorial,2026-01-15T12:14:00+00:00,Equatorial Guinea,0.6443974464629447,2,1,es,WAF,Africa
 '5cb766f03d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica área 2 – moderada,2026-02-01T04:41:00+00:00,Paraguay,0.6421662197781252,1,1,es,SES,South-America
+'b3c0051e90',extremes,Heat Wave,#c40202,wmo,ola de calor formosa y alrededores,2026-02-06T04:27:00+00:00,Argentina,0.6418641903237914,1,1,es,SES,South-America
 'fda000bba3',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral y sierra,2026-02-03T04:27:00+00:00,Ecuador,0.6416899101369433,1,1,es,NWS,South-America
 '0b4a22ce16',extremes,Wildfire,#d60d2b,emdat,incendio forestal chile,2026-01-31T04:16:00+00:00,Chile,0.6411565325771645,1,2,es,SWS,South-America
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,marejada ciclónica ecuador,2026-01-27T03:58:00+00:00,Ecuador,0.6406323953513116,1,1,es,NWS,South-America
