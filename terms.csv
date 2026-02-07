@@ -23,11 +23,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c9dc747da',extremes,Drought,#edc291,edo,falta de lluvia cuba,2026-01-15T10:57:00+00:00,Cuba,0.7748264526646119,2,2,es,CAR,North-America
 '1327c453bc',extremes,Precipitation,#d60d2b,wmo,precipitación españa,2026-01-15T12:14:00+00:00,Spain,0.7699594034592279,2,3,es,MED,Europe
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-01-21T03:56:00+00:00,Argentina,0.767010771740134,1,3,es,SES,South-America
-'a1d6f6b899',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral sierra y amazonía,2026-02-04T04:21:00+00:00,Ecuador,0.7567886978170804,0,1,es,NWS,South-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-01-15T10:56:00+00:00,Chile,0.7458193610723534,1,2,es,SWS,South-America
 'cc7bbe599c',extremes,Storm,#b3b2b1,wmo,tormenta fuerte,2026-01-15T10:56:00+00:00,United States,0.7456737944080513,1,3,es,CNA,North-America
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2026-01-15T10:56:00+00:00,Qatar,0.7408763685492641,1,2,es,ARP,Asia
-'1eb7a3a4d3',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial costa rica,2026-02-04T04:21:00+00:00,Costa Rica,0.7326453718776224,0,1,es,SCA,North-America
 'd716590c30',extremes,Storm,#b3b2b1,wmo,tormenta regiones pacífico norte.,2026-01-30T04:21:00+00:00,Costa Rica,0.7193292631477789,2,2,es,SCA,North-America
 '06532967b8',extremes,Drought,#edc291,edo,falta de lluvia brasil,2026-01-15T10:57:00+00:00,Brazil,0.7185330972871325,1,2,es,SAM,South-America
 '63b3a5e343',extremes,Earthquake,#870007,usgs,terremoto san marcos,2026-01-15T10:56:00+00:00,Mexico,0.7133859572600593,1,2,es,SCA,North-America
@@ -35,11 +33,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df2f695002',extremes,Precipitation,#d60d2b,wmo,lluvia rías baixas,2026-01-15T12:14:00+00:00,Spain,0.7079761073845655,2,2,es,MED,Europe
 '6f3e07a7e3',extremes,Snow&Ice,#d60d2b,wmo,hielo cordillera cantábrica de león,2026-01-15T10:56:00+00:00,Spain,0.7068054473213283,1,1,es,MED,Europe
 '7d68920b56',extremes,Earthquake,#870007,usgs,terremoto nicaragua,2026-01-15T10:56:00+00:00,Nicaragua,0.7031254063420763,1,1,es,SCA,North-America
-'517e4b4a9e',extremes,Storm,#b3b2b1,wmo,tormenta canal norte de lynn,2026-01-15T10:56:00+00:00,United States,0.6949654309424699,0,1,es,CNA,North-America
-'541f3fa0f3',extremes,Storm,#b3b2b1,wmo,sonido de cruz de tormenta,2026-01-15T10:56:00+00:00,United States,0.6949599820081624,0,1,es,CNA,North-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,lluvia ecuador,2026-01-28T03:56:00+00:00,Ecuador,0.6945900757610748,2,2,es,NWS,South-America
 'a828348731',extremes,Storm,#b3b2b1,wmo,tormenta costa rica,2026-01-31T04:16:00+00:00,Costa Rica,0.6937439406470765,1,1,es,SCA,North-America
-'a471dde55c',extremes,Drought,#edc291,edo,sequía cuba,2026-01-24T03:49:00+00:00,Cuba,0.6932149001075433,0,1,es,CAR,North-America
 '8be002d270',extremes,Drought,#edc291,edo,falta de lluvias venezuela,2026-01-28T03:56:00+00:00,Venezuela,0.6916681348760305,1,2,es,NSA,South-America
 'fe6c2aaee0',extremes,Storm,#b3b2b1,wmo,tormenta interior de pontevedra,2026-01-15T12:14:00+00:00,Spain,0.6907356074837003,2,2,es,MED,Europe
 '3e36cbc783',extremes,Earthquake,#870007,usgs,terremoto la concepción,2026-01-15T12:13:00+00:00,Venezuela,0.6879438372156313,1,1,es,NWS,South-America
@@ -75,6 +70,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fcc3f80d6b',extremes,Heat Wave,#c40202,wmo,ola de calor paraguay,2026-01-24T03:48:00+00:00,Paraguay,0.6695333449017987,2,2,es,SES,South-America
 'eb47176b76',extremes,Wildfire,#d60d2b,emdat,incendio forestal en chile,2026-02-01T04:41:00+00:00,Chile,0.6688263672727726,1,2,es,SWS,South-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2026-01-15T10:56:00+00:00,Chile,0.6678604493744831,1,1,es,SWS,South-America
+'a471dde55c',extremes,Drought,#edc291,edo,sequía cuba,2026-01-24T03:49:00+00:00,Cuba,0.6648327250914118,1,2,es,CAR,North-America
 '105ee03aff',extremes,Earthquake,#870007,usgs,terremoto el salvador,2026-01-29T04:18:00+00:00,El Salvador,0.6597600669433195,1,2,es,SCA,North-America
 'd2b3cefe08',extremes,Precipitation,#d60d2b,wmo,precipitación costa rica,2026-02-03T04:27:00+00:00,Costa Rica,0.6592710687180048,2,1,es,SCA,North-America
 '5cf328df80',extremes,Storm,#b3b2b1,wmo,tormenta suroeste de a coruña,2026-01-15T12:14:00+00:00,Spain,0.6573827697498689,1,1,es,MED,Europe
@@ -102,6 +98,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e1a4ee38e4',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial levante mallorquín,2026-01-15T12:14:00+00:00,Spain,0.6553254106193853,1,1,es,MED,Europe
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-01-15T10:56:00+00:00,Argentina,0.6538083154320162,2,1,es,SES,South-America
 '56dca2743f',extremes,Drought,#edc291,edo,sequía en guinea ecuatorial,2026-01-15T12:14:00+00:00,Equatorial Guinea,0.6443974464629447,2,1,es,WAF,Africa
+'a1d6f6b899',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral sierra y amazonía,2026-02-04T04:21:00+00:00,Ecuador,0.6432703931445183,1,1,es,NWS,South-America
 '5cb766f03d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica área 2 – moderada,2026-02-01T04:41:00+00:00,Paraguay,0.6421662197781252,1,1,es,SES,South-America
 'b3c0051e90',extremes,Heat Wave,#c40202,wmo,ola de calor formosa y alrededores,2026-02-06T04:27:00+00:00,Argentina,0.6418641903237914,1,1,es,SES,South-America
 'fda000bba3',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral y sierra,2026-02-03T04:27:00+00:00,Ecuador,0.6416899101369433,1,1,es,NWS,South-America
@@ -140,6 +137,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '58e1428940',extremes,Snow Avalanche,#deddd5,wmo,alud valle de arán,2026-01-21T03:56:00+00:00,Spain,0.6242459101459451,1,1,es,MED,Europe
 '2f1cdbc4b0',extremes,Precipitation,#d60d2b,wmo,lluvia sur de mallorca,2026-01-15T12:14:00+00:00,Spain,0.6240513454179122,2,2,es,MED,Europe
 'f200ff28aa',extremes,Earthquake,#870007,usgs,terremoto estados unidos,2026-01-15T10:56:00+00:00,United States,0.6238511784067596,1,2,es,WNA,North-America
+'1eb7a3a4d3',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial costa rica,2026-02-04T04:21:00+00:00,Costa Rica,0.622748566095979,1,1,es,SCA,North-America
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,precipitación ecuador,2026-01-26T04:09:00+00:00,Ecuador,0.6190457925910311,1,1,es,NWS,South-America
 '8f29727ea9',extremes,Drought,#edc291,edo,sequía guinea ecuatorial,2026-01-17T03:44:00+00:00,Equatorial Guinea,0.6177174403802007,1,1,es,WAF,Africa
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-01-18T03:57:00+00:00,Paraguay,0.6175351100891225,2,1,es,SES,South-America
@@ -154,9 +152,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e12d8e374',extremes,Heat Wave,#c40202,wmo,ola de calor resistencia y alrededores,2026-01-28T03:56:00+00:00,Argentina,0.5973738238672368,1,1,es,SES,South-America
 '422773ffe0',extremes,Heat Wave,#c40202,wmo,ola de calor zona 2 – moderada,2026-01-24T03:48:00+00:00,Paraguay,0.596511585801176,1,1,es,SES,South-America
 'bbc9d44319',extremes,Storm,#b3b2b1,wmo,tormenta noroeste príncipe william sound,2026-01-15T10:56:00+00:00,United States,0.5907208369720086,1,1,es,CNA,North-America
+'517e4b4a9e',extremes,Storm,#b3b2b1,wmo,tormenta canal norte de lynn,2026-01-15T10:56:00+00:00,United States,0.5907206163010994,1,1,es,CNA,North-America
 '0bc923d7b5',extremes,Storm,#b3b2b1,wmo,marejada ciclónica capullo de rosa del norte capullo de rosa del sur,2026-01-15T10:56:00+00:00,United States,0.5907202439085877,1,1,es,CNA,North-America
 '4042a711c6',extremes,Storm,#b3b2b1,wmo,tormenta condado costero de collier,2026-01-15T10:56:00+00:00,United States,0.5907195231752111,1,1,es,CNA,North-America
 'ddf79ea789',extremes,Storm,#b3b2b1,wmo,marejada ciclónica jefferson lewis,2026-01-15T10:56:00+00:00,United States,0.5907174743426946,1,1,es,CNA,North-America
+'541f3fa0f3',extremes,Storm,#b3b2b1,wmo,sonido de cruz de tormenta,2026-01-15T10:56:00+00:00,United States,0.5907159847069381,1,1,es,CNA,North-America
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,el año más frío.,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,es,,
 'b6cef22543',extremes,Drought,#edc291,random,restricción de agua,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,es,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,río atmosférico,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,es,,
