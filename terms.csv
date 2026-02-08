@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'d18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.8229892510184902,1,2,es,SES,South-America
-'39ef6043d8',extremes,Precipitation,#d60d2b,wmo,lluvia españa,2026-01-15T12:14:00+00:00,Spain,0.8109477643460361,1,3,es,MED,Europe
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-01-15T10:56:00+00:00,Spain,0.810839414348131,1,3,es,MED,Europe
 '74ae24437b',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial españa,2026-01-15T10:56:00+00:00,Spain,0.8071359526821333,1,2,es,MED,Europe
 'eddc59f608',extremes,Snow&Ice,#d60d2b,wmo,heladas españa,2026-01-15T10:56:00+00:00,Spain,0.8067594776035303,1,3,es,MED,Europe
@@ -20,6 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c9dc747da',extremes,Drought,#edc291,edo,falta de lluvia cuba,2026-01-15T10:57:00+00:00,Cuba,0.7748264526646119,2,2,es,CAR,North-America
 '1327c453bc',extremes,Precipitation,#d60d2b,wmo,precipitación españa,2026-01-15T12:14:00+00:00,Spain,0.7699594034592279,2,3,es,MED,Europe
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-01-21T03:56:00+00:00,Argentina,0.767010771740134,1,3,es,SES,South-America
+'39ef6043d8',extremes,Precipitation,#d60d2b,wmo,lluvia españa,2026-01-15T12:14:00+00:00,Spain,0.7624476028759488,2,3,es,MED,Europe
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-01-15T10:56:00+00:00,Chile,0.7458193610723534,1,2,es,SWS,South-America
 'cc7bbe599c',extremes,Storm,#b3b2b1,wmo,tormenta fuerte,2026-01-15T10:56:00+00:00,United States,0.7456737944080513,1,3,es,CNA,North-America
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2026-01-15T10:56:00+00:00,Qatar,0.7408763685492641,1,2,es,ARP,Asia
@@ -33,6 +32,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6f3e07a7e3',extremes,Snow&Ice,#d60d2b,wmo,hielo cordillera cantábrica de león,2026-01-15T10:56:00+00:00,Spain,0.7068054473213283,1,1,es,MED,Europe
 '55e8cccd81',extremes,Earthquake,#870007,usgs,terremoto san juan,2026-01-31T04:16:00+00:00,Peru,0.7050660124392519,3,3,es,SWS,South-America
 '7d68920b56',extremes,Earthquake,#870007,usgs,terremoto nicaragua,2026-01-15T10:56:00+00:00,Nicaragua,0.7031254063420763,1,1,es,SCA,North-America
+'d18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.6995408633657166,2,1,es,SES,South-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,lluvia ecuador,2026-01-28T03:56:00+00:00,Ecuador,0.6945900757610748,2,2,es,NWS,South-America
 'a828348731',extremes,Storm,#b3b2b1,wmo,tormenta costa rica,2026-01-31T04:16:00+00:00,Costa Rica,0.6937439406470765,1,1,es,SCA,North-America
 'fe6c2aaee0',extremes,Storm,#b3b2b1,wmo,tormenta interior de pontevedra,2026-01-15T12:14:00+00:00,Spain,0.6907356074837003,2,2,es,MED,Europe
