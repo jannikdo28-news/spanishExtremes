@@ -49,7 +49,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-01-15T10:56:00+00:00,Argentina,0.6820994359240636,1,2,es,SWS,South-America
 '331dc2fd4a',extremes,Thunderstorm,#53785a,wmo,tormenta españa,2026-01-23T04:03:00+00:00,Spain,0.681589274188534,0,1,es,MED,Europe
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,aguacero brasil,2026-02-05T04:27:00+00:00,Brazil,0.6808819714556124,0,1,es,SAM,South-America
+'7978d58b02',extremes,Precipitation,#d60d2b,wmo,lluvia brasil,2026-02-06T04:27:00+00:00,Brazil,0.6803246894298223,0,1,es,SAM,South-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2026-02-07T04:19:00+00:00,Brazil,0.6802994237978792,0,1,es,SAM,South-America
+'c6ce45829e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica brasil,2026-02-07T04:19:00+00:00,Brazil,0.6802958210562378,0,1,es,SAM,South-America
+'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial brasil,2026-02-07T04:19:00+00:00,Brazil,0.6799765061218191,0,1,es,SAM,South-America
+'2015d8e837',extremes,Precipitation,#d60d2b,wmo,precipitación qatar,2026-02-08T04:43:00+00:00,Qatar,0.6787138688026987,0,1,es,ARP,Asia
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-01-15T12:13:00+00:00,Costa Rica,0.6746727589442933,1,1,es,SCA,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-01-26T04:09:00+00:00,Ecuador,0.6745423471657225,1,1,es,NWS,South-America
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2026-01-15T12:13:00+00:00,Bolivia,0.6736785046238081,1,1,es,SES,South-America
