@@ -1,12 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'eddc59f608',extremes,Snow&Ice,#d60d2b,wmo,heladas españa,2026-01-15T10:56:00+00:00,Spain,0.8559086051821869,3,3,es,MED,Europe
+'eddc59f608',extremes,Snow&Ice,#d60d2b,wmo,heladas españa,2026-01-15T10:56:00+00:00,Spain,0.850656097586677,4,3,es,MED,Europe
 '8068e6b5b7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica españa,2026-01-15T10:56:00+00:00,Spain,0.8061299798064152,1,2,es,MED,Europe
 '64fef03c50',extremes,Precipitation,#d60d2b,wmo,precipitación rías baixas,2026-01-15T10:56:00+00:00,Spain,0.8056721043630376,1,2,es,MED,Europe
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2026-01-15T10:56:00+00:00,Chile,0.8021046576449082,1,3,es,SWS,South-America
 '28f61be3bd',extremes,Snow&Ice,#d60d2b,wmo,nieve sierra de madrid,2026-01-15T12:14:00+00:00,Spain,0.80157956732347,1,3,es,MED,Europe
 'dfddc79ff8',extremes,Snow&Ice,#d60d2b,wmo,hielo sierra de madrid,2026-01-15T10:56:00+00:00,Spain,0.7967341331344621,1,3,es,MED,Europe
 '5a9124c973',extremes,Heat Wave,#c40202,wmo,ola de calor las flores y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.790027082411808,1,2,es,SES,South-America
-'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2025-12-16T03:47:00+00:00,Argentina,0.7886683271127867,1,3,es,SES,South-America
 '64faaa2bb5',extremes,Storm,#b3b2b1,wmo,tormenta cordillera y picos de europa,2026-01-15T10:56:00+00:00,Spain,0.7881739435602956,1,2,es,MED,Europe
 '87f28505d1',extremes,Snow Avalanche,#deddd5,wmo,avalancha españa,2026-01-18T03:57:00+00:00,Spain,0.7869410010117779,1,3,es,MED,Europe
 '349b9f9026',extremes,Heat Wave,#c40202,wmo,ola de calor área 3 – menor,2026-01-24T03:48:00+00:00,Paraguay,0.7861218258986544,1,2,es,SES,South-America
