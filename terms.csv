@@ -43,7 +43,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd3b9274c07',extremes,Drought,#edc291,edo,sequía guatemala,2026-02-05T04:28:00+00:00,Guatemala,0.6945532534549871,0,1,es,SCA,North-America
 '30b1a37300',extremes,Earthquake,#870007,usgs,terremoto la tirana,2026-02-07T04:19:00+00:00,Chile,0.6945297064174143,0,1,es,SWS,South-America
 'a828348731',extremes,Storm,#b3b2b1,wmo,tormenta costa rica,2026-01-31T04:16:00+00:00,Costa Rica,0.6937439406470765,1,1,es,SCA,North-America
+'e043fce1a2',extremes,Drought,#edc291,edo,sequía bolivia,2026-02-10T04:43:00+00:00,Bolivia,0.6929984740502606,0,1,es,SAM,South-America
+'cb207f7e4e',extremes,Drought,#edc291,edo,falta de lluvia argentina,2026-02-08T04:43:00+00:00,Argentina,0.6917611379619901,0,1,es,SES,South-America
 'fe6c2aaee0',extremes,Storm,#b3b2b1,wmo,tormenta interior de pontevedra,2026-01-15T12:14:00+00:00,Spain,0.6907356074837003,2,2,es,MED,Europe
+'22055e4283',extremes,Drought,#edc291,edo,sequía nicaragua,2026-02-07T04:19:00+00:00,Nicaragua,0.6903618417515126,0,1,es,SCA,North-America
 '3e36cbc783',extremes,Earthquake,#870007,usgs,terremoto la concepción,2026-01-15T12:13:00+00:00,Venezuela,0.6879438372156313,1,1,es,NWS,South-America
 '605d0fe596',extremes,Snow&Ice,#d60d2b,wmo,sistema de hielo central de ávila,2026-01-15T10:56:00+00:00,Spain,0.6871050481617865,1,1,es,MED,Europe
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2026-01-15T10:56:00+00:00,Argentina,0.6854583766567471,2,2,es,SES,South-America
@@ -64,8 +67,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '91df5d1617',extremes,Precipitation,#d60d2b,wmo,lluvia دولة قطر,2026-02-08T04:43:00+00:00,Qatar,0.6766310381660079,0,1,es,ARP,Asia
 '64393be751',extremes,Drought,#edc291,edo,sequía ecuador,2026-01-30T04:21:00+00:00,Ecuador,0.6762109035900621,0,1,es,EPO,Pacific Ocean
 '037bb37761',extremes,Flood,#030ba1,wmo,inundación estados unidos,2026-02-06T04:27:00+00:00,United States,0.6756740784183181,0,1,es,CNA,North-America
+'8f13e1df9b',extremes,Drought,#edc291,edo,sequía en venezuela,2026-02-06T04:28:00+00:00,Venezuela,0.6749863048645988,0,1,es,NSA,South-America
+'d3ea8177c3',extremes,Flood,#030ba1,wmo,inundaciones estados unidos,2026-02-07T04:19:00+00:00,United States,0.6748076712401113,0,1,es,CNA,North-America
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-01-15T12:13:00+00:00,Costa Rica,0.6746727589442933,1,1,es,SCA,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-01-26T04:09:00+00:00,Ecuador,0.6745423471657225,1,1,es,NWS,South-America
+'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2026-02-05T04:27:00+00:00,United States,0.6736799516139539,0,1,es,CNA,North-America
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2026-01-15T12:13:00+00:00,Bolivia,0.6736785046238081,1,1,es,SES,South-America
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tormenta amazonia,2026-02-08T04:43:00+00:00,Ecuador,0.6733785752703623,2,2,es,NWS,South-America
 '8b5b4c9d3b',extremes,Earthquake,#870007,usgs,terremoto puerto santa,2026-01-15T10:56:00+00:00,Peru,0.6732451133515841,1,1,es,NWS,South-America
