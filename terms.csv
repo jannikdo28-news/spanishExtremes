@@ -88,9 +88,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a1afcda67a',extremes,Earthquake,#870007,usgs,terremoto campo verde,2026-01-15T12:13:00+00:00,Peru,0.6722817777339525,1,1,es,NWS,South-America
 'c29a12e099',extremes,Earthquake,#870007,usgs,terremoto san vicente de cañete,2026-01-15T12:13:00+00:00,Peru,0.6720656524675004,1,1,es,NWS,South-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-01-15T10:56:00+00:00,Chile,0.671862558135596,1,1,es,SWS,South-America
+'5ca6f4a6ca',extremes,Flood,#030ba1,wmo,inundación repentina clarke al washington al,2026-01-28T03:56:00+00:00,United States,0.6717078885291876,0,1,es,CNA,North-America
 '76196dc5e1',extremes,Earthquake,#870007,usgs,terremoto guatemala,2026-01-15T12:13:00+00:00,Guatemala,0.6715617156915564,1,1,es,SCA,North-America
 '8ed666f950',extremes,Earthquake,#870007,usgs,terremoto végueta,2026-01-15T10:56:00+00:00,Peru,0.6715351379012542,1,1,es,NWS,South-America
+'5075de9301',extremes,Flood,#030ba1,wmo,inundación madison ms yazoo ms,2026-01-27T03:58:00+00:00,United States,0.6710915547852914,0,1,es,CNA,North-America
+'4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,avalancha estados unidos,2026-02-11T04:41:00+00:00,United States,0.6706206575634386,0,1,es,CNA,North-America
+'b74cc3ed00',extremes,Flood,#030ba1,wmo,inundación repentina albañil wa,2026-01-28T03:56:00+00:00,United States,0.6701722472361181,0,1,es,CNA,North-America
 'f3276cea85',extremes,Storm,#b3b2b1,wmo,tormenta centro y valle de villaverde,2026-01-15T12:14:00+00:00,Spain,0.6701305890350059,1,1,es,MED,Europe
+'6a8106842a',extremes,Drought,#edc291,edo,sequía república dominicana,2026-02-11T04:42:00+00:00,Dominican Republic,0.6699732671568118,0,1,es,CAR,North-America
+'e68b7fa2e0',extremes,Flood,#030ba1,wmo,inundaciones clarke al washington al,2026-01-26T04:09:00+00:00,United States,0.6698216167384157,0,1,es,CNA,North-America
 'fcc3f80d6b',extremes,Heat Wave,#c40202,wmo,ola de calor paraguay,2026-01-24T03:48:00+00:00,Paraguay,0.6695333449017987,2,2,es,SES,South-America
 'eb47176b76',extremes,Wildfire,#d60d2b,emdat,incendio forestal en chile,2026-02-01T04:41:00+00:00,Chile,0.6688263672727726,1,2,es,SWS,South-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2026-01-15T10:56:00+00:00,Chile,0.6678604493744831,1,1,es,SWS,South-America
