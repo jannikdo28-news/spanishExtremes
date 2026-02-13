@@ -17,6 +17,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1327c453bc',extremes,Precipitation,#d60d2b,wmo,precipitación españa,2026-01-15T12:14:00+00:00,Spain,0.7699594034592279,2,3,es,MED,Europe
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-01-21T03:56:00+00:00,Argentina,0.767010771740134,1,3,es,SES,South-America
 '39ef6043d8',extremes,Precipitation,#d60d2b,wmo,lluvia españa,2026-01-15T12:14:00+00:00,Spain,0.7624476028759488,2,3,es,MED,Europe
+'f0dc39c1d8',extremes,Storm,#b3b2b1,wmo,tormenta sierra sur,2026-02-13T04:34:00+00:00,Ecuador,0.7555081980989928,0,1,es,NWS,South-America
+'07f5003376',extremes,Storm,#b3b2b1,wmo,tormenta ecuador continental,2026-02-13T04:34:00+00:00,Ecuador,0.7552848536401511,0,1,es,NWS,South-America
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-01-15T10:56:00+00:00,Spain,0.7531895669751822,4,3,es,MED,Europe
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-01-15T10:56:00+00:00,Chile,0.7458193610723534,1,2,es,SWS,South-America
 'cc7bbe599c',extremes,Storm,#b3b2b1,wmo,tormenta fuerte,2026-01-15T10:56:00+00:00,United States,0.7456737944080513,1,3,es,CNA,North-America
@@ -45,6 +47,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '605d0fe596',extremes,Snow&Ice,#d60d2b,wmo,sistema de hielo central de ávila,2026-01-15T10:56:00+00:00,Spain,0.6871050481617865,1,1,es,MED,Europe
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2026-01-15T10:56:00+00:00,Argentina,0.6854583766567471,2,2,es,SES,South-America
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,ola de calor brasil,2026-02-03T04:27:00+00:00,Brazil,0.6852231654676165,1,2,es,SAM,South-America
+'163415ef24',extremes,Earthquake,#870007,usgs,terremoto maisí,2026-02-09T04:39:00+00:00,Cuba,0.6836497331721547,0,1,es,CAR,North-America
+'e8d6421e4e',extremes,Earthquake,#870007,usgs,terremoto san miguel coatlán,2026-02-13T04:33:00+00:00,Mexico,0.683643603514931,0,1,es,SCA,North-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-01-15T10:56:00+00:00,Argentina,0.6820994359240636,1,2,es,SWS,South-America
 '331dc2fd4a',extremes,Thunderstorm,#53785a,wmo,tormenta españa,2026-01-23T04:03:00+00:00,Spain,0.681589274188534,0,1,es,MED,Europe
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,lluvia brasil,2026-02-06T04:27:00+00:00,Brazil,0.6803246894298223,0,1,es,SAM,South-America
@@ -95,6 +99,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f3276cea85',extremes,Storm,#b3b2b1,wmo,tormenta centro y valle de villaverde,2026-01-15T12:14:00+00:00,Spain,0.6701305890350059,1,1,es,MED,Europe
 '6a8106842a',extremes,Drought,#edc291,edo,sequía república dominicana,2026-02-11T04:42:00+00:00,Dominican Republic,0.6699732671568118,0,1,es,CAR,North-America
 'e68b7fa2e0',extremes,Flood,#030ba1,wmo,inundaciones clarke al washington al,2026-01-26T04:09:00+00:00,United States,0.6698216167384157,0,1,es,CNA,North-America
+'00c00e9472',extremes,Flood,#030ba1,wmo,inundaciones lowndes ms monroe ms,2026-01-26T04:09:00+00:00,United States,0.669782183528127,0,1,es,CNA,North-America
+'6e14d79e4a',extremes,Flood,#030ba1,wmo,inundación repentina madison ms yazoo ms,2026-01-28T03:56:00+00:00,United States,0.6697140603534719,0,1,es,CNA,North-America
 'fcc3f80d6b',extremes,Heat Wave,#c40202,wmo,ola de calor paraguay,2026-01-24T03:48:00+00:00,Paraguay,0.6695333449017987,2,2,es,SES,South-America
 'eb47176b76',extremes,Wildfire,#d60d2b,emdat,incendio forestal en chile,2026-02-01T04:41:00+00:00,Chile,0.6688263672727726,1,2,es,SWS,South-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2026-01-15T10:56:00+00:00,Chile,0.6678604493744831,1,1,es,SWS,South-America
