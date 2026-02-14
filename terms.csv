@@ -98,8 +98,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '00c00e9472',extremes,Flood,#030ba1,wmo,inundaciones lowndes ms monroe ms,2026-01-26T04:09:00+00:00,United States,0.669782183528127,0,1,es,CNA,North-America
 '6e14d79e4a',extremes,Flood,#030ba1,wmo,inundación repentina madison ms yazoo ms,2026-01-28T03:56:00+00:00,United States,0.6697140603534719,0,1,es,CNA,North-America
 'fcc3f80d6b',extremes,Heat Wave,#c40202,wmo,ola de calor paraguay,2026-01-24T03:48:00+00:00,Paraguay,0.6695333449017987,2,2,es,SES,South-America
+'6eb9d896b9',extremes,Flood,#030ba1,wmo,inundación repentina norfolk portsmouth chesapeake,2026-02-01T04:41:00+00:00,United States,0.6694640895498437,0,1,es,CNA,North-America
+'c1ea948b6b',extremes,Flood,#030ba1,wmo,inundación attala ms holmes ms,2026-01-27T03:58:00+00:00,United States,0.6692543965397246,0,1,es,CNA,North-America
 'eb47176b76',extremes,Wildfire,#d60d2b,emdat,incendio forestal en chile,2026-02-01T04:41:00+00:00,Chile,0.6688263672727726,1,2,es,SWS,South-America
+'69dfb15ea7',extremes,Storm,#b3b2b1,wmo,tormenta adak al lado de kiska bering,2026-02-05T04:27:00+00:00,United States,0.6680760632327108,0,1,es,CNA,North-America
+'e01aa2c7dc',extremes,Flood,#030ba1,wmo,jardín inundado ne,2026-01-27T03:58:00+00:00,United States,0.6680134350597575,0,1,es,CNA,North-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2026-01-15T10:56:00+00:00,Chile,0.6678604493744831,1,1,es,SWS,South-America
+'c459c88eba',extremes,Snow&Ice,#d60d2b,wmo,españa helada,2026-02-06T04:27:00+00:00,Spain,0.6670032791356552,0,1,es,MED,Europe
+'3e27f60bda',extremes,Flood,#030ba1,wmo,inundación repentina lowndes ms monroe ms,2026-01-28T03:56:00+00:00,United States,0.6662306057195118,0,1,es,CNA,North-America
 'a471dde55c',extremes,Drought,#edc291,edo,sequía cuba,2026-01-24T03:49:00+00:00,Cuba,0.6648327250914118,1,2,es,CAR,North-America
 '105ee03aff',extremes,Earthquake,#870007,usgs,terremoto el salvador,2026-01-29T04:18:00+00:00,El Salvador,0.6597600669433195,1,2,es,SCA,North-America
 'd2b3cefe08',extremes,Precipitation,#d60d2b,wmo,precipitación costa rica,2026-02-03T04:27:00+00:00,Costa Rica,0.6592710687180048,2,1,es,SCA,North-America
