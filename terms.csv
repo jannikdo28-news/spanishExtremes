@@ -37,13 +37,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.6995408633657166,2,1,es,SES,South-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,lluvia ecuador,2026-01-28T03:56:00+00:00,Ecuador,0.6945900757610748,2,2,es,NWS,South-America
 'a828348731',extremes,Storm,#b3b2b1,wmo,tormenta costa rica,2026-01-31T04:16:00+00:00,Costa Rica,0.6937439406470765,1,1,es,SCA,North-America
-'cb207f7e4e',extremes,Drought,#edc291,edo,falta de lluvia argentina,2026-02-08T04:43:00+00:00,Argentina,0.6917611379619901,0,1,es,SES,South-America
 'fe6c2aaee0',extremes,Storm,#b3b2b1,wmo,tormenta interior de pontevedra,2026-01-15T12:14:00+00:00,Spain,0.6907356074837003,2,2,es,MED,Europe
 '3e36cbc783',extremes,Earthquake,#870007,usgs,terremoto la concepción,2026-01-15T12:13:00+00:00,Venezuela,0.6879438372156313,1,1,es,NWS,South-America
 '605d0fe596',extremes,Snow&Ice,#d60d2b,wmo,sistema de hielo central de ávila,2026-01-15T10:56:00+00:00,Spain,0.6871050481617865,1,1,es,MED,Europe
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2026-01-15T10:56:00+00:00,Argentina,0.6854583766567471,2,2,es,SES,South-America
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,ola de calor brasil,2026-02-03T04:27:00+00:00,Brazil,0.6852231654676165,1,2,es,SAM,South-America
-'163415ef24',extremes,Earthquake,#870007,usgs,terremoto maisí,2026-02-09T04:39:00+00:00,Cuba,0.6836497331721547,0,1,es,CAR,North-America
 'e8d6421e4e',extremes,Earthquake,#870007,usgs,terremoto san miguel coatlán,2026-02-13T04:33:00+00:00,Mexico,0.683643603514931,0,1,es,SCA,North-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-01-15T10:56:00+00:00,Argentina,0.6820994359240636,1,2,es,SWS,South-America
 '331dc2fd4a',extremes,Thunderstorm,#53785a,wmo,tormenta españa,2026-01-23T04:03:00+00:00,Spain,0.681589274188534,0,1,es,MED,Europe
@@ -205,6 +203,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '422773ffe0',extremes,Heat Wave,#c40202,wmo,ola de calor zona 2 – moderada,2026-01-24T03:48:00+00:00,Paraguay,0.596511585801176,1,1,es,SES,South-America
 '493ff10b88',extremes,Earthquake,#870007,usgs,terremoto panamá,2026-02-09T04:39:00+00:00,Panama,0.5928904835157034,1,1,es,SCA,South-America
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,ola de frío brasil,2026-02-07T04:19:00+00:00,Brazil,0.5908828649505324,2,1,es,SAM,South-America
+'cb207f7e4e',extremes,Drought,#edc291,edo,falta de lluvia argentina,2026-02-08T04:43:00+00:00,Argentina,0.5908472522676915,1,1,es,SES,South-America
 'd3b9274c07',extremes,Drought,#edc291,edo,sequía guatemala,2026-02-05T04:28:00+00:00,Guatemala,0.590820310436739,1,1,es,SCA,North-America
 'bbc9d44319',extremes,Storm,#b3b2b1,wmo,tormenta noroeste príncipe william sound,2026-01-15T10:56:00+00:00,United States,0.5907208369720086,1,1,es,CNA,North-America
 '517e4b4a9e',extremes,Storm,#b3b2b1,wmo,tormenta canal norte de lynn,2026-01-15T10:56:00+00:00,United States,0.5907206163010994,1,1,es,CNA,North-America
@@ -217,6 +216,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8be002d270',extremes,Drought,#edc291,edo,falta de lluvias venezuela,2026-01-28T03:56:00+00:00,Venezuela,0.587917944644626,2,1,es,NSA,South-America
 '22055e4283',extremes,Drought,#edc291,edo,sequía nicaragua,2026-02-07T04:19:00+00:00,Nicaragua,0.5871075954887857,1,1,es,SCA,North-America
 'a9dcb49498',extremes,Earthquake,#870007,usgs,terremoto 28 de noviembre,2026-02-12T04:36:00+00:00,Argentina,0.5811529518217758,1,1,es,SSA,South-America
+'163415ef24',extremes,Earthquake,#870007,usgs,terremoto maisí,2026-02-09T04:39:00+00:00,Cuba,0.5811022731963315,1,1,es,CAR,North-America
 'f5e86f8f49',extremes,Earthquake,#870007,usgs,terremoto san miguel,2026-01-15T10:56:00+00:00,Ecuador,0.5800937425065607,2,1,es,NWS,South-America
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,el año más frío.,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,es,,
 'b6cef22543',extremes,Drought,#edc291,random,restricción de agua,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,es,,
