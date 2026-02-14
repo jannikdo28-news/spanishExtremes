@@ -43,7 +43,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2026-01-15T10:56:00+00:00,Argentina,0.6854583766567471,2,2,es,SES,South-America
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,ola de calor brasil,2026-02-03T04:27:00+00:00,Brazil,0.6852231654676165,1,2,es,SAM,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-01-15T10:56:00+00:00,Argentina,0.6820994359240636,1,2,es,SWS,South-America
-'7978d58b02',extremes,Precipitation,#d60d2b,wmo,lluvia brasil,2026-02-06T04:27:00+00:00,Brazil,0.6803246894298223,0,1,es,SAM,South-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2026-02-07T04:19:00+00:00,Brazil,0.6802994237978792,0,1,es,SAM,South-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica brasil,2026-02-07T04:19:00+00:00,Brazil,0.6802958210562378,0,1,es,SAM,South-America
 '12775cc05a',extremes,Drought,#edc291,wmo,sequía brasil,2026-02-05T04:27:00+00:00,Brazil,0.6800265889528463,0,1,es,SAM,South-America
@@ -199,6 +198,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bac5d8b8f9',extremes,Earthquake,#870007,usgs,arenas sísmicas,2026-02-12T04:36:00+00:00,Panama,0.6008143299984511,1,1,es,SCA,South-America
 'd8b0fb0c2d',extremes,Drought,#edc291,edo,sequía peru,2026-02-05T04:28:00+00:00,Peru,0.6001209680912309,1,1,es,NWS,South-America
 '8e12d8e374',extremes,Heat Wave,#c40202,wmo,ola de calor resistencia y alrededores,2026-01-28T03:56:00+00:00,Argentina,0.5973738238672368,1,1,es,SES,South-America
+'7978d58b02',extremes,Precipitation,#d60d2b,wmo,lluvia brasil,2026-02-06T04:27:00+00:00,Brazil,0.5968630246517126,1,2,es,SAM,South-America
 '422773ffe0',extremes,Heat Wave,#c40202,wmo,ola de calor zona 2 – moderada,2026-01-24T03:48:00+00:00,Paraguay,0.596511585801176,1,1,es,SES,South-America
 '493ff10b88',extremes,Earthquake,#870007,usgs,terremoto panamá,2026-02-09T04:39:00+00:00,Panama,0.5928904835157034,1,1,es,SCA,South-America
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,ola de frío brasil,2026-02-07T04:19:00+00:00,Brazil,0.5908828649505324,2,1,es,SAM,South-America
