@@ -84,6 +84,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a2120b175',extremes,Earthquake,#870007,usgs,terremoto diego de almagro,2026-01-15T10:56:00+00:00,Chile,0.6726839681992637,1,1,es,SWS,South-America
 'da0b9741fb',extremes,Earthquake,#870007,usgs,terremoto rancho viejo,2026-01-15T12:13:00+00:00,Mexico,0.6725664036489354,1,1,es,SCA,North-America
 'a1afcda67a',extremes,Earthquake,#870007,usgs,terremoto campo verde,2026-01-15T12:13:00+00:00,Peru,0.6722817777339525,1,1,es,NWS,South-America
+'f5303cb715',extremes,Flood,#030ba1,wmo,caza de inundaciones repentinas tx,2026-02-15T04:35:00+00:00,United States,0.6721965052221252,0,1,es,CNA,North-America
 'c29a12e099',extremes,Earthquake,#870007,usgs,terremoto san vicente de cañete,2026-01-15T12:13:00+00:00,Peru,0.6720656524675004,1,1,es,NWS,South-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-01-15T10:56:00+00:00,Chile,0.671862558135596,1,1,es,SWS,South-America
 '5ca6f4a6ca',extremes,Flood,#030ba1,wmo,inundación repentina clarke al washington al,2026-01-28T03:56:00+00:00,United States,0.6717078885291876,0,1,es,CNA,North-America
@@ -101,6 +102,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6eb9d896b9',extremes,Flood,#030ba1,wmo,inundación repentina norfolk portsmouth chesapeake,2026-02-01T04:41:00+00:00,United States,0.6694640895498437,0,1,es,CNA,North-America
 'c1ea948b6b',extremes,Flood,#030ba1,wmo,inundación attala ms holmes ms,2026-01-27T03:58:00+00:00,United States,0.6692543965397246,0,1,es,CNA,North-America
 'eb47176b76',extremes,Wildfire,#d60d2b,emdat,incendio forestal en chile,2026-02-01T04:41:00+00:00,Chile,0.6688263672727726,1,2,es,SWS,South-America
+'d15fd56319',extremes,Wildfire,#d60d2b,wmo,incendio forestal jones lyman búfalo,2026-02-15T04:35:00+00:00,United States,0.6686980282111438,0,1,es,CNA,North-America
 '69dfb15ea7',extremes,Storm,#b3b2b1,wmo,tormenta adak al lado de kiska bering,2026-02-05T04:27:00+00:00,United States,0.6680760632327108,0,1,es,CNA,North-America
 'e01aa2c7dc',extremes,Flood,#030ba1,wmo,jardín inundado ne,2026-01-27T03:58:00+00:00,United States,0.6680134350597575,0,1,es,CNA,North-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2026-01-15T10:56:00+00:00,Chile,0.6678604493744831,1,1,es,SWS,South-America
@@ -112,6 +114,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9b0be5e406',extremes,Drought,#edc291,edo,sequía en colombia,2026-02-05T04:28:00+00:00,Colombia,0.663901936846859,0,1,es,NWS,South-America
 '5e8e4bc5b1',extremes,Flood,#030ba1,wmo,inundación greene al hale al marengo al,2026-01-26T04:09:00+00:00,United States,0.6632975372770422,0,1,es,CNA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,hielo estados unidos,2026-02-05T04:27:00+00:00,United States,0.6630941064921482,0,1,es,CNA,North-America
+'cfa09d05e0',extremes,Wildfire,#d60d2b,emdat,incendio forestal los rios,2026-02-05T04:28:00+00:00,Chile,0.6627862315457854,0,1,es,SWS,South-America
+'60d823a47b',extremes,Storm,#b3b2b1,wmo,tormenta estados unidos,2026-02-05T04:27:00+00:00,United States,0.6625660139221228,0,1,es,CNA,North-America
+'361d356ada',extremes,Flood,#030ba1,wmo,inundaciones repentinas en las áreas costeras del condado de san diego,2026-02-03T04:27:00+00:00,United States,0.662440357397373,0,1,es,CNA,North-America
+'aac1e6661e',extremes,Flood,#030ba1,wmo,inundación repentina pamlico pollo del sur,2026-01-31T04:16:00+00:00,United States,0.6621926322720629,0,1,es,CNA,North-America
 '105ee03aff',extremes,Earthquake,#870007,usgs,terremoto el salvador,2026-01-29T04:18:00+00:00,El Salvador,0.6597600669433195,1,2,es,SCA,North-America
 'd2b3cefe08',extremes,Precipitation,#d60d2b,wmo,precipitación costa rica,2026-02-03T04:27:00+00:00,Costa Rica,0.6592710687180048,2,1,es,SCA,North-America
 '5cf328df80',extremes,Storm,#b3b2b1,wmo,tormenta suroeste de a coruña,2026-01-15T12:14:00+00:00,Spain,0.6573827697498689,1,1,es,MED,Europe
