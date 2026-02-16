@@ -44,7 +44,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2026-01-15T10:56:00+00:00,Argentina,0.6854583766567471,2,2,es,SES,South-America
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,ola de calor brasil,2026-02-03T04:27:00+00:00,Brazil,0.6852231654676165,1,2,es,SAM,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-01-15T10:56:00+00:00,Argentina,0.6820994359240636,1,2,es,SWS,South-America
-'61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,huracán estados unidos,2026-02-10T04:43:00+00:00,United States,0.6789649275202188,0,1,es,CNA,North-America
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,Brasil helado,2026-02-08T04:43:00+00:00,Brazil,0.6787338498956212,0,1,es,SAM,South-America
 '2015d8e837',extremes,Precipitation,#d60d2b,wmo,precipitación qatar,2026-02-08T04:43:00+00:00,Qatar,0.6787138688026987,0,1,es,ARP,Asia
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tormenta brasil,2026-02-08T04:43:00+00:00,Brazil,0.6786380756052829,0,1,es,SAM,South-America
@@ -201,6 +200,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1eb7a3a4d3',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial costa rica,2026-02-04T04:21:00+00:00,Costa Rica,0.622748566095979,1,1,es,SCA,North-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,aguacero brasil,2026-02-05T04:27:00+00:00,Brazil,0.6195647521266799,2,1,es,SAM,South-America
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,precipitación ecuador,2026-01-26T04:09:00+00:00,Ecuador,0.6190457925910311,1,1,es,NWS,South-America
+'61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,huracán estados unidos,2026-02-10T04:43:00+00:00,United States,0.6184359997558223,1,2,es,CNA,North-America
 '8f29727ea9',extremes,Drought,#edc291,edo,sequía guinea ecuatorial,2026-01-17T03:44:00+00:00,Equatorial Guinea,0.6177174403802007,1,1,es,WAF,Africa
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-01-18T03:57:00+00:00,Paraguay,0.6175351100891225,2,1,es,SES,South-America
 '331dc2fd4a',extremes,Thunderstorm,#53785a,wmo,tormenta españa,2026-01-23T04:03:00+00:00,Spain,0.6161234148784357,1,2,es,MED,Europe
