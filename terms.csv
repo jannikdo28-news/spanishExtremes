@@ -45,7 +45,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2026-01-15T10:56:00+00:00,Argentina,0.6854583766567471,2,2,es,SES,South-America
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,ola de calor brasil,2026-02-03T04:27:00+00:00,Brazil,0.6852231654676165,1,2,es,SAM,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-01-15T10:56:00+00:00,Argentina,0.6820994359240636,1,2,es,SWS,South-America
-'8f13e1df9b',extremes,Drought,#edc291,edo,sequía en venezuela,2026-02-06T04:28:00+00:00,Venezuela,0.6749863048645988,0,1,es,NSA,South-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,inundaciones estados unidos,2026-02-07T04:19:00+00:00,United States,0.6748076712401113,0,1,es,CNA,North-America
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-01-15T12:13:00+00:00,Costa Rica,0.6746727589442933,1,1,es,SCA,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-01-26T04:09:00+00:00,Ecuador,0.6745423471657225,1,1,es,NWS,South-America
@@ -222,6 +221,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '331dc2fd4a',extremes,Thunderstorm,#53785a,wmo,tormenta españa,2026-01-23T04:03:00+00:00,Spain,0.6161234148784357,1,2,es,MED,Europe
 '33f847dd45',extremes,Precipitation,#d60d2b,wmo,aguacero formosa formosa laishi pirane.,2026-01-29T04:19:00+00:00,Argentina,0.6146706389927872,1,1,es,SES,South-America
 '48457b6eba',extremes,Earthquake,#870007,usgs,terremoto ovalle,2026-02-15T04:34:00+00:00,Chile,0.6143242591184149,1,1,es,SWS,South-America
+'8f13e1df9b',extremes,Drought,#edc291,edo,sequía en venezuela,2026-02-06T04:28:00+00:00,Venezuela,0.6079814262777661,1,1,es,NSA,South-America
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,tormenta invernal norteamericana nueva york,2026-01-31T04:17:00+00:00,United States,0.60589428991392,1,1,es,ENA,North-America
 'f434a5525f',extremes,Drought,#edc291,edo,sequedad méxico,2026-01-25T04:06:00+00:00,Mexico,0.605834374637102,1,1,es,NCA,North-America
 'f4e7397282',extremes,Tsunami,#690191,usgs,puerto tsunami alsworth,2026-01-15T10:56:00+00:00,United States,0.6055416668589907,1,1,es,NWN,North-America
