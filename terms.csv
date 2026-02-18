@@ -45,9 +45,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2026-01-15T10:56:00+00:00,Argentina,0.6854583766567471,2,2,es,SES,South-America
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,ola de calor brasil,2026-02-03T04:27:00+00:00,Brazil,0.6852231654676165,1,2,es,SAM,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-01-15T10:56:00+00:00,Argentina,0.6820994359240636,1,2,es,SWS,South-America
-'b5dab6daa1',extremes,Tropical Cyclone,#4f4f4f,wmo,el tifón Adak llega al lado del Pacífico de Kiska,2026-02-10T04:43:00+00:00,United States,0.6780612870590073,0,1,es,CNA,North-America
-'91df5d1617',extremes,Precipitation,#d60d2b,wmo,lluvia دولة قطر,2026-02-08T04:43:00+00:00,Qatar,0.6766310381660079,0,1,es,ARP,Asia
-'64393be751',extremes,Drought,#edc291,edo,sequía ecuador,2026-01-30T04:21:00+00:00,Ecuador,0.6762109035900621,0,1,es,EPO,Pacific Ocean
 '84a977d87f',extremes,Wildfire,#d60d2b,wmo,incendio forestal harvey,2026-02-16T04:38:00+00:00,United States,0.6759958938574301,0,1,es,CNA,North-America
 '037bb37761',extremes,Flood,#030ba1,wmo,inundación estados unidos,2026-02-06T04:27:00+00:00,United States,0.6756740784183181,0,1,es,CNA,North-America
 '8f13e1df9b',extremes,Drought,#edc291,edo,sequía en venezuela,2026-02-06T04:28:00+00:00,Venezuela,0.6749863048645988,0,1,es,NSA,South-America
@@ -242,6 +239,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,lluvia brasil,2026-02-06T04:27:00+00:00,Brazil,0.5968630246517126,1,2,es,SAM,South-America
 '422773ffe0',extremes,Heat Wave,#c40202,wmo,ola de calor zona 2 – moderada,2026-01-24T03:48:00+00:00,Paraguay,0.596511585801176,1,1,es,SES,South-America
 '493ff10b88',extremes,Earthquake,#870007,usgs,terremoto panamá,2026-02-09T04:39:00+00:00,Panama,0.5928904835157034,1,1,es,SCA,South-America
+'64393be751',extremes,Drought,#edc291,edo,sequía ecuador,2026-01-30T04:21:00+00:00,Ecuador,0.5927960697182194,1,1,es,EPO,Pacific Ocean
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tormenta brasil,2026-02-08T04:43:00+00:00,Brazil,0.5925927392644904,1,2,es,SAM,South-America
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,ola de frío brasil,2026-02-07T04:19:00+00:00,Brazil,0.5908828649505324,2,1,es,SAM,South-America
 'cb207f7e4e',extremes,Drought,#edc291,edo,falta de lluvia argentina,2026-02-08T04:43:00+00:00,Argentina,0.5908472522676915,1,1,es,SES,South-America
@@ -266,6 +264,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '72e28c63f5',extremes,Earthquake,#870007,usgs,terremoto yura,2026-02-17T04:31:00+00:00,Peru,0.5780955899342978,1,1,es,SWS,South-America
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial brasil,2026-02-07T04:19:00+00:00,Brazil,0.5779800302035463,1,1,es,SAM,South-America
 '2015d8e837',extremes,Precipitation,#d60d2b,wmo,precipitación qatar,2026-02-08T04:43:00+00:00,Qatar,0.5769067884822938,1,1,es,ARP,Asia
+'b5dab6daa1',extremes,Tropical Cyclone,#4f4f4f,wmo,el tifón Adak llega al lado del Pacífico de Kiska,2026-02-10T04:43:00+00:00,United States,0.5763520940001562,1,1,es,CNA,North-America
+'91df5d1617',extremes,Precipitation,#d60d2b,wmo,lluvia دولة قطر,2026-02-08T04:43:00+00:00,Qatar,0.5751363824411067,1,1,es,ARP,Asia
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,el año más frío.,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,es,,
 'b6cef22543',extremes,Drought,#edc291,random,restricción de agua,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,es,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,río atmosférico,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,es,,
