@@ -19,7 +19,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1327c453bc',extremes,Precipitation,#d60d2b,wmo,precipitación españa,2026-01-15T12:14:00+00:00,Spain,0.7699594034592279,2,3,es,MED,Europe
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-01-21T03:56:00+00:00,Argentina,0.767010771740134,1,3,es,SES,South-America
 '39ef6043d8',extremes,Precipitation,#d60d2b,wmo,lluvia españa,2026-01-15T12:14:00+00:00,Spain,0.7624476028759488,2,3,es,MED,Europe
+'a28c87399b',extremes,Heat Wave,#c40202,wmo,ola de calor reg. 4 precordillera,2026-02-18T04:34:00+00:00,Chile,0.755691742960911,0,1,es,SWS,South-America
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-01-15T10:56:00+00:00,Spain,0.7531895669751822,4,3,es,MED,Europe
+'98923c99f8',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial litoral,2026-02-18T04:34:00+00:00,Ecuador,0.7522831723257565,0,1,es,NWS,South-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-01-15T10:56:00+00:00,Chile,0.7458193610723534,1,2,es,SWS,South-America
 'cc7bbe599c',extremes,Storm,#b3b2b1,wmo,tormenta fuerte,2026-01-15T10:56:00+00:00,United States,0.7456737944080513,1,3,es,CNA,North-America
 '30e68a3b40',extremes,Storm,#b3b2b1,wmo,tormenta sierra litoral,2026-02-08T04:43:00+00:00,Ecuador,0.7409652371909582,1,2,es,NWS,South-America
@@ -71,6 +73,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db2a276fc1',extremes,Earthquake,#870007,usgs,terremoto aisen,2026-01-15T12:13:00+00:00,Chile,0.6727656623276742,1,1,es,SWS,South-America
 '0a2120b175',extremes,Earthquake,#870007,usgs,terremoto diego de almagro,2026-01-15T10:56:00+00:00,Chile,0.6726839681992637,1,1,es,SWS,South-America
 'da0b9741fb',extremes,Earthquake,#870007,usgs,terremoto rancho viejo,2026-01-15T12:13:00+00:00,Mexico,0.6725664036489354,1,1,es,SCA,North-America
+'d4af5da119',extremes,Wildfire,#d60d2b,wmo,incendio forestal knox stark marshall,2026-02-18T04:34:00+00:00,United States,0.6724722999898426,0,1,es,CNA,North-America
+'f35db5adb5',extremes,Wildfire,#d60d2b,wmo,incendio forestal rey dickens,2026-02-18T04:34:00+00:00,United States,0.6723621364136058,0,1,es,CNA,North-America
 'a1afcda67a',extremes,Earthquake,#870007,usgs,terremoto campo verde,2026-01-15T12:13:00+00:00,Peru,0.6722817777339525,1,1,es,NWS,South-America
 'f5303cb715',extremes,Flood,#030ba1,wmo,caza de inundaciones repentinas tx,2026-02-15T04:35:00+00:00,United States,0.6721965052221252,0,1,es,CNA,North-America
 'c29a12e099',extremes,Earthquake,#870007,usgs,terremoto san vicente de cañete,2026-01-15T12:13:00+00:00,Peru,0.6720656524675004,1,1,es,NWS,South-America
@@ -112,6 +116,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '361d356ada',extremes,Flood,#030ba1,wmo,inundaciones repentinas en las áreas costeras del condado de san diego,2026-02-03T04:27:00+00:00,United States,0.662440357397373,0,1,es,CNA,North-America
 'aac1e6661e',extremes,Flood,#030ba1,wmo,inundación repentina pamlico pollo del sur,2026-01-31T04:16:00+00:00,United States,0.6621926322720629,0,1,es,CNA,North-America
 'b523f38879',extremes,Flood,#030ba1,wmo,inundación repentina kankakee il,2026-01-28T03:56:00+00:00,United States,0.6617446380381385,0,1,es,CNA,North-America
+'d17278cca0',extremes,Fog,#d60d2b,wmo,niebla york lancaster,2026-02-18T04:34:00+00:00,United States,0.6615895886379427,0,1,es,CNA,North-America
+'e9a192ad67',extremes,Snow Avalanche,#deddd5,wmo,avalancha mono,2026-02-18T04:34:00+00:00,United States,0.6614581435524417,0,1,es,CNA,North-America
 '503492b519',extremes,Drought,#edc291,edo,sequedad panamá,2026-02-11T04:42:00+00:00,Panama,0.6613782299435206,0,1,es,SCA,North-America
 'e84e180072',extremes,Flood,#030ba1,wmo,inundación reinas del sur sur de nassau,2026-02-01T04:41:00+00:00,United States,0.6608382755395315,0,1,es,CNA,North-America
 '105ee03aff',extremes,Earthquake,#870007,usgs,terremoto el salvador,2026-01-29T04:18:00+00:00,El Salvador,0.6597600669433195,1,2,es,SCA,North-America
