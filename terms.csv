@@ -96,6 +96,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fcc3f80d6b',extremes,Heat Wave,#c40202,wmo,ola de calor paraguay,2026-01-24T03:48:00+00:00,Paraguay,0.6695333449017987,2,2,es,SES,South-America
 '6eb9d896b9',extremes,Flood,#030ba1,wmo,inundación repentina norfolk portsmouth chesapeake,2026-02-01T04:41:00+00:00,United States,0.6694640895498437,0,1,es,CNA,North-America
 'c1ea948b6b',extremes,Flood,#030ba1,wmo,inundación attala ms holmes ms,2026-01-27T03:58:00+00:00,United States,0.6692543965397246,0,1,es,CNA,North-America
+'bd8c8650ea',extremes,Earthquake,#870007,usgs,terremoto el aguilar,2026-02-14T04:21:00+00:00,Argentina,0.6691954466310551,0,1,es,SES,South-America
 'eb47176b76',extremes,Wildfire,#d60d2b,emdat,incendio forestal en chile,2026-02-01T04:41:00+00:00,Chile,0.6688263672727726,1,2,es,SWS,South-America
 'd15fd56319',extremes,Wildfire,#d60d2b,wmo,incendio forestal jones lyman búfalo,2026-02-15T04:35:00+00:00,United States,0.6686980282111438,0,1,es,CNA,North-America
 '654261891c',extremes,Precipitation,#d60d2b,wmo,lluvia sierra sur,2026-02-15T04:35:00+00:00,Ecuador,0.668124982370436,2,3,es,NWS,South-America
@@ -118,8 +119,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aac1e6661e',extremes,Flood,#030ba1,wmo,inundación repentina pamlico pollo del sur,2026-01-31T04:16:00+00:00,United States,0.6621926322720629,0,1,es,CNA,North-America
 'b523f38879',extremes,Flood,#030ba1,wmo,inundación repentina kankakee il,2026-01-28T03:56:00+00:00,United States,0.6617446380381385,0,1,es,CNA,North-America
 '503492b519',extremes,Drought,#edc291,edo,sequedad panamá,2026-02-11T04:42:00+00:00,Panama,0.6613782299435206,0,1,es,SCA,North-America
+'e84e180072',extremes,Flood,#030ba1,wmo,inundación reinas del sur sur de nassau,2026-02-01T04:41:00+00:00,United States,0.6608382755395315,0,1,es,CNA,North-America
 '105ee03aff',extremes,Earthquake,#870007,usgs,terremoto el salvador,2026-01-29T04:18:00+00:00,El Salvador,0.6597600669433195,1,2,es,SCA,North-America
+'d57776053a',extremes,Thunderstorm,#53785a,wmo,tormenta estados unidos,2026-02-14T04:21:00+00:00,United States,0.6593046905549982,0,1,es,CNA,North-America
 'd2b3cefe08',extremes,Precipitation,#d60d2b,wmo,precipitación costa rica,2026-02-03T04:27:00+00:00,Costa Rica,0.6592710687180048,2,1,es,SCA,North-America
+'721b7d6185',extremes,Drought,#edc291,edo,sequía estados unidos,2026-02-05T04:28:00+00:00,United States,0.6589611300456546,0,1,es,WCE,Europe
+'117f2e1e78',extremes,Flood,#030ba1,wmo,inundación costera hancock costera washington,2026-02-02T04:36:00+00:00,United States,0.6587530898045145,0,1,es,CNA,North-America
+'99b4d7585f',extremes,Flood,#030ba1,wmo,inundación del distrito de entrada de ketchikan,2026-02-04T04:21:00+00:00,United States,0.6585033106516939,0,1,es,CNA,North-America
 '5cf328df80',extremes,Storm,#b3b2b1,wmo,tormenta suroeste de a coruña,2026-01-15T12:14:00+00:00,Spain,0.6573827697498689,1,1,es,MED,Europe
 '17abcf3665',extremes,Storm,#b3b2b1,wmo,tormenta costa suroeste de a coruña,2026-01-15T12:14:00+00:00,Spain,0.6566340869726952,1,1,es,MED,Europe
 'e31ab38b80',extremes,Storm,#b3b2b1,wmo,tormenta cordillera cantábrica de burgos,2026-01-15T12:14:00+00:00,Spain,0.6564130892834379,1,1,es,MED,Europe
