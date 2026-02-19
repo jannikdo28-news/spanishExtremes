@@ -120,18 +120,22 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '503492b519',extremes,Drought,#edc291,edo,sequedad panamá,2026-02-11T04:42:00+00:00,Panama,0.6613782299435206,0,1,es,SCA,North-America
 'e84e180072',extremes,Flood,#030ba1,wmo,inundación reinas del sur sur de nassau,2026-02-01T04:41:00+00:00,United States,0.6608382755395315,0,1,es,CNA,North-America
 '105ee03aff',extremes,Earthquake,#870007,usgs,terremoto el salvador,2026-01-29T04:18:00+00:00,El Salvador,0.6597600669433195,1,2,es,SCA,North-America
+'528eb18ef2',extremes,Snow Avalanche,#deddd5,wmo,cordillera del río oso avalancha,2026-02-18T04:34:00+00:00,United States,0.6597513428868724,0,1,es,CNA,North-America
 'd57776053a',extremes,Thunderstorm,#53785a,wmo,tormenta estados unidos,2026-02-14T04:21:00+00:00,United States,0.6593046905549982,0,1,es,CNA,North-America
 'd2b3cefe08',extremes,Precipitation,#d60d2b,wmo,precipitación costa rica,2026-02-03T04:27:00+00:00,Costa Rica,0.6592710687180048,2,1,es,SCA,North-America
 '721b7d6185',extremes,Drought,#edc291,edo,sequía estados unidos,2026-02-05T04:28:00+00:00,United States,0.6589611300456546,0,1,es,WCE,Europe
 '117f2e1e78',extremes,Flood,#030ba1,wmo,inundación costera hancock costera washington,2026-02-02T04:36:00+00:00,United States,0.6587530898045145,0,1,es,CNA,North-America
 '99b4d7585f',extremes,Flood,#030ba1,wmo,inundación del distrito de entrada de ketchikan,2026-02-04T04:21:00+00:00,United States,0.6585033106516939,0,1,es,CNA,North-America
 '5cf328df80',extremes,Storm,#b3b2b1,wmo,tormenta suroeste de a coruña,2026-01-15T12:14:00+00:00,Spain,0.6573827697498689,1,1,es,MED,Europe
+'da213c6a76',extremes,Flood,#030ba1,wmo,inundación repentina océano océano costero,2026-02-01T04:41:00+00:00,United States,0.6573408247572439,0,1,es,CNA,North-America
+'6024419758',extremes,Storm,#b3b2b1,wmo,tormenta ashe alleghany watauga,2026-01-30T04:21:00+00:00,United States,0.6572627231399172,0,1,es,CNA,North-America
 '17abcf3665',extremes,Storm,#b3b2b1,wmo,tormenta costa suroeste de a coruña,2026-01-15T12:14:00+00:00,Spain,0.6566340869726952,1,1,es,MED,Europe
 'e31ab38b80',extremes,Storm,#b3b2b1,wmo,tormenta cordillera cantábrica de burgos,2026-01-15T12:14:00+00:00,Spain,0.6564130892834379,1,1,es,MED,Europe
 '58a1b5964e',extremes,Precipitation,#d60d2b,wmo,aguacero españa,2026-01-15T10:56:00+00:00,Spain,0.6564065784641977,1,1,es,MED,Europe
 'e25cd0bfd5',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa litoral oriental asturiano,2026-01-15T10:56:00+00:00,Spain,0.6563628690674806,1,1,es,MED,Europe
 'b5804f885d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica oeste de a coruña,2026-01-15T10:56:00+00:00,Spain,0.6563517741112634,1,1,es,MED,Europe
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,marejada ciclónica argentina,2026-01-15T10:56:00+00:00,Argentina,0.6563479397223776,1,1,es,SES,South-America
+'17065d269f',extremes,Drought,#edc291,edo,falta de lluvia honduras,2026-02-06T04:28:00+00:00,Honduras,0.6563475740020468,0,1,es,SCA,North-America
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial argentina,2026-01-15T10:56:00+00:00,Argentina,0.6562334914425287,1,1,es,SES,South-America
 'ab8adba258',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral provincia de huasco,2026-01-15T12:14:00+00:00,Chile,0.6560883342492538,1,1,es,SWS,South-America
 '6ed3f23541',extremes,Storm,#b3b2b1,wmo,tormenta interior de gipuzkoa,2026-01-15T12:14:00+00:00,Spain,0.6560837070967372,1,1,es,MED,Europe
@@ -147,7 +151,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1661601ea6',extremes,Precipitation,#d60d2b,wmo,aguacero ibiza y formentera,2026-01-15T12:14:00+00:00,Spain,0.6556591267853689,1,1,es,MED,Europe
 'd5edd2afe3',extremes,Storm,#b3b2b1,wmo,tormenta costa litoral oriental asturiano,2026-01-15T12:14:00+00:00,Spain,0.6556257837835869,1,1,es,MED,Europe
 'db7218a192',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa suroeste de a coruña,2026-01-15T12:14:00+00:00,Spain,0.6555779086882983,1,1,es,MED,Europe
+'68e0f3d6ed',extremes,Earthquake,#870007,usgs,terremoto macas,2026-02-13T04:33:00+00:00,Ecuador,0.655561229681182,0,1,es,NWS,South-America
 'e1a4ee38e4',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial levante mallorquín,2026-01-15T12:14:00+00:00,Spain,0.6553254106193853,1,1,es,MED,Europe
+'3edf190b65',extremes,Flood,#030ba1,wmo,inundaciones este de Carteret,2026-01-30T04:21:00+00:00,United States,0.6547643083624237,0,1,es,CNA,North-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-01-15T10:56:00+00:00,Argentina,0.6538083154320162,2,1,es,SES,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-02-05T04:27:00+00:00,Argentina,0.6523740080936421,1,2,es,SES,South-America
 '6c91162e45',extremes,Precipitation,#d60d2b,wmo,precipitación ecuador continental,2026-02-14T04:21:00+00:00,Ecuador,0.6474979374589989,1,1,es,NWS,South-America
