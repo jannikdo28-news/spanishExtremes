@@ -21,6 +21,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-01-21T03:56:00+00:00,Argentina,0.767010771740134,1,3,es,SES,South-America
 '39ef6043d8',extremes,Precipitation,#d60d2b,wmo,lluvia españa,2026-01-15T12:14:00+00:00,Spain,0.7624476028759488,2,3,es,MED,Europe
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-01-15T10:56:00+00:00,Spain,0.7531895669751822,4,3,es,MED,Europe
+'6560ef8c08',extremes,Storm,#b3b2b1,wmo,tormenta litoral,2026-02-19T04:32:00+00:00,Ecuador,0.7530480179258882,0,1,es,NWS,South-America
+'8fa3dac96d',extremes,Precipitation,#d60d2b,wmo,aguacero sierra,2026-02-19T04:32:00+00:00,Ecuador,0.752847667622055,0,1,es,NWS,South-America
+'883b43737e',extremes,Precipitation,#d60d2b,wmo,lluvia cordoba juarez celman.,2026-02-19T04:32:00+00:00,Argentina,0.7522156260929256,0,1,es,SES,South-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-01-15T10:56:00+00:00,Chile,0.7458193610723534,1,2,es,SWS,South-America
 'cc7bbe599c',extremes,Storm,#b3b2b1,wmo,tormenta fuerte,2026-01-15T10:56:00+00:00,United States,0.7456737944080513,1,3,es,CNA,North-America
 '30e68a3b40',extremes,Storm,#b3b2b1,wmo,tormenta sierra litoral,2026-02-08T04:43:00+00:00,Ecuador,0.7409652371909582,1,2,es,NWS,South-America
@@ -47,6 +50,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2026-01-15T10:56:00+00:00,Argentina,0.6854583766567471,2,2,es,SES,South-America
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,ola de calor brasil,2026-02-03T04:27:00+00:00,Brazil,0.6852231654676165,1,2,es,SAM,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-01-15T10:56:00+00:00,Argentina,0.6820994359240636,1,2,es,SWS,South-America
+'3c1d20afc9',extremes,Fog,#d60d2b,wmo,niebla st. vías navegables de la bahía de andrews,2026-02-19T04:32:00+00:00,United States,0.6753638888585247,0,1,es,CNA,North-America
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-01-15T12:13:00+00:00,Costa Rica,0.6746727589442933,1,1,es,SCA,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-01-26T04:09:00+00:00,Ecuador,0.6745423471657225,1,1,es,NWS,South-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,estados unidos helados,2026-02-05T04:27:00+00:00,United States,0.6738729324236833,0,1,es,CNA,North-America
@@ -56,6 +60,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2badc3801',extremes,Flood,#030ba1,wmo,inundación repentina lyon ks,2026-02-15T04:35:00+00:00,United States,0.673452131847393,0,1,es,CNA,North-America
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tormenta amazonia,2026-02-08T04:43:00+00:00,Ecuador,0.6733785752703623,2,2,es,NWS,South-America
 '9d78e3f2f2',extremes,Flood,#030ba1,wmo,inundación newaygo mi,2026-02-02T04:36:00+00:00,United States,0.6733557544210115,0,1,es,CNA,North-America
+'73b16dc950',extremes,Flood,#030ba1,wmo,inundación repentina jackson ar woodruff ar,2026-02-19T04:32:00+00:00,United States,0.6733098960938374,0,1,es,CNA,North-America
 '8b5b4c9d3b',extremes,Earthquake,#870007,usgs,terremoto puerto santa,2026-01-15T10:56:00+00:00,Peru,0.6732451133515841,1,1,es,NWS,South-America
 '3a67915e02',extremes,Earthquake,#870007,usgs,terremoto peru,2026-01-15T10:56:00+00:00,Peru,0.6730493100802474,1,1,es,NWS,South-America
 '3dea46c095',extremes,Flood,#030ba1,wmo,inundación repentina estados unidos,2026-02-08T04:43:00+00:00,United States,0.6729949546473524,0,1,es,CNA,North-America
@@ -76,6 +81,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a1afcda67a',extremes,Earthquake,#870007,usgs,terremoto campo verde,2026-01-15T12:13:00+00:00,Peru,0.6722817777339525,1,1,es,NWS,South-America
 'f5303cb715',extremes,Flood,#030ba1,wmo,caza de inundaciones repentinas tx,2026-02-15T04:35:00+00:00,United States,0.6721965052221252,0,1,es,CNA,North-America
 'c29a12e099',extremes,Earthquake,#870007,usgs,terremoto san vicente de cañete,2026-01-15T12:13:00+00:00,Peru,0.6720656524675004,1,1,es,NWS,South-America
+'03c7ee6412',extremes,Wildfire,#d60d2b,wmo,incendio forestal en las llanuras centrales del este,2026-02-19T04:32:00+00:00,United States,0.672017694828046,0,1,es,CNA,North-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-01-15T10:56:00+00:00,Chile,0.671862558135596,1,1,es,SWS,South-America
 '5ca6f4a6ca',extremes,Flood,#030ba1,wmo,inundación repentina clarke al washington al,2026-01-28T03:56:00+00:00,United States,0.6717078885291876,0,1,es,CNA,North-America
 '76196dc5e1',extremes,Earthquake,#870007,usgs,terremoto guatemala,2026-01-15T12:13:00+00:00,Guatemala,0.6715617156915564,1,1,es,SCA,North-America
