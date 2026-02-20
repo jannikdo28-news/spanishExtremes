@@ -27,6 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2026-01-15T10:56:00+00:00,Qatar,0.7408763685492641,1,2,es,ARP,Asia
 '58f77fa85f',extremes,Thunderstorm,#53785a,wmo,granizo españa,2026-01-31T04:16:00+00:00,Spain,0.7351326655651081,1,3,es,MED,Europe
 'e5b46f3978',extremes,Drought,#edc291,edo,sequía argentina,2026-01-15T10:57:00+00:00,Argentina,0.7329454109721615,4,3,es,SES,South-America
+'5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,estados unidos helados,2026-02-05T04:27:00+00:00,United States,0.7277425925601309,1,3,es,CNA,North-America
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,tormenta litoral,2026-02-19T04:32:00+00:00,Ecuador,0.7268604370551868,1,3,es,NWS,South-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,inundaciones estados unidos,2026-02-07T04:19:00+00:00,United States,0.72399240100864,1,3,es,CNA,North-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-02-05T04:27:00+00:00,Argentina,0.7234132622370949,1,3,es,SES,South-America
@@ -48,10 +49,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2026-01-15T10:56:00+00:00,Argentina,0.6854583766567471,2,2,es,SES,South-America
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,ola de calor brasil,2026-02-03T04:27:00+00:00,Brazil,0.6852231654676165,1,2,es,SAM,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-01-15T10:56:00+00:00,Argentina,0.6820994359240636,1,2,es,SWS,South-America
-'3c1d20afc9',extremes,Fog,#d60d2b,wmo,niebla st. vías navegables de la bahía de andrews,2026-02-19T04:32:00+00:00,United States,0.6753638888585247,0,1,es,CNA,North-America
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-01-15T12:13:00+00:00,Costa Rica,0.6746727589442933,1,1,es,SCA,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-01-26T04:09:00+00:00,Ecuador,0.6745423471657225,1,1,es,NWS,South-America
-'5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,estados unidos helados,2026-02-05T04:27:00+00:00,United States,0.6738729324236833,0,1,es,CNA,North-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2026-02-05T04:27:00+00:00,United States,0.6736799516139539,0,1,es,CNA,North-America
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2026-01-15T12:13:00+00:00,Bolivia,0.6736785046238081,1,1,es,SES,South-America
 'a8a211b5f7',extremes,Wildfire,#d60d2b,wmo,incendio forestal en las tierras altas del noreste,2026-02-16T04:38:00+00:00,United States,0.6736569575541143,0,1,es,CNA,North-America
@@ -287,6 +286,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b5dab6daa1',extremes,Tropical Cyclone,#4f4f4f,wmo,el tifón Adak llega al lado del Pacífico de Kiska,2026-02-10T04:43:00+00:00,United States,0.5763520940001562,1,1,es,CNA,North-America
 '91df5d1617',extremes,Precipitation,#d60d2b,wmo,lluvia دولة قطر,2026-02-08T04:43:00+00:00,Qatar,0.5751363824411067,1,1,es,ARP,Asia
 '84a977d87f',extremes,Wildfire,#d60d2b,wmo,incendio forestal harvey,2026-02-16T04:38:00+00:00,United States,0.5745965097788156,1,1,es,CNA,North-America
+'3c1d20afc9',extremes,Fog,#d60d2b,wmo,niebla st. vías navegables de la bahía de andrews,2026-02-19T04:32:00+00:00,United States,0.574059305529746,1,1,es,CNA,North-America
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,el año más frío.,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,es,,
 'b6cef22543',extremes,Drought,#edc291,random,restricción de agua,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,es,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,río atmosférico,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,es,,
