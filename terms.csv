@@ -53,13 +53,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-01-15T12:13:00+00:00,Costa Rica,0.6746727589442933,1,1,es,SCA,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-01-26T04:09:00+00:00,Ecuador,0.6745423471657225,1,1,es,NWS,South-America
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2026-01-15T12:13:00+00:00,Bolivia,0.6736785046238081,1,1,es,SES,South-America
-'d2badc3801',extremes,Flood,#030ba1,wmo,inundación repentina lyon ks,2026-02-15T04:35:00+00:00,United States,0.673452131847393,0,1,es,CNA,North-America
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tormenta amazonia,2026-02-08T04:43:00+00:00,Ecuador,0.6733785752703623,2,2,es,NWS,South-America
-'9d78e3f2f2',extremes,Flood,#030ba1,wmo,inundación newaygo mi,2026-02-02T04:36:00+00:00,United States,0.6733557544210115,0,1,es,CNA,North-America
-'73b16dc950',extremes,Flood,#030ba1,wmo,inundación repentina jackson ar woodruff ar,2026-02-19T04:32:00+00:00,United States,0.6733098960938374,0,1,es,CNA,North-America
 '8b5b4c9d3b',extremes,Earthquake,#870007,usgs,terremoto puerto santa,2026-01-15T10:56:00+00:00,Peru,0.6732451133515841,1,1,es,NWS,South-America
 '3a67915e02',extremes,Earthquake,#870007,usgs,terremoto peru,2026-01-15T10:56:00+00:00,Peru,0.6730493100802474,1,1,es,NWS,South-America
-'3dea46c095',extremes,Flood,#030ba1,wmo,inundación repentina estados unidos,2026-02-08T04:43:00+00:00,United States,0.6729949546473524,0,1,es,CNA,North-America
 '925cc6c6e9',extremes,Drought,#edc291,edo,sequía en costa rica,2026-01-15T10:57:00+00:00,Costa Rica,0.6729938180883471,1,1,es,SCA,South-America
 'c92435bdaa',extremes,Drought,#edc291,edo,falta de lluvia el salvador,2026-01-15T10:57:00+00:00,El Salvador,0.6729444273148918,1,1,es,SCA,North-America
 '2c38aada07',extremes,Earthquake,#870007,usgs,terremoto colchane,2026-01-15T12:13:00+00:00,Chile,0.6729046913820005,1,1,es,SWS,South-America
@@ -287,6 +283,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84a977d87f',extremes,Wildfire,#d60d2b,wmo,incendio forestal harvey,2026-02-16T04:38:00+00:00,United States,0.5745965097788156,1,1,es,CNA,North-America
 '3c1d20afc9',extremes,Fog,#d60d2b,wmo,niebla st. vías navegables de la bahía de andrews,2026-02-19T04:32:00+00:00,United States,0.574059305529746,1,1,es,CNA,North-America
 'a8a211b5f7',extremes,Wildfire,#d60d2b,wmo,incendio forestal en las tierras altas del noreste,2026-02-16T04:38:00+00:00,United States,0.5726084139209972,1,1,es,CNA,North-America
+'d2badc3801',extremes,Flood,#030ba1,wmo,inundación repentina lyon ks,2026-02-15T04:35:00+00:00,United States,0.5724343120702841,1,1,es,CNA,North-America
+'9d78e3f2f2',extremes,Flood,#030ba1,wmo,inundación newaygo mi,2026-02-02T04:36:00+00:00,United States,0.5723523912578597,1,1,es,CNA,North-America
+'73b16dc950',extremes,Flood,#030ba1,wmo,inundación repentina jackson ar woodruff ar,2026-02-19T04:32:00+00:00,United States,0.5723134116797618,1,1,es,CNA,North-America
+'3dea46c095',extremes,Flood,#030ba1,wmo,inundación repentina estados unidos,2026-02-08T04:43:00+00:00,United States,0.5721957264502495,1,1,es,CNA,North-America
 'f7a0f1c060',extremes,Cold Wave,#a7e9fa,random,el año más frío.,2026-01-15T10:20:00+00:00,,0.25717214146115,0,1,es,,
 'b6cef22543',extremes,Drought,#edc291,random,restricción de agua,2026-01-15T10:20:00+00:00,,0.2566996666578138,0,1,es,,
 '95b2881221',extremes,Precipitation,#d60d2b,random,río atmosférico,2026-01-15T10:20:00+00:00,,0.2565769511973332,0,1,es,,
