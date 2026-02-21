@@ -87,6 +87,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e68b7fa2e0',extremes,Flood,#030ba1,wmo,inundaciones clarke al washington al,2026-01-26T04:09:00+00:00,United States,0.6698216167384157,0,1,es,CNA,North-America
 '00c00e9472',extremes,Flood,#030ba1,wmo,inundaciones lowndes ms monroe ms,2026-01-26T04:09:00+00:00,United States,0.669782183528127,0,1,es,CNA,North-America
 '6e14d79e4a',extremes,Flood,#030ba1,wmo,inundación repentina madison ms yazoo ms,2026-01-28T03:56:00+00:00,United States,0.6697140603534719,0,1,es,CNA,North-America
+'fdca6c3d52',extremes,Flood,#030ba1,wmo,inundación jackson ar woodruff ar,2026-02-20T04:27:00+00:00,United States,0.669665725099077,0,1,es,CNA,North-America
 'fcc3f80d6b',extremes,Heat Wave,#c40202,wmo,ola de calor paraguay,2026-01-24T03:48:00+00:00,Paraguay,0.6695333449017987,2,2,es,SES,South-America
 '6eb9d896b9',extremes,Flood,#030ba1,wmo,inundación repentina norfolk portsmouth chesapeake,2026-02-01T04:41:00+00:00,United States,0.6694640895498437,0,1,es,CNA,North-America
 'c1ea948b6b',extremes,Flood,#030ba1,wmo,inundación attala ms holmes ms,2026-01-27T03:58:00+00:00,United States,0.6692543965397246,0,1,es,CNA,North-America
@@ -103,6 +104,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '753f1aaa45',extremes,Flood,#030ba1,wmo,inundaciones greene al pickens al sumter al,2026-01-26T04:09:00+00:00,United States,0.665058902982773,0,1,es,CNA,North-America
 '89a71f9dae',extremes,Flood,#030ba1,wmo,inundación herkimer ny,2026-01-28T03:56:00+00:00,United States,0.6648817733979041,0,1,es,CNA,North-America
 'a471dde55c',extremes,Drought,#edc291,edo,sequía cuba,2026-01-24T03:49:00+00:00,Cuba,0.6648327250914118,1,2,es,CAR,North-America
+'e1048c4180',extremes,Drought,#edc291,edo,sequedad uruguay,2026-02-07T04:19:00+00:00,Uruguay,0.6640917732681114,0,1,es,SES,South-America
 '9b0be5e406',extremes,Drought,#edc291,edo,sequía en colombia,2026-02-05T04:28:00+00:00,Colombia,0.663901936846859,0,1,es,NWS,South-America
 '5e8e4bc5b1',extremes,Flood,#030ba1,wmo,inundación greene al hale al marengo al,2026-01-26T04:09:00+00:00,United States,0.6632975372770422,0,1,es,CNA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,hielo estados unidos,2026-02-05T04:27:00+00:00,United States,0.6630941064921482,0,1,es,CNA,North-America
