@@ -50,7 +50,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2026-01-15T10:56:00+00:00,Argentina,0.6854583766567471,2,2,es,SES,South-America
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,ola de calor brasil,2026-02-03T04:27:00+00:00,Brazil,0.6852231654676165,1,2,es,SAM,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-01-15T10:56:00+00:00,Argentina,0.6820994359240636,1,2,es,SWS,South-America
-'649d935318',extremes,Storm,#b3b2b1,emdat,tormenta colombia,2026-02-20T04:28:00+00:00,Colombia,0.6782459692742886,0,1,es,NWS,South-America
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-01-15T12:13:00+00:00,Costa Rica,0.6746727589442933,1,1,es,SCA,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-01-26T04:09:00+00:00,Ecuador,0.6745423471657225,1,1,es,NWS,South-America
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2026-01-15T12:13:00+00:00,Bolivia,0.6736785046238081,1,1,es,SES,South-America
@@ -275,6 +274,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '541f3fa0f3',extremes,Storm,#b3b2b1,wmo,sonido de cruz de tormenta,2026-01-15T10:56:00+00:00,United States,0.5907159847069381,1,1,es,CNA,North-America
 'd5d4b91634',extremes,Earthquake,#870007,usgs,terremoto vinchina,2026-02-06T04:27:00+00:00,Argentina,0.5904300823940356,1,1,es,SWS,South-America
 '30b1a37300',extremes,Earthquake,#870007,usgs,terremoto la tirana,2026-02-07T04:19:00+00:00,Chile,0.5903502504548022,1,1,es,SWS,South-America
+'649d935318',extremes,Storm,#b3b2b1,emdat,tormenta colombia,2026-02-20T04:28:00+00:00,Colombia,0.5899977304216069,1,1,es,NWS,South-America
 '8be002d270',extremes,Drought,#edc291,edo,falta de lluvias venezuela,2026-01-28T03:56:00+00:00,Venezuela,0.587917944644626,2,1,es,NSA,South-America
 '22055e4283',extremes,Drought,#edc291,edo,sequía nicaragua,2026-02-07T04:19:00+00:00,Nicaragua,0.5871075954887857,1,1,es,SCA,North-America
 'a9dcb49498',extremes,Earthquake,#870007,usgs,terremoto 28 de noviembre,2026-02-12T04:36:00+00:00,Argentina,0.5811529518217758,1,1,es,SSA,South-America
