@@ -1,8 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'dfddc79ff8',extremes,Snow&Ice,#d60d2b,wmo,hielo sierra de madrid,2026-01-15T10:56:00+00:00,Spain,0.7967341331344621,1,3,es,MED,Europe
-'5a9124c973',extremes,Heat Wave,#c40202,wmo,ola de calor las flores y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.790027082411808,1,2,es,SES,South-America
-'64faaa2bb5',extremes,Storm,#b3b2b1,wmo,tormenta cordillera y picos de europa,2026-01-15T10:56:00+00:00,Spain,0.7881739435602956,1,2,es,MED,Europe
-'87f28505d1',extremes,Snow Avalanche,#deddd5,wmo,avalancha españa,2026-01-18T03:57:00+00:00,Spain,0.7869410010117779,1,3,es,MED,Europe
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitación litoral,2026-02-16T04:38:00+00:00,Ecuador,0.7866735064299438,1,3,es,NWS,South-America
 '349b9f9026',extremes,Heat Wave,#c40202,wmo,ola de calor área 3 – menor,2026-01-24T03:48:00+00:00,Paraguay,0.7861218258986544,1,2,es,SES,South-America
 '2f486e78b4',extremes,Snow Avalanche,#deddd5,wmo,alud pirineo oscense,2026-01-19T04:03:00+00:00,Spain,0.7858144401592382,1,3,es,MED,Europe
@@ -48,8 +44,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '605d0fe596',extremes,Snow&Ice,#d60d2b,wmo,sistema de hielo central de ávila,2026-01-15T10:56:00+00:00,Spain,0.6871050481617865,1,1,es,MED,Europe
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2026-01-15T10:56:00+00:00,Argentina,0.6854583766567471,2,2,es,SES,South-America
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,ola de calor brasil,2026-02-03T04:27:00+00:00,Brazil,0.6852231654676165,1,2,es,SAM,South-America
+'87f28505d1',extremes,Snow Avalanche,#deddd5,wmo,avalancha españa,2026-01-18T03:57:00+00:00,Spain,0.6829422449509203,2,3,es,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-01-15T10:56:00+00:00,Argentina,0.6820994359240636,1,2,es,SWS,South-America
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2026-01-15T10:56:00+00:00,Chile,0.681789078998172,2,2,es,SWS,South-America
+'dfddc79ff8',extremes,Snow&Ice,#d60d2b,wmo,hielo sierra de madrid,2026-01-15T10:56:00+00:00,Spain,0.6772244931642927,2,2,es,MED,Europe
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-01-15T12:13:00+00:00,Costa Rica,0.6746727589442933,1,1,es,SCA,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-01-26T04:09:00+00:00,Ecuador,0.6745423471657225,1,1,es,NWS,South-America
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2026-01-15T12:13:00+00:00,Bolivia,0.6736785046238081,1,1,es,SES,South-America
@@ -78,6 +76,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ca6f4a6ca',extremes,Flood,#030ba1,wmo,inundación repentina clarke al washington al,2026-01-28T03:56:00+00:00,United States,0.6717078885291876,0,1,es,CNA,North-America
 '76196dc5e1',extremes,Earthquake,#870007,usgs,terremoto guatemala,2026-01-15T12:13:00+00:00,Guatemala,0.6715617156915564,1,1,es,SCA,North-America
 '8ed666f950',extremes,Earthquake,#870007,usgs,terremoto végueta,2026-01-15T10:56:00+00:00,Peru,0.6715351379012542,1,1,es,NWS,South-America
+'5a9124c973',extremes,Heat Wave,#c40202,wmo,ola de calor las flores y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.6715230200500367,2,1,es,SES,South-America
 '5075de9301',extremes,Flood,#030ba1,wmo,inundación madison ms yazoo ms,2026-01-27T03:58:00+00:00,United States,0.6710915547852914,0,1,es,CNA,North-America
 'd26640e36c',extremes,Flood,#030ba1,wmo,inundación randolph wv,2026-02-21T04:18:00+00:00,United States,0.6710787000230523,0,1,es,CNA,North-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,nieve estados unidos,2026-02-05T04:27:00+00:00,United States,0.6706389841077911,0,1,es,CNA,North-America
@@ -85,6 +84,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b74cc3ed00',extremes,Flood,#030ba1,wmo,inundación repentina albañil wa,2026-01-28T03:56:00+00:00,United States,0.6701722472361181,0,1,es,CNA,North-America
 'f3276cea85',extremes,Storm,#b3b2b1,wmo,tormenta centro y valle de villaverde,2026-01-15T12:14:00+00:00,Spain,0.6701305890350059,1,1,es,MED,Europe
 '6a8106842a',extremes,Drought,#edc291,edo,sequía república dominicana,2026-02-11T04:42:00+00:00,Dominican Republic,0.6699732671568118,0,1,es,CAR,North-America
+'64faaa2bb5',extremes,Storm,#b3b2b1,wmo,tormenta cordillera y picos de europa,2026-01-15T10:56:00+00:00,Spain,0.6699479420262512,2,1,es,MED,Europe
 'e68b7fa2e0',extremes,Flood,#030ba1,wmo,inundaciones clarke al washington al,2026-01-26T04:09:00+00:00,United States,0.6698216167384157,0,1,es,CNA,North-America
 '00c00e9472',extremes,Flood,#030ba1,wmo,inundaciones lowndes ms monroe ms,2026-01-26T04:09:00+00:00,United States,0.669782183528127,0,1,es,CNA,North-America
 '6e14d79e4a',extremes,Flood,#030ba1,wmo,inundación repentina madison ms yazoo ms,2026-01-28T03:56:00+00:00,United States,0.6697140603534719,0,1,es,CNA,North-America
