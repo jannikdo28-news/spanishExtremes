@@ -13,6 +13,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '39ef6043d8',extremes,Precipitation,#d60d2b,wmo,lluvia españa,2026-01-15T12:14:00+00:00,Spain,0.7624476028759488,2,3,es,MED,Europe
 '8068e6b5b7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica españa,2026-01-15T10:56:00+00:00,Spain,0.7605105128354529,2,2,es,MED,Europe
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitación litoral,2026-02-16T04:38:00+00:00,Ecuador,0.7594235454654522,2,3,es,NWS,South-America
+'10cef2007d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica área 2 – severa,2026-02-21T04:18:00+00:00,Paraguay,0.7536709885742151,0,1,es,SES,South-America
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-01-15T10:56:00+00:00,Spain,0.7531895669751822,4,3,es,MED,Europe
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-01-15T10:56:00+00:00,Chile,0.7458193610723534,1,2,es,SWS,South-America
 'cc7bbe599c',extremes,Storm,#b3b2b1,wmo,tormenta fuerte,2026-01-15T10:56:00+00:00,United States,0.7456737944080513,1,3,es,CNA,North-America
@@ -101,6 +102,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c459c88eba',extremes,Snow&Ice,#d60d2b,wmo,españa helada,2026-02-06T04:27:00+00:00,Spain,0.6670032791356552,0,1,es,MED,Europe
 '3e27f60bda',extremes,Flood,#030ba1,wmo,inundación repentina lowndes ms monroe ms,2026-01-28T03:56:00+00:00,United States,0.6662306057195118,0,1,es,CNA,North-America
 '82e69a1846',extremes,Tsunami,#690191,usgs,lagos de pradera de tsunami,2026-02-11T04:41:00+00:00,United States,0.6658054582774071,0,1,es,NWN,North-America
+'6993b1660a',extremes,Flood,#030ba1,wmo,inundaciones oahu en honolulu hola,2026-02-22T04:30:00+00:00,United States,0.665557984911655,0,1,es,CNA,North-America
 '1e5ab33128',extremes,Flood,#030ba1,wmo,inundación suroeste suffolk sur nassau,2026-02-21T04:18:00+00:00,United States,0.6653438045808593,0,1,es,CNA,North-America
 '753f1aaa45',extremes,Flood,#030ba1,wmo,inundaciones greene al pickens al sumter al,2026-01-26T04:09:00+00:00,United States,0.665058902982773,0,1,es,CNA,North-America
 '89a71f9dae',extremes,Flood,#030ba1,wmo,inundación herkimer ny,2026-01-28T03:56:00+00:00,United States,0.6648817733979041,0,1,es,CNA,North-America
@@ -111,6 +113,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,hielo estados unidos,2026-02-05T04:27:00+00:00,United States,0.6630941064921482,0,1,es,CNA,North-America
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,heladas estados unidos,2026-02-05T04:27:00+00:00,United States,0.6628103377764575,0,1,es,CNA,North-America
 'cfa09d05e0',extremes,Wildfire,#d60d2b,emdat,incendio forestal los rios,2026-02-05T04:28:00+00:00,Chile,0.6627862315457854,0,1,es,SWS,South-America
+'c2168ef322',extremes,Flood,#030ba1,wmo,inundación maui hola,2026-02-22T04:30:00+00:00,United States,0.6626608085478158,0,1,es,CNA,North-America
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,tormenta estados unidos,2026-02-05T04:27:00+00:00,United States,0.6625660139221228,0,1,es,CNA,North-America
 '361d356ada',extremes,Flood,#030ba1,wmo,inundaciones repentinas en las áreas costeras del condado de san diego,2026-02-03T04:27:00+00:00,United States,0.662440357397373,0,1,es,CNA,North-America
 'aac1e6661e',extremes,Flood,#030ba1,wmo,inundación repentina pamlico pollo del sur,2026-01-31T04:16:00+00:00,United States,0.6621926322720629,0,1,es,CNA,North-America
