@@ -79,6 +79,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '76196dc5e1',extremes,Earthquake,#870007,usgs,terremoto guatemala,2026-01-15T12:13:00+00:00,Guatemala,0.6715617156915564,1,1,es,SCA,North-America
 '8ed666f950',extremes,Earthquake,#870007,usgs,terremoto végueta,2026-01-15T10:56:00+00:00,Peru,0.6715351379012542,1,1,es,NWS,South-America
 '5075de9301',extremes,Flood,#030ba1,wmo,inundación madison ms yazoo ms,2026-01-27T03:58:00+00:00,United States,0.6710915547852914,0,1,es,CNA,North-America
+'d26640e36c',extremes,Flood,#030ba1,wmo,inundación randolph wv,2026-02-21T04:18:00+00:00,United States,0.6710787000230523,0,1,es,CNA,North-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,nieve estados unidos,2026-02-05T04:27:00+00:00,United States,0.6706389841077911,0,1,es,CNA,North-America
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,avalancha estados unidos,2026-02-11T04:41:00+00:00,United States,0.6706206575634386,0,1,es,CNA,North-America
 'b74cc3ed00',extremes,Flood,#030ba1,wmo,inundación repentina albañil wa,2026-01-28T03:56:00+00:00,United States,0.6701722472361181,0,1,es,CNA,North-America
@@ -161,6 +162,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd1b13d8307',extremes,Tsunami,#690191,usgs,tsunami estados unidos,2026-02-14T04:21:00+00:00,United States,0.6533307331112786,0,1,es,NWN,North-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-02-05T04:27:00+00:00,Argentina,0.6523740080936421,1,2,es,SES,South-America
 'e779a4acd4',extremes,Storm,#b3b2b1,wmo,tormenta adak al lado del pacífico de kiska,2026-02-05T04:27:00+00:00,United States,0.6513611045114417,0,1,es,CNA,North-America
+'ef1ccadc9e',extremes,Drought,#edc291,edo,sequía venezuela,2026-02-15T04:35:00+00:00,Venezuela,0.6512563900911784,0,1,es,NSA,South-America
+'e7571d972b',extremes,Earthquake,#870007,usgs,terremoto londres,2026-02-11T04:41:00+00:00,Argentina,0.6507310406418065,0,1,es,SES,South-America
 '6c91162e45',extremes,Precipitation,#d60d2b,wmo,precipitación ecuador continental,2026-02-14T04:21:00+00:00,Ecuador,0.6474979374589989,1,1,es,NWS,South-America
 '9349bd9c5e',extremes,Drought,#edc291,edo,sequedad guinea ecuatorial,2026-01-26T04:09:00+00:00,Equatorial Guinea,0.6471683022745018,1,1,es,WAF,Africa
 '56dca2743f',extremes,Drought,#edc291,edo,sequía en guinea ecuatorial,2026-01-15T12:14:00+00:00,Equatorial Guinea,0.6443974464629447,2,1,es,WAF,Africa
