@@ -4,6 +4,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c9dc747da',extremes,Drought,#edc291,edo,falta de lluvia cuba,2026-01-15T10:57:00+00:00,Cuba,0.7748264526646119,2,2,es,CAR,North-America
 '98923c99f8',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial litoral,2026-02-18T04:34:00+00:00,Ecuador,0.773642730379555,3,2,es,NWS,South-America
 '1327c453bc',extremes,Precipitation,#d60d2b,wmo,precipitación españa,2026-01-15T12:14:00+00:00,Spain,0.7699594034592279,2,3,es,MED,Europe
+'56dca2743f',extremes,Drought,#edc291,edo,sequía en guinea ecuatorial,2026-02-06T04:28:00+00:00,Equatorial Guinea,0.7692461023668484,0,1,es,WAF,Africa
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-01-21T03:56:00+00:00,Argentina,0.767010771740134,1,3,es,SES,South-America
 '39ef6043d8',extremes,Precipitation,#d60d2b,wmo,lluvia españa,2026-01-15T12:14:00+00:00,Spain,0.7624476028759488,2,3,es,MED,Europe
 '8068e6b5b7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica españa,2026-01-15T10:56:00+00:00,Spain,0.7605105128354529,2,2,es,MED,Europe
@@ -35,6 +36,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-01-15T10:56:00+00:00,Argentina,0.6995408633657166,2,1,es,SES,South-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,lluvia ecuador,2026-01-28T03:56:00+00:00,Ecuador,0.6945900757610748,2,2,es,NWS,South-America
 'a828348731',extremes,Storm,#b3b2b1,wmo,tormenta costa rica,2026-01-31T04:16:00+00:00,Costa Rica,0.6937439406470765,1,1,es,SCA,North-America
+'7a177b0824',extremes,Earthquake,#870007,usgs,terremoto puerto ayora,2026-02-20T04:27:00+00:00,Ecuador,0.6925101746283807,0,1,es,EPO,Pacific Ocean
 'fe6c2aaee0',extremes,Storm,#b3b2b1,wmo,tormenta interior de pontevedra,2026-01-15T12:14:00+00:00,Spain,0.6907356074837003,2,2,es,MED,Europe
 '2f486e78b4',extremes,Snow Avalanche,#deddd5,wmo,alud pirineo oscense,2026-01-19T04:03:00+00:00,Spain,0.6904209505639238,2,3,es,MED,Europe
 '3e36cbc783',extremes,Earthquake,#870007,usgs,terremoto la concepción,2026-01-15T12:13:00+00:00,Venezuela,0.6879438372156313,1,1,es,NWS,South-America
@@ -93,6 +95,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e27f60bda',extremes,Flood,#030ba1,wmo,inundación repentina lowndes ms monroe ms,2026-01-28T03:56:00+00:00,United States,0.6662306057195118,0,1,es,CNA,North-America
 '01f0f04dd7',extremes,Heat Wave,#c40202,wmo,ola de calor caba y alrededores,2026-01-22T03:59:00+00:00,Argentina,0.6661147495850757,2,1,es,SES,South-America
 '82e69a1846',extremes,Tsunami,#690191,usgs,lagos de pradera de tsunami,2026-02-11T04:41:00+00:00,United States,0.6658054582774071,0,1,es,NWN,North-America
+'cff0a88351',extremes,Earthquake,#870007,usgs,terremoto ecuador,2026-02-19T04:31:00+00:00,Ecuador,0.6655931238277478,0,1,es,NWS,South-America
 '6993b1660a',extremes,Flood,#030ba1,wmo,inundaciones oahu en honolulu hola,2026-02-22T04:30:00+00:00,United States,0.665557984911655,0,1,es,CNA,North-America
 '1e5ab33128',extremes,Flood,#030ba1,wmo,inundación suroeste suffolk sur nassau,2026-02-21T04:18:00+00:00,United States,0.6653438045808593,0,1,es,CNA,North-America
 '753f1aaa45',extremes,Flood,#030ba1,wmo,inundaciones greene al pickens al sumter al,2026-01-26T04:09:00+00:00,United States,0.665058902982773,0,1,es,CNA,North-America
