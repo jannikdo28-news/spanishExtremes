@@ -5,7 +5,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1327c453bc',extremes,Precipitation,#d60d2b,wmo,precipitación españa,2026-01-15T12:14:00+00:00,Spain,0.7699594034592279,2,3,es,MED,Europe
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-01-21T03:56:00+00:00,Argentina,0.767010771740134,1,3,es,SES,South-America
 '39ef6043d8',extremes,Precipitation,#d60d2b,wmo,lluvia españa,2026-01-15T12:14:00+00:00,Spain,0.7624476028759488,2,3,es,MED,Europe
-'6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-02-05T04:27:00+00:00,Argentina,0.7621939354294549,0,1,es,SES,South-America
 '8068e6b5b7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica españa,2026-01-15T10:56:00+00:00,Spain,0.7605105128354529,2,2,es,MED,Europe
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitación litoral,2026-02-16T04:38:00+00:00,Ecuador,0.7594235454654522,2,3,es,NWS,South-America
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-01-15T10:56:00+00:00,Spain,0.7531895669751822,4,3,es,MED,Europe
@@ -63,7 +62,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'db2a276fc1',extremes,Earthquake,#870007,usgs,terremoto aisen,2026-01-15T12:13:00+00:00,Chile,0.6727656623276742,1,1,es,SWS,South-America
 '0a2120b175',extremes,Earthquake,#870007,usgs,terremoto diego de almagro,2026-01-15T10:56:00+00:00,Chile,0.6726839681992637,1,1,es,SWS,South-America
 'da0b9741fb',extremes,Earthquake,#870007,usgs,terremoto rancho viejo,2026-01-15T12:13:00+00:00,Mexico,0.6725664036489354,1,1,es,SCA,North-America
-'51cb717590',extremes,Earthquake,#870007,usgs,terremoto pisco,2026-02-24T04:30:00+00:00,Peru,0.6724135440120578,0,1,es,NWS,South-America
 'c29a12e099',extremes,Earthquake,#870007,usgs,terremoto san vicente de cañete,2026-01-15T12:13:00+00:00,Peru,0.6720656524675004,1,1,es,NWS,South-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-01-15T10:56:00+00:00,Chile,0.671862558135596,1,1,es,SWS,South-America
 '76196dc5e1',extremes,Earthquake,#870007,usgs,terremoto guatemala,2026-01-15T12:13:00+00:00,Guatemala,0.6715617156915564,1,1,es,SCA,North-America
@@ -163,6 +161,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ef1ccadc9e',extremes,Drought,#edc291,edo,sequía venezuela,2026-02-15T04:35:00+00:00,Venezuela,0.6512563900911784,0,1,es,NSA,South-America
 'e7571d972b',extremes,Earthquake,#870007,usgs,terremoto londres,2026-02-11T04:41:00+00:00,Argentina,0.6507310406418065,0,1,es,SES,South-America
 'c25026e712',extremes,Flood,#030ba1,wmo,inundaciones santa barbara ca,2026-02-11T04:41:00+00:00,United States,0.6485944143465585,0,1,es,CNA,North-America
+'6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-02-05T04:27:00+00:00,Argentina,0.6483148901150366,1,1,es,SES,South-America
 '6c91162e45',extremes,Precipitation,#d60d2b,wmo,precipitación ecuador continental,2026-02-14T04:21:00+00:00,Ecuador,0.6474979374589989,1,1,es,NWS,South-America
 '9349bd9c5e',extremes,Drought,#edc291,edo,sequedad guinea ecuatorial,2026-01-26T04:09:00+00:00,Equatorial Guinea,0.6471683022745018,1,1,es,WAF,Africa
 'a63efd7f21',extremes,Heat Wave,#c40202,wmo,ola de calor tartagal y alrededores,2026-02-17T04:31:00+00:00,Argentina,0.6438865046182705,1,1,es,SES,South-America
@@ -304,6 +303,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '73b16dc950',extremes,Flood,#030ba1,wmo,inundación repentina jackson ar woodruff ar,2026-02-19T04:32:00+00:00,United States,0.5723134116797618,1,1,es,CNA,North-America
 '3dea46c095',extremes,Flood,#030ba1,wmo,inundación repentina estados unidos,2026-02-08T04:43:00+00:00,United States,0.5721957264502495,1,1,es,CNA,North-America
 'd4af5da119',extremes,Wildfire,#d60d2b,wmo,incendio forestal knox stark marshall,2026-02-18T04:34:00+00:00,United States,0.5716014549913662,1,1,es,CNA,North-America
+'51cb717590',extremes,Earthquake,#870007,usgs,terremoto pisco,2026-02-24T04:30:00+00:00,Peru,0.571551512410249,1,1,es,NWS,South-America
 'f35db5adb5',extremes,Wildfire,#d60d2b,wmo,incendio forestal rey dickens,2026-02-18T04:34:00+00:00,United States,0.5715078159515649,1,1,es,CNA,North-America
 'f5303cb715',extremes,Flood,#030ba1,wmo,caza de inundaciones repentinas tx,2026-02-15T04:35:00+00:00,United States,0.5713670294388064,1,1,es,CNA,North-America
 '03c7ee6412',extremes,Wildfire,#d60d2b,wmo,incendio forestal en las llanuras centrales del este,2026-02-19T04:32:00+00:00,United States,0.5712150406038391,1,1,es,CNA,North-America
