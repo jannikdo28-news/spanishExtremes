@@ -5,7 +5,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '39ef6043d8',extremes,Precipitation,#d60d2b,wmo,lluvia españa,2026-01-15T12:14:00+00:00,Spain,0.7624476028759488,2,3,es,MED,Europe
 '8068e6b5b7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica españa,2026-01-15T10:56:00+00:00,Spain,0.7605105128354529,2,2,es,MED,Europe
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitación litoral,2026-02-16T04:38:00+00:00,Ecuador,0.7594235454654522,2,3,es,NWS,South-America
-'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-02-13T04:34:00+00:00,Paraguay,0.7567621034625692,0,1,es,SES,South-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2026-02-25T04:32:00+00:00,Chile,0.7541097712951006,0,1,es,SWS,South-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,marejada ciclónica argentina,2026-02-25T04:32:00+00:00,Argentina,0.7533965852894461,0,1,es,SES,South-America
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-01-15T10:56:00+00:00,Spain,0.7531895669751822,4,3,es,MED,Europe
@@ -17,6 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2026-01-15T10:56:00+00:00,Qatar,0.7408763685492641,1,2,es,ARP,Asia
 '28f61be3bd',extremes,Snow&Ice,#d60d2b,wmo,nieve sierra de madrid,2026-01-15T12:14:00+00:00,Spain,0.740840741770404,2,3,es,MED,Europe
 '58f77fa85f',extremes,Thunderstorm,#53785a,wmo,granizo españa,2026-01-31T04:16:00+00:00,Spain,0.7351326655651081,1,3,es,MED,Europe
+'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-02-13T04:34:00+00:00,Paraguay,0.7339978629431838,1,2,es,SES,South-America
 'e5b46f3978',extremes,Drought,#edc291,edo,sequía argentina,2026-01-15T10:57:00+00:00,Argentina,0.7329454109721615,4,3,es,SES,South-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,estados unidos helados,2026-02-05T04:27:00+00:00,United States,0.7277425925601309,1,3,es,CNA,North-America
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,tormenta litoral,2026-02-19T04:32:00+00:00,Ecuador,0.7268604370551868,1,3,es,NWS,South-America
@@ -51,21 +51,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2026-01-15T10:56:00+00:00,Chile,0.681789078998172,2,2,es,SWS,South-America
 'd2e515b87c',extremes,Flood,#030ba1,cmeter,inundación colombia,2026-02-22T04:31:00+00:00,Colombia,0.6817853912672547,2,1,es,NWS,South-America
 'dfddc79ff8',extremes,Snow&Ice,#d60d2b,wmo,hielo sierra de madrid,2026-01-15T10:56:00+00:00,Spain,0.6772244931642927,2,2,es,MED,Europe
-'1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-01-15T12:13:00+00:00,Costa Rica,0.6746727589442933,1,1,es,SCA,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-01-26T04:09:00+00:00,Ecuador,0.6745423471657225,1,1,es,NWS,South-America
-'80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2026-01-15T12:13:00+00:00,Bolivia,0.6736785046238081,1,1,es,SES,South-America
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tormenta amazonia,2026-02-08T04:43:00+00:00,Ecuador,0.6733785752703623,2,2,es,NWS,South-America
-'2c38aada07',extremes,Earthquake,#870007,usgs,terremoto colchane,2026-01-15T12:13:00+00:00,Chile,0.6729046913820005,1,1,es,SWS,South-America
-'6bad2a8cbc',extremes,Earthquake,#870007,usgs,terremoto san agustín de valle fértil,2026-01-15T12:13:00+00:00,Argentina,0.6728924084616035,1,1,es,SES,South-America
-'464d595634',extremes,Earthquake,#870007,usgs,terremoto camiña,2026-01-15T12:13:00+00:00,Chile,0.6728696018177922,1,1,es,SWS,South-America
-'db2a276fc1',extremes,Earthquake,#870007,usgs,terremoto aisen,2026-01-15T12:13:00+00:00,Chile,0.6727656623276742,1,1,es,SWS,South-America
-'da0b9741fb',extremes,Earthquake,#870007,usgs,terremoto rancho viejo,2026-01-15T12:13:00+00:00,Mexico,0.6725664036489354,1,1,es,SCA,North-America
-'c29a12e099',extremes,Earthquake,#870007,usgs,terremoto san vicente de cañete,2026-01-15T12:13:00+00:00,Peru,0.6720656524675004,1,1,es,NWS,South-America
-'76196dc5e1',extremes,Earthquake,#870007,usgs,terremoto guatemala,2026-01-15T12:13:00+00:00,Guatemala,0.6715617156915564,1,1,es,SCA,North-America
 '5a9124c973',extremes,Heat Wave,#c40202,wmo,ola de calor las flores y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.6715230200500367,2,1,es,SES,South-America
-'49ddcc4606',extremes,Wildfire,#d60d2b,wmo,kit de incendios forestales condado de carson cheyenne dundy,2026-02-25T04:32:00+00:00,United States,0.6702045182145737,0,1,es,CNA,North-America
 'b74cc3ed00',extremes,Flood,#030ba1,wmo,inundación repentina albañil wa,2026-01-28T03:56:00+00:00,United States,0.6701722472361181,0,1,es,CNA,North-America
-'f3276cea85',extremes,Storm,#b3b2b1,wmo,tormenta centro y valle de villaverde,2026-01-15T12:14:00+00:00,Spain,0.6701305890350059,1,1,es,MED,Europe
 '6a8106842a',extremes,Drought,#edc291,edo,sequía república dominicana,2026-02-11T04:42:00+00:00,Dominican Republic,0.6699732671568118,0,1,es,CAR,North-America
 'e68b7fa2e0',extremes,Flood,#030ba1,wmo,inundaciones clarke al washington al,2026-01-26T04:09:00+00:00,United States,0.6698216167384157,0,1,es,CNA,North-America
 '00c00e9472',extremes,Flood,#030ba1,wmo,inundaciones lowndes ms monroe ms,2026-01-26T04:09:00+00:00,United States,0.669782183528127,0,1,es,CNA,North-America
@@ -118,24 +107,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '117f2e1e78',extremes,Flood,#030ba1,wmo,inundación costera hancock costera washington,2026-02-02T04:36:00+00:00,United States,0.6587530898045145,0,1,es,CNA,North-America
 '99b4d7585f',extremes,Flood,#030ba1,wmo,inundación del distrito de entrada de ketchikan,2026-02-04T04:21:00+00:00,United States,0.6585033106516939,0,1,es,CNA,North-America
 '19b7eba349',extremes,Fog,#d60d2b,wmo,niebla sur de mallorca,2026-02-24T04:31:00+00:00,Spain,0.6575550561832425,1,1,es,MED,Europe
-'5cf328df80',extremes,Storm,#b3b2b1,wmo,tormenta suroeste de a coruña,2026-01-15T12:14:00+00:00,Spain,0.6573827697498689,1,1,es,MED,Europe
 'da213c6a76',extremes,Flood,#030ba1,wmo,inundación repentina océano océano costero,2026-02-01T04:41:00+00:00,United States,0.6573408247572439,0,1,es,CNA,North-America
 '6024419758',extremes,Storm,#b3b2b1,wmo,tormenta ashe alleghany watauga,2026-01-30T04:21:00+00:00,United States,0.6572627231399172,0,1,es,CNA,North-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,nieve estados unidos,2026-02-05T04:27:00+00:00,United States,0.6568194333098042,1,3,es,CNA,North-America
-'17abcf3665',extremes,Storm,#b3b2b1,wmo,tormenta costa suroeste de a coruña,2026-01-15T12:14:00+00:00,Spain,0.6566340869726952,1,1,es,MED,Europe
-'e31ab38b80',extremes,Storm,#b3b2b1,wmo,tormenta cordillera cantábrica de burgos,2026-01-15T12:14:00+00:00,Spain,0.6564130892834379,1,1,es,MED,Europe
 '17065d269f',extremes,Drought,#edc291,edo,falta de lluvia honduras,2026-02-06T04:28:00+00:00,Honduras,0.6563475740020468,0,1,es,SCA,North-America
-'ab8adba258',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral provincia de huasco,2026-01-15T12:14:00+00:00,Chile,0.6560883342492538,1,1,es,SWS,South-America
-'6ed3f23541',extremes,Storm,#b3b2b1,wmo,tormenta interior de gipuzkoa,2026-01-15T12:14:00+00:00,Spain,0.6560837070967372,1,1,es,MED,Europe
-'9a463a5f28',extremes,Precipitation,#d60d2b,wmo,lluvias torrenciales oeste de a coruña,2026-01-15T12:14:00+00:00,Spain,0.6557681105714362,1,1,es,MED,Europe
-'b86a04ca23',extremes,Storm,#b3b2b1,wmo,marejada ciclónica norte de burgos,2026-01-15T12:14:00+00:00,Spain,0.6557678125138355,1,1,es,MED,Europe
-'98e971fa0f',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral de gipuzkoa,2026-01-15T12:14:00+00:00,Spain,0.6557247390497108,1,1,es,MED,Europe
-'637dae8473',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa a mariña,2026-01-15T12:14:00+00:00,Spain,0.655716187917417,1,1,es,MED,Europe
-'1661601ea6',extremes,Precipitation,#d60d2b,wmo,aguacero ibiza y formentera,2026-01-15T12:14:00+00:00,Spain,0.6556591267853689,1,1,es,MED,Europe
-'d5edd2afe3',extremes,Storm,#b3b2b1,wmo,tormenta costa litoral oriental asturiano,2026-01-15T12:14:00+00:00,Spain,0.6556257837835869,1,1,es,MED,Europe
-'db7218a192',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa suroeste de a coruña,2026-01-15T12:14:00+00:00,Spain,0.6555779086882983,1,1,es,MED,Europe
 '68e0f3d6ed',extremes,Earthquake,#870007,usgs,terremoto macas,2026-02-13T04:33:00+00:00,Ecuador,0.655561229681182,0,1,es,NWS,South-America
-'e1a4ee38e4',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial levante mallorquín,2026-01-15T12:14:00+00:00,Spain,0.6553254106193853,1,1,es,MED,Europe
 '3edf190b65',extremes,Flood,#030ba1,wmo,inundaciones este de Carteret,2026-01-30T04:21:00+00:00,United States,0.6547643083624237,0,1,es,CNA,North-America
 'cf6542710b',extremes,Fog,#d60d2b,wmo,niebla dos puertos hasta duluth mn,2026-02-17T04:31:00+00:00,United States,0.6545454947679208,0,1,es,CNA,North-America
 'ecf3b73558',extremes,Snow&Ice,#d60d2b,wmo,nieve españa,2026-02-07T04:19:00+00:00,Spain,0.6540603302727054,0,1,es,MED,Europe
@@ -293,3 +269,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5075de9301',extremes,Flood,#030ba1,wmo,inundación madison ms yazoo ms,2026-01-27T03:58:00+00:00,United States,0.5704278215674976,1,1,es,CNA,North-America
 'd26640e36c',extremes,Flood,#030ba1,wmo,inundación randolph wv,2026-02-21T04:18:00+00:00,United States,0.5704168950195944,1,1,es,CNA,North-America
 '57cb99f98e',extremes,Earthquake,#870007,usgs,terremoto colbún,2026-02-22T04:30:00+00:00,Chile,0.5701392589238327,1,1,es,SWS,South-America
+'49ddcc4606',extremes,Wildfire,#d60d2b,wmo,kit de incendios forestales condado de carson cheyenne dundy,2026-02-25T04:32:00+00:00,United States,0.5696738404823877,1,1,es,CNA,North-America
