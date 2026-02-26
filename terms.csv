@@ -5,7 +5,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '39ef6043d8',extremes,Precipitation,#d60d2b,wmo,lluvia españa,2026-01-15T12:14:00+00:00,Spain,0.7624476028759488,2,3,es,MED,Europe
 '8068e6b5b7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica españa,2026-01-15T10:56:00+00:00,Spain,0.7605105128354529,2,2,es,MED,Europe
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitación litoral,2026-02-16T04:38:00+00:00,Ecuador,0.7594235454654522,2,3,es,NWS,South-America
+'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-02-13T04:34:00+00:00,Paraguay,0.7567621034625692,0,1,es,SES,South-America
+'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2026-02-25T04:32:00+00:00,Chile,0.7541097712951006,0,1,es,SWS,South-America
+'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,marejada ciclónica argentina,2026-02-25T04:32:00+00:00,Argentina,0.7533965852894461,0,1,es,SES,South-America
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-01-15T10:56:00+00:00,Spain,0.7531895669751822,4,3,es,MED,Europe
+'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial argentina,2026-02-26T04:29:00+00:00,Argentina,0.7492787838411838,0,1,es,SES,South-America
 '9330418237',extremes,Precipitation,#d60d2b,wmo,lluvia uruguay,2026-02-24T04:31:00+00:00,Uruguay,0.7488072924787121,1,3,es,SES,South-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-01-15T10:56:00+00:00,Chile,0.7458193610723534,1,2,es,SWS,South-America
 'cc7bbe599c',extremes,Storm,#b3b2b1,wmo,tormenta fuerte,2026-01-15T10:56:00+00:00,United States,0.7456737944080513,1,3,es,CNA,North-America
@@ -18,7 +22,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,tormenta litoral,2026-02-19T04:32:00+00:00,Ecuador,0.7268604370551868,1,3,es,NWS,South-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,inundaciones estados unidos,2026-02-07T04:19:00+00:00,United States,0.72399240100864,1,3,es,CNA,North-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-02-05T04:27:00+00:00,Argentina,0.7234132622370949,1,3,es,SES,South-America
+'34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-02-25T04:32:00+00:00,Chile,0.7232440980201029,0,1,es,SWS,South-America
 '2f51d04c0e',extremes,Fog,#d60d2b,wmo,niebla españa,2026-02-24T04:31:00+00:00,Spain,0.7224611525366338,1,3,es,MED,Europe
+'3a67915e02',extremes,Earthquake,#870007,usgs,terremoto peru,2026-02-25T04:32:00+00:00,Peru,0.7204142131103772,0,1,es,NWS,South-America
 'd716590c30',extremes,Storm,#b3b2b1,wmo,tormenta regiones pacífico norte.,2026-01-30T04:21:00+00:00,Costa Rica,0.7193292631477789,2,2,es,SCA,North-America
 '06532967b8',extremes,Drought,#edc291,edo,falta de lluvia brasil,2026-01-15T10:57:00+00:00,Brazil,0.7185330972871325,1,2,es,SAM,South-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2026-02-05T04:27:00+00:00,United States,0.7184880247809518,1,3,es,CNA,North-America
