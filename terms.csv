@@ -23,7 +23,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '06532967b8',extremes,Drought,#edc291,edo,falta de lluvia brasil,2026-01-15T10:57:00+00:00,Brazil,0.7185330972871325,1,2,es,SAM,South-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2026-02-05T04:27:00+00:00,United States,0.7184880247809518,1,3,es,CNA,North-America
 '63b3a5e343',extremes,Earthquake,#870007,usgs,terremoto san marcos,2026-01-15T10:56:00+00:00,Mexico,0.7133859572600593,1,2,es,SCA,North-America
-'19b7eba349',extremes,Fog,#d60d2b,wmo,niebla sur de mallorca,2026-02-24T04:31:00+00:00,Spain,0.7126527955096971,0,1,es,MED,Europe
 '331f9db5d5',extremes,Snow&Ice,#d60d2b,wmo,hielo españa,2026-01-15T10:56:00+00:00,Spain,0.7112820274542868,1,2,es,MED,Europe
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,lluvia litoral,2026-02-17T04:31:00+00:00,Ecuador,0.7104124386534518,3,3,es,NWS,South-America
 'df2f695002',extremes,Precipitation,#d60d2b,wmo,lluvia rías baixas,2026-01-15T12:14:00+00:00,Spain,0.7079761073845655,2,2,es,MED,Europe
@@ -129,6 +128,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '721b7d6185',extremes,Drought,#edc291,edo,sequía estados unidos,2026-02-05T04:28:00+00:00,United States,0.6589611300456546,0,1,es,WCE,Europe
 '117f2e1e78',extremes,Flood,#030ba1,wmo,inundación costera hancock costera washington,2026-02-02T04:36:00+00:00,United States,0.6587530898045145,0,1,es,CNA,North-America
 '99b4d7585f',extremes,Flood,#030ba1,wmo,inundación del distrito de entrada de ketchikan,2026-02-04T04:21:00+00:00,United States,0.6585033106516939,0,1,es,CNA,North-America
+'19b7eba349',extremes,Fog,#d60d2b,wmo,niebla sur de mallorca,2026-02-24T04:31:00+00:00,Spain,0.6575550561832425,1,1,es,MED,Europe
 '5cf328df80',extremes,Storm,#b3b2b1,wmo,tormenta suroeste de a coruña,2026-01-15T12:14:00+00:00,Spain,0.6573827697498689,1,1,es,MED,Europe
 'da213c6a76',extremes,Flood,#030ba1,wmo,inundación repentina océano océano costero,2026-02-01T04:41:00+00:00,United States,0.6573408247572439,0,1,es,CNA,North-America
 '6024419758',extremes,Storm,#b3b2b1,wmo,tormenta ashe alleghany watauga,2026-01-30T04:21:00+00:00,United States,0.6572627231399172,0,1,es,CNA,North-America
@@ -258,8 +258,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,tormenta invernal norteamericana nueva york,2026-01-31T04:17:00+00:00,United States,0.60589428991392,1,1,es,ENA,North-America
 'f434a5525f',extremes,Drought,#edc291,edo,sequedad méxico,2026-01-25T04:06:00+00:00,Mexico,0.605834374637102,1,1,es,NCA,North-America
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,incendio forestal estados unidos,2026-02-06T04:27:00+00:00,United States,0.6054397044625326,1,1,es,ENA,North-America
-'2fa9116266',extremes,Earthquake,#870007,usgs,puerto sísmico de Alsworth,2026-01-15T12:13:00+00:00,United States,0.6053765014721836,1,1,es,NWN,North-America
-'982d97b8ec',extremes,Earthquake,#870007,usgs,terremoto susanville,2026-01-15T12:13:00+00:00,United States,0.6052290591489315,1,1,es,WNA,North-America
 '83f16d38a8',extremes,Earthquake,#870007,usgs,terremoto zirándaro de los chávez,2026-01-22T03:59:00+00:00,Mexico,0.6034735397899127,1,1,es,NCA,North-America
 'dbc72b57f2',extremes,Heat Wave,#c40202,wmo,ola de calor área 1 – severa,2026-01-25T04:06:00+00:00,Paraguay,0.602717997570556,1,1,es,SES,South-America
 '12775cc05a',extremes,Drought,#edc291,wmo,sequía brasil,2026-02-05T04:27:00+00:00,Brazil,0.6025230506099193,1,2,es,SAM,South-America
