@@ -55,7 +55,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tormenta amazonia,2026-02-08T04:43:00+00:00,Ecuador,0.6733785752703623,2,2,es,NWS,South-America
 '5a9124c973',extremes,Heat Wave,#c40202,wmo,ola de calor las flores y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.6715230200500367,2,1,es,SES,South-America
 'b74cc3ed00',extremes,Flood,#030ba1,wmo,inundación repentina albañil wa,2026-01-28T03:56:00+00:00,United States,0.6701722472361181,0,1,es,CNA,North-America
-'6a8106842a',extremes,Drought,#edc291,edo,sequía república dominicana,2026-02-11T04:42:00+00:00,Dominican Republic,0.6699732671568118,0,1,es,CAR,North-America
 'e68b7fa2e0',extremes,Flood,#030ba1,wmo,inundaciones clarke al washington al,2026-01-26T04:09:00+00:00,United States,0.6698216167384157,0,1,es,CNA,North-America
 '00c00e9472',extremes,Flood,#030ba1,wmo,inundaciones lowndes ms monroe ms,2026-01-26T04:09:00+00:00,United States,0.669782183528127,0,1,es,CNA,North-America
 '6e14d79e4a',extremes,Flood,#030ba1,wmo,inundación repentina madison ms yazoo ms,2026-01-28T03:56:00+00:00,United States,0.6697140603534719,0,1,es,CNA,North-America
@@ -268,5 +267,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4bfaf4db07',extremes,Flood,#030ba1,wmo,inundación tehama ca,2026-02-25T04:32:00+00:00,United States,0.5704371435911215,1,1,es,CNA,North-America
 '5075de9301',extremes,Flood,#030ba1,wmo,inundación madison ms yazoo ms,2026-01-27T03:58:00+00:00,United States,0.5704278215674976,1,1,es,CNA,North-America
 'd26640e36c',extremes,Flood,#030ba1,wmo,inundación randolph wv,2026-02-21T04:18:00+00:00,United States,0.5704168950195944,1,1,es,CNA,North-America
+'6a8106842a',extremes,Drought,#edc291,edo,sequía república dominicana,2026-02-11T04:42:00+00:00,Dominican Republic,0.57037736708329,1,1,es,CAR,North-America
 '57cb99f98e',extremes,Earthquake,#870007,usgs,terremoto colbún,2026-02-22T04:30:00+00:00,Chile,0.5701392589238327,1,1,es,SWS,South-America
 '49ddcc4606',extremes,Wildfire,#d60d2b,wmo,kit de incendios forestales condado de carson cheyenne dundy,2026-02-25T04:32:00+00:00,United States,0.5696738404823877,1,1,es,CNA,North-America
