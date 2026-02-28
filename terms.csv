@@ -51,12 +51,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a9124c973',extremes,Heat Wave,#c40202,wmo,ola de calor las flores y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.6715230200500367,2,1,es,SES,South-America
 'fcc3f80d6b',extremes,Heat Wave,#c40202,wmo,ola de calor paraguay,2026-01-24T03:48:00+00:00,Paraguay,0.6695333449017987,2,2,es,SES,South-America
 'eb47176b76',extremes,Wildfire,#d60d2b,emdat,incendio forestal en chile,2026-02-01T04:41:00+00:00,Chile,0.6688263672727726,1,2,es,SWS,South-America
-'d15fd56319',extremes,Wildfire,#d60d2b,wmo,incendio forestal jones lyman búfalo,2026-02-15T04:35:00+00:00,United States,0.6686980282111438,0,1,es,CNA,North-America
 '349b9f9026',extremes,Heat Wave,#c40202,wmo,ola de calor área 3 – menor,2026-01-24T03:48:00+00:00,Paraguay,0.6682035670138563,2,1,es,SES,South-America
 '654261891c',extremes,Precipitation,#d60d2b,wmo,lluvia sierra sur,2026-02-15T04:35:00+00:00,Ecuador,0.668124982370436,2,3,es,NWS,South-America
-'e01aa2c7dc',extremes,Flood,#030ba1,wmo,jardín inundado ne,2026-01-27T03:58:00+00:00,United States,0.6680134350597575,0,1,es,CNA,North-America
-'c459c88eba',extremes,Snow&Ice,#d60d2b,wmo,españa helada,2026-02-06T04:27:00+00:00,Spain,0.6670032791356552,0,1,es,MED,Europe
 '75239cb2ef',extremes,Flood,#030ba1,wmo,inundaciones en las playas de Maryland Accomack,2026-02-23T04:37:00+00:00,United States,0.6665990690804551,0,1,es,CNA,North-America
+'c459c88eba',extremes,Snow&Ice,#d60d2b,wmo,españa helada,2026-02-06T04:27:00+00:00,Spain,0.6664532372653068,1,3,es,MED,Europe
 '3e27f60bda',extremes,Flood,#030ba1,wmo,inundación repentina lowndes ms monroe ms,2026-01-28T03:56:00+00:00,United States,0.6662306057195118,0,1,es,CNA,North-America
 '01f0f04dd7',extremes,Heat Wave,#c40202,wmo,ola de calor caba y alrededores,2026-01-22T03:59:00+00:00,Argentina,0.6661147495850757,2,1,es,SES,South-America
 '82e69a1846',extremes,Tsunami,#690191,usgs,lagos de pradera de tsunami,2026-02-11T04:41:00+00:00,United States,0.6658054582774071,0,1,es,NWN,North-America
@@ -270,4 +268,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6eb9d896b9',extremes,Flood,#030ba1,wmo,inundación repentina norfolk portsmouth chesapeake,2026-02-01T04:41:00+00:00,United States,0.5690444761173672,1,1,es,CNA,North-America
 '95eb0e5e86',extremes,Flood,#030ba1,wmo,inundación repentina nuevo castillo salem,2026-02-23T04:37:00+00:00,United States,0.5689102884681407,1,1,es,CNA,North-America
 'c1ea948b6b',extremes,Flood,#030ba1,wmo,inundación attala ms holmes ms,2026-01-27T03:58:00+00:00,United States,0.5688662370587659,1,1,es,CNA,North-America
+'d15fd56319',extremes,Wildfire,#d60d2b,wmo,incendio forestal jones lyman búfalo,2026-02-15T04:35:00+00:00,United States,0.5683933239794722,1,1,es,CNA,North-America
 '69dfb15ea7',extremes,Storm,#b3b2b1,wmo,tormenta adak al lado de kiska bering,2026-02-05T04:27:00+00:00,United States,0.5678646537478043,1,1,es,CNA,North-America
+'e01aa2c7dc',extremes,Flood,#030ba1,wmo,jardín inundado ne,2026-01-27T03:58:00+00:00,United States,0.5678114198007939,1,1,es,CNA,North-America
