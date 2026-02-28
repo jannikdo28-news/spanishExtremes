@@ -50,6 +50,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-01-26T04:09:00+00:00,Ecuador,0.6745423471657225,1,1,es,NWS,South-America
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tormenta amazonia,2026-02-08T04:43:00+00:00,Ecuador,0.6733785752703623,2,2,es,NWS,South-America
 '5a9124c973',extremes,Heat Wave,#c40202,wmo,ola de calor las flores y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.6715230200500367,2,1,es,SES,South-America
+'6759d737fc',extremes,Flood,#030ba1,wmo,inundaciones tehama ca,2026-02-26T04:29:00+00:00,United States,0.6712828657081071,0,1,es,CNA,North-America
 'fcc3f80d6b',extremes,Heat Wave,#c40202,wmo,ola de calor paraguay,2026-01-24T03:48:00+00:00,Paraguay,0.6695333449017987,2,2,es,SES,South-America
 'eb47176b76',extremes,Wildfire,#d60d2b,emdat,incendio forestal en chile,2026-02-01T04:41:00+00:00,Chile,0.6688263672727726,1,2,es,SWS,South-America
 'd15fd56319',extremes,Wildfire,#d60d2b,wmo,incendio forestal jones lyman búfalo,2026-02-15T04:35:00+00:00,United States,0.6686980282111438,0,1,es,CNA,North-America
