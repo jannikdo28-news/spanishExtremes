@@ -48,7 +48,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dfddc79ff8',extremes,Snow&Ice,#d60d2b,wmo,hielo sierra de madrid,2026-01-15T10:56:00+00:00,Spain,0.6772244931642927,2,2,es,MED,Europe
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-01-26T04:09:00+00:00,Ecuador,0.6745423471657225,1,1,es,NWS,South-America
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tormenta amazonia,2026-02-08T04:43:00+00:00,Ecuador,0.6733785752703623,2,2,es,NWS,South-America
-'26dc110943',extremes,Drought,#edc291,edo,falta de lluvia nicaragua,2026-02-08T04:43:00+00:00,Nicaragua,0.6717302058918645,0,1,es,SCA,North-America
 '5a9124c973',extremes,Heat Wave,#c40202,wmo,ola de calor las flores y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.6715230200500367,2,1,es,SES,South-America
 'fcc3f80d6b',extremes,Heat Wave,#c40202,wmo,ola de calor paraguay,2026-01-24T03:48:00+00:00,Paraguay,0.6695333449017987,2,2,es,SES,South-America
 '57df3dc86e',extremes,Drought,#edc291,edo,sequía chile,2026-02-13T04:34:00+00:00,Chile,0.6693544979116248,0,1,es,SPO,Pacific Ocean
@@ -254,6 +253,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f5303cb715',extremes,Flood,#030ba1,wmo,caza de inundaciones repentinas tx,2026-02-15T04:35:00+00:00,United States,0.5713670294388064,1,1,es,CNA,North-America
 '3a04076217',extremes,Flood,#030ba1,wmo,inundación repentina arrulla o,2026-02-25T04:32:00+00:00,United States,0.5712509212853932,1,1,es,CNA,North-America
 '03c7ee6412',extremes,Wildfire,#d60d2b,wmo,incendio forestal en las llanuras centrales del este,2026-02-19T04:32:00+00:00,United States,0.5712150406038391,1,1,es,CNA,North-America
+'26dc110943',extremes,Drought,#edc291,edo,falta de lluvia nicaragua,2026-02-08T04:43:00+00:00,Nicaragua,0.5711206900080849,1,1,es,SCA,North-America
 'f78648bb34',extremes,Flood,#030ba1,wmo,inundaciones mendocino ca,2026-02-25T04:32:00+00:00,United States,0.57098629682115,1,1,es,CNA,North-America
 '5ca6f4a6ca',extremes,Flood,#030ba1,wmo,inundación repentina clarke al washington al,2026-01-28T03:56:00+00:00,United States,0.5709517052498094,1,1,es,CNA,North-America
 '6759d737fc',extremes,Flood,#030ba1,wmo,inundaciones tehama ca,2026-02-26T04:29:00+00:00,United States,0.5705904358518911,1,1,es,CNA,North-America
