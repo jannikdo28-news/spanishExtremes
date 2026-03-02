@@ -53,8 +53,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c459c88eba',extremes,Snow&Ice,#d60d2b,wmo,españa helada,2026-02-06T04:27:00+00:00,Spain,0.6664532372653068,1,3,es,MED,Europe
 '01f0f04dd7',extremes,Heat Wave,#c40202,wmo,ola de calor caba y alrededores,2026-01-22T03:59:00+00:00,Argentina,0.6661147495850757,2,1,es,SES,South-America
 'a471dde55c',extremes,Drought,#edc291,edo,sequía cuba,2026-01-24T03:49:00+00:00,Cuba,0.6648327250914118,1,2,es,CAR,North-America
-'9b0be5e406',extremes,Drought,#edc291,edo,sequía en colombia,2026-02-05T04:28:00+00:00,Colombia,0.663901936846859,0,1,es,NWS,South-America
-'5e8e4bc5b1',extremes,Flood,#030ba1,wmo,inundación greene al hale al marengo al,2026-01-26T04:09:00+00:00,United States,0.6632975372770422,0,1,es,CNA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,hielo estados unidos,2026-02-05T04:27:00+00:00,United States,0.6630941064921482,0,1,es,CNA,North-America
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,heladas estados unidos,2026-02-05T04:27:00+00:00,United States,0.6628103377764575,0,1,es,CNA,North-America
 'cfa09d05e0',extremes,Wildfire,#d60d2b,emdat,incendio forestal los rios,2026-02-05T04:28:00+00:00,Chile,0.6627862315457854,0,1,es,SWS,South-America
@@ -82,6 +80,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '17065d269f',extremes,Drought,#edc291,edo,falta de lluvia honduras,2026-02-06T04:28:00+00:00,Honduras,0.6563475740020468,0,1,es,SCA,North-America
 '68e0f3d6ed',extremes,Earthquake,#870007,usgs,terremoto macas,2026-02-13T04:33:00+00:00,Ecuador,0.655561229681182,0,1,es,NWS,South-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2026-02-25T04:32:00+00:00,Chile,0.6553211899556741,1,2,es,SWS,South-America
+'9b0be5e406',extremes,Drought,#edc291,edo,sequía en colombia,2026-02-05T04:28:00+00:00,Colombia,0.6550667213198301,1,2,es,NWS,South-America
 '3edf190b65',extremes,Flood,#030ba1,wmo,inundaciones este de Carteret,2026-01-30T04:21:00+00:00,United States,0.6547643083624237,0,1,es,CNA,North-America
 'cf6542710b',extremes,Fog,#d60d2b,wmo,niebla dos puertos hasta duluth mn,2026-02-17T04:31:00+00:00,United States,0.6545454947679208,0,1,es,CNA,North-America
 'ecf3b73558',extremes,Snow&Ice,#d60d2b,wmo,nieve españa,2026-02-07T04:19:00+00:00,Spain,0.6540603302727054,0,1,es,MED,Europe
@@ -277,3 +276,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '753f1aaa45',extremes,Flood,#030ba1,wmo,inundaciones greene al pickens al sumter al,2026-01-26T04:09:00+00:00,United States,0.5653000675353571,1,1,es,CNA,North-America
 '89a71f9dae',extremes,Flood,#030ba1,wmo,inundación herkimer ny,2026-01-28T03:56:00+00:00,United States,0.5651495073882185,1,1,es,CNA,North-America
 'e1048c4180',extremes,Drought,#edc291,edo,sequedad uruguay,2026-02-07T04:19:00+00:00,Uruguay,0.5646280222778947,1,1,es,SES,South-America
+'5e8e4bc5b1',extremes,Flood,#030ba1,wmo,inundación greene al hale al marengo al,2026-01-26T04:09:00+00:00,United States,0.5638029066854858,1,1,es,CNA,North-America
