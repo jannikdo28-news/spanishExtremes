@@ -1,605 +1,757 @@
 ,phrase,label,sentiment,subjectivity,language,count
-winter,winter,DATE,,,en,14.400000000000004
-one,one,CARDINAL,,,en,9.0
-2025,2025,DATE,,,en,7.799999999999998
-Saturday,Saturday,DATE,,,en,6.8
-this Tuesday,this Tuesday,DATE,,,en,6.500000000000001
-first,first,ORDINAL,,,en,6.499999999999998
-today,today,DATE,,,en,6.1
-Spanish,Spanish,NORP,,,en,5.999999999999998
-Argentine,Argentine,NORP,,,en,5.8999999999999995
-Friday,Friday,DATE,,,en,5.800000000000001
-Thursday,Thursday,DATE,,,en,5.799999999999999
-the weekend,the weekend,DATE,,,en,5.6000000000000005
-two,two,CARDINAL,,,en,5.5
-Wednesday,Wednesday,DATE,,,en,5.3999999999999995
-2026,2026,DATE,,,en,5.299999999999999
-this weekend,this weekend,DATE,,,en,5.0
-half,half,CARDINAL,,,en,4.7
-this Thursday,this Thursday,DATE,,,en,4.3
+winter,winter,DATE,,,en,15.100000000000003
+first,first,ORDINAL,,,en,9.600000000000001
+one,one,CARDINAL,,,en,9.6
+Thursday,Thursday,DATE,,,en,8.799999999999999
+today,today,DATE,,,en,8.3
+2026,2026,DATE,,,en,8.299999999999999
+2025,2025,DATE,,,en,8.099999999999998
+Spanish,Spanish,NORP,,,en,7.499999999999997
+Saturday,Saturday,DATE,,,en,7.3
+Friday,Friday,DATE,,,en,7.1000000000000005
+Wednesday,Wednesday,DATE,,,en,6.8
+this Tuesday,this Tuesday,DATE,,,en,6.700000000000001
+the weekend,the weekend,DATE,,,en,6.6000000000000005
+Argentine,Argentine,NORP,,,en,6.3999999999999995
+February,February,DATE,,,en,6.3
+two,two,CARDINAL,,,en,6.3
+this weekend,this weekend,DATE,,,en,5.8999999999999995
+this Thursday,this Thursday,DATE,,,en,5.5
+half,half,CARDINAL,,,en,5.3
+a day,a day,DATE,,,en,5.0
+this Friday,this Friday,DATE,,,en,4.8999999999999995
+January,January,DATE,,,en,4.8
+three,three,CARDINAL,,,en,4.799999999999999
+ten,ten,CARDINAL,,,en,4.6000000000000005
+Sunday,Sunday,DATE,,,en,4.5
+this year,this year,DATE,,,en,4.4
+the year,the year,DATE,,,en,4.1
 eight,eight,CARDINAL,,,en,4.099999999999999
-the year,the year,DATE,,,en,3.9
-three,three,CARDINAL,,,en,3.8999999999999995
-the coming days,the coming days,DATE,,,en,3.6999999999999993
-Sunday,Sunday,DATE,,,en,3.6000000000000005
-a day,a day,DATE,,,en,3.5999999999999996
+the week,the week,DATE,,,en,4.0
+this Monday,this Monday,DATE,,,en,3.999999999999999
+16,16,CARDINAL,,,en,3.9000000000000004
+the coming days,the coming days,DATE,,,en,3.8999999999999995
+Brazilian,Brazilian,NORP,,,en,3.8
+days,days,DATE,,,en,3.7
+this Wednesday,this Wednesday,DATE,,,en,3.6999999999999993
+second,second,ORDINAL,,,en,3.6999999999999993
+this week,this week,DATE,,,en,3.699999999999999
+this Sunday,this Sunday,DATE,,,en,3.6000000000000005
 the day,the day,DATE,,,en,3.5999999999999996
-days,days,DATE,,,en,3.5
-this year,this year,DATE,,,en,3.4000000000000004
+Winter,Winter,DATE,,,en,3.4000000000000004
 Mexican,Mexican,NORP,,,en,3.4000000000000004
-the week,the week,DATE,,,en,3.3
-16,16,CARDINAL,,,en,3.2
+Uruguayan,Uruguayan,NORP,,,en,3.3999999999999995
+10,10,CARDINAL,,,en,3.3999999999999995
+four,four,CARDINAL,,,en,3.1000000000000005
+five,five,CARDINAL,,,en,3.1
 another day,another day,DATE,,,en,3.0999999999999996
-second,second,ORDINAL,,,en,3.0999999999999996
-this week,this week,DATE,,,en,3.099999999999999
-February,February,DATE,,,en,3.0
-ten,ten,CARDINAL,,,en,3.0
-Brazilian,Brazilian,NORP,,,en,3.0
-this Friday,this Friday,DATE,,,en,2.9999999999999996
+Tuesday,Tuesday,DATE,,,en,3.0999999999999996
 13,13,MONEY,,,en,2.9000000000000004
-Winter,Winter,DATE,,,en,2.7
+Monday,Monday,DATE,,,en,2.9
 The week,The week,DATE,,,en,2.7
-this Sunday,this Sunday,DATE,,,en,2.7
 up to 9 meters,up to 9 meters,QUANTITY,,,en,2.7
-this Wednesday,this Wednesday,DATE,,,en,2.6999999999999997
-Monday,Monday,DATE,,,en,2.6999999999999997
-January,January,DATE,,,en,2.6999999999999997
-five,five,CARDINAL,,,en,2.6999999999999997
-this Monday,this Monday,DATE,,,en,2.5999999999999996
-10,10,CARDINAL,,,en,2.5
+recent days,recent days,DATE,,,en,2.6999999999999997
+six,six,CARDINAL,,,en,2.6999999999999997
+years,years,DATE,,,en,2.5999999999999996
 seven,seven,CARDINAL,,,en,2.4
-six,six,CARDINAL,,,en,2.4
 the next few days,the next few days,DATE,,,en,2.4
-35,35,CARDINAL,,,en,2.3
-years,years,DATE,,,en,2.3
 The day,The day,DATE,,,en,2.3
 14,14,CARDINAL,,,en,2.3
-Panticosa,Panticosa,NORP,0.20000000000000004,0.4666666666666666,en,2.3
 decades,decades,DATE,,,en,2.3
-Uruguayan,Uruguayan,NORP,,,en,2.2
+Winter Olympics,Winter Olympics,EVENT,,,en,2.3
+35,35,CARDINAL,,,en,2.3
+zero,zero,CARDINAL,,,en,2.3
+11,11,DATE,,,en,2.3
+Panticosa,Panticosa,NORP,0.20000000000000004,0.4666666666666666,en,2.3
+nine,nine,CARDINAL,,,en,2.3
 January 2026,January 2026,DATE,,,en,2.2
 one hour,one hour,TIME,,,en,2.1999999999999997
 Colombian,Colombian,NORP,,,en,2.1
-recent days,recent days,DATE,,,en,2.0
-zero,zero,CARDINAL,,,en,2.0
-11,11,DATE,,,en,2.0
-15,15,CARDINAL,,,en,2.0
+next week,next week,DATE,,,en,2.0999999999999996
 tomorrow,tomorrow,DATE,,,en,2.0
-Uruguayan Championship 2026,Uruguayan Championship 2026,EVENT,,,en,1.9000000000000001
+15,15,CARDINAL,,,en,2.0
+10 days,10 days,DATE,,,en,2.0
+30,30,CARDINAL,,,en,2.0
+the Centenario Stadium,the Centenario Stadium,FAC,,,en,1.9999999999999998
 American,American,NORP,,,en,1.9000000000000001
-Tuesday,Tuesday,DATE,,,en,1.9000000000000001
+European,European,NORP,,,en,1.9000000000000001
+Uruguayan Championship 2026,Uruguayan Championship 2026,EVENT,,,en,1.9000000000000001
 "this Tuesday, December 16","this Tuesday, December 16",DATE,,,en,1.9
 up to 20 liters,up to 20 liters,QUANTITY,,,en,1.9
 "More than 8,000","More than 8,000",CARDINAL,,,en,1.8
-Thousands,Thousands,CARDINAL,,,en,1.7
+afternoon,afternoon,TIME,,,en,1.8
 8,8,CARDINAL,,,en,1.7
 61 cm,61 cm,QUANTITY,,,en,1.7
-21,21,CARDINAL,,,en,1.7
-10 days,10 days,DATE,,,en,1.7
-27,27,CARDINAL,,,en,1.7
-Winter Games,Winter Games,EVENT,,,en,1.7
-112,112,CARDINAL,,,en,1.7
-Iberian,Iberian,NORP,,,en,1.7
 annually,annually,DATE,,,en,1.7
-the last hour,the last hour,TIME,,,en,1.7
-5%,5%,PERCENT,,,en,1.7
-this Saturday,this Saturday,DATE,,,en,1.7
+the last hours,the last hours,TIME,,,en,1.7
+112,112,CARDINAL,,,en,1.7
+eighth,eighth,ORDINAL,,,en,1.7
 millions,millions,CARDINAL,,,en,1.7
+Iberian,Iberian,NORP,,,en,1.7
+Winter Games,Winter Games,EVENT,,,en,1.7
+Thousands,Thousands,CARDINAL,,,en,1.7
+this Saturday,this Saturday,DATE,,,en,1.7
+sixth,sixth,ORDINAL,,,en,1.7
 At least two,At least two,CARDINAL,,,en,1.7
-2024,2024,DATE,,,en,1.6
-four,four,CARDINAL,,,en,1.6
-One,One,CARDINAL,,,en,1.6
-nine,nine,CARDINAL,,,en,1.6
-20,20,CARDINAL,,,en,1.6
-Italian,Italian,NORP,,,en,1.6
-this day,this day,DATE,,,en,1.6
-90,90,CARDINAL,,,en,1.6
+a month of January,a month of January,DATE,,,en,1.7
+27,27,CARDINAL,,,en,1.7
+the last hour,the last hour,TIME,,,en,1.7
+21,21,CARDINAL,,,en,1.7
+5%,5%,PERCENT,,,en,1.7
 18,18,CARDINAL,,,en,1.6
+2024,2024,DATE,,,en,1.6
+this day,this day,DATE,,,en,1.6
+Italian,Italian,NORP,,,en,1.6
+One,One,CARDINAL,,,en,1.6
+12,12,CARDINAL,,,en,1.6
+4,4,CARDINAL,,,en,1.6
+Galician,Galician,NORP,,,en,1.6
+90,90,CARDINAL,,,en,1.6
+February 2026,February 2026,DATE,,,en,1.6
+20,20,CARDINAL,,,en,1.6
 Three,Three,CARDINAL,,,en,1.5000000000000002
-31,31,CARDINAL,,,en,1.3
-FreeClip,FreeClip,PRODUCT,,,en,1.3
-20th century,20th century,DATE,,,en,1.3
-months,months,DATE,,,en,1.3
+250,250,CARDINAL,,,en,1.5
+third,third,ORDINAL,,,en,1.5
+March,March,DATE,,,en,1.5
+15 million,15 million,CARDINAL,,,en,1.3
+four months,four months,DATE,,,en,1.3
 Chinese,Chinese,NORP,,,en,1.3
-Latin American,Latin American,NORP,,,en,1.3
+two days,two days,DATE,,,en,1.3
+the second half,the second half,DATE,,,en,1.3
 78,78,CARDINAL,,,en,1.3
-A dozen,A dozen,CARDINAL,,,en,1.3
-A6,A6,CARDINAL,,,en,1.3
+annual,annual,DATE,,,en,1.3
+1965,1965,DATE,,,en,1.3
 these days,these days,DATE,,,en,1.3
 Four,Four,CARDINAL,,,en,1.3
+5,5,CARDINAL,,,en,1.3
+A6,A6,CARDINAL,,,en,1.3
+Venezuelan,Venezuelan,NORP,,,en,1.3
+Chilean,Chilean,NORP,0.32727272727272727,0.570909090909091,en,1.3
+Today,Today,DATE,,,en,1.3
+the Winter Olympics,the Winter Olympics,EVENT,,,en,1.3
+Scandinavian,Scandinavian,NORP,,,en,1.3
+December,December,DATE,,,en,1.3
+up to nine meters,up to nine meters,QUANTITY,,,en,1.3
+20th century,20th century,DATE,,,en,1.3
+FreeClip,FreeClip,PRODUCT,,,en,1.3
 Spaniards,Spaniards,NORP,,,en,1.3
 this winter,this winter,DATE,,,en,1.3
-recent years,recent years,DATE,,,en,1.3
 more than 10,more than 10,CARDINAL,,,en,1.3
+the World Cup,the World Cup,EVENT,,,en,1.3
 almost three decades,almost three decades,DATE,,,en,1.3
-1965,1965,DATE,,,en,1.3
 thousands of hectares,thousands of hectares,QUANTITY,,,en,1.3
-Ukrainian,Ukrainian,NORP,,,en,1.3
-250,250,CARDINAL,,,en,1.3
-Chilean,Chilean,NORP,0.32727272727272727,0.570909090909091,en,1.3
-24 hours,24 hours,TIME,,,en,1.3
+31,31,CARDINAL,,,en,1.3
+French,French,NORP,,,en,1.3
+15 million euros,15 million euros,MONEY,,,en,1.3
+1976,1976,DATE,,,en,1.3
+the Winter Olympic Games,the Winter Olympic Games,EVENT,,,en,1.3
+the Australian Open,the Australian Open,EVENT,,,en,1.3
 fifth,fifth,ORDINAL,,,en,1.3
-December,December,DATE,,,en,1.3
+$180 million,$180 million,MONEY,,,en,1.3
+24 hours,24 hours,TIME,,,en,1.3
+the last 40 years,the last 40 years,DATE,,,en,1.3
+Ukrainian,Ukrainian,NORP,,,en,1.3
+overnight,overnight,TIME,,,en,1.3
+a week,a week,DATE,,,en,1.3
+between 10 and 15 degrees,between 10 and 15 degrees,QUANTITY,,,en,1.3
+Six,Six,CARDINAL,,,en,1.3
+hundred,hundred,CARDINAL,,,en,1.3
+Aragonese,Aragonese,NORP,,,en,1.3
+recent years,recent years,DATE,,,en,1.3
+This week,This week,DATE,,,en,1.3
+Spring weekend,Spring weekend,DATE,,,en,1.3
+20 degrees,20 degrees,QUANTITY,,,en,1.3
+1983,1983,DATE,,,en,1.3
+50 years,50 years,DATE,,,en,1.3
+Latin American,Latin American,NORP,,,en,1.3
+17,17,CARDINAL,,,en,1.3
+A dozen,A dozen,CARDINAL,,,en,1.3
+three years,three years,DATE,,,en,1.3
 33,33,CARDINAL,,,en,1.3
-the second half,the second half,DATE,,,en,1.3
+Chileans,Chileans,NORP,,,en,1.3
 80%,80%,PERCENT,,,en,1.3
 1,1,CARDINAL,,,en,1.3
-European,European,NORP,,,en,1.3
-three years,three years,DATE,,,en,1.3
-Galician,Galician,NORP,,,en,1.3
-the last 40 years,the last 40 years,DATE,,,en,1.3
-hundred,hundred,CARDINAL,,,en,1.3
-15 million,15 million,CARDINAL,,,en,1.3
-4,4,CARDINAL,,,en,1.3
-12,12,CARDINAL,,,en,1.3
-Aragonese,Aragonese,NORP,,,en,1.3
-15 million euros,15 million euros,MONEY,,,en,1.3
-1983,1983,DATE,,,en,1.3
-30,30,CARDINAL,,,en,1.3
-17,17,CARDINAL,,,en,1.3
+2022,2022,DATE,,,en,1.3
+months,months,DATE,,,en,1.3
+6,6,CARDINAL,,,en,1.3
+Cantabrian,Cantabrian,NORP,-0.09615384615384615,0.28846153846153844,en,1.2
 Andalusian,Andalusian,NORP,,,en,1.2
+35 thousand,35 thousand,CARDINAL,,,en,1.2
+2:00 p.m.,2:00 p.m.,TIME,,,en,1.2
+the days,the days,DATE,,,en,1.2
+2027,2027,DATE,,,en,1.2
+Futttura,Futttura,NORP,,,en,1.2
 2010,2010,DATE,,,en,1.1
-15 degrees,15 degrees,QUANTITY,,,en,1.0
-"the night of Sunday, February 15","the night of Sunday, February 15",TIME,,,en,1.0
-Fujiwhara,Fujiwhara,NORP,,,en,1.0
-15 years ago,15 years ago,DATE,,,en,1.0
-a spring two years ago,a spring two years ago,DATE,,,en,1.0
-2011,2011,DATE,,,en,1.0
-March 11,March 11,DATE,,,en,1.0
-1ºC,1ºC,CARDINAL,,,en,1.0
-sixth,sixth,ORDINAL,,,en,1.0
-six decades,six decades,DATE,,,en,1.0
-Swiss,Swiss,NORP,,,en,1.0
-130 km,130 km,QUANTITY,,,en,1.0
-1000 meters,1000 meters,QUANTITY,,,en,1.0
-120,120,CARDINAL,,,en,1.0
-12 hours,12 hours,TIME,,,en,1.0
-a Nobel Prize,a Nobel Prize,WORK_OF_ART,,,en,1.0
-French,French,NORP,,,en,1.0
-"up to 40,000 years","up to 40,000 years",DATE,,,en,1.0
-Latin,Latin,NORP,,,en,1.0
-the Max Awards,the Max Awards,EVENT,,,en,1.0
-this World Rally Championship,this World Rally Championship,EVENT,,,en,1.0
-up to 160 km,up to 160 km,QUANTITY,,,en,1.0
-"more than 20,000 years old","more than 20,000 years old",DATE,,,en,1.0
-Last minute,Last minute,TIME,,,en,1.0
-a little over a year ago,a little over a year ago,DATE,,,en,1.0
-the last few hours,the last few hours,TIME,,,en,1.0
-fourteen,fourteen,CARDINAL,,,en,1.0
-evening,evening,TIME,,,en,1.0
-130 and 140 kilometers per hour,130 and 140 kilometers per hour,QUANTITY,,,en,1.0
-The second day,The second day,DATE,,,en,1.0
-Salesian,Salesian,NORP,,,en,1.0
-the beginning of December,the beginning of December,DATE,,,en,1.0
+last Saturday,last Saturday,DATE,,,en,1.0
+summer,summer,DATE,,,en,1.0
+seventh,seventh,ORDINAL,,,en,1.0
+the Pico Cibollés,the Pico Cibollés,FAC,,,en,1.0
+hugo,hugo,EVENT,,,en,1.0
+50 years old,50 years old,DATE,,,en,1.0
+the last few weeks,the last few weeks,DATE,,,en,1.0
+the month of February,the month of February,DATE,,,en,1.0
+covid,covid,NORP,,,en,1.0
+up to 300%,up to 300%,PERCENT,,,en,1.0
+3,3,CARDINAL,,,en,1.0
+the first weeks of February,the first weeks of February,DATE,,,en,1.0
+Indian,Indian,NORP,,,en,1.0
+the first half of the year,the first half of the year,DATE,,,en,1.0
+The last weekend of January,The last weekend of January,DATE,,,en,1.0
+another summer,another summer,DATE,,,en,1.0
+38,38,CARDINAL,,,en,1.0
+a few hours,a few hours,TIME,,,en,1.0
+The wettest January in 25 years,The wettest January in 25 years,DATE,,,en,1.0
+"this Sunday, days","this Sunday, days",DATE,,,en,1.0
+several months,several months,DATE,,,en,1.0
+more than a year,more than a year,DATE,,,en,1.0
+the first week of this month of February,the first week of this month of February,DATE,,,en,1.0
+the night,the night,TIME,,,en,1.0
+at least this Saturday,at least this Saturday,DATE,,,en,1.0
+Weekend,Weekend,DATE,,,en,1.0
+Compass,Compass,PRODUCT,,,en,1.0
+Copa América,Copa América,FAC,,,en,1.0
+the second month of the year,the second month of the year,DATE,,,en,1.0
+54%,54%,PERCENT,,,en,1.0
+3.0,3.0,CARDINAL,,,en,1.0
 "below 15 degrees
 ","below 15 degrees
 ",QUANTITY,,,en,1.0
-Copa América,Copa América,FAC,,,en,1.0
-more than 145 kilometers,more than 145 kilometers,QUANTITY,,,en,1.0
-the Winter Olympics,the Winter Olympics,EVENT,,,en,1.0
-annual,annual,DATE,,,en,1.0
-"2,200 metres","2,200 metres",QUANTITY,,,en,1.0
-mid-June,mid-June,DATE,,,en,1.0
-the Milan-Cortina Olympic Games,the Milan-Cortina Olympic Games,FAC,,,en,1.0
-More than 20 billion,More than 20 billion,MONEY,,,en,1.0
-Cooperativas Agroalimentarias-,Cooperativas Agroalimentarias-,PRODUCT,,,en,1.0
-over 2 meters,over 2 meters,QUANTITY,,,en,1.0
-2:46 p.m.,2:46 p.m.,TIME,,,en,1.0
-Germans,Germans,NORP,,,en,1.0
-Egyptology,Egyptology,NORP,,,en,1.0
-Half,Half,CARDINAL,,,en,1.0
-at least 30,at least 30,CARDINAL,,,en,1.0
-Plegamans,Plegamans,NORP,,,en,1.0
-less than 22 years old,less than 22 years old,DATE,,,en,1.0
-22 hours,22 hours,TIME,,,en,1.0
-57 days,57 days,DATE,,,en,1.0
-The Famous Project',The Famous Project',WORK_OF_ART,,,en,1.0
-2012,2012,DATE,,,en,1.0
-"some 800,000","some 800,000",CARDINAL,,,en,1.0
-Almost 90 million,Almost 90 million,CARDINAL,,,en,1.0
-more than a dozen,more than a dozen,CARDINAL,,,en,1.0
-the Nonguén National Park,the Nonguén National Park,FAC,,,en,1.0
-the sixteenth of the season,the sixteenth of the season,DATE,,,en,1.0
-the 27th,the 27th,DATE,,,en,1.0
-48,48,CARDINAL,,,en,1.0
-Games,Games,EVENT,,,en,1.0
-Eight,Eight,CARDINAL,,,en,1.0
-January 26,January 26,DATE,,,en,1.0
-fifteenth,fifteenth,ORDINAL,,,en,1.0
-almost a million,almost a million,CARDINAL,,,en,1.0
-24 Hours,24 Hours,TIME,,,en,1.0
-two-thirds,two-thirds,CARDINAL,,,en,1.0
-the Super Bowl,the Super Bowl,EVENT,,,en,1.0
-the 24 Hours of Daytona,the 24 Hours of Daytona,TIME,,,en,1.0
-the American Conference,the American Conference,EVENT,,,en,1.0
-Mile High,Mile High,FAC,,,en,1.0
-Empower Field,Empower Field,FAC,,,en,1.0
-"At least 10,000","At least 10,000",CARDINAL,,,en,1.0
-One million,One million,CARDINAL,,,en,1.0
-10 meters,10 meters,QUANTITY,,,en,1.0
-minutes&nbsp,minutes&nbsp,NORP,,,en,1.0
-North American,North American,NORP,,,en,1.0
-Winter Storm Fern,Winter Storm Fern,EVENT,,,en,1.0
-Winter Olympic Games,Winter Olympic Games,EVENT,,,en,1.0
-"2,361","2,361",CARDINAL,,,en,1.0
-Weekend,Weekend,DATE,,,en,1.0
-nine in the morning,nine in the morning,TIME,,,en,1.0
-last weekend,last weekend,DATE,,,en,1.0
-"Sunday, January 18","Sunday, January 18",DATE,,,en,1.0
-the last decade,the last decade,DATE,,,en,1.0
-The summer,The summer,DATE,,,en,1.0
-"more than 53,000","more than 53,000",CARDINAL,,,en,1.0
-close to 40°,close to 40°,CARDINAL,,,en,1.0
-27°,27°,QUANTITY,,,en,1.0
-Nordic,Nordic,NORP,,,en,1.0
-55%,55%,PERCENT,,,en,1.0
-twenty,twenty,CARDINAL,,,en,1.0
-"January 27, 2026","January 27, 2026",DATE,,,en,1.0
-500 meters,500 meters,QUANTITY,,,en,1.0
-300 l/m2,300 l/m2,MONEY,,,en,1.0
-238,238,CARDINAL,,,en,1.0
-afternoon,afternoon,TIME,,,en,1.0
-the first day,the first day,DATE,,,en,1.0
-52 minutes,52 minutes,TIME,,,en,1.0
-2 hours,2 hours,TIME,,,en,1.0
-above 40 degrees,above 40 degrees,QUANTITY,,,en,1.0
-three hours,three hours,TIME,,,en,1.0
-El Español.<!--aa--->EL ESPAÑOL,El Español.<!--aa--->EL ESPAÑOL,PRODUCT,,,en,1.0
-1000 euros,1000 euros,MONEY,,,en,1.0
+the Apertura Tournament,the Apertura Tournament,EVENT,,,en,1.0
+the beginning of December,the beginning of December,DATE,,,en,1.0
+Central Español,Central Español,PRODUCT,,,en,1.0
+"6,000 years","6,000 years",DATE,,,en,1.0
+Salesian,Salesian,NORP,,,en,1.0
+"764,490","764,490",CARDINAL,,,en,1.0
+weeks,weeks,DATE,,,en,1.0
+The second day,The second day,DATE,,,en,1.0
+evening,evening,TIME,,,en,1.0
+up to 80%,up to 80%,PERCENT,,,en,1.0
+fourteen,fourteen,CARDINAL,,,en,1.0
+previous days,previous days,DATE,,,en,1.0
+a little over a year ago,a little over a year ago,DATE,,,en,1.0
+almost 30%,almost 30%,PERCENT,,,en,1.0
+"February 3, 1976","February 3, 1976",DATE,,,en,1.0
+21 years old,21 years old,DATE,,,en,1.0
 the day this Friday,the day this Friday,DATE,,,en,1.0
-The Ceará Water Belt,The Ceará Water Belt,PRODUCT,,,en,1.0
-the Pico Cibollés,the Pico Cibollés,FAC,,,en,1.0
-"1,000 euros","1,000 euros",MONEY,,,en,1.0
-tens of thousands,tens of thousands,CARDINAL,,,en,1.0
-rainy days,rainy days,DATE,,,en,1.0
-29 days,29 days,DATE,,,en,1.0
-the same month last year,the same month last year,DATE,,,en,1.0
-US$230 million,US$230 million,MONEY,,,en,1.0
-"24,100","24,100",CARDINAL,,,en,1.0
-the beginning of 2026,the beginning of 2026,DATE,,,en,1.0
-almost 200,almost 200,CARDINAL,,,en,1.0
-last February 1,last February 1,DATE,,,en,1.0
-Turkish,Turkish,NORP,,,en,1.0
-15.2%,15.2%,PERCENT,,,en,1.0
+Norseman,Norseman,NORP,,,en,1.0
+several exhausting days,several exhausting days,DATE,,,en,1.0
+the age of 80,the age of 80,DATE,,,en,1.0
+four years ago,four years ago,DATE,,,en,1.0
+Between January 2025,Between January 2025,DATE,,,en,1.0
 1.6%,1.6%,PERCENT,,,en,1.0
-Antena 3,Antena 3,WORK_OF_ART,,,en,1.0
-"between Monday, February 9 and Sunday, February 15","between Monday, February 9 and Sunday, February 15",DATE,,,en,1.0
+Pro,Pro,PRODUCT,,,en,1.0
+about 450,about 450,CARDINAL,,,en,1.0
+70,70,CARDINAL,,,en,1.0
 25.1%,25.1%,PERCENT,,,en,1.0
+five centuries,five centuries,DATE,,,en,1.0
+"350,000 acre-feet","350,000 acre-feet",QUANTITY,,,en,1.0
+centuries-old,centuries-old,DATE,,,en,1.0
 14.7%,14.7%,PERCENT,,,en,1.0
 daily,daily,DATE,,,en,1.0
 almost 24,almost 24,CARDINAL,,,en,1.0
-Between January 2025,Between January 2025,DATE,,,en,1.0
-Netflix,Netflix,PRODUCT,,,en,1.0
 46%,46%,PERCENT,,,en,1.0
+the last days,the last days,DATE,,,en,1.0
+about 432 million cubic meters,about 432 million cubic meters,QUANTITY,,,en,1.0
 70%,70%,PERCENT,,,en,1.0
-millions of years,millions of years,DATE,,,en,1.0
+38°,38°,QUANTITY,,,en,1.0
+1503,1503,DATE,,,en,1.0
+this beginning of the year,this beginning of the year,DATE,,,en,1.0
 300,300,CARDINAL,,,en,1.0
 700 euros,700 euros,MONEY,,,en,1.0
-the 18 days,the 18 days,DATE,,,en,1.0
-8-F.,8-F.,CARDINAL,,,en,1.0
+"1,000 euros","1,000 euros",MONEY,,,en,1.0
+less than a week,less than a week,DATE,,,en,1.0
+17 days,17 days,DATE,,,en,1.0
+more than 250,more than 250,CARDINAL,,,en,1.0
+15.2%,15.2%,PERCENT,,,en,1.0
+last February 1,last February 1,DATE,,,en,1.0
+Seven,Seven,CARDINAL,,,en,1.0
 January 19,January 19,DATE,,,en,1.0
-summer,summer,DATE,,,en,1.0
-Second,Second,ORDINAL,,,en,1.0
-Chávez and Maduro,Chávez and Maduro,WORK_OF_ART,,,en,1.0
-the second month of the year,the second month of the year,DATE,,,en,1.0
-3.0,3.0,CARDINAL,,,en,1.0
-"6,000 years","6,000 years",DATE,,,en,1.0
-weeks,weeks,DATE,,,en,1.0
-5,5,CARDINAL,,,en,1.0
-previous days,previous days,DATE,,,en,1.0
-next week,next week,DATE,,,en,1.0
-up to 300%,up to 300%,PERCENT,,,en,1.0
-snowiest,snowiest,DATE,,,en,1.0
-the first half of the year,the first half of the year,DATE,,,en,1.0
+the 2026 Winter Olympics,the 2026 Winter Olympics,EVENT,,,en,1.0
+Mediterranean,Mediterranean,NORP,0.13043478260869565,0.28260869565217395,en,1.0
+the end of the month,the end of the month,DATE,,,en,1.0
+The Wine Edition,The Wine Edition,WORK_OF_ART,,,en,1.0
+the year began,the year began,DATE,,,en,1.0
+10 billion,10 billion,CARDINAL,,,en,1.0
+the Mortal Thor,the Mortal Thor,PRODUCT,,,en,1.0
+up to 85%,up to 85%,PERCENT,,,en,1.0
+"3,500","3,500",CARDINAL,,,en,1.0
 68,68,MONEY,,,en,1.0
-another summer,another summer,DATE,,,en,1.0
-Scandinavian,Scandinavian,NORP,,,en,1.0
-several months,several months,DATE,,,en,1.0
-a few hours,a few hours,TIME,,,en,1.0
+another week,another week,DATE,,,en,1.0
+120 km,120 km,QUANTITY,,,en,1.0
+February 4,February 4,DATE,,,en,1.0
+15 minutes,15 minutes,TIME,,,en,1.0
+50 years later,50 years later,DATE,,,en,1.0
+8-F.,8-F.,CARDINAL,,,en,1.0
+the 18 days,the 18 days,DATE,,,en,1.0
+tens of thousands,tens of thousands,CARDINAL,,,en,1.0
+at least three weeks,at least three weeks,DATE,,,en,1.0
+the Argentine Cup,the Argentine Cup,EVENT,,,en,1.0
+"24,100","24,100",CARDINAL,,,en,1.0
+the beginning of 2026,the beginning of 2026,DATE,,,en,1.0
+its second week,its second week,DATE,,,en,1.0
+almost 200,almost 200,CARDINAL,,,en,1.0
+Chávez and Maduro,Chávez and Maduro,WORK_OF_ART,,,en,1.0
+Two,Two,CARDINAL,,,en,1.0
+Second,Second,ORDINAL,,,en,1.0
+a few days,a few days,DATE,,,en,1.0
+Monthly,Monthly,DATE,,,en,1.0
+the month,the month,DATE,,,en,1.0
+Games,Games,EVENT,,,en,1.0
+fifteenth,fifteenth,ORDINAL,,,en,1.0
+This Thursday,This Thursday,DATE,,,en,1.0
+Google Pixel,Google Pixel,PRODUCT,,,en,1.0
+Catholic,Catholic,NORP,,,en,1.0
+the 16th of the season,the 16th of the season,DATE,,,en,1.0
+the sixteenth of the season,the sixteenth of the season,DATE,,,en,1.0
+24 Hours,24 Hours,TIME,,,en,1.0
+the 24 Hours of Daytona,the 24 Hours of Daytona,TIME,,,en,1.0
+1935,1935,DATE,,,en,1.0
+the Antel Arena,the Antel Arena,FAC,,,en,1.0
+Centennial,Centennial,EVENT,,,en,1.0
+10 years,10 years,DATE,,,en,1.0
+Bailemos,Bailemos,WORK_OF_ART,,,en,1.0
+9,9,CARDINAL,,,en,1.0
+Winter Olympic Games,Winter Olympic Games,EVENT,,,en,1.0
+Wagon,Wagon,PRODUCT,,,en,1.0
+00:00 a.m. to 6:00 p.m.,00:00 a.m. to 6:00 p.m.,TIME,,,en,1.0
+350,350,CARDINAL,,,en,1.0
+This Monday,This Monday,DATE,,,en,1.0
+between Wednesday and Thursday,between Wednesday and Thursday,DATE,,,en,1.0
+Pen,Pen,WORK_OF_ART,,,en,1.0
+26,26,CARDINAL,,,en,1.0
+Swiss,Swiss,NORP,,,en,1.0
+This Tuesday the 17th,This Tuesday the 17th,DATE,,,en,1.0
+Plegamans,Plegamans,NORP,,,en,1.0
+the Nintendo 64,the Nintendo 64,PRODUCT,,,en,1.0
+fewer days,fewer days,DATE,,,en,1.0
+last weekend,last weekend,DATE,,,en,1.0
+"more than 53,000","more than 53,000",CARDINAL,,,en,1.0
+55%,55%,PERCENT,,,en,1.0
+238,238,CARDINAL,,,en,1.0
+up to six days,up to six days,DATE,,,en,1.0
+above 40 degrees,above 40 degrees,QUANTITY,,,en,1.0
+2020,2020,DATE,,,en,1.0
+the seasons,the seasons,DATE,,,en,1.0
+the last few months,the last few months,DATE,,,en,1.0
+23-F.,23-F.,CARDINAL,,,en,1.0
+more than 30 kilometers,more than 30 kilometers,QUANTITY,,,en,1.0
+many weeks,many weeks,DATE,,,en,1.0
+sunny days,sunny days,DATE,,,en,1.0
+This Friday the 20th,This Friday the 20th,DATE,,,en,1.0
+Milans,Milans,NORP,,,en,1.0
+100,100,CARDINAL,,,en,1.0
+200,200,CARDINAL,,,en,1.0
+21%,21%,PERCENT,,,en,1.0
+long weeks,long weeks,DATE,,,en,1.0
+about a third,about a third,CARDINAL,,,en,1.0
+6.4,6.4,CARDINAL,,,en,1.0
+This February 24,This February 24,DATE,,,en,1.0
+the National Earthquake Drill 2026,the National Earthquake Drill 2026,EVENT,,,en,1.0
+well as thousands,well as thousands,CARDINAL,,,en,1.0
+Eleven,Eleven,CARDINAL,,,en,1.0
+October of last year,October of last year,DATE,,,en,1.0
+"2,000 meters","2,000 meters",QUANTITY,,,en,1.0
+the Picos de Europa,the Picos de Europa,FAC,,,en,1.0
+the entire weekend,the entire weekend,DATE,,,en,1.0
+between 16 and 18 degrees,between 16 and 18 degrees,QUANTITY,,,en,1.0
+Daytime,Daytime,TIME,,,en,1.0
+daytime,daytime,TIME,,,en,1.0
+more than three years,more than three years,DATE,,,en,1.0
+that 10 years,that 10 years,DATE,,,en,1.0
+Centenario Stadium,Centenario Stadium,FAC,,,en,1.0
+Puerto Rican,Puerto Rican,NORP,,,en,1.0
+two-hour,two-hour,TIME,,,en,1.0
+60 km/h,60 km/h,QUANTITY,,,en,1.0
+30°,30°,QUANTITY,,,en,1.0
+24 years,24 years,DATE,,,en,1.0
+German,German,NORP,,,en,1.0
+the beginning of the year,the beginning of the year,DATE,,,en,1.0
+a couple of days,a couple of days,DATE,,,en,1.0
+10 degrees,10 degrees,QUANTITY,,,en,1.0
+Greek,Greek,NORP,,,en,1.0
+271,271,CARDINAL,,,en,1.0
+Sedan,Sedan,PRODUCT,,,en,1.0
+last winter,last winter,DATE,,,en,1.0
+"22,213 agricultural hectares","22,213 agricultural hectares",QUANTITY,,,en,1.0
+10 tons,10 tons,QUANTITY,,,en,1.0
+up to 80 km/h,up to 80 km/h,QUANTITY,,,en,1.0
+several days,several days,DATE,,,en,1.0
+"February 11, 2026","February 11, 2026",DATE,,,en,1.0
+the time of year,the time of year,DATE,,,en,1.0
+more than 20 million,more than 20 million,CARDINAL,,,en,1.0
+recent weeks,recent weeks,DATE,,,en,1.0
+this hour,this hour,TIME,,,en,1.0
+the next few hours,the next few hours,TIME,,,en,1.0
+seven in the morning,seven in the morning,TIME,,,en,1.0
+100%,100%,PERCENT,,,en,1.0
+The Azteca Stadium,The Azteca Stadium,FAC,,,en,1.0
+the 2026 World Cup,the 2026 World Cup,EVENT,,,en,1.0
+El Mini Lic,El Mini Lic,WORK_OF_ART,,,en,1.0
+only two,only two,CARDINAL,,,en,1.0
+Basque,Basque,NORP,,,en,1.0
+four hours,four hours,TIME,,,en,1.0
+Netflix,Netflix,PRODUCT,,,en,1.0
+Wagon tS.,Wagon tS.,PRODUCT,,,en,1.0
+rainy days,rainy days,DATE,,,en,1.0
+this World Rally Championship,this World Rally Championship,EVENT,,,en,1.0
+snowiest,snowiest,DATE,,,en,1.0
 5.6,5.6,CARDINAL,,,en,1.0
 Costa Rican,Costa Rican,NORP,,,en,1.0
-seventh,seventh,ORDINAL,,,en,1.0
-Compass,Compass,PRODUCT,,,en,1.0
-the end of the month,the end of the month,DATE,,,en,1.0
-the Mortal Thor,the Mortal Thor,PRODUCT,,,en,1.0
-February 2026,February 2026,DATE,,,en,1.0
-four hours,four hours,TIME,,,en,1.0
-10 tons,10 tons,QUANTITY,,,en,1.0
-the first weeks of February,the first weeks of February,DATE,,,en,1.0
-Pro,Pro,PRODUCT,,,en,1.0
-overnight,overnight,TIME,,,en,1.0
-70,70,CARDINAL,,,en,1.0
-about 450,about 450,CARDINAL,,,en,1.0
-its second week,its second week,DATE,,,en,1.0
-the Argentine Cup,the Argentine Cup,EVENT,,,en,1.0
-at least three weeks,at least three weeks,DATE,,,en,1.0
-15 minutes,15 minutes,TIME,,,en,1.0
-120 km,120 km,QUANTITY,,,en,1.0
-"3,500","3,500",CARDINAL,,,en,1.0
+44 million,44 million,CARDINAL,,,en,1.0
+Almeria,Almeria,NORP,,,en,1.0
+a Provincial Expropriation Jury,a Provincial Expropriation Jury,LAW,,,en,1.0
+29 days,29 days,DATE,,,en,1.0
+"between Monday, February 9 and Sunday, February 15","between Monday, February 9 and Sunday, February 15",DATE,,,en,1.0
+the same month last year,the same month last year,DATE,,,en,1.0
+US$230 million,US$230 million,MONEY,,,en,1.0
+90-87,90-87,DATE,,,en,1.0
+Less than a minute,Less than a minute,TIME,,,en,1.0
+17e,17e,PRODUCT,,,en,1.0
+Turkish,Turkish,NORP,,,en,1.0
+Antena 3,Antena 3,WORK_OF_ART,,,en,1.0
+'Wuthering Heights','Wuthering Heights',WORK_OF_ART,,,en,1.0
+Up to,Up to,QUANTITY,,,en,1.0
 Elizalde,Elizalde,NORP,,,en,1.0
+hp E-Tech Hybrid,hp E-Tech Hybrid,PRODUCT,,,en,1.0
+more than 145 kilometers,more than 145 kilometers,QUANTITY,,,en,1.0
+Mayans,Mayans,NORP,,,en,1.0
+Mesoamerican,Mesoamerican,NORP,,,en,1.0
+the Milan-Cortina Olympic Games,the Milan-Cortina Olympic Games,FAC,,,en,1.0
+over 2 meters,over 2 meters,QUANTITY,,,en,1.0
+up to 160 km,up to 160 km,QUANTITY,,,en,1.0
+"the night of Sunday, February 15","the night of Sunday, February 15",TIME,,,en,1.0
+Next February 22,Next February 22,DATE,,,en,1.0
 "this Friday, February 13","this Friday, February 13",DATE,,,en,1.0
-10 billion,10 billion,CARDINAL,,,en,1.0
-The Wine Edition,The Wine Edition,WORK_OF_ART,,,en,1.0
-Seven,Seven,CARDINAL,,,en,1.0
-"this Sunday, days","this Sunday, days",DATE,,,en,1.0
+Un mechón de pelo,Un mechón de pelo,WORK_OF_ART,,,en,1.0
+Saudi,Saudi,NORP,,,en,1.0
+FA,FA,NORP,,,en,1.0
+15 years ago,15 years ago,DATE,,,en,1.0
+2011,2011,DATE,,,en,1.0
+"this Monday, February 16","this Monday, February 16",DATE,,,en,1.0
+six decades,six decades,DATE,,,en,1.0
+29.8 liters,29.8 liters,QUANTITY,,,en,1.0
+the start of this Saturday,the start of this Saturday,DATE,,,en,1.0
+the beginning of this Saturday,the beginning of this Saturday,DATE,,,en,1.0
+130 and 140 kilometers per hour,130 and 140 kilometers per hour,QUANTITY,,,en,1.0
 180 liters,180 liters,QUANTITY,,,en,1.0
-the first week of this month of February,the first week of this month of February,DATE,,,en,1.0
 square meter,square meter,QUANTITY,,,en,1.0
-last Saturday,last Saturday,DATE,,,en,1.0
 2009,2009,DATE,,,en,1.0
 Day 6,Day 6,DATE,,,en,1.0
 the sixth day,the sixth day,DATE,,,en,1.0
+Between February 19 and 22,Between February 19 and 22,DATE,,,en,1.0
 this first fortnight of the month of February,this first fortnight of the month of February,DATE,,,en,1.0
-last winter,last winter,DATE,,,en,1.0
-The last weekend of January,The last weekend of January,DATE,,,en,1.0
-Up to,Up to,QUANTITY,,,en,1.0
-only two,only two,CARDINAL,,,en,1.0
-El Mini Lic,El Mini Lic,WORK_OF_ART,,,en,1.0
-Mediterranean,Mediterranean,NORP,0.17647058823529413,0.3823529411764706,en,1.0
-the night,the night,TIME,,,en,1.0
-21 years old,21 years old,DATE,,,en,1.0
-"February 3, 1976","February 3, 1976",DATE,,,en,1.0
-50 years later,50 years later,DATE,,,en,1.0
-1976,1976,DATE,,,en,1.0
-38,38,CARDINAL,,,en,1.0
-eighth,eighth,ORDINAL,,,en,1.0
-the time of year,the time of year,DATE,,,en,1.0
-more than 20 million,more than 20 million,CARDINAL,,,en,1.0
-several exhausting days,several exhausting days,DATE,,,en,1.0
-the age of 80,the age of 80,DATE,,,en,1.0
-recent weeks,recent weeks,DATE,,,en,1.0
-the 2026 World Cup,the 2026 World Cup,EVENT,,,en,1.0
-five centuries,five centuries,DATE,,,en,1.0
-centuries-old,centuries-old,DATE,,,en,1.0
-1503,1503,DATE,,,en,1.0
-"22,213 agricultural hectares","22,213 agricultural hectares",QUANTITY,,,en,1.0
-100%,100%,PERCENT,,,en,1.0
-at least this Saturday,at least this Saturday,DATE,,,en,1.0
-more than 250,more than 250,CARDINAL,,,en,1.0
-less than a week,less than a week,DATE,,,en,1.0
-the World Cup,the World Cup,EVENT,,,en,1.0
-38°,38°,QUANTITY,,,en,1.0
-The Azteca Stadium,The Azteca Stadium,FAC,,,en,1.0
-March,March,DATE,,,en,1.0
-Two,Two,CARDINAL,,,en,1.0
-Chihuahua,Chihuahua,FAC,,,en,1.0
-the first month of 2026,the first month of 2026,DATE,,,en,1.0
-Russian,Russian,NORP,,,en,1.0
-Last year,Last year,DATE,,,en,1.0
-The year,The year,DATE,,,en,1.0
-4 p.m.,4 p.m.,TIME,,,en,1.0
-the Spanish Super Cup,the Spanish Super Cup,EVENT,,,en,1.0
-the end of Stranger Things,the end of Stranger Things,DATE,,,en,1.0
-next May.,next May.,DATE,,,en,1.0
-1980,1980,DATE,,,en,1.0
-the first days of 2026,the first days of 2026,DATE,,,en,1.0
-more than 6 meters,more than 6 meters,QUANTITY,,,en,1.0
-67,67,MONEY,,,en,1.0
-just over a month,just over a month,DATE,,,en,1.0
-the Junta de Andalucía,the Junta de Andalucía,PRODUCT,,,en,1.0
-a month,a month,DATE,,,en,1.0
-last April,last April,DATE,,,en,1.0
-Red Eléctrica de España,Red Eléctrica de España,FAC,,,en,1.0
-Ábalos,Ábalos,NORP,,,en,1.0
-Ten months later,Ten months later,DATE,,,en,1.0
-almost $17 billion,almost $17 billion,MONEY,,,en,1.0
-six months,six months,DATE,,,en,1.0
-January 8,January 8,DATE,,,en,1.0
-This week,This week,DATE,,,en,1.0
-9th,9th,ORDINAL,,,en,1.0
-"more than 2,300","more than 2,300",CARDINAL,,,en,1.0
-176,176,CARDINAL,,,en,1.0
-some 120,some 120,CARDINAL,,,en,1.0
-8 degrees,8 degrees,QUANTITY,,,en,1.0
-2027,2027,DATE,,,en,1.0
-41,41,CARDINAL,,,en,1.0
-between 1:55 p.m. and 5:40 p.m.,between 1:55 p.m. and 5:40 p.m.,TIME,,,en,1.0
-"15,000 hectares","15,000 hectares",QUANTITY,,,en,1.0
-Every week,Every week,DATE,,,en,1.0
-80 euros,80 euros,MONEY,,,en,1.0
-Polynesian,Polynesian,NORP,,,en,1.0
-January 12,January 12,DATE,,,en,1.0
-"today, Monday, January 12, 2026","today, Monday, January 12, 2026",DATE,,,en,1.0
-the Museum Room,the Museum Room,FAC,,,en,1.0
-four decades in March,four decades in March,DATE,,,en,1.0
+the first quarter of the 21st century,the first quarter of the 21st century,DATE,,,en,1.0
+the last 25 years,the last 25 years,DATE,,,en,1.0
+a year 2000,a year 2000,DATE,,,en,1.0
+The Ceará Water Belt,The Ceará Water Belt,PRODUCT,,,en,1.0
+Last minute,Last minute,TIME,,,en,1.0
+February 14,February 14,DATE,,,en,1.0
+the last few hours,the last few hours,TIME,,,en,1.0
+Saturday the 14th,Saturday the 14th,DATE,,,en,1.0
+the last week,the last week,DATE,,,en,1.0
+48,48,CARDINAL,,,en,1.0
+"2,200 metres","2,200 metres",QUANTITY,,,en,1.0
 40,40,DATE,,,en,1.0
-"more than 15,000 hectares","more than 15,000 hectares",QUANTITY,,,en,1.0
-This year,This year,DATE,,,en,1.0
-six hours,six hours,TIME,,,en,1.0
-"almost 15,000 hectares","almost 15,000 hectares",QUANTITY,,,en,1.0
-"almost 12,000 hectares","almost 12,000 hectares",QUANTITY,,,en,1.0
-"more than 2,200 hectares","more than 2,200 hectares",QUANTITY,,,en,1.0
 "12,000 hectares","12,000 hectares",QUANTITY,,,en,1.0
+"almost 12,000 hectares","almost 12,000 hectares",QUANTITY,,,en,1.0
+"15,000 hectares","15,000 hectares",QUANTITY,,,en,1.0
+"almost 15,000 hectares","almost 15,000 hectares",QUANTITY,,,en,1.0
+six hours,six hours,TIME,,,en,1.0
+This year,This year,DATE,,,en,1.0
+"more than 15,000 hectares","more than 15,000 hectares",QUANTITY,,,en,1.0
+four decades in March,four decades in March,DATE,,,en,1.0
+more than 60 liters,more than 60 liters,QUANTITY,,,en,1.0
+the Museum Room,the Museum Room,FAC,,,en,1.0
+"today, Monday, January 12, 2026","today, Monday, January 12, 2026",DATE,,,en,1.0
+January 12,January 12,DATE,,,en,1.0
+Polynesian,Polynesian,NORP,,,en,1.0
+80 euros,80 euros,MONEY,,,en,1.0
+Every week,Every week,DATE,,,en,1.0
+Albiceleste,Albiceleste,NORP,,,en,1.0
 89-96,89-96,DATE,,,en,1.0
 17.5 million,17.5 million,CARDINAL,,,en,1.0
 hours,hours,TIME,,,en,1.0
 Two months,Two months,DATE,,,en,1.0
-This weekend,This weekend,DATE,,,en,1.0
-"today, Saturday, January 10","today, Saturday, January 10",DATE,,,en,1.0
-"below 1,000 meters","below 1,000 meters",QUANTITY,,,en,1.0
-Norwegian,Norwegian,NORP,,,en,1.0
-less than 100 euros,less than 100 euros,MONEY,,,en,1.0
-The 10 days,The 10 days,DATE,,,en,1.0
+the Spanish Super Cup,the Spanish Super Cup,EVENT,,,en,1.0
+4 p.m.,4 p.m.,TIME,,,en,1.0
+The year,The year,DATE,,,en,1.0
+Last year,Last year,DATE,,,en,1.0
+Russian,Russian,NORP,,,en,1.0
+41,41,CARDINAL,,,en,1.0
+between 1:55 p.m. and 5:40 p.m.,between 1:55 p.m. and 5:40 p.m.,TIME,,,en,1.0
+"more than 2,200 hectares","more than 2,200 hectares",QUANTITY,,,en,1.0
 a dozen,a dozen,CARDINAL,,,en,1.0
-40%,40%,PERCENT,,,en,1.0
-more than a hundred,more than a hundred,CARDINAL,,,en,1.0
-the coldest day,the coldest day,DATE,,,en,1.0
-the Statue of Liberty,the Statue of Liberty,FAC,,,en,1.0
-Ten,Ten,CARDINAL,,,en,1.0
-86 years old,86 years old,DATE,,,en,1.0
-the half century,the half century,DATE,,,en,1.0
-86,86,DATE,,,en,1.0
-50th,50th,ORDINAL,,,en,1.0
-707,707,PRODUCT,,,en,1.0
-Boeing,Boeing,PRODUCT,,,en,1.0
-"December 22, 1975","December 22, 1975",DATE,,,en,1.0
-50 years,50 years,DATE,,,en,1.0
-"today, Thursday, December 18","today, Thursday, December 18",DATE,,,en,1.0
-this morning,this morning,TIME,,,en,1.0
-Cantabrian,Cantabrian,NORP,-0.04807692307692307,0.14423076923076922,en,1.0
-the Lisbon Earthquake,the Lisbon Earthquake,EVENT,,,en,1.0
-seventeen,seventeen,DATE,,,en,1.0
-winter 2026,winter 2026,DATE,,,en,1.0
-hundreds,hundreds,CARDINAL,,,en,1.0
-four-year,four-year,DATE,,,en,1.0
-the last date of the Clausura,the last date of the Clausura,DATE,,,en,1.0
-"1,425","1,425",CARDINAL,,,en,1.0
-Only 10%,Only 10%,PERCENT,,,en,1.0
-Chileans,Chileans,NORP,,,en,1.0
-eight years,eight years,DATE,,,en,1.0
-Michoacan,Michoacan,NORP,,,en,1.0
-37 years old,37 years old,DATE,,,en,1.0
-36 years old,36 years old,DATE,,,en,1.0
-the Torres del Paine National Park,the Torres del Paine National Park,FAC,,,en,1.0
-eleven,eleven,CARDINAL,,,en,1.0
-the end of the year,the end of the year,DATE,,,en,1.0
-Kings' Day,Kings' Day,EVENT,,,en,1.0
-5k,5k,CARDINAL,,,en,1.0
-Three Kings Day,Three Kings Day,DATE,,,en,1.0
-the coldest months of the year,the coldest months of the year,DATE,,,en,1.0
-the last minute,the last minute,TIME,,,en,1.0
-"January 1, 2026","January 1, 2026",DATE,,,en,1.0
-a week,a week,DATE,,,en,1.0
-Iranian,Iranian,NORP,,,en,1.0
-1%,1%,PERCENT,,,en,1.0
-October 1,October 1,DATE,,,en,1.0
-221,221,CARDINAL,,,en,1.0
-"up to $1,000","up to $1,000",MONEY,,,en,1.0
-"up to $1,500","up to $1,500",MONEY,,,en,1.0
-"1,500","1,500",CARDINAL,,,en,1.0
-a year,a year,DATE,,,en,1.0
-At least three,At least three,CARDINAL,,,en,1.0
-one million,one million,CARDINAL,,,en,1.0
-almost every year,almost every year,DATE,,,en,1.0
-Annual,Annual,DATE,,,en,1.0
-Six,Six,CARDINAL,,,en,1.0
-One hundred,One hundred,CARDINAL,,,en,1.0
-37 °,37 °,QUANTITY,,,en,1.0
-up to 6 days,up to 6 days,DATE,,,en,1.0
-Summer,Summer,DATE,,,en,1.0
-"about 2,200 meters","about 2,200 meters",QUANTITY,,,en,1.0
-Tablato,Tablato,NORP,,,en,1.0
-29,29,CARDINAL,,,en,1.0
-at least two,at least two,CARDINAL,,,en,1.0
-Albiceleste,Albiceleste,NORP,,,en,1.0
+The 10 days,The 10 days,DATE,,,en,1.0
+less than 100 euros,less than 100 euros,MONEY,,,en,1.0
+Norwegian,Norwegian,NORP,,,en,1.0
+"below 1,000 meters","below 1,000 meters",QUANTITY,,,en,1.0
+"today, Saturday, January 10","today, Saturday, January 10",DATE,,,en,1.0
+This weekend,This weekend,DATE,,,en,1.0
+the first month of 2026,the first month of 2026,DATE,,,en,1.0
 just a week ago,just a week ago,DATE,,,en,1.0
-at least 12,at least 12,CARDINAL,,,en,1.0
 the last few days,the last few days,DATE,,,en,1.0
-5.1 grams,5.1 grams,QUANTITY,,,en,1.0
-10.8 mm,10.8 mm,QUANTITY,,,en,1.0
-up to nine meters,up to nine meters,QUANTITY,,,en,1.0
-"this Wednesday, January 21","this Wednesday, January 21",DATE,,,en,1.0
-the days,the days,DATE,,,en,1.0
-145,145,CARDINAL,,,en,1.0
-The days,The days,DATE,,,en,1.0
-The new year,The new year,DATE,,,en,1.0
-8%,8%,PERCENT,,,en,1.0
-later this week,later this week,DATE,,,en,1.0
-about three hours,about three hours,TIME,,,en,1.0
-the middle of the week,the middle of the week,DATE,,,en,1.0
-Olympic Games,Olympic Games,EVENT,,,en,1.0
-5.5 million,5.5 million,CARDINAL,,,en,1.0
-Winter Olympics,Winter Olympics,EVENT,,,en,1.0
-thousands and thousands,thousands and thousands,CARDINAL,,,en,1.0
-20%,20%,PERCENT,,,en,1.0
-"January 21, 2026","January 21, 2026",DATE,,,en,1.0
-the start of the week,the start of the week,DATE,,,en,1.0
-Somosierra,Somosierra,NORP,,,en,1.0
-"1,300 meters","1,300 meters",QUANTITY,,,en,1.0
-This Wednesday,This Wednesday,DATE,,,en,1.0
-"2,000","2,000",MONEY,,,en,1.0
-2022,2022,DATE,,,en,1.0
-2023,2023,DATE,,,en,1.0
-14.7 degrees,14.7 degrees,QUANTITY,,,en,1.0
+Japanese,Japanese,NORP,,,en,1.0
+11 degrees,11 degrees,QUANTITY,,,en,1.0
+780,780,CARDINAL,,,en,1.0
+"today, Thursday, January 15, 2026","today, Thursday, January 15, 2026",DATE,,,en,1.0
+January 15,January 15,DATE,,,en,1.0
+"the day of this Thursday, December 15","the day of this Thursday, December 15",DATE,,,en,1.0
+more than 100,more than 100,CARDINAL,,,en,1.0
+Route 40,Route 40,EVENT,,,en,1.0
+January 5,January 5,DATE,,,en,1.0
+around 3:00 p.m.,around 3:00 p.m.,TIME,,,en,1.0
+241,241,CARDINAL,,,en,1.0
+241 liters,241 liters,QUANTITY,,,en,1.0
+"October 1, 2025","October 1, 2025",DATE,,,en,1.0
+January 13,January 13,DATE,,,en,1.0
+254 l/m2,254 l/m2,MONEY,,,en,1.0
+12:00 p.m.,12:00 p.m.,TIME,,,en,1.0
+around 9 and,around 9 and,CARDINAL,,,en,1.0
+up to 5 centimeters,up to 5 centimeters,QUANTITY,,,en,1.0
+Mar del Plata,Mar del Plata,DATE,,,en,1.0
+1952,1952,DATE,,,en,1.0
+40th,40th,ORDINAL,,,en,1.0
+the Goyas Awards,the Goyas Awards,WORK_OF_ART,,,en,1.0
+the Goya 2026,the Goya 2026,EVENT,,,en,1.0
+February 28,February 28,DATE,,,en,1.0
+This afternoon,This afternoon,TIME,,,en,1.0
+15 years,15 years,DATE,,,en,1.0
+Chacabuco Viaduct,Chacabuco Viaduct,FAC,,,en,1.0
+the end of June,the end of June,DATE,,,en,1.0
+$28 billion,$28 billion,MONEY,,,en,1.0
+1944,1944,DATE,,,en,1.0
+82 years,82 years,DATE,,,en,1.0
+the big year,the big year,DATE,,,en,1.0
+the best year,the best year,DATE,,,en,1.0
+the seventh consecutive year,the seventh consecutive year,DATE,,,en,1.0
+Danish,Danish,NORP,,,en,1.0
+the end of Stranger Things,the end of Stranger Things,DATE,,,en,1.0
+next May.,next May.,DATE,,,en,1.0
+1980,1980,DATE,,,en,1.0
+707,707,PRODUCT,,,en,1.0
+86,86,DATE,,,en,1.0
+the half century,the half century,DATE,,,en,1.0
+86 years old,86 years old,DATE,,,en,1.0
+Ten,Ten,CARDINAL,,,en,1.0
+eleven,eleven,CARDINAL,,,en,1.0
+seventeen,seventeen,DATE,,,en,1.0
+the end of the year,the end of the year,DATE,,,en,1.0
+at least two,at least two,CARDINAL,,,en,1.0
+At least three,At least three,CARDINAL,,,en,1.0
+29,29,CARDINAL,,,en,1.0
+Tablato,Tablato,NORP,,,en,1.0
+"about 2,200 meters","about 2,200 meters",QUANTITY,,,en,1.0
+Summer,Summer,DATE,,,en,1.0
+up to 6 days,up to 6 days,DATE,,,en,1.0
+37 °,37 °,QUANTITY,,,en,1.0
+50th,50th,ORDINAL,,,en,1.0
+Boeing,Boeing,PRODUCT,,,en,1.0
+Annual,Annual,DATE,,,en,1.0
+"December 22, 1975","December 22, 1975",DATE,,,en,1.0
+the Torres del Paine National Park,the Torres del Paine National Park,FAC,,,en,1.0
+36 years old,36 years old,DATE,,,en,1.0
+37 years old,37 years old,DATE,,,en,1.0
+Michoacan,Michoacan,NORP,,,en,1.0
+eight years,eight years,DATE,,,en,1.0
+Only 10%,Only 10%,PERCENT,,,en,1.0
+"1,425","1,425",CARDINAL,,,en,1.0
+the last date of the Clausura,the last date of the Clausura,DATE,,,en,1.0
+four-year,four-year,DATE,,,en,1.0
+hundreds,hundreds,CARDINAL,,,en,1.0
+winter 2026,winter 2026,DATE,,,en,1.0
+the Lisbon Earthquake,the Lisbon Earthquake,EVENT,,,en,1.0
+the Statue of Liberty,the Statue of Liberty,FAC,,,en,1.0
+this morning,this morning,TIME,,,en,1.0
+"today, Thursday, December 18","today, Thursday, December 18",DATE,,,en,1.0
+One hundred,One hundred,CARDINAL,,,en,1.0
+almost every year,almost every year,DATE,,,en,1.0
+the first days of 2026,the first days of 2026,DATE,,,en,1.0
+8 degrees,8 degrees,QUANTITY,,,en,1.0
+176,176,CARDINAL,,,en,1.0
+"more than 2,300","more than 2,300",CARDINAL,,,en,1.0
+9th,9th,ORDINAL,,,en,1.0
+January 8,January 8,DATE,,,en,1.0
+six months,six months,DATE,,,en,1.0
+almost $17 billion,almost $17 billion,MONEY,,,en,1.0
+Ten months later,Ten months later,DATE,,,en,1.0
+Ábalos,Ábalos,NORP,,,en,1.0
+Red Eléctrica de España,Red Eléctrica de España,FAC,,,en,1.0
+last April,last April,DATE,,,en,1.0
+a month,a month,DATE,,,en,1.0
+the Junta de Andalucía,the Junta de Andalucía,PRODUCT,,,en,1.0
+just over a month,just over a month,DATE,,,en,1.0
+67,67,MONEY,,,en,1.0
+more than 6 meters,more than 6 meters,QUANTITY,,,en,1.0
+some 120,some 120,CARDINAL,,,en,1.0
+40%,40%,PERCENT,,,en,1.0
+one million,one million,CARDINAL,,,en,1.0
+more than a hundred,more than a hundred,CARDINAL,,,en,1.0
+a year,a year,DATE,,,en,1.0
+5k,5k,CARDINAL,,,en,1.0
+"1,500","1,500",CARDINAL,,,en,1.0
+"up to $1,500","up to $1,500",MONEY,,,en,1.0
+"up to $1,000","up to $1,000",MONEY,,,en,1.0
+221,221,CARDINAL,,,en,1.0
+October 1,October 1,DATE,,,en,1.0
+1%,1%,PERCENT,,,en,1.0
+Iranian,Iranian,NORP,,,en,1.0
+"January 1, 2026","January 1, 2026",DATE,,,en,1.0
+the last minute,the last minute,TIME,,,en,1.0
+the coldest months of the year,the coldest months of the year,DATE,,,en,1.0
+Three Kings Day,Three Kings Day,DATE,,,en,1.0
+Kings' Day,Kings' Day,EVENT,,,en,1.0
+the coldest day,the coldest day,DATE,,,en,1.0
+January 17,January 17,DATE,,,en,1.0
+autumn,autumn,DATE,,,en,1.0
+mid-June,mid-June,DATE,,,en,1.0
+El Español.<!--aa--->EL ESPAÑOL,El Español.<!--aa--->EL ESPAÑOL,PRODUCT,,,en,1.0
+The Famous Project',The Famous Project',WORK_OF_ART,,,en,1.0
+57 days,57 days,DATE,,,en,1.0
+22 hours,22 hours,TIME,,,en,1.0
+minutes&nbsp,minutes&nbsp,NORP,,,en,1.0
+North American,North American,NORP,,,en,1.0
+Winter Storm Fern,Winter Storm Fern,EVENT,,,en,1.0
+1000 euros,1000 euros,MONEY,,,en,1.0
+three hours,three hours,TIME,,,en,1.0
+Christmas winter,Christmas winter,DATE,,,en,1.0
+2 hours,2 hours,TIME,,,en,1.0
+52 minutes,52 minutes,TIME,,,en,1.0
+the first day,the first day,DATE,,,en,1.0
+300 l/m2,300 l/m2,MONEY,,,en,1.0
+500 meters,500 meters,QUANTITY,,,en,1.0
+"January 27, 2026","January 27, 2026",DATE,,,en,1.0
+Canarian,Canarian,NORP,,,en,1.0
+2012,2012,DATE,,,en,1.0
+"some 800,000","some 800,000",CARDINAL,,,en,1.0
+Almost 90 million,Almost 90 million,CARDINAL,,,en,1.0
+more than a dozen,more than a dozen,CARDINAL,,,en,1.0
+10 meters,10 meters,QUANTITY,,,en,1.0
+One million,One million,CARDINAL,,,en,1.0
+"At least 10,000","At least 10,000",CARDINAL,,,en,1.0
+Empower Field,Empower Field,FAC,,,en,1.0
+Mile High,Mile High,FAC,,,en,1.0
+the American Conference,the American Conference,EVENT,,,en,1.0
+the Super Bowl,the Super Bowl,EVENT,,,en,1.0
+two-thirds,two-thirds,CARDINAL,,,en,1.0
+almost a million,almost a million,CARDINAL,,,en,1.0
+Eight,Eight,CARDINAL,,,en,1.0
+less than 22 years old,less than 22 years old,DATE,,,en,1.0
+the 27th,the 27th,DATE,,,en,1.0
+the Nonguén National Park,the Nonguén National Park,FAC,,,en,1.0
+Biscayan,Biscayan,NORP,,,en,1.0
+the Gorbeia Natural Park,the Gorbeia Natural Park,FAC,,,en,1.0
+twenty,twenty,CARDINAL,,,en,1.0
+Nordic,Nordic,NORP,,,en,1.0
+27°,27°,QUANTITY,,,en,1.0
+130 km,130 km,QUANTITY,,,en,1.0
+12 hours,12 hours,TIME,,,en,1.0
+"up to 40,000 years","up to 40,000 years",DATE,,,en,1.0
+15 degrees,15 degrees,QUANTITY,,,en,1.0
+Latin,Latin,NORP,,,en,1.0
+a Nobel Prize,a Nobel Prize,WORK_OF_ART,,,en,1.0
+1000 meters,1000 meters,QUANTITY,,,en,1.0
+1ºC,1ºC,CARDINAL,,,en,1.0
+March 11,March 11,DATE,,,en,1.0
+a spring two years ago,a spring two years ago,DATE,,,en,1.0
+the Max Awards,the Max Awards,EVENT,,,en,1.0
+"more than 20,000 years old","more than 20,000 years old",DATE,,,en,1.0
+Egyptology,Egyptology,NORP,,,en,1.0
+Germans,Germans,NORP,,,en,1.0
+Cooperativas Agroalimentarias-,Cooperativas Agroalimentarias-,PRODUCT,,,en,1.0
+More than 20 billion,More than 20 billion,MONEY,,,en,1.0
+120,120,CARDINAL,,,en,1.0
+Fujiwhara,Fujiwhara,NORP,,,en,1.0
+close to 40°,close to 40°,CARDINAL,,,en,1.0
+Half,Half,CARDINAL,,,en,1.0
+1998,1998,DATE,,,en,1.0
+"110,000","110,000",CARDINAL,,,en,1.0
+The summer,The summer,DATE,,,en,1.0
+a few km,a few km,QUANTITY,,,en,1.0
+exit 460,exit 460,FAC,,,en,1.0
+the last decade,the last decade,DATE,,,en,1.0
+"Sunday, January 18","Sunday, January 18",DATE,,,en,1.0
+nine in the morning,nine in the morning,TIME,,,en,1.0
+Generation Z,Generation Z,PRODUCT,,,en,1.0
+at least 30,at least 30,CARDINAL,,,en,1.0
+6 degrees,6 degrees,QUANTITY,,,en,1.0
+the previous day,the previous day,DATE,,,en,1.0
+"2,361","2,361",CARDINAL,,,en,1.0
+January 26,January 26,DATE,,,en,1.0
+2:46 p.m.,2:46 p.m.,TIME,,,en,1.0
+Chihuahua,Chihuahua,FAC,,,en,1.0
+at least 12,at least 12,CARDINAL,,,en,1.0
+Third winter,Third winter,DATE,,,en,1.0
+"more than 5,000","more than 5,000",CARDINAL,,,en,1.0
+fourth,fourth,ORDINAL,,,en,1.0
 1961,1961,DATE,,,en,1.0
+14.7 degrees,14.7 degrees,QUANTITY,,,en,1.0
+2023,2023,DATE,,,en,1.0
+"2,000","2,000",MONEY,,,en,1.0
+This Wednesday,This Wednesday,DATE,,,en,1.0
+"1,300 meters","1,300 meters",QUANTITY,,,en,1.0
+Somosierra,Somosierra,NORP,,,en,1.0
+the start of the week,the start of the week,DATE,,,en,1.0
+"January 21, 2026","January 21, 2026",DATE,,,en,1.0
+20%,20%,PERCENT,,,en,1.0
+thousands and thousands,thousands and thousands,CARDINAL,,,en,1.0
+5.5 million,5.5 million,CARDINAL,,,en,1.0
+Olympic Games,Olympic Games,EVENT,,,en,1.0
+the middle of the week,the middle of the week,DATE,,,en,1.0
+20 years,20 years,DATE,,,en,1.0
+850,850,CARDINAL,,,en,1.0
+later this week,later this week,DATE,,,en,1.0
+65,65,CARDINAL,,,en,1.0
+37,37,CARDINAL,,,en,1.0
+Chavista,Chavista,NORP,,,en,1.0
+one night,one night,TIME,,,en,1.0
+Model,Model,PRODUCT,,,en,1.0
+seven or eight years,seven or eight years,DATE,,,en,1.0
+at least 21,at least 21,CARDINAL,,,en,1.0
+last night,last night,TIME,,,en,1.0
+less than 30 euros,less than 30 euros,MONEY,,,en,1.0
+below-zero,below-zero,CARDINAL,,,en,1.0
+about winter,about winter,DATE,,,en,1.0
+Pro 5G,Pro 5G,PRODUCT,,,en,1.0
+less than 300 euros,less than 300 euros,MONEY,,,en,1.0
+the cold months,the cold months,DATE,,,en,1.0
+2013,2013,DATE,,,en,1.0
+39,39,CARDINAL,,,en,1.0
+about three hours,about three hours,TIME,,,en,1.0
+8%,8%,PERCENT,,,en,1.0
+millions of years,millions of years,DATE,,,en,1.0
+Storm Harry,Storm Harry,WORK_OF_ART,,,en,1.0
+30%,30%,PERCENT,,,en,1.0
+more than half,more than half,CARDINAL,,,en,1.0
+Nazi,Nazi,NORP,,,en,1.0
+nights,nights,TIME,,,en,1.0
+Luna Park,Luna Park,FAC,,,en,1.0
+"more than 9,000","more than 9,000",CARDINAL,,,en,1.0
+"More than 9,000","More than 9,000",CARDINAL,,,en,1.0
+28.1%,28.1%,PERCENT,,,en,1.0
+"27,000 kilometer","27,000 kilometer",QUANTITY,,,en,1.0
+three weeks,three weeks,DATE,,,en,1.0
+Trinitarias,Trinitarias,NORP,,,en,1.0
+160 million,160 million,CARDINAL,,,en,1.0
+"this Sunday, January 25","this Sunday, January 25",DATE,,,en,1.0
+"Almost 15,000","Almost 15,000",CARDINAL,,,en,1.0
+"More than 140,000","More than 140,000",CARDINAL,,,en,1.0
+up to 20 cm,up to 20 cm,QUANTITY,,,en,1.0
+Aemet,Aemet,PRODUCT,0.012121212121212116,0.2222222222222222,en,1.0
+The new year,The new year,DATE,,,en,1.0
+the entire day,the entire day,DATE,,,en,1.0
+The days,The days,DATE,,,en,1.0
+145,145,CARDINAL,,,en,1.0
+"this Wednesday, January 21","this Wednesday, January 21",DATE,,,en,1.0
+10.8 mm,10.8 mm,QUANTITY,,,en,1.0
+5.1 grams,5.1 grams,QUANTITY,,,en,1.0
 up to 9 hours,up to 9 hours,TIME,,,en,1.0
 38 hours,38 hours,TIME,,,en,1.0
-a month of January,a month of January,DATE,,,en,1.0
-"more than 9,000","more than 9,000",CARDINAL,,,en,1.0
-third,third,ORDINAL,,,en,1.0
-Third winter,Third winter,DATE,,,en,1.0
-"More than 140,000","More than 140,000",CARDINAL,,,en,1.0
-"Almost 15,000","Almost 15,000",CARDINAL,,,en,1.0
-"this Sunday, January 25","this Sunday, January 25",DATE,,,en,1.0
-160 million,160 million,CARDINAL,,,en,1.0
-the last hours,the last hours,TIME,,,en,1.0
-Trinitarias,Trinitarias,NORP,,,en,1.0
-three weeks,three weeks,DATE,,,en,1.0
-"27,000 kilometer","27,000 kilometer",QUANTITY,,,en,1.0
-28.1%,28.1%,PERCENT,,,en,1.0
-"More than 9,000","More than 9,000",CARDINAL,,,en,1.0
-Luna Park,Luna Park,FAC,,,en,1.0
 1898,1898,DATE,,,en,1.0
-nights,nights,TIME,,,en,1.0
-Nazi,Nazi,NORP,,,en,1.0
-more than half,more than half,CARDINAL,,,en,1.0
-30%,30%,PERCENT,,,en,1.0
-up to 20 cm,up to 20 cm,QUANTITY,,,en,1.0
-Storm Harry,Storm Harry,WORK_OF_ART,,,en,1.0
-Aemet,Aemet,PRODUCT,0.012121212121212116,0.2222222222222222,en,1.0
-the entire day,the entire day,DATE,,,en,1.0
-CDATA[<p,CDATA[<p,NORP,,,en,1.0
-This Friday,This Friday,DATE,,,en,1.0
-almost 600,almost 600,CARDINAL,,,en,1.0
 Some 30,Some 30,CARDINAL,,,en,1.0
-fourth,fourth,ORDINAL,,,en,1.0
-20 years,20 years,DATE,,,en,1.0
-"more than 5,000","more than 5,000",CARDINAL,,,en,1.0
-the best year,the best year,DATE,,,en,1.0
-more than 100,more than 100,CARDINAL,,,en,1.0
-"the day of this Thursday, December 15","the day of this Thursday, December 15",DATE,,,en,1.0
-January 15,January 15,DATE,,,en,1.0
-"today, Thursday, January 15, 2026","today, Thursday, January 15, 2026",DATE,,,en,1.0
-780,780,CARDINAL,,,en,1.0
-11 degrees,11 degrees,QUANTITY,,,en,1.0
-around 9 and,around 9 and,CARDINAL,,,en,1.0
-Japanese,Japanese,NORP,,,en,1.0
-up to 5 centimeters,up to 5 centimeters,QUANTITY,,,en,1.0
-1952,1952,DATE,,,en,1.0
-Danish,Danish,NORP,,,en,1.0
-the seventh consecutive year,the seventh consecutive year,DATE,,,en,1.0
-the big year,the big year,DATE,,,en,1.0
-January 5,January 5,DATE,,,en,1.0
-82 years,82 years,DATE,,,en,1.0
-1944,1944,DATE,,,en,1.0
-$28 billion,$28 billion,MONEY,,,en,1.0
-the end of June,the end of June,DATE,,,en,1.0
-Chacabuco Viaduct,Chacabuco Viaduct,FAC,,,en,1.0
-15 years,15 years,DATE,,,en,1.0
-This afternoon,This afternoon,TIME,,,en,1.0
-February 28,February 28,DATE,,,en,1.0
-the Goya 2026,the Goya 2026,EVENT,,,en,1.0
-the Goyas Awards,the Goyas Awards,WORK_OF_ART,,,en,1.0
-40th,40th,ORDINAL,,,en,1.0
-Mar del Plata,Mar del Plata,DATE,,,en,1.0
-Route 40,Route 40,EVENT,,,en,1.0
-around 3:00 p.m.,around 3:00 p.m.,TIME,,,en,1.0
-850,850,CARDINAL,,,en,1.0
-seven or eight years,seven or eight years,DATE,,,en,1.0
-65,65,CARDINAL,,,en,1.0
-39,39,CARDINAL,,,en,1.0
-2013,2013,DATE,,,en,1.0
-the cold months,the cold months,DATE,,,en,1.0
-less than 300 euros,less than 300 euros,MONEY,,,en,1.0
-Pro 5G,Pro 5G,PRODUCT,,,en,1.0
-about winter,about winter,DATE,,,en,1.0
-below-zero,below-zero,CARDINAL,,,en,1.0
-less than 30 euros,less than 30 euros,MONEY,,,en,1.0
-last night,last night,TIME,,,en,1.0
-at least 21,at least 21,CARDINAL,,,en,1.0
-Today,Today,DATE,,,en,1.0
-Model,Model,PRODUCT,,,en,1.0
-241,241,CARDINAL,,,en,1.0
-one night,one night,TIME,,,en,1.0
-Chavista,Chavista,NORP,,,en,1.0
-37,37,CARDINAL,,,en,1.0
-Christmas winter,Christmas winter,DATE,,,en,1.0
-autumn,autumn,DATE,,,en,1.0
-more than 60 liters,more than 60 liters,QUANTITY,,,en,1.0
-January 17,January 17,DATE,,,en,1.0
-12:00 p.m.,12:00 p.m.,TIME,,,en,1.0
-254 l/m2,254 l/m2,MONEY,,,en,1.0
-January 13,January 13,DATE,,,en,1.0
-"October 1, 2025","October 1, 2025",DATE,,,en,1.0
-241 liters,241 liters,QUANTITY,,,en,1.0
-1935,1935,DATE,,,en,1.0
+5.5 square kilometers,5.5 square kilometers,QUANTITY,,,en,1.0
+more than 10 centimeters,more than 10 centimeters,QUANTITY,,,en,1.0
+700 meters,700 meters,QUANTITY,,,en,1.0
+almost 600,almost 600,CARDINAL,,,en,1.0
+This Friday,This Friday,DATE,,,en,1.0
+CDATA[<p,CDATA[<p,NORP,,,en,1.0
+Orsi,Orsi,NORP,,,en,1.0

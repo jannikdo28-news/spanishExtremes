@@ -1,152 +1,191 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Storm Leonardo,Storm Leonardo,PERSON,-0.10676129426129428,0.5044261294261293,en,5.2
 Storm Kristin,Storm Kristin,PERSON,0.2366452991452991,0.5181623931623932,en,5.2
-Storm Leonardo,Storm Leonardo,PERSON,-0.056608357628765815,0.44460641399416895,en,4.9
 Storm Francis,Storm Francis,PERSON,0.12850877192982457,0.5285087719298246,en,3.8
+Guillermo Ramis,Guillermo Ramis,PERSON,0.22522522522522526,0.7477477477477479,en,3.6999999999999993
 Storm Joseph,Storm Joseph,PERSON,0.07434640522875816,0.30473856209150324,en,3.4000000000000004
+Jorge Rey,Jorge Rey,PERSON,-0.41935483870967744,0.5376344086021505,en,3.0999999999999996
+Mario Bidegain,Mario Bidegain,PERSON,0.42798353909465014,1.1954732510288064,en,2.7
 JAMIE STENGLE,JAMIE STENGLE,PERSON,0.046794871794871816,0.6442307692307693,en,2.6
 Storm Harry,Storm Harry,PERSON,0.26507260101010105,0.6953125,en,2.4
+Roberto Brasero,Roberto Brasero,PERSON,-0.010416666666666664,0.1527777777777778,en,2.4
+Storm Pedro,Storm Pedro,PERSON,0.10833333333333332,0.2583333333333333,en,2.0
 Forbes Mexico,Forbes Mexico,PERSON,0.0,0.0,en,1.9000000000000001
 JEFF AMY,JEFF AMY,PERSON,0.2018518518518519,0.49074074074074076,en,1.8
 Nicolás Maduro,Nicolás Maduro,PERSON,0.1476114081996435,1.1944563279857396,en,1.7000000000000002
 Storm Nils,Storm Nils,PERSON,0.4117647058823529,0.9411764705882354,en,1.7
-Jorge Rey,Jorge Rey,PERSON,-0.41176470588235287,0.39215686274509803,en,1.7
+José Antonio Kast,José Antonio Kast,PERSON,-0.23529411764705885,0.4117647058823529,en,1.7
 José Andrés,José Andrés,PERSON,0.01568627450980392,0.19607843137254904,en,1.7
 SETH BORENSTEIN,SETH BORENSTEIN,PERSON,-0.21160130718954248,0.7009803921568628,en,1.7
-Pico Tablato,Pico Tablato,PERSON,-0.10980392156862745,0.5392156862745098,en,1.7
+JULIE WATSON,JULIE WATSON,PERSON,0.041666666666666664,0.5677083333333333,en,1.6
 Cerro Largo,Cerro Largo,PERSON,0.6875,1.25,en,1.6
 Chappell Roan,Chappell Roan,PERSON,-0.0625,0.5,en,1.6
-Mario Bidegain,Mario Bidegain,PERSON,0.35555555555555557,1.2444444444444445,en,1.5
-Fernando Esteso,Fernando Esteso,PERSON,0.26282051282051283,0.9358974358974359,en,1.3
-Casey Wasserman,Casey Wasserman,PERSON,-0.038461538461538464,0.3076923076923077,en,1.3
+Tini Stoessel,Tini Stoessel,PERSON,0.0,0.35714285714285715,en,1.4
+Hora Veintipico,Hora Veintipico,PERSON,0.0,0.0,en,1.3
+Pedro Sánchez,Pedro Sánchez,PERSON,-0.15384615384615385,0.6538461538461539,en,1.3
 Storm Goretti,Storm Goretti,PERSON,0.17948717948717946,0.6025641025641024,en,1.3
 Ghislaine Maxwell,Ghislaine Maxwell,PERSON,-0.038461538461538464,0.3076923076923077,en,1.3
-Pedro Sánchez,Pedro Sánchez,PERSON,-0.15384615384615385,0.6538461538461539,en,1.3
-Martín Barreiro,Martín Barreiro,PERSON,0.0,0.10256410256410256,en,1.3
-Jaime Bayly,Jaime Bayly,PERSON,-0.11965811965811968,0.22222222222222224,en,1.3
-Guillermo Ramis,Guillermo Ramis,PERSON,0.10256410256410256,0.6666666666666666,en,1.3
-Sabino Cabeza,Sabino Cabeza,PERSON,0.28076923076923077,0.7692307692307692,en,1.3
-Carlos Soria,Carlos Soria,PERSON,0.06666666666666667,0.24871794871794872,en,1.3
-Saint John Bosco,Saint John Bosco,PERSON,0.6153846153846154,0.15384615384615385,en,1.3
-Hora Veintipico,Hora Veintipico,PERSON,0.0,0.0,en,1.3
-Storm Pedro,Storm Pedro,PERSON,0.16666666666666666,0.39743589743589736,en,1.3
-Oliver Laxe,Oliver Laxe,PERSON,0.7692307692307692,1.2307692307692308,en,1.3
-Atlético de Madrid,Atlético de Madrid,PERSON,0.30982905982905984,0.4914529914529914,en,1.3
-Jorge García Dihinx,Jorge García Dihinx,PERSON,0.01282051282051282,0.15384615384615383,en,1.3
-Loic Meillard,Loic Meillard,PERSON,0.5160256410256411,0.43589743589743585,en,1.3
 Baker McKenzie,Baker McKenzie,PERSON,0.356993006993007,0.6931818181818181,en,1.3
+Donovan Carrillo,Donovan Carrillo,PERSON,-0.15384615384615385,0.5384615384615384,en,1.3
+Fernando Esteso,Fernando Esteso,PERSON,0.26282051282051283,0.9358974358974359,en,1.3
+Casey Wasserman,Casey Wasserman,PERSON,-0.038461538461538464,0.3076923076923077,en,1.3
+Jaime Bayly,Jaime Bayly,PERSON,-0.11965811965811968,0.22222222222222224,en,1.3
+Jacob Elordi,Jacob Elordi,PERSON,0.37362637362637363,0.8205128205128205,en,1.3
+Sabino Cabeza,Sabino Cabeza,PERSON,0.28076923076923077,0.7692307692307692,en,1.3
+Pico Tablato,Pico Tablato,PERSON,-0.14358974358974358,0.7051282051282051,en,1.3
+Martín Barreiro,Martín Barreiro,PERSON,0.0,0.10256410256410256,en,1.3
+Carlos Soria,Carlos Soria,PERSON,0.06666666666666667,0.24871794871794872,en,1.3
+Atlético de Madrid,Atlético de Madrid,PERSON,0.30982905982905984,0.4914529914529914,en,1.3
+Loic Meillard,Loic Meillard,PERSON,0.5160256410256411,0.43589743589743585,en,1.3
+José Serra,José Serra,PERSON,0.061538461538461535,0.20769230769230765,en,1.3
+Léna Lazare,Léna Lazare,PERSON,0.25874125874125875,0.6573426573426573,en,1.3
+Oliver Laxe,Oliver Laxe,PERSON,0.7692307692307692,1.2307692307692308,en,1.3
+Saint John Bosco,Saint John Bosco,PERSON,0.6153846153846154,0.15384615384615385,en,1.3
+Jorge García Dihinx,Jorge García Dihinx,PERSON,0.01282051282051282,0.15384615384615383,en,1.3
 Rodrigo Illesca,Rodrigo Illesca,PERSON,-0.06944444444444445,0.5208333333333334,en,1.2
 Andrea Canepa,Andrea Canepa,PERSON,0.0,0.45454545454545453,en,1.1
-Luciano Castro,Luciano Castro,PERSON,-0.15,0.19166666666666665,en,1.0
+Alejandro Butti,Alejandro Butti,PERSON,0.4333333333333333,0.7333333333333333,en,1.0
 Sebastián Driussi,Sebastián Driussi,PERSON,-0.3,0.4,en,1.0
-TRAVIS LOLLER,TRAVIS LOLLER,PERSON,-0.1,0.1,en,1.0
-Luis Santamaría,Luis Santamaría,PERSON,0.25,0.5,en,1.0
-Pilar Bernabé,Pilar Bernabé,PERSON,0.2,0.30000000000000004,en,1.0
-Marketing Directo,Marketing Directo,PERSON,0.375,0.41666666666666663,en,1.0
-Marcelo Gallardo,Marcelo Gallardo,PERSON,0.0,0.0,en,1.0
-Luis “Freddy” Simone,Luis “Freddy” Simone,PERSON,0.5,0.5,en,1.0
-Niagara Falls,Niagara Falls,PERSON,-0.125,0.375,en,1.0
 Juan Camilo Caicedo Cruz,Juan Camilo Caicedo Cruz,PERSON,0.0,0.0,en,1.0
-Isi Sorribas,Isi Sorribas,PERSON,0.002499999999999991,0.545,en,1.0
+Sam Dekker,Sam Dekker,PERSON,-0.30000000000000004,0.2,en,1.0
+Marcelo Gallardo,Marcelo Gallardo,PERSON,0.0,0.0,en,1.0
+Adam Hanga,Adam Hanga,PERSON,-0.30000000000000004,0.2,en,1.0
+Dani Miret,Dani Miret,PERSON,-0.30000000000000004,0.2,en,1.0
 Don Quixote,Don Quixote,PERSON,0.0,0.0,en,1.0
 Madrid Fusión,Madrid Fusión,PERSON,0.06666666666666672,0.5555555555555555,en,1.0
-Roberto Brasero,Roberto Brasero,PERSON,-0.024999999999999994,0.3666666666666667,en,1.0
-DAVID FISCHER,DAVID FISCHER,PERSON,-0.10000000000000002,0.4000000000000001,en,1.0
 Granitic Garnachas,Granitic Garnachas,PERSON,0.06666666666666672,0.5555555555555555,en,1.0
-Lyse Tarquin,Lyse Tarquin,PERSON,0.0,0.0,en,1.0
-RUSS BYNUM,RUSS BYNUM,PERSON,-0.1,0.1,en,1.0
-Bernardo Morato,Bernardo Morato,PERSON,0.008333333333333318,0.5208333333333334,en,1.0
-Volodymyr Zelenskyy,Volodymyr Zelenskyy,PERSON,0.03125,0.5,en,1.0
-Lucky Galindo,Lucky Galindo,PERSON,0.2111111111111111,0.4444444444444445,en,1.0
-José Serra,José Serra,PERSON,0.0,0.0,en,1.0
-Carlos Calvo-Sancho,Carlos Calvo-Sancho,PERSON,0.010000000000000009,0.3327777777777778,en,1.0
-Lucas Pinheiro Braathen,Lucas Pinheiro Braathen,PERSON,0.37083333333333335,0.36666666666666664,en,1.0
-GRAHAM BORMIO,GRAHAM BORMIO,PERSON,0.37083333333333335,0.36666666666666664,en,1.0
-Cristina Monge,Cristina Monge,PERSON,0.45,0.7,en,1.0
-Isabel Díaz Ayuso,Isabel Díaz Ayuso,PERSON,0.2833333333333333,0.5666666666666667,en,1.0
-JENNIFER McDERMOTT MILAN,JENNIFER McDERMOTT MILAN,PERSON,0.25,0.875,en,1.0
-FERNANDA FIGUEROA,FERNANDA FIGUEROA,PERSON,0.25,0.875,en,1.0
-Vinicius Jr,Vinicius Jr,PERSON,0.0,0.0,en,1.0
-Chloe Kim,Chloe Kim,PERSON,0.0,0.0,en,1.0
-Cinturão das Águas,Cinturão das Águas,PERSON,-0.15,0.9,en,1.0
-MATTHEW DALY,MATTHEW DALY,PERSON,0.016666666666666666,0.25,en,1.0
-Ariel Bosi,Ariel Bosi,PERSON,0.0,0.0,en,1.0
-Mike Flanagan,Mike Flanagan,PERSON,0.0,0.0,en,1.0
-Stephen King,Stephen King,PERSON,0.0,0.0,en,1.0
-Gustavo Petro,Gustavo Petro,PERSON,-0.1,0.1,en,1.0
-Calle 13,Calle 13,PERSON,0.0,0.5,en,1.0
-HBO Max,HBO Max,PERSON,0.0,0.5,en,1.0
-Movistar Plus+,Movistar Plus+,PERSON,0.0,0.5,en,1.0
-Rodolfo Ortega,Rodolfo Ortega,PERSON,-0.08333333333333333,0.21666666666666667,en,1.0
-ASTRID SUÁREZ MONTERÍA,ASTRID SUÁREZ MONTERÍA,PERSON,-0.08333333333333333,0.21666666666666667,en,1.0
-FERNANDO VERGARA,FERNANDO VERGARA,PERSON,-0.08333333333333333,0.21666666666666667,en,1.0
-El Hormiguero,El Hormiguero,PERSON,0.0,0.0,en,1.0
+Patricia Bullrich,Patricia Bullrich,PERSON,-0.125,0.375,en,1.0
 García Márquez,García Márquez,PERSON,-0.15555555555555559,0.2888888888888889,en,1.0
+Azata del Sol,Azata del Sol,PERSON,-0.16666666666666666,0.6,en,1.0
+TRAVIS LOLLER,TRAVIS LOLLER,PERSON,-0.1,0.1,en,1.0
+Carole Mundell,Carole Mundell,PERSON,0.0,0.2976190476190476,en,1.0
+Federico Bianchini,Federico Bianchini,PERSON,0.1,0.3,en,1.0
+Hugo Soca,Hugo Soca,PERSON,0.0,0.1,en,1.0
+RUSS BYNUM,RUSS BYNUM,PERSON,-0.1,0.1,en,1.0
 Phillip Kennedy Johnson,Phillip Kennedy Johnson,PERSON,0.0,0.0,en,1.0
+Pável Dúrov,Pável Dúrov,PERSON,0.06666666666666667,0.18333333333333335,en,1.0
 La Zaida,La Zaida,PERSON,0.25,0.2833333333333333,en,1.0
 DORANY PINEDA,DORANY PINEDA,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
-Alejandro Butti,Alejandro Butti,PERSON,0.4333333333333333,0.7333333333333333,en,1.0
-Bill Belichick,Bill Belichick,PERSON,0.12900432900432898,0.28398268398268395,en,1.0
-Pablo Motos,Pablo Motos,PERSON,0.0,0.0,en,1.0
-Seve Ballesteros,Seve Ballesteros,PERSON,0.0,0.0,en,1.0
-Ale Sergi,Ale Sergi,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
-Los Pericos,Los Pericos,PERSON,0.2,0.7,en,1.0
-Leyma Básquet Coruña,Leyma Básquet Coruña,PERSON,0.024999999999999994,0.3666666666666667,en,1.0
-Sebastián Piñera,Sebastián Piñera,PERSON,-0.004761904761904763,0.37857142857142856,en,1.0
-Javier Benavente,Javier Benavente,PERSON,0.0,1.0,en,1.0
-Nancy Dupláa,Nancy Dupláa,PERSON,0.5,0.6,en,1.0
-Pablo Echarri,Pablo Echarri,PERSON,0.5,0.6,en,1.0
-Casal Solleric,Casal Solleric,PERSON,0.0,0.4,en,1.0
-Sofía Jujuy Jiménez,Sofía Jujuy Jiménez,PERSON,0.0,0.6,en,1.0
-Ricardo Darín,Ricardo Darín,PERSON,0.0,0.0,en,1.0
-Guillermo Francella,Guillermo Francella,PERSON,-0.07777777777777779,0.14444444444444446,en,1.0
-Liquid Glass,Liquid Glass,PERSON,0.0,0.0,en,1.0
-Real Sociedad,Real Sociedad,PERSON,0.225,0.31666666666666665,en,1.0
-La Araña,La Araña,PERSON,0.225,0.31666666666666665,en,1.0
-Claudio Úbeda,Claudio Úbeda,PERSON,0.25,0.3625,en,1.0
-Eneko Arrastua,Eneko Arrastua,PERSON,0.20000000000000004,0.4666666666666666,en,1.0
-Jorge García-Dinhix,Jorge García-Dinhix,PERSON,0.0,0.2833333333333333,en,1.0
-Lynne Ramsay,Lynne Ramsay,PERSON,0.5,0.6,en,1.0
-Julia Ducournau,Julia Ducournau,PERSON,0.5,0.6,en,1.0
-Talbot Horizon,Talbot Horizon,PERSON,0.0,0.0,en,1.0
-Snow Monsters,Snow Monsters,PERSON,0.1,0.4,en,1.0
-Luciano Pavarotti,Luciano Pavarotti,PERSON,0.0,0.0,en,1.0
-Emilia Storm,Emilia Storm,PERSON,-0.041666666666666664,0.125,en,1.0
-Jujutsu Kaisen,Jujutsu Kaisen,PERSON,0.5,0.5,en,1.0
-ASTRID SUÁREZ BOGOTÁ,ASTRID SUÁREZ BOGOTÁ,PERSON,-0.125,0.375,en,1.0
-Jorge Bava,Jorge Bava,PERSON,0.0,0.0,en,1.0
-Cerro Porteño,Cerro Porteño,PERSON,0.0,0.0,en,1.0
-Cristina Calvillo Tovar,Cristina Calvillo Tovar,PERSON,0.15,0.35,en,1.0
-Julián García Pimentel,Julián García Pimentel,PERSON,0.15,0.35,en,1.0
-La Patagonie,La Patagonie,PERSON,0.0,0.0,en,1.0
-José Antonio Kast,José Antonio Kast,PERSON,0.0,0.0,en,1.0
-Josefa Mestre Navarro,Josefa Mestre Navarro,PERSON,-0.0375,0.7375,en,1.0
-Alejo Cruz,Alejo Cruz,PERSON,0.0,0.06666666666666667,en,1.0
-Miguel Ángel Revilla,Miguel Ángel Revilla,PERSON,0.0,0.0,en,1.0
-Rodrigo Ogea,Rodrigo Ogea,PERSON,0.36409090909090913,0.5511363636363636,en,1.0
-Carlos Felce,Carlos Felce,PERSON,0.36409090909090913,0.5511363636363636,en,1.0
-Támara Echegoyen,Támara Echegoyen,PERSON,0.0,0.0,en,1.0
-La Araucanía,La Araucanía,PERSON,0.0,0.0,en,1.0
-Nacho Abad,Nacho Abad,PERSON,0.0,0.0,en,1.0
-Jair Bolsonaro,Jair Bolsonaro,PERSON,0.1,0.4,en,1.0
-Enrique Sánchez,Enrique Sánchez,PERSON,0.15,0.35,en,1.0
-Tom Brady,Tom Brady,PERSON,0.12900432900432898,0.28398268398268395,en,1.0
-Dani Olmo,Dani Olmo,PERSON,-0.08333333333333333,0.08333333333333333,en,1.0
-Lamine Yamal,Lamine Yamal,PERSON,0.0,0.0,en,1.0
-Luciano Benetton,Luciano Benetton,PERSON,0.0,0.0,en,1.0
-Ángeles González Gamio,Ángeles González Gamio,PERSON,0.0,0.0,en,1.0
-Nahuel Furtado,Nahuel Furtado,PERSON,0.0,0.06666666666666667,en,1.0
-NAYARA BATSCHKE ASUNCION,NAYARA BATSCHKE ASUNCION,PERSON,0.065625,0.375,en,1.0
-Agustín Pereira,Agustín Pereira,PERSON,0.0,0.06666666666666667,en,1.0
-Chus Mateo,Chus Mateo,PERSON,0.0,0.0,en,1.0
-Elisa Aguilar,Elisa Aguilar,PERSON,0.0,0.0,en,1.0
-Frank Sinatra,Frank Sinatra,PERSON,0.0,0.0,en,1.0
-JEFFREY COLLINS,JEFFREY COLLINS,PERSON,-0.24166666666666667,0.7916666666666666,en,1.0
-Eduardo Navarrete,Eduardo Navarrete,PERSON,0.0,0.6,en,1.0
-Argemiro Luzardo,Argemiro Luzardo,PERSON,0.23333333333333336,0.7,en,1.0
-Renfe Alvia,Renfe Alvia,PERSON,-0.075,0.41833333333333333,en,1.0
-Gabriel Boric,Gabriel Boric,PERSON,0.0,0.0,en,1.0
-Jana Buštor,Jana Buštor,PERSON,0.0,0.0,en,1.0
-a Volata di Peluca,a Volata di Peluca,PERSON,0.0,0.0,en,1.0
-Manuel Jaramillo,Manuel Jaramillo,PERSON,0.02500000000000001,0.75,en,1.0
-Jose María García,Jose María García,PERSON,-0.16666666666666666,0.16666666666666666,en,1.0
+Las Cabañuelas,Las Cabañuelas,PERSON,-0.6,1.0,en,1.0
+Volodymyr Zelenskyy,Volodymyr Zelenskyy,PERSON,0.03125,0.5,en,1.0
+Lucky Galindo,Lucky Galindo,PERSON,0.2111111111111111,0.4444444444444445,en,1.0
+Bernardo Morato,Bernardo Morato,PERSON,0.008333333333333318,0.5208333333333334,en,1.0
+FERNANDO VERGARA,FERNANDO VERGARA,PERSON,-0.08333333333333333,0.21666666666666667,en,1.0
+Carlos Calvo-Sancho,Carlos Calvo-Sancho,PERSON,0.010000000000000009,0.3327777777777778,en,1.0
+JENNIFER McDERMOTT MILAN,JENNIFER McDERMOTT MILAN,PERSON,0.25,0.875,en,1.0
+Isabel Díaz Ayuso,Isabel Díaz Ayuso,PERSON,0.2833333333333333,0.5666666666666667,en,1.0
+Álvaro Rodríguez,Álvaro Rodríguez,PERSON,0.5,0.15,en,1.0
+Martín Satriano,Martín Satriano,PERSON,0.5,0.15,en,1.0
+Cristina Monge,Cristina Monge,PERSON,0.45,0.7,en,1.0
+GRAHAM BORMIO,GRAHAM BORMIO,PERSON,0.37083333333333335,0.36666666666666664,en,1.0
+Lucas Pinheiro Braathen,Lucas Pinheiro Braathen,PERSON,0.37083333333333335,0.36666666666666664,en,1.0
+MIKE CATALINI,MIKE CATALINI,PERSON,0.18409090909090908,0.5969696969696969,en,1.0
+Vinicius Jr,Vinicius Jr,PERSON,0.0,0.0,en,1.0
 Malcom Campbell,Malcom Campbell,PERSON,0.3333333333333333,0.5,en,1.0
+Oriol Cardona,Oriol Cardona,PERSON,0.13636363636363635,0.5,en,1.0
+Ana Alonso,Ana Alonso,PERSON,0.13636363636363635,0.5,en,1.0
+Juan Carlos,Juan Carlos,PERSON,0.0,0.2,en,1.0
+Jorge Rodríguez,Jorge Rodríguez,PERSON,0.0,0.2,en,1.0
+Felipe González,Felipe González,PERSON,0.0,0.2,en,1.0
+KEN MORITSUGU,KEN MORITSUGU,PERSON,0.2222222222222222,0.27777777777777773,en,1.0
+FERNANDA FIGUEROA,FERNANDA FIGUEROA,PERSON,0.25,0.875,en,1.0
+Los Tojos,Los Tojos,PERSON,0.25,0.25,en,1.0
+ASTRID SUÁREZ MONTERÍA,ASTRID SUÁREZ MONTERÍA,PERSON,-0.08333333333333333,0.21666666666666667,en,1.0
+Conexión Ganadera,Conexión Ganadera,PERSON,0.0,0.0,en,1.0
+Rodolfo Ortega,Rodolfo Ortega,PERSON,-0.08333333333333333,0.21666666666666667,en,1.0
+Movistar Plus+,Movistar Plus+,PERSON,0.0,0.5,en,1.0
+HBO Max,HBO Max,PERSON,0.0,0.5,en,1.0
+Calle 13,Calle 13,PERSON,0.0,0.5,en,1.0
+Carlos Alcaraz,Carlos Alcaraz,PERSON,0.31,0.44666666666666666,en,1.0
+Gustavo Petro,Gustavo Petro,PERSON,-0.1,0.1,en,1.0
+República Ganadera,República Ganadera,PERSON,0.0,0.0,en,1.0
+Mauro Mussio,Mauro Mussio,PERSON,0.4,0.75,en,1.0
+Bárcena Mayor,Bárcena Mayor,PERSON,0.1875,0.4375,en,1.0
+Nicolás Jasidakis,Nicolás Jasidakis,PERSON,0.4,0.75,en,1.0
+Stephen King,Stephen King,PERSON,0.0,0.0,en,1.0
+Mike Flanagan,Mike Flanagan,PERSON,0.0,0.0,en,1.0
+Ariel Bosi,Ariel Bosi,PERSON,0.0,0.0,en,1.0
+MATTHEW DALY,MATTHEW DALY,PERSON,0.016666666666666666,0.25,en,1.0
+Cinturão das Águas,Cinturão das Águas,PERSON,-0.15,0.9,en,1.0
+Chloe Kim,Chloe Kim,PERSON,0.0,0.0,en,1.0
+Novak Djokovic,Novak Djokovic,PERSON,0.31,0.44666666666666666,en,1.0
+Leni Riefenstahl,Leni Riefenstahl,PERSON,0.6,1.0,en,1.0
+Lyse Tarquin,Lyse Tarquin,PERSON,0.0,0.0,en,1.0
+Los Pericos,Los Pericos,PERSON,0.2,0.7,en,1.0
+Sofía Jujuy Jiménez,Sofía Jujuy Jiménez,PERSON,0.0,0.6,en,1.0
+Casal Solleric,Casal Solleric,PERSON,0.0,0.4,en,1.0
+Pablo Echarri,Pablo Echarri,PERSON,0.5,0.6,en,1.0
+Nancy Dupláa,Nancy Dupláa,PERSON,0.5,0.6,en,1.0
+Javier Benavente,Javier Benavente,PERSON,0.0,1.0,en,1.0
+Sebastián Piñera,Sebastián Piñera,PERSON,-0.004761904761904763,0.37857142857142856,en,1.0
+Leyma Básquet Coruña,Leyma Básquet Coruña,PERSON,0.024999999999999994,0.3666666666666667,en,1.0
+Ale Sergi,Ale Sergi,PERSON,0.13636363636363635,0.45454545454545453,en,1.0
+Guillermo Francella,Guillermo Francella,PERSON,-0.07777777777777779,0.14444444444444446,en,1.0
+La Patagonie,La Patagonie,PERSON,0.0,0.0,en,1.0
+Josefa Mestre Navarro,Josefa Mestre Navarro,PERSON,-0.0375,0.7375,en,1.0
+NAYARA BATSCHKE ASUNCION,NAYARA BATSCHKE ASUNCION,PERSON,0.065625,0.375,en,1.0
+Jose María García,Jose María García,PERSON,-0.16666666666666666,0.16666666666666666,en,1.0
+Manuel Jaramillo,Manuel Jaramillo,PERSON,0.02500000000000001,0.75,en,1.0
+a Volata di Peluca,a Volata di Peluca,PERSON,0.0,0.0,en,1.0
+Jana Buštor,Jana Buštor,PERSON,0.0,0.0,en,1.0
+Ricardo Darín,Ricardo Darín,PERSON,0.0,0.0,en,1.0
+Liquid Glass,Liquid Glass,PERSON,0.0,0.0,en,1.0
+Renfe Alvia,Renfe Alvia,PERSON,-0.075,0.41833333333333333,en,1.0
+Luciano Pavarotti,Luciano Pavarotti,PERSON,0.0,0.0,en,1.0
+Julián García Pimentel,Julián García Pimentel,PERSON,0.15,0.35,en,1.0
+Cristina Calvillo Tovar,Cristina Calvillo Tovar,PERSON,0.15,0.35,en,1.0
+Cerro Porteño,Cerro Porteño,PERSON,0.0,0.0,en,1.0
+Jorge Bava,Jorge Bava,PERSON,0.0,0.0,en,1.0
+ASTRID SUÁREZ BOGOTÁ,ASTRID SUÁREZ BOGOTÁ,PERSON,-0.125,0.375,en,1.0
+Jujutsu Kaisen,Jujutsu Kaisen,PERSON,0.5,0.5,en,1.0
+Emilia Storm,Emilia Storm,PERSON,-0.041666666666666664,0.125,en,1.0
+Snow Monsters,Snow Monsters,PERSON,0.1,0.4,en,1.0
+Real Sociedad,Real Sociedad,PERSON,0.225,0.31666666666666665,en,1.0
+Talbot Horizon,Talbot Horizon,PERSON,0.0,0.0,en,1.0
+Julia Ducournau,Julia Ducournau,PERSON,0.5,0.6,en,1.0
+Lynne Ramsay,Lynne Ramsay,PERSON,0.5,0.6,en,1.0
+Jorge García-Dinhix,Jorge García-Dinhix,PERSON,0.0,0.2833333333333333,en,1.0
+Eneko Arrastua,Eneko Arrastua,PERSON,0.20000000000000004,0.4666666666666666,en,1.0
+Claudio Úbeda,Claudio Úbeda,PERSON,0.25,0.3625,en,1.0
+La Araña,La Araña,PERSON,0.225,0.31666666666666665,en,1.0
+Gabriel Boric,Gabriel Boric,PERSON,0.0,0.0,en,1.0
+Argemiro Luzardo,Argemiro Luzardo,PERSON,0.23333333333333336,0.7,en,1.0
+Narendra Modi,Narendra Modi,PERSON,0.03409090909090909,0.11363636363636363,en,1.0
+Enrique Sánchez,Enrique Sánchez,PERSON,0.15,0.35,en,1.0
+Seve Ballesteros,Seve Ballesteros,PERSON,0.0,0.0,en,1.0
+Pablo Motos,Pablo Motos,PERSON,0.0,0.0,en,1.0
+El Hormiguero,El Hormiguero,PERSON,0.0,0.0,en,1.0
+Marketing Directo,Marketing Directo,PERSON,0.375,0.41666666666666663,en,1.0
+Pilar Bernabé,Pilar Bernabé,PERSON,0.2,0.30000000000000004,en,1.0
+Luis Santamaría,Luis Santamaría,PERSON,0.25,0.5,en,1.0
+Greta Thunberg,Greta Thunberg,PERSON,0.2,0.4,en,1.0
+Niagara Falls,Niagara Falls,PERSON,-0.125,0.375,en,1.0
+Rodrigo Ogea,Rodrigo Ogea,PERSON,0.36409090909090913,0.5511363636363636,en,1.0
+Luis “Freddy” Simone,Luis “Freddy” Simone,PERSON,0.5,0.5,en,1.0
+Isi Sorribas,Isi Sorribas,PERSON,0.002499999999999991,0.545,en,1.0
+DAVID FISCHER,DAVID FISCHER,PERSON,-0.10000000000000002,0.4000000000000001,en,1.0
+Jeffrey Epstein,Jeffrey Epstein,PERSON,0.6,0.8,en,1.0
+Luciano Castro,Luciano Castro,PERSON,-0.15,0.19166666666666665,en,1.0
+Ursula von der Leyen,Ursula von der Leyen,PERSON,0.03409090909090909,0.11363636363636363,en,1.0
+Antonio Costa,Antonio Costa,PERSON,0.03409090909090909,0.11363636363636363,en,1.0
+Miguel Ángel Revilla,Miguel Ángel Revilla,PERSON,0.0,0.0,en,1.0
+Carlos Felce,Carlos Felce,PERSON,0.36409090909090913,0.5511363636363636,en,1.0
+Eduardo Navarrete,Eduardo Navarrete,PERSON,0.0,0.6,en,1.0
+Ángeles González Gamio,Ángeles González Gamio,PERSON,0.0,0.0,en,1.0
+JEFFREY COLLINS,JEFFREY COLLINS,PERSON,-0.24166666666666667,0.7916666666666666,en,1.0
+Frank Sinatra,Frank Sinatra,PERSON,0.0,0.0,en,1.0
+Elisa Aguilar,Elisa Aguilar,PERSON,0.0,0.0,en,1.0
+Chus Mateo,Chus Mateo,PERSON,0.0,0.0,en,1.0
+Agustín Pereira,Agustín Pereira,PERSON,0.0,0.06666666666666667,en,1.0
+Nahuel Furtado,Nahuel Furtado,PERSON,0.0,0.06666666666666667,en,1.0
+Alejo Cruz,Alejo Cruz,PERSON,0.0,0.06666666666666667,en,1.0
+Luciano Benetton,Luciano Benetton,PERSON,0.0,0.0,en,1.0
+Támara Echegoyen,Támara Echegoyen,PERSON,0.0,0.0,en,1.0
+Lamine Yamal,Lamine Yamal,PERSON,0.0,0.0,en,1.0
+Dani Olmo,Dani Olmo,PERSON,-0.08333333333333333,0.08333333333333333,en,1.0
+Tom Brady,Tom Brady,PERSON,0.12900432900432898,0.28398268398268395,en,1.0
+Bill Belichick,Bill Belichick,PERSON,0.12900432900432898,0.28398268398268395,en,1.0
+Jair Bolsonaro,Jair Bolsonaro,PERSON,0.1,0.4,en,1.0
+Nacho Abad,Nacho Abad,PERSON,0.0,0.0,en,1.0
+La Araucanía,La Araucanía,PERSON,0.0,0.0,en,1.0
+Rodrigo Goñi,Rodrigo Goñi,PERSON,0.0,0.1,en,1.0
