@@ -54,8 +54,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '654261891c',extremes,Precipitation,#d60d2b,wmo,lluvia sierra sur,2026-02-15T04:35:00+00:00,Ecuador,0.668124982370436,2,3,es,NWS,South-America
 'c459c88eba',extremes,Snow&Ice,#d60d2b,wmo,españa helada,2026-02-06T04:27:00+00:00,Spain,0.6664532372653068,1,3,es,MED,Europe
 'a471dde55c',extremes,Drought,#edc291,edo,sequía cuba,2026-01-24T03:49:00+00:00,Cuba,0.6648327250914118,1,2,es,CAR,North-America
-'531f521f39',extremes,Snow&Ice,#d60d2b,wmo,heladas estados unidos,2026-02-05T04:27:00+00:00,United States,0.6628103377764575,0,1,es,CNA,North-America
-'cfa09d05e0',extremes,Wildfire,#d60d2b,emdat,incendio forestal los rios,2026-02-05T04:28:00+00:00,Chile,0.6627862315457854,0,1,es,SWS,South-America
 'c2168ef322',extremes,Flood,#030ba1,wmo,inundación maui hola,2026-02-22T04:30:00+00:00,United States,0.6626608085478158,0,1,es,CNA,North-America
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,tormenta estados unidos,2026-02-05T04:27:00+00:00,United States,0.6625660139221228,0,1,es,CNA,North-America
 '361d356ada',extremes,Flood,#030ba1,wmo,inundaciones repentinas en las áreas costeras del condado de san diego,2026-02-03T04:27:00+00:00,United States,0.662440357397373,0,1,es,CNA,North-America
@@ -72,6 +70,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2b3cefe08',extremes,Precipitation,#d60d2b,wmo,precipitación costa rica,2026-02-03T04:27:00+00:00,Costa Rica,0.6592710687180048,2,1,es,SCA,North-America
 '721b7d6185',extremes,Drought,#edc291,edo,sequía estados unidos,2026-02-05T04:28:00+00:00,United States,0.6589611300456546,0,1,es,WCE,Europe
 '117f2e1e78',extremes,Flood,#030ba1,wmo,inundación costera hancock costera washington,2026-02-02T04:36:00+00:00,United States,0.6587530898045145,0,1,es,CNA,North-America
+'531f521f39',extremes,Snow&Ice,#d60d2b,wmo,heladas estados unidos,2026-02-05T04:27:00+00:00,United States,0.6586606356814174,1,3,es,CNA,North-America
 '99b4d7585f',extremes,Flood,#030ba1,wmo,inundación del distrito de entrada de ketchikan,2026-02-04T04:21:00+00:00,United States,0.6585033106516939,0,1,es,CNA,North-America
 '19b7eba349',extremes,Fog,#d60d2b,wmo,niebla sur de mallorca,2026-02-24T04:31:00+00:00,Spain,0.6575550561832425,1,1,es,MED,Europe
 'da213c6a76',extremes,Flood,#030ba1,wmo,inundación repentina océano océano costero,2026-02-01T04:41:00+00:00,United States,0.6573408247572439,0,1,es,CNA,North-America
@@ -174,7 +173,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fd48a0e5dc',extremes,Earthquake,#870007,usgs,terremoto cuba,2026-02-11T04:41:00+00:00,Cuba,0.6282133163152669,2,2,es,CAR,North-America
 'b5f3a9d570',extremes,Earthquake,#870007,usgs,terremoto mar del plata,2026-02-20T04:27:00+00:00,Argentina,0.6280342071683184,2,1,es,SES,South-America
 'a6e9427fb1',extremes,Earthquake,#870007,usgs,terremoto colombia,2026-02-12T04:36:00+00:00,Colombia,0.6275341986755004,2,3,es,NWS,South-America
-'f200ff28aa',extremes,Earthquake,#870007,usgs,terremoto estados unidos,2026-01-15T10:56:00+00:00,United States,0.6238511784067596,1,2,es,WNA,North-America
 '5b7364c237',extremes,Earthquake,#870007,usgs,terremoto el cairo,2026-02-14T04:21:00+00:00,Colombia,0.6228089392639025,2,2,es,NWS,South-America
 '1eb7a3a4d3',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial costa rica,2026-02-04T04:21:00+00:00,Costa Rica,0.622748566095979,1,1,es,SCA,North-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,aguacero brasil,2026-02-05T04:27:00+00:00,Brazil,0.6195647521266799,2,1,es,SAM,South-America
@@ -280,3 +278,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '89a71f9dae',extremes,Flood,#030ba1,wmo,inundación herkimer ny,2026-01-28T03:56:00+00:00,United States,0.5651495073882185,1,1,es,CNA,North-America
 'e1048c4180',extremes,Drought,#edc291,edo,sequedad uruguay,2026-02-07T04:19:00+00:00,Uruguay,0.5646280222778947,1,1,es,SES,South-America
 '5e8e4bc5b1',extremes,Flood,#030ba1,wmo,inundación greene al hale al marengo al,2026-01-26T04:09:00+00:00,United States,0.5638029066854858,1,1,es,CNA,North-America
+'cfa09d05e0',extremes,Wildfire,#d60d2b,emdat,incendio forestal los rios,2026-02-05T04:28:00+00:00,Chile,0.5633682968139176,1,1,es,SWS,South-America
