@@ -8,6 +8,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8068e6b5b7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica españa,2026-01-15T10:56:00+00:00,Spain,0.7605105128354529,2,2,es,MED,Europe
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitación litoral,2026-02-16T04:38:00+00:00,Ecuador,0.7594235454654522,2,3,es,NWS,South-America
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-01-15T10:56:00+00:00,Spain,0.7531895669751822,4,3,es,MED,Europe
+'a138ccf5bc',extremes,Precipitation,#d60d2b,wmo,lluvias sucumbíos orellana y pastaza.,2026-03-03T04:27:00+00:00,Ecuador,0.752763014211807,0,1,es,NWS,South-America
 '9330418237',extremes,Precipitation,#d60d2b,wmo,lluvia uruguay,2026-02-24T04:31:00+00:00,Uruguay,0.7488072924787121,1,3,es,SES,South-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-01-15T10:56:00+00:00,Chile,0.7458193610723534,1,2,es,SWS,South-America
 'cc7bbe599c',extremes,Storm,#b3b2b1,wmo,tormenta fuerte,2026-01-15T10:56:00+00:00,United States,0.7456737944080513,1,3,es,CNA,North-America
@@ -39,6 +40,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a828348731',extremes,Storm,#b3b2b1,wmo,tormenta costa rica,2026-01-31T04:16:00+00:00,Costa Rica,0.6937439406470765,1,1,es,SCA,North-America
 '2f486e78b4',extremes,Snow Avalanche,#deddd5,wmo,alud pirineo oscense,2026-01-19T04:03:00+00:00,Spain,0.6904209505639238,2,3,es,MED,Europe
 '7d68920b56',extremes,Earthquake,#870007,usgs,terremoto nicaragua,2026-02-25T04:32:00+00:00,Nicaragua,0.6894960161382184,1,2,es,SCA,North-America
+'aff5af8277',extremes,Earthquake,#870007,usgs,terremoto san bartolo,2026-03-01T04:34:00+00:00,Peru,0.6893532013302696,0,1,es,NWS,South-America
 '2f51d04c0e',extremes,Fog,#d60d2b,wmo,niebla españa,2026-02-24T04:31:00+00:00,Spain,0.6872253128379568,2,3,es,MED,Europe
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,ola de calor brasil,2026-02-03T04:27:00+00:00,Brazil,0.6852231654676165,1,2,es,SAM,South-America
 '87f28505d1',extremes,Snow Avalanche,#deddd5,wmo,avalancha españa,2026-01-18T03:57:00+00:00,Spain,0.6829422449509203,2,3,es,MED,Europe
@@ -52,6 +54,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '349b9f9026',extremes,Heat Wave,#c40202,wmo,ola de calor área 3 – menor,2026-01-24T03:48:00+00:00,Paraguay,0.6682035670138563,2,1,es,SES,South-America
 '654261891c',extremes,Precipitation,#d60d2b,wmo,lluvia sierra sur,2026-02-15T04:35:00+00:00,Ecuador,0.668124982370436,2,3,es,NWS,South-America
 'c459c88eba',extremes,Snow&Ice,#d60d2b,wmo,españa helada,2026-02-06T04:27:00+00:00,Spain,0.6664532372653068,1,3,es,MED,Europe
+'ca71b12deb',extremes,Flood,#030ba1,wmo,inundación repentina guam rota tinian saipan,2026-02-25T04:32:00+00:00,United States,0.6660838164000087,0,1,es,CNA,North-America
+'2879268265',extremes,Flood,#030ba1,wmo,lago de inundación ca mendocino ca,2026-02-25T04:32:00+00:00,United States,0.6656489375885467,0,1,es,CNA,North-America
 'a471dde55c',extremes,Drought,#edc291,edo,sequía cuba,2026-01-24T03:49:00+00:00,Cuba,0.6648327250914118,1,2,es,CAR,North-America
 'c0844bdd35',extremes,Storm,#b3b2b1,wmo,tormenta santa elena.,2026-03-03T04:27:00+00:00,Ecuador,0.6632571935455391,2,1,es,NWS,South-America
 'c2168ef322',extremes,Flood,#030ba1,wmo,inundación maui hola,2026-02-22T04:30:00+00:00,United States,0.6626608085478158,0,1,es,CNA,North-America
