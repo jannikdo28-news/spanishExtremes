@@ -57,7 +57,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '528eb18ef2',extremes,Snow Avalanche,#deddd5,wmo,cordillera del río oso avalancha,2026-02-18T04:34:00+00:00,United States,0.6597513428868724,0,1,es,CNA,North-America
 'd57776053a',extremes,Thunderstorm,#53785a,wmo,tormenta estados unidos,2026-02-14T04:21:00+00:00,United States,0.6593046905549982,0,1,es,CNA,North-America
 'd2b3cefe08',extremes,Precipitation,#d60d2b,wmo,precipitación costa rica,2026-02-03T04:27:00+00:00,Costa Rica,0.6592710687180048,2,1,es,SCA,North-America
-'721b7d6185',extremes,Drought,#edc291,edo,sequía estados unidos,2026-02-05T04:28:00+00:00,United States,0.6589611300456546,0,1,es,WCE,Europe
 '117f2e1e78',extremes,Flood,#030ba1,wmo,inundación costera hancock costera washington,2026-02-02T04:36:00+00:00,United States,0.6587530898045145,0,1,es,CNA,North-America
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,heladas estados unidos,2026-02-05T04:27:00+00:00,United States,0.6586606356814174,1,3,es,CNA,North-America
 '99b4d7585f',extremes,Flood,#030ba1,wmo,inundación del distrito de entrada de ketchikan,2026-02-04T04:21:00+00:00,United States,0.6585033106516939,0,1,es,CNA,North-America
@@ -187,6 +186,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,incendio forestal estados unidos,2026-02-06T04:27:00+00:00,United States,0.6054397044625326,1,1,es,ENA,North-America
 'dbc72b57f2',extremes,Heat Wave,#c40202,wmo,ola de calor área 1 – severa,2026-01-25T04:06:00+00:00,Paraguay,0.602717997570556,1,1,es,SES,South-America
 '12775cc05a',extremes,Drought,#edc291,wmo,sequía brasil,2026-02-05T04:27:00+00:00,Brazil,0.6025230506099193,1,2,es,SAM,South-America
+'721b7d6185',extremes,Drought,#edc291,edo,sequía estados unidos,2026-02-05T04:28:00+00:00,United States,0.6014318119024428,1,2,es,WCE,Europe
 'b26829887e',extremes,Earthquake,#870007,usgs,terremoto jordán,2026-02-15T04:34:00+00:00,Colombia,0.6013496747140837,1,1,es,NWS,South-America
 'bac5d8b8f9',extremes,Earthquake,#870007,usgs,arenas sísmicas,2026-02-12T04:36:00+00:00,Panama,0.6008143299984511,1,1,es,SCA,South-America
 'd8b0fb0c2d',extremes,Drought,#edc291,edo,sequía peru,2026-02-05T04:28:00+00:00,Peru,0.6001209680912309,1,1,es,NWS,South-America
