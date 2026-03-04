@@ -29,6 +29,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '06532967b8',extremes,Drought,#edc291,edo,falta de lluvia brasil,2026-01-15T10:57:00+00:00,Brazil,0.7185330972871325,1,2,es,SAM,South-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2026-02-05T04:27:00+00:00,United States,0.7184880247809518,1,3,es,CNA,North-America
 '63b3a5e343',extremes,Earthquake,#870007,usgs,terremoto san marcos,2026-01-15T10:56:00+00:00,Mexico,0.7133859572600593,1,2,es,SCA,North-America
+'e9a192ad67',extremes,Snow Avalanche,#deddd5,wmo,avalancha mono,2026-02-18T04:34:00+00:00,United States,0.7125394520195754,1,2,es,CNA,North-America
 '331f9db5d5',extremes,Snow&Ice,#d60d2b,wmo,hielo españa,2026-01-15T10:56:00+00:00,Spain,0.7112820274542868,1,2,es,MED,Europe
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,lluvia litoral,2026-02-17T04:31:00+00:00,Ecuador,0.7104124386534518,3,3,es,NWS,South-America
 'd389bc4f63',extremes,Earthquake,#870007,usgs,terremoto mexico,2026-02-05T04:27:00+00:00,Mexico,0.7073365747031415,3,2,es,SCA,North-America
@@ -55,12 +56,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c459c88eba',extremes,Snow&Ice,#d60d2b,wmo,españa helada,2026-02-06T04:27:00+00:00,Spain,0.6664532372653068,1,3,es,MED,Europe
 'a471dde55c',extremes,Drought,#edc291,edo,sequía cuba,2026-01-24T03:49:00+00:00,Cuba,0.6648327250914118,1,2,es,CAR,North-America
 'c0844bdd35',extremes,Storm,#b3b2b1,wmo,tormenta santa elena.,2026-03-03T04:27:00+00:00,Ecuador,0.6632571935455391,2,1,es,NWS,South-America
-'361d356ada',extremes,Flood,#030ba1,wmo,inundaciones repentinas en las áreas costeras del condado de san diego,2026-02-03T04:27:00+00:00,United States,0.662440357397373,0,1,es,CNA,North-America
-'aac1e6661e',extremes,Flood,#030ba1,wmo,inundación repentina pamlico pollo del sur,2026-01-31T04:16:00+00:00,United States,0.6621926322720629,0,1,es,CNA,North-America
-'8ebd5341cd',extremes,Fog,#d60d2b,wmo,niebla bahía de matagorda,2026-02-20T04:27:00+00:00,United States,0.6620518528647534,0,1,es,CNA,North-America
-'b523f38879',extremes,Flood,#030ba1,wmo,inundación repentina kankakee il,2026-01-28T03:56:00+00:00,United States,0.6617446380381385,0,1,es,CNA,North-America
-'d17278cca0',extremes,Fog,#d60d2b,wmo,niebla york lancaster,2026-02-18T04:34:00+00:00,United States,0.6615895886379427,0,1,es,CNA,North-America
-'e9a192ad67',extremes,Snow Avalanche,#deddd5,wmo,avalancha mono,2026-02-18T04:34:00+00:00,United States,0.6614581435524417,0,1,es,CNA,North-America
 '503492b519',extremes,Drought,#edc291,edo,sequedad panamá,2026-02-11T04:42:00+00:00,Panama,0.6613782299435206,0,1,es,SCA,North-America
 'e84e180072',extremes,Flood,#030ba1,wmo,inundación reinas del sur sur de nassau,2026-02-01T04:41:00+00:00,United States,0.6608382755395315,0,1,es,CNA,North-America
 '105ee03aff',extremes,Earthquake,#870007,usgs,terremoto el salvador,2026-01-29T04:18:00+00:00,El Salvador,0.6597600669433195,1,2,es,SCA,North-America
@@ -161,7 +156,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,aguacero costa rica,2026-01-30T04:21:00+00:00,Costa Rica,0.6360158728570432,1,1,es,SCA,North-America
 '84c81d05e3',extremes,Heat Wave,#c40202,wmo,ola de calor villa reynolds y alrededores,2026-01-23T04:03:00+00:00,Argentina,0.6352642565492307,1,1,es,SES,South-America
 '4079790e60',extremes,Storm,#b3b2b1,wmo,marejada ciclónica cordoba gral roca rio cuarto.,2026-03-02T04:27:00+00:00,Argentina,0.6348891016221053,1,1,es,SES,South-America
-'d61de81685',extremes,Storm,#b3b2b1,wmo,marejada ciclónica chile,2026-01-21T03:56:00+00:00,Chile,0.6347369913283966,1,1,es,SWS,South-America
 '69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,ola de calor paraná y alrededores,2026-01-23T04:03:00+00:00,Argentina,0.6343946403167273,1,1,es,SES,South-America
 '8f8310fd42',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial cordoba san justo tulumba.,2026-02-27T04:26:00+00:00,Argentina,0.6338379018440045,1,1,es,SES,South-America
 '25ff60cb7f',extremes,Snow Avalanche,#deddd5,wmo,avalancha pirineo de lleida,2026-01-27T03:58:00+00:00,Spain,0.6333112395412092,1,1,es,MED,Europe
@@ -189,7 +183,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6f60f45443',extremes,Snow&Ice,#d60d2b,cmeter,tormenta invernal norteamericana nueva york,2026-01-31T04:17:00+00:00,United States,0.60589428991392,1,1,es,ENA,North-America
 'f434a5525f',extremes,Drought,#edc291,edo,sequedad méxico,2026-01-25T04:06:00+00:00,Mexico,0.605834374637102,1,1,es,NCA,North-America
 '432bab655c',extremes,Wildfire,#d60d2b,eonet,incendio forestal estados unidos,2026-02-06T04:27:00+00:00,United States,0.6054397044625326,1,1,es,ENA,North-America
-'83f16d38a8',extremes,Earthquake,#870007,usgs,terremoto zirándaro de los chávez,2026-01-22T03:59:00+00:00,Mexico,0.6034735397899127,1,1,es,NCA,North-America
 'dbc72b57f2',extremes,Heat Wave,#c40202,wmo,ola de calor área 1 – severa,2026-01-25T04:06:00+00:00,Paraguay,0.602717997570556,1,1,es,SES,South-America
 '12775cc05a',extremes,Drought,#edc291,wmo,sequía brasil,2026-02-05T04:27:00+00:00,Brazil,0.6025230506099193,1,2,es,SAM,South-America
 'b26829887e',extremes,Earthquake,#870007,usgs,terremoto jordán,2026-02-15T04:34:00+00:00,Colombia,0.6013496747140837,1,1,es,NWS,South-America
@@ -285,3 +278,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5e8e4bc5b1',extremes,Flood,#030ba1,wmo,inundación greene al hale al marengo al,2026-01-26T04:09:00+00:00,United States,0.5638029066854858,1,1,es,CNA,North-America
 'cfa09d05e0',extremes,Wildfire,#d60d2b,emdat,incendio forestal los rios,2026-02-05T04:28:00+00:00,Chile,0.5633682968139176,1,1,es,SWS,South-America
 'c2168ef322',extremes,Flood,#030ba1,wmo,inundación maui hola,2026-02-22T04:30:00+00:00,United States,0.5632616872656434,1,1,es,CNA,North-America
+'361d356ada',extremes,Flood,#030ba1,wmo,inundaciones repentinas en las áreas costeras del condado de san diego,2026-02-03T04:27:00+00:00,United States,0.563074303787767,1,1,es,CNA,North-America
+'aac1e6661e',extremes,Flood,#030ba1,wmo,inundación repentina pamlico pollo del sur,2026-01-31T04:16:00+00:00,United States,0.5628637374312535,1,1,es,CNA,North-America
+'8ebd5341cd',extremes,Fog,#d60d2b,wmo,niebla bahía de matagorda,2026-02-20T04:27:00+00:00,United States,0.5627440749350404,1,1,es,CNA,North-America
+'b523f38879',extremes,Flood,#030ba1,wmo,inundación repentina kankakee il,2026-01-28T03:56:00+00:00,United States,0.5624829423324178,1,1,es,CNA,North-America
+'d17278cca0',extremes,Fog,#d60d2b,wmo,niebla york lancaster,2026-02-18T04:34:00+00:00,United States,0.5623511503422512,1,1,es,CNA,North-America
