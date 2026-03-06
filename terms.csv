@@ -39,10 +39,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,ola de calor brasil,2026-02-03T04:27:00+00:00,Brazil,0.6852231654676165,1,2,es,SAM,South-America
 '87f28505d1',extremes,Snow Avalanche,#deddd5,wmo,avalancha españa,2026-01-18T03:57:00+00:00,Spain,0.6829422449509203,2,3,es,MED,Europe
 'd2e515b87c',extremes,Flood,#030ba1,cmeter,inundación colombia,2026-02-22T04:31:00+00:00,Colombia,0.6817853912672547,2,1,es,NWS,South-America
+'0c9ce7bbc6',extremes,Earthquake,#870007,usgs,terremoto calingasta,2026-03-02T04:27:00+00:00,Argentina,0.6817396533145925,0,1,es,SWS,South-America
+'68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-02-25T04:32:00+00:00,Spain,0.6791958739471433,0,1,es,MED,Europe
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-01-26T04:09:00+00:00,Ecuador,0.6745423471657225,1,1,es,NWS,South-America
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tormenta amazonia,2026-02-08T04:43:00+00:00,Ecuador,0.6733785752703623,2,2,es,NWS,South-America
 '5a9124c973',extremes,Heat Wave,#c40202,wmo,ola de calor las flores y alrededores,2026-01-27T03:58:00+00:00,Argentina,0.6715230200500367,2,1,es,SES,South-America
 'fcc3f80d6b',extremes,Heat Wave,#c40202,wmo,ola de calor paraguay,2026-01-24T03:48:00+00:00,Paraguay,0.6695333449017987,2,2,es,SES,South-America
+'d754055198',extremes,Thunderstorm,#53785a,wmo,tiempo severo دولة قطر,2026-03-04T04:20:00+00:00,Qatar,0.6694847401555928,0,1,es,ARP,Asia
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial argentina,2026-02-26T04:29:00+00:00,Argentina,0.6691089618252553,2,1,es,SES,South-America
 'eb47176b76',extremes,Wildfire,#d60d2b,emdat,incendio forestal en chile,2026-02-01T04:41:00+00:00,Chile,0.6688263672727726,1,2,es,SWS,South-America
 '654261891c',extremes,Precipitation,#d60d2b,wmo,lluvia sierra sur,2026-02-15T04:35:00+00:00,Ecuador,0.668124982370436,2,3,es,NWS,South-America
