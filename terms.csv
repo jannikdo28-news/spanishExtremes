@@ -22,6 +22,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e9a192ad67',extremes,Snow Avalanche,#deddd5,wmo,avalancha mono,2026-02-18T04:34:00+00:00,United States,0.7125394520195754,1,2,es,CNA,North-America
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,lluvia litoral,2026-02-17T04:31:00+00:00,Ecuador,0.7104124386534518,3,3,es,NWS,South-America
 'd389bc4f63',extremes,Earthquake,#870007,usgs,terremoto mexico,2026-02-05T04:27:00+00:00,Mexico,0.7073365747031415,3,2,es,SCA,North-America
+'ecf3b73558',extremes,Snow&Ice,#d60d2b,wmo,nieve españa,2026-02-07T04:19:00+00:00,Spain,0.706361706186345,1,3,es,MED,Europe
 '55e8cccd81',extremes,Earthquake,#870007,usgs,terremoto san juan,2026-01-31T04:16:00+00:00,Peru,0.7050660124392519,3,3,es,SWS,South-America
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,avalancha estados unidos,2026-02-11T04:41:00+00:00,United States,0.7022518012016501,1,3,es,CNA,North-America
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2026-02-16T04:38:00+00:00,Qatar,0.7001841854741774,1,2,es,ARP,Asia
@@ -50,19 +51,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '105ee03aff',extremes,Earthquake,#870007,usgs,terremoto el salvador,2026-01-29T04:18:00+00:00,El Salvador,0.6597600669433195,1,2,es,SCA,North-America
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-02-25T04:32:00+00:00,Spain,0.6595429851277991,1,3,es,MED,Europe
 'd2b3cefe08',extremes,Precipitation,#d60d2b,wmo,precipitación costa rica,2026-02-03T04:27:00+00:00,Costa Rica,0.6592710687180048,2,1,es,SCA,North-America
-'531f521f39',extremes,Snow&Ice,#d60d2b,wmo,heladas estados unidos,2026-02-05T04:27:00+00:00,United States,0.6586606356814174,1,3,es,CNA,North-America
 '98923c99f8',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial litoral,2026-02-18T04:34:00+00:00,Ecuador,0.6575963508226218,4,1,es,NWS,South-America
-'6024419758',extremes,Storm,#b3b2b1,wmo,tormenta ashe alleghany watauga,2026-01-30T04:21:00+00:00,United States,0.6572627231399172,0,1,es,CNA,North-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,nieve estados unidos,2026-02-05T04:27:00+00:00,United States,0.6568194333098042,1,3,es,CNA,North-America
-'68e0f3d6ed',extremes,Earthquake,#870007,usgs,terremoto macas,2026-02-13T04:33:00+00:00,Ecuador,0.655561229681182,0,1,es,NWS,South-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2026-02-25T04:32:00+00:00,Chile,0.6553211899556741,1,2,es,SWS,South-America
 '9b0be5e406',extremes,Drought,#edc291,edo,sequía en colombia,2026-02-05T04:28:00+00:00,Colombia,0.6550667213198301,1,2,es,NWS,South-America
-'3edf190b65',extremes,Flood,#030ba1,wmo,inundaciones este de Carteret,2026-01-30T04:21:00+00:00,United States,0.6547643083624237,0,1,es,CNA,North-America
-'ecf3b73558',extremes,Snow&Ice,#d60d2b,wmo,nieve españa,2026-02-07T04:19:00+00:00,Spain,0.6540603302727054,0,1,es,MED,Europe
 '56dca2743f',extremes,Drought,#edc291,edo,sequía en guinea ecuatorial,2026-02-06T04:28:00+00:00,Equatorial Guinea,0.6540092020118211,1,1,es,WAF,Africa
 'd1b13d8307',extremes,Tsunami,#690191,usgs,tsunami estados unidos,2026-02-14T04:21:00+00:00,United States,0.6533307331112786,0,1,es,NWN,North-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-02-05T04:27:00+00:00,Argentina,0.6523740080936421,1,2,es,SES,South-America
-'e779a4acd4',extremes,Storm,#b3b2b1,wmo,tormenta adak al lado del pacífico de kiska,2026-02-05T04:27:00+00:00,United States,0.6513611045114417,0,1,es,CNA,North-America
 'ef1ccadc9e',extremes,Drought,#edc291,edo,sequía venezuela,2026-02-15T04:35:00+00:00,Venezuela,0.6512563900911784,0,1,es,NSA,South-America
 'e7571d972b',extremes,Earthquake,#870007,usgs,terremoto londres,2026-02-11T04:41:00+00:00,Argentina,0.6507310406418065,0,1,es,SES,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-02-25T04:32:00+00:00,Argentina,0.6501799534357924,1,2,es,SES,South-America
@@ -279,8 +274,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e84e180072',extremes,Flood,#030ba1,wmo,inundación reinas del sur sur de nassau,2026-02-01T04:41:00+00:00,United States,0.5617125342086017,1,1,es,CNA,North-America
 '528eb18ef2',extremes,Snow Avalanche,#deddd5,wmo,cordillera del río oso avalancha,2026-02-18T04:34:00+00:00,United States,0.5607886414538416,1,1,es,CNA,North-America
 '117f2e1e78',extremes,Flood,#030ba1,wmo,inundación costera hancock costera washington,2026-02-02T04:36:00+00:00,United States,0.5599401263338374,1,1,es,CNA,North-America
+'531f521f39',extremes,Snow&Ice,#d60d2b,wmo,heladas estados unidos,2026-02-05T04:27:00+00:00,United States,0.5598619153292048,2,2,es,CNA,North-America
 '99b4d7585f',extremes,Flood,#030ba1,wmo,inundación del distrito de entrada de ketchikan,2026-02-04T04:21:00+00:00,United States,0.5597278140539398,1,1,es,CNA,North-America
 'da213c6a76',extremes,Flood,#030ba1,wmo,inundación repentina océano océano costero,2026-02-01T04:41:00+00:00,United States,0.5587397010436572,1,1,es,CNA,North-America
+'6024419758',extremes,Storm,#b3b2b1,wmo,tormenta ashe alleghany watauga,2026-01-30T04:21:00+00:00,United States,0.5586733146689296,1,1,es,CNA,North-America
 '17065d269f',extremes,Drought,#edc291,edo,falta de lluvia honduras,2026-02-06T04:28:00+00:00,Honduras,0.5580454529017398,1,1,es,SCA,North-America
+'68e0f3d6ed',extremes,Earthquake,#870007,usgs,terremoto macas,2026-02-13T04:33:00+00:00,Ecuador,0.5572270452290047,1,1,es,NWS,South-America
+'3edf190b65',extremes,Flood,#030ba1,wmo,inundaciones este de Carteret,2026-01-30T04:21:00+00:00,United States,0.5565496621080601,1,1,es,CNA,North-America
 'cf6542710b',extremes,Fog,#d60d2b,wmo,niebla dos puertos hasta duluth mn,2026-02-17T04:31:00+00:00,United States,0.5563636705527326,1,1,es,CNA,North-America
 '068cadc42f',extremes,Snow&Ice,#d60d2b,wmo,heladas canal norte de lynn,2026-02-17T04:31:00+00:00,United States,0.5547652401580647,1,1,es,CNA,North-America
+'e779a4acd4',extremes,Storm,#b3b2b1,wmo,tormenta adak al lado del pacífico de kiska,2026-02-05T04:27:00+00:00,United States,0.5536569388347254,1,1,es,CNA,North-America
