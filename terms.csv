@@ -16,6 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,tormenta litoral,2026-02-19T04:32:00+00:00,Ecuador,0.7268604370551868,1,3,es,NWS,South-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,inundaciones estados unidos,2026-02-07T04:19:00+00:00,United States,0.72399240100864,1,3,es,CNA,North-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-02-05T04:27:00+00:00,Argentina,0.7234132622370949,1,3,es,SES,South-America
+'7b864c9f0d',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial sierra,2026-03-08T04:24:00+00:00,Ecuador,0.7232121528694385,0,1,es,NWS,South-America
 'd716590c30',extremes,Storm,#b3b2b1,wmo,tormenta regiones pacífico norte.,2026-01-30T04:21:00+00:00,Costa Rica,0.7193292631477789,2,2,es,SCA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,hielo estados unidos,2026-02-05T04:27:00+00:00,United States,0.718584775518326,1,3,es,CNA,North-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2026-02-05T04:27:00+00:00,United States,0.7184880247809518,1,3,es,CNA,North-America
@@ -26,6 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '30406c7856',extremes,Flood,#030ba1,cmeter,inundaciones en brasil,2026-03-07T04:13:00+00:00,Brazil,0.7062985654823638,1,3,es,SES,South-America
 '55e8cccd81',extremes,Earthquake,#870007,usgs,terremoto san juan,2026-01-31T04:16:00+00:00,Peru,0.7050660124392519,3,3,es,SWS,South-America
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,avalancha estados unidos,2026-02-11T04:41:00+00:00,United States,0.7022518012016501,1,3,es,CNA,North-America
+'5e67a6e3c8',extremes,Earthquake,#870007,usgs,terremoto coquimbo,2026-03-05T04:23:00+00:00,Chile,0.7016992969295586,0,1,es,SWS,South-America
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2026-02-16T04:38:00+00:00,Qatar,0.7001841854741774,1,2,es,ARP,Asia
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,tormenta estados unidos,2026-02-05T04:27:00+00:00,United States,0.6954076941065317,1,3,es,CNA,North-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,lluvia ecuador,2026-01-28T03:56:00+00:00,Ecuador,0.6945900757610748,2,2,es,NWS,South-America
@@ -35,6 +37,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d68920b56',extremes,Earthquake,#870007,usgs,terremoto nicaragua,2026-02-25T04:32:00+00:00,Nicaragua,0.6894960161382184,1,2,es,SCA,North-America
 '2f51d04c0e',extremes,Fog,#d60d2b,wmo,niebla españa,2026-02-24T04:31:00+00:00,Spain,0.6872253128379568,2,3,es,MED,Europe
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,ola de calor brasil,2026-02-03T04:27:00+00:00,Brazil,0.6852231654676165,1,2,es,SAM,South-America
+'e802bd5660',extremes,Earthquake,#870007,usgs,terremoto chirilagua,2026-03-05T04:23:00+00:00,El Salvador,0.6839259704245694,0,1,es,SCA,North-America
 '87f28505d1',extremes,Snow Avalanche,#deddd5,wmo,avalancha españa,2026-01-18T03:57:00+00:00,Spain,0.6829422449509203,2,3,es,MED,Europe
 'd2e515b87c',extremes,Flood,#030ba1,cmeter,inundación colombia,2026-02-22T04:31:00+00:00,Colombia,0.6817853912672547,2,1,es,NWS,South-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-02-25T04:32:00+00:00,Chile,0.6803000081017703,1,2,es,SWS,South-America
