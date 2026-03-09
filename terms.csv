@@ -49,7 +49,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c67ec160f8',extremes,Precipitation,#d60d2b,wmo,lluvia loja.,2026-03-05T04:24:00+00:00,Ecuador,0.6672593649319887,2,2,es,NWS,South-America
 'c459c88eba',extremes,Snow&Ice,#d60d2b,wmo,españa helada,2026-02-06T04:27:00+00:00,Spain,0.6664532372653068,1,3,es,MED,Europe
 'a471dde55c',extremes,Drought,#edc291,edo,sequía cuba,2026-01-24T03:49:00+00:00,Cuba,0.6648327250914118,1,2,es,CAR,North-America
-'bcd636d08e',extremes,Tsunami,#690191,usgs,tsunami puerto rico,2026-02-20T04:27:00+00:00,Puerto Rico,0.6646914444729318,0,1,es,CAR,North-America
 'c0844bdd35',extremes,Storm,#b3b2b1,wmo,tormenta santa elena.,2026-03-03T04:27:00+00:00,Ecuador,0.6632571935455391,2,1,es,NWS,South-America
 '105ee03aff',extremes,Earthquake,#870007,usgs,terremoto el salvador,2026-01-29T04:18:00+00:00,El Salvador,0.6597600669433195,1,2,es,SCA,North-America
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-02-25T04:32:00+00:00,Spain,0.6595429851277991,1,3,es,MED,Europe
@@ -259,6 +258,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '82e69a1846',extremes,Tsunami,#690191,usgs,lagos de pradera de tsunami,2026-02-11T04:41:00+00:00,United States,0.565934639535796,1,1,es,NWN,North-America
 '2879268265',extremes,Flood,#030ba1,wmo,lago de inundación ca mendocino ca,2026-02-25T04:32:00+00:00,United States,0.5658015969502647,1,1,es,CNA,North-America
 '6993b1660a',extremes,Flood,#030ba1,wmo,inundaciones oahu en honolulu hola,2026-02-22T04:30:00+00:00,United States,0.5657242871749067,1,1,es,CNA,North-America
+'bcd636d08e',extremes,Tsunami,#690191,usgs,tsunami puerto rico,2026-02-20T04:27:00+00:00,Puerto Rico,0.565587787801992,1,1,es,CAR,North-America
 '1e5ab33128',extremes,Flood,#030ba1,wmo,inundación suroeste suffolk sur nassau,2026-02-21T04:18:00+00:00,United States,0.5655422338937304,1,1,es,CNA,North-America
 'e1048c4180',extremes,Drought,#edc291,edo,sequedad uruguay,2026-02-07T04:19:00+00:00,Uruguay,0.5646280222778947,1,1,es,SES,South-America
 'cfa09d05e0',extremes,Wildfire,#d60d2b,emdat,incendio forestal los rios,2026-02-05T04:28:00+00:00,Chile,0.5633682968139176,1,1,es,SWS,South-America
