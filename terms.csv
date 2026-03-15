@@ -2,7 +2,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-02-25T04:32:00+00:00,Chile,0.7650575133170874,1,2,es,SWS,South-America
 'fa90f6f8d4',extremes,Storm,#b3b2b1,wmo,tormenta insular,2026-03-11T04:22:00+00:00,Ecuador,0.7598012577232625,2,2,es,NWS,South-America
 '9330418237',extremes,Precipitation,#d60d2b,wmo,lluvia uruguay,2026-02-24T04:31:00+00:00,Uruguay,0.7488072924787121,1,3,es,SES,South-America
-'9a8f6bd767',extremes,Earthquake,#870007,usgs,terremoto argelia,2026-03-12T04:25:00+00:00,Colombia,0.7461947453834297,1,2,es,NWS,South-America
 '30e68a3b40',extremes,Storm,#b3b2b1,wmo,tormenta sierra litoral,2026-02-08T04:43:00+00:00,Ecuador,0.7409652371909582,1,2,es,NWS,South-America
 '5c6845871b',extremes,Drought,#edc291,edo,sequía en méxico,2026-02-17T04:31:00+00:00,Mexico,0.7389101979914139,1,3,es,NCA,North-America
 '76196dc5e1',extremes,Earthquake,#870007,usgs,terremoto guatemala,2026-02-24T04:30:00+00:00,Guatemala,0.7386134278416341,1,2,es,SCA,North-America
@@ -25,8 +24,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '55e8cccd81',extremes,Earthquake,#870007,usgs,terremoto san juan,2026-01-31T04:16:00+00:00,Peru,0.7050660124392519,3,3,es,SWS,South-America
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,avalancha estados unidos,2026-02-11T04:41:00+00:00,United States,0.7022518012016501,1,3,es,CNA,North-America
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2026-02-16T04:38:00+00:00,Qatar,0.7001841854741774,1,2,es,ARP,Asia
+'b55290ca0d',extremes,Drought,#edc291,edo,sequía argentina,2026-02-28T04:07:00+00:00,Argentina,0.6984429540031387,1,3,es,SES,South-America
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,tormenta estados unidos,2026-02-05T04:27:00+00:00,United States,0.6954076941065317,1,3,es,CNA,North-America
-'b55290ca0d',extremes,Drought,#edc291,edo,sequía argentina,2026-02-28T04:07:00+00:00,Argentina,0.6928787052443344,0,1,es,SES,South-America
 '7d68920b56',extremes,Earthquake,#870007,usgs,terremoto nicaragua,2026-02-25T04:32:00+00:00,Nicaragua,0.6894960161382184,1,2,es,SCA,North-America
 '2f51d04c0e',extremes,Fog,#d60d2b,wmo,niebla españa,2026-02-24T04:31:00+00:00,Spain,0.6872253128379568,2,3,es,MED,Europe
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,ola de calor brasil,2026-02-03T04:27:00+00:00,Brazil,0.6852231654676165,1,2,es,SAM,South-America
@@ -43,7 +42,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c0844bdd35',extremes,Storm,#b3b2b1,wmo,tormenta santa elena.,2026-03-03T04:27:00+00:00,Ecuador,0.6632571935455391,2,1,es,NWS,South-America
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,aguacero ecuador,2026-03-09T04:31:00+00:00,Ecuador,0.6600991158074572,2,1,es,NWS,South-America
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-02-25T04:32:00+00:00,Spain,0.6595429851277991,1,3,es,MED,Europe
-'2696c78a02',extremes,Heat Wave,#c40202,wmo,ola de calor costa de malibu,2026-03-15T04:45:00+00:00,United States,0.6579507674732779,0,1,es,CNA,North-America
 '98923c99f8',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial litoral,2026-02-18T04:34:00+00:00,Ecuador,0.6575963508226218,4,1,es,NWS,South-America
 'd96d10a52c',extremes,Earthquake,#870007,usgs,terremoto huabal,2026-03-08T04:24:00+00:00,Peru,0.6573091226184611,0,1,es,NWS,South-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,nieve estados unidos,2026-02-05T04:27:00+00:00,United States,0.6568194333098042,1,3,es,CNA,North-America
@@ -100,6 +98,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd61de81685',extremes,Storm,#b3b2b1,wmo,marejada ciclónica chile,2026-03-03T04:27:00+00:00,Chile,0.6348450407231482,1,1,es,SWS,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-03-09T04:31:00+00:00,Ecuador,0.6348292197674015,1,1,es,NWS,South-America
 '5f8393ea03',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral y estribación,2026-03-12T04:26:00+00:00,Ecuador,0.6346727542648315,1,1,es,NWS,South-America
+'9a8f6bd767',extremes,Earthquake,#870007,usgs,terremoto argelia,2026-03-12T04:25:00+00:00,Colombia,0.6342655485759152,2,1,es,NWS,South-America
 '8f8310fd42',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial cordoba san justo tulumba.,2026-02-27T04:26:00+00:00,Argentina,0.6338379018440045,1,1,es,SES,South-America
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial ecuador,2026-02-27T04:26:00+00:00,Ecuador,0.6326106216275824,1,1,es,NWS,South-America
 '0ff38a87d7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica sucumbíos orellana y pastaza.,2026-03-06T04:21:00+00:00,Ecuador,0.6322554384695227,1,1,es,NWS,South-America
@@ -268,6 +267,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fb2e52d1fa',extremes,Flood,#030ba1,wmo,inundación repentina lawrence en martin en,2026-03-06T04:21:00+00:00,United States,0.559482940823433,1,1,es,CNA,North-America
 '344f3f54af',extremes,Snow Avalanche,#deddd5,wmo,avalancha cordillera caribú montañas de gran agujero,2026-02-25T04:32:00+00:00,United States,0.5594666012731637,1,1,es,CNA,North-America
 '179db1ae1a',extremes,Thunderstorm,#53785a,wmo,granizo دولة قطر,2026-03-09T04:31:00+00:00,Qatar,0.5593047998042764,1,1,es,ARP,Asia
+'2696c78a02',extremes,Heat Wave,#c40202,wmo,ola de calor costa de malibu,2026-03-15T04:45:00+00:00,United States,0.5592581523522862,1,1,es,CNA,North-America
 'cc9c315c8c',extremes,Earthquake,#870007,usgs,terremoto puerto madero,2026-03-05T04:23:00+00:00,Mexico,0.55921842984092,1,1,es,SCA,North-America
 '97800b2ead',extremes,Flood,#030ba1,wmo,inundación repentina crawford mo washington mo,2026-03-06T04:21:00+00:00,United States,0.559182435033788,1,1,es,CNA,North-America
 'be41680ba8',extremes,Flood,#030ba1,wmo,inundación crawford mo washington mo,2026-03-07T04:12:00+00:00,United States,0.5590643550238299,1,1,es,CNA,North-America
