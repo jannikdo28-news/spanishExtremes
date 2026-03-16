@@ -9,7 +9,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-02-26T04:28:00+00:00,Chile,0.7368244209525204,1,2,es,SWS,South-America
 '58f77fa85f',extremes,Thunderstorm,#53785a,wmo,granizo españa,2026-01-31T04:16:00+00:00,Spain,0.7351326655651081,1,3,es,MED,Europe
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-02-13T04:34:00+00:00,Paraguay,0.7339978629431838,1,2,es,SES,South-America
-'5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,estados unidos helados,2026-02-05T04:27:00+00:00,United States,0.7277425925601309,1,3,es,CNA,North-America
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,tormenta litoral,2026-02-19T04:32:00+00:00,Ecuador,0.7268604370551868,1,3,es,NWS,South-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,inundaciones estados unidos,2026-02-07T04:19:00+00:00,United States,0.72399240100864,1,3,es,CNA,North-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-02-05T04:27:00+00:00,Argentina,0.7234132622370949,1,3,es,SES,South-America
@@ -83,6 +82,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5f8393ea03',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral y estribación,2026-03-12T04:26:00+00:00,Ecuador,0.6346727542648315,1,1,es,NWS,South-America
 '9a8f6bd767',extremes,Earthquake,#870007,usgs,terremoto argelia,2026-03-12T04:25:00+00:00,Colombia,0.6342655485759152,2,1,es,NWS,South-America
 '8f8310fd42',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial cordoba san justo tulumba.,2026-02-27T04:26:00+00:00,Argentina,0.6338379018440045,1,1,es,SES,South-America
+'5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,estados unidos helados,2026-02-05T04:27:00+00:00,United States,0.6334959093903969,2,3,es,CNA,North-America
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial ecuador,2026-02-27T04:26:00+00:00,Ecuador,0.6326106216275824,1,1,es,NWS,South-America
 '0ff38a87d7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica sucumbíos orellana y pastaza.,2026-03-06T04:21:00+00:00,Ecuador,0.6322554384695227,1,1,es,NWS,South-America
 '525fc683ca',extremes,Drought,#edc291,edo,falta de lluvia chile,2026-02-11T04:42:00+00:00,Chile,0.632049225839984,1,1,es,SPO,Pacific Ocean
