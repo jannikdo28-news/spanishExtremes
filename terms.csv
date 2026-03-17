@@ -97,7 +97,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2026-02-25T04:32:00+00:00,Chile,0.6279999480495733,2,1,es,SWS,South-America
 'a6e9427fb1',extremes,Earthquake,#870007,usgs,terremoto colombia,2026-02-12T04:36:00+00:00,Colombia,0.6275341986755004,2,3,es,NWS,South-America
 '01f4e3df7d',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial amazonía,2026-03-10T04:22:00+00:00,Ecuador,0.6270141818452433,1,1,es,NWS,South-America
-'6b892b36d0',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – moderada,2026-03-10T04:22:00+00:00,Paraguay,0.6268574205539846,1,1,es,SES,South-America
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,marejada ciclónica área 1 – severa,2026-03-12T04:26:00+00:00,Paraguay,0.6260083390773857,1,1,es,SES,South-America
 'c3159bb08e',extremes,Precipitation,#d60d2b,wmo,lluvia litoral y estribación.,2026-03-11T04:22:00+00:00,Ecuador,0.6249671053866683,1,1,es,NWS,South-America
 '5b7364c237',extremes,Earthquake,#870007,usgs,terremoto el cairo,2026-02-14T04:21:00+00:00,Colombia,0.6228089392639025,2,2,es,NWS,South-America
@@ -160,7 +159,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '83165b9da0',extremes,Earthquake,#870007,usgs,terremoto cochrane,2026-02-15T04:34:00+00:00,Chile,0.5795245076888815,1,1,es,SSA,South-America
 '0c9ce7bbc6',extremes,Earthquake,#870007,usgs,terremoto calingasta,2026-03-02T04:27:00+00:00,Argentina,0.5794787053174036,1,1,es,SWS,South-America
 '265d1fa94b',extremes,Earthquake,#870007,usgs,terremoto san alejandro,2026-02-17T04:31:00+00:00,Peru,0.5789248840501031,1,1,es,NWS,South-America
-'ec60b7df34',extremes,Heat Wave,#c40202,wmo,ola de calor estados unidos,2026-03-08T04:24:00+00:00,United States,0.5788510985543902,1,2,es,CNA,North-America
 'd1b13d8307',extremes,Tsunami,#690191,usgs,tsunami estados unidos,2026-02-14T04:21:00+00:00,United States,0.578463676326405,1,2,es,NWN,North-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2026-02-07T04:19:00+00:00,Brazil,0.5782545102281973,1,1,es,SAM,South-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica brasil,2026-02-07T04:19:00+00:00,Brazil,0.578251447897802,1,1,es,SAM,South-America
@@ -211,7 +209,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '628133d3e6',extremes,Earthquake,#870007,usgs,terremoto carahue,2026-03-10T04:21:00+00:00,Chile,0.5676399875838605,1,1,es,SWS,South-America
 'a60f2d695c',extremes,Flood,#030ba1,wmo,inundación josephine o,2026-02-25T04:32:00+00:00,United States,0.5667707886462919,1,1,es,CNA,North-America
 '69614e98b2',extremes,Storm,#b3b2b1,wmo,marejada ciclónica estrecho helado,2026-03-10T04:22:00+00:00,United States,0.5667662573914443,1,1,es,CNA,North-America
-'4d215a9178',extremes,Storm,#b3b2b1,wmo,tormenta sonido frederick,2026-03-13T04:25:00+00:00,United States,0.5667125605275718,1,1,es,CNA,North-America
 '75239cb2ef',extremes,Flood,#030ba1,wmo,inundaciones en las playas de Maryland Accomack,2026-02-23T04:37:00+00:00,United States,0.5666092087183868,1,1,es,CNA,North-America
 '86bfa6470b',extremes,Flood,#030ba1,wmo,inundación repentina norfolk portsmouth virginia beach,2026-02-23T04:37:00+00:00,United States,0.5663529252375623,1,1,es,CNA,North-America
 'ca71b12deb',extremes,Flood,#030ba1,wmo,inundación repentina guam rota tinian saipan,2026-02-25T04:32:00+00:00,United States,0.5661712439400074,1,1,es,CNA,North-America
@@ -224,7 +221,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '027da6a4db',extremes,Storm,#b3b2b1,wmo,marejada ciclónica estrecho de clarence,2026-03-11T04:22:00+00:00,United States,0.5647344129313304,1,1,es,CNA,North-America
 'e1048c4180',extremes,Drought,#edc291,edo,sequedad uruguay,2026-02-07T04:19:00+00:00,Uruguay,0.5646280222778947,1,1,es,SES,South-America
 '4d422738b1',extremes,Earthquake,#870007,usgs,terremoto palca,2026-03-10T04:21:00+00:00,Chile,0.5645848265712149,1,1,es,SWS,South-America
-'98ef8fca7b',extremes,Flood,#030ba1,wmo,inundación repentina humboldt ca,2026-02-25T04:32:00+00:00,United States,0.5643705514335909,1,1,es,CNA,North-America
 'd5460f574c',extremes,Snow Avalanche,#deddd5,wmo,avalancha región glaciar oeste,2026-02-23T04:37:00+00:00,United States,0.564348021003043,1,1,es,CNA,North-America
 '8fbc3ccce0',extremes,Fog,#d60d2b,wmo,niebla puerto de charleston,2026-03-02T04:27:00+00:00,United States,0.5643346527155116,1,1,es,CNA,North-America
 '757bf9a81d',extremes,Flood,#030ba1,wmo,inundación repentina dekalb ga,2026-02-27T04:26:00+00:00,United States,0.5639590629311703,1,1,es,CNA,North-America
@@ -302,5 +298,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4079790e60',extremes,Storm,#b3b2b1,wmo,marejada ciclónica cordoba gral roca rio cuarto.,2026-03-02T04:27:00+00:00,Argentina,0.5396557363787895,2,1,es,SES,South-America
 '5f8393ea03',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral y estribación,2026-03-12T04:26:00+00:00,Ecuador,0.5394718411251067,2,1,es,NWS,South-America
 '0ff38a87d7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica sucumbíos orellana y pastaza.,2026-03-06T04:21:00+00:00,Ecuador,0.5374171226990943,2,1,es,NWS,South-America
+'6b892b36d0',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – moderada,2026-03-10T04:22:00+00:00,Paraguay,0.5328288074708869,2,1,es,SES,South-America
 'ba524fb248',extremes,Storm,#b3b2b1,wmo,marejada ciclónica insular,2026-03-13T04:25:00+00:00,Ecuador,0.5316876298971823,2,1,es,NWS,South-America
 '4af88ada15',extremes,Earthquake,#870007,usgs,terremoto barranca,2026-02-23T04:36:00+00:00,Peru,0.509759883002855,2,1,es,NWS,South-America
+'ec60b7df34',extremes,Heat Wave,#c40202,wmo,ola de calor estados unidos,2026-03-08T04:24:00+00:00,United States,0.49472370377123165,2,2,es,CNA,North-America
+'4d215a9178',extremes,Storm,#b3b2b1,wmo,tormenta sonido frederick,2026-03-13T04:25:00+00:00,United States,0.48170567644843604,2,1,es,CNA,North-America
+'98ef8fca7b',extremes,Flood,#030ba1,wmo,inundación repentina humboldt ca,2026-02-25T04:32:00+00:00,United States,0.4797149687185523,2,1,es,CNA,North-America
