@@ -43,6 +43,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c67ec160f8',extremes,Precipitation,#d60d2b,wmo,lluvia loja.,2026-03-05T04:24:00+00:00,Ecuador,0.6672593649319887,2,2,es,NWS,South-America
 'c459c88eba',extremes,Snow&Ice,#d60d2b,wmo,españa helada,2026-02-06T04:27:00+00:00,Spain,0.6664532372653068,1,3,es,MED,Europe
 'c0844bdd35',extremes,Storm,#b3b2b1,wmo,tormenta santa elena.,2026-03-03T04:27:00+00:00,Ecuador,0.6632571935455391,2,1,es,NWS,South-America
+'c7448ebd33',extremes,Earthquake,#870007,usgs,terremoto comején,2026-03-16T05:04:00+00:00,Mexico,0.6619013512822429,0,1,es,SCA,North-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-03-09T04:31:00+00:00,Ecuador,0.6603549118022912,2,2,es,NWS,South-America
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,aguacero ecuador,2026-03-09T04:31:00+00:00,Ecuador,0.6600991158074572,2,1,es,NWS,South-America
 '8bd48e7016',extremes,Storm,#b3b2b1,wmo,tormenta litoral y sierra,2026-03-08T04:24:00+00:00,Ecuador,0.6599042015480932,2,2,es,NWS,South-America
@@ -52,8 +53,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9b0be5e406',extremes,Drought,#edc291,edo,sequía en colombia,2026-02-05T04:28:00+00:00,Colombia,0.6550667213198301,1,2,es,NWS,South-America
 '471cc2e78f',extremes,Precipitation,#d60d2b,wmo,lluvias torrenciales litoral y sierra.,2026-03-08T04:24:00+00:00,Ecuador,0.6546479919906735,2,1,es,NWS,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-02-05T04:27:00+00:00,Argentina,0.6523740080936421,1,2,es,SES,South-America
+'2293c26d43',extremes,Flood,#030ba1,wmo,inundación repentina hamilton oh,2026-03-06T04:21:00+00:00,United States,0.6512865069836025,0,1,es,CNA,North-America
+'8866871f34',extremes,Flood,#030ba1,wmo,inundación burke ga emanuel ga jenkins ga,2026-03-03T04:27:00+00:00,United States,0.6510962735789163,0,1,es,CNA,North-America
+'6340f0b14d',extremes,Drought,#edc291,edo,sequía mexico,2026-03-02T04:27:00+00:00,Mexico,0.6506417791795633,0,1,es,NCA,North-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-02-25T04:32:00+00:00,Argentina,0.6501799534357924,1,2,es,SES,South-America
+'d43f2c5c0b',extremes,Flood,#030ba1,wmo,inundación repentina daviess en greene en knox en,2026-03-06T04:21:00+00:00,United States,0.6487422655314428,0,1,es,CNA,North-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-02-05T04:27:00+00:00,Argentina,0.6483148901150366,1,1,es,SES,South-America
+'94a7350fbb',extremes,Storm,#b3b2b1,wmo,tormenta bahía glaciar,2026-03-11T04:22:00+00:00,United States,0.6482153559235807,0,1,es,CNA,North-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-03-03T04:27:00+00:00,Argentina,0.6449619586957651,2,1,es,SES,South-America
 '930b9adc51',extremes,Drought,#edc291,edo,sequedad argentina,2026-02-22T04:31:00+00:00,Argentina,0.6449395686019224,2,2,es,SES,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2026-02-27T04:26:00+00:00,Argentina,0.6445975182223553,1,1,es,SES,South-America
