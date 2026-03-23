@@ -1,219 +1,386 @@
 ,phrase,label,sentiment,subjectivity,language,count
-AEMET,AEMET,ORG,0.22986228404261197,0.6686634100568528,en,18.299999999999994
-AP,AP,ORG,0.06576616161616157,0.7482020202020199,en,12.500000000000005
-the State Meteorological Agency,the State Meteorological Agency,ORG,0.08730102899745758,0.5222211485604342,en,8.4
-The State Meteorological Agency,The State Meteorological Agency,ORG,0.11543803418803417,0.6063034188034188,en,5.2
+AP,AP,ORG,0.06800140005497148,0.7515544904830616,en,21.00000000000001
+AEMET,AEMET,ORG,0.19797930039309355,0.6304946011842565,en,20.299999999999994
+the State Meteorological Agency,the State Meteorological Agency,ORG,0.058579961101700224,0.48100382709078343,en,11.500000000000004
+Trump,Trump,ORG,0.26282406731844943,0.5052166934189408,en,8.899999999999997
+Inumet,Inumet,ORG,0.2839285714285714,0.34226190476190477,en,7.0
+the National Seismological Center of the University of Chile,the National Seismological Center of the University of Chile,ORG,-0.06779661016949151,0.2076271186440678,en,5.9
+Almería,Almería,ORG,-0.026293103448275863,0.40301724137931033,en,5.8
+The State Meteorological Agency,The State Meteorological Agency,ORG,0.10156565656565655,0.6338383838383839,en,5.5
 Sierra,Sierra,ORG,0.04198717948717949,0.5802350427350427,en,5.2
-Inumet,Inumet,ORG,0.296875,0.33645833333333336,en,4.0
-Trump,Trump,ORG,0.2970632970632971,0.7760617760617763,en,3.6999999999999993
+CCAA,CCAA,ORG,0.1771988174427199,0.7200665188470067,en,4.1
+Ceuta,Ceuta,ORG,0.08321123321123323,0.663003663003663,en,3.8999999999999995
 l/m2,l/m2,ORG,0.1715686274509804,0.48774509803921573,en,3.3999999999999995
 the Community of Madrid,the Community of Madrid,ORG,0.2902892561983471,0.615358126721763,en,3.3
-CCAA,CCAA,ORG,0.1680107526881721,0.6895161290322582,en,3.0999999999999996
-Almería,Almería,ORG,-0.0008620689655172421,0.23706896551724138,en,2.9
-Amazon,Amazon,ORG,-0.07051282051282051,0.16025641025641027,en,2.6
+Huesca,Huesca,ORG,-0.23737373737373738,0.3787878787878788,en,3.3
+Amazon,Amazon,ORG,0.25520833333333337,0.44270833333333337,en,3.1999999999999997
+Cádiz,Cádiz,ORG,0.06171875000000003,0.30859375000000006,en,3.1999999999999993
+Apple,Apple,ORG,0.3257086999022483,0.6106060606060607,en,3.0999999999999996
+DGT,DGT,ORG,0.07896825396825399,0.04761904761904762,en,2.9999999999999996
+iPhone,iPhone,ORG,0.14264069264069262,0.4812229437229438,en,2.8
+the Valencian Community,the Valencian Community,ORG,0.17336309523809526,0.7299107142857144,en,2.8
 EMILIE MEGNIEN,EMILIE MEGNIEN,ORG,0.046794871794871816,0.33974358974358976,en,2.6
-Huesca,Huesca,ORG,-0.20512820512820512,0.15384615384615385,en,2.6
-Ceuta,Ceuta,ORG,0.01904761904761904,0.5425824175824177,en,2.5999999999999996
-Apple,Apple,ORG,0.39321212121212124,0.6218181818181818,en,2.5
-Cádiz,Cádiz,ORG,0.1130434782608696,0.3478260869565218,en,2.3
-iPhone,iPhone,ORG,0.16942148760330575,0.45867768595041314,en,2.2
-Mercosur,Mercosur,ORG,0.08044938016528926,0.46590909090909083,en,2.2
+Mercosur,Mercosur,ORG,0.08079545454545456,0.51,en,2.5
+State,State,ORG,-0.1171875,0.15625,en,2.4
+NATO,NATO,ORG,-0.23958333333333331,0.10416666666666667,en,2.4
+Meteored,Meteored,ORG,0.15845959595959597,0.30303030303030304,en,2.4
+The National Geographic Institute,The National Geographic Institute,ORG,0.09090909090909091,0.3409090909090909,en,2.2
+El País,El País,ORG,-0.10950413223140494,0.9891528925619835,en,2.2
+Elon Musk,Elon Musk,ORG,-0.008771929824561415,0.6140350877192982,en,1.9000000000000004
+EU,EU,ORG,0.35383771929824565,0.8552631578947368,en,1.9000000000000001
+Senate,Senate,ORG,0.3333333333333333,0.3859649122807017,en,1.9000000000000001
+Goya,Goya,ORG,-0.18631578947368418,0.7110526315789473,en,1.9000000000000001
 Google,Google,ORG,0.18571428571428567,0.8703007518796992,en,1.9000000000000001
-Smoke,Smoke,ORG,0.0,0.0,en,1.7
-DGT,DGT,ORG,0.18137254901960786,0.0,en,1.7
-Salamanca,Salamanca,ORG,-0.4117647058823529,0.5882352941176471,en,1.7
-the Milan-Cortina,the Milan-Cortina,ORG,-0.8235294117647057,0.39215686274509803,en,1.7
 NOAA,NOAA,ORG,0.0,0.0,en,1.7
-GPS,GPS,ORG,0.0,0.0,en,1.7
-Kristin,Kristin,ORG,0.0784313725490196,0.0,en,1.7
-Castellón,Castellón,ORG,0.1370586113233172,0.3081232492997199,en,1.7
-the Madrid Sierra,the Madrid Sierra,ORG,0.3088235294117647,0.11274509803921567,en,1.7
-Ceará,Ceará,ORG,0.11764705882352942,0.05882352941176471,en,1.7
 Associated Press MADRID,Associated Press MADRID,ORG,0.026143790849673193,0.029411764705882356,en,1.7
-Elon Musk,Elon Musk,ORG,-0.11458333333333331,0.5208333333333333,en,1.6000000000000003
-El País,El País,ORG,-0.19744318181818182,0.8913352272727273,en,1.6
+Ceará,Ceará,ORG,0.11764705882352942,0.05882352941176471,en,1.7
+Smoke,Smoke,ORG,0.0,0.0,en,1.7
+Salamanca,Salamanca,ORG,-0.4117647058823529,0.5882352941176471,en,1.7
+DANA,DANA,ORG,0.0,0.0,en,1.7
+Aemet,Aemet,ORG,0.1372549019607843,0.4313725490196078,en,1.7
+RM,RM,ORG,-0.03676470588235294,0.29411764705882354,en,1.7
+Castellón,Castellón,ORG,0.1370586113233172,0.3081232492997199,en,1.7
+the Milan-Cortina,the Milan-Cortina,ORG,-0.8235294117647057,0.39215686274509803,en,1.7
+GPS,GPS,ORG,0.0,0.0,en,1.7
+Autonomous Communities,Autonomous Communities,ORG,0.2058823529411765,0.5,en,1.7
+SWOT,SWOT,ORG,0.3529411764705883,0.5882352941176471,en,1.7
+NASA,NASA,ORG,0.026143790849673193,0.4705882352941177,en,1.7
+The Storm Circuit,The Storm Circuit,ORG,0.26737967914438504,0.2740641711229947,en,1.7
+the Madrid Sierra,the Madrid Sierra,ORG,0.3088235294117647,0.11274509803921567,en,1.7
+Kristin,Kristin,ORG,0.0784313725490196,0.0,en,1.7
 Magnum,Magnum,ORG,0.09722222222222222,0.3854166666666666,en,1.6
-League of Legends,League of Legends,ORG,0.32386363636363635,0.39204545454545453,en,1.6
-EU,EU,ORG,-0.20481770833333332,0.390625,en,1.6
-La Menorquina,La Menorquina,ORG,0.0,0.0,en,1.6
 Tesla,Tesla,ORG,0.3501352813852813,0.4280483405483405,en,1.6
+Galicia,Galicia,ORG,0.18183170995670994,0.594345238095238,en,1.6
 Ben & Jerry's,Ben & Jerry's,ORG,0.09722222222222222,0.3854166666666666,en,1.6
+the Supreme Court,the Supreme Court,ORG,-0.078125,0.3125,en,1.6
 First Division,First Division,ORG,0.32812499999999994,0.8333333333333333,en,1.6
 Forest,Forest,ORG,-0.20833333333333331,0.20833333333333331,en,1.6
+Agency,Agency,ORG,0.03428819444444445,0.44140624999999994,en,1.6
+La Menorquina,La Menorquina,ORG,0.0,0.0,en,1.6
 the White House,the White House,ORG,-0.0625,0.0,en,1.6
+PSOE,PSOE,ORG,-0.15625,0.53125,en,1.6
+FBI,FBI,ORG,0.13541666666666666,0.4270833333333333,en,1.6
+League of Legends,League of Legends,ORG,0.32386363636363635,0.39204545454545453,en,1.6
+Starbucks,Starbucks,ORG,0.15625,0.18749999999999997,en,1.6
+Cáceres,Cáceres,ORG,-0.37499999999999994,0.0,en,1.6
 Carnival,Carnival,ORG,-0.06666666666666667,0.39999999999999997,en,1.5
+BBC,BBC,ORG,0.8928571428571428,0.39285714285714285,en,1.4000000000000001
+Instagram,Instagram,ORG,0.3571428571428571,1.0714285714285714,en,1.4000000000000001
 Chayanne,Chayanne,ORG,0.0,0.0,en,1.4
-the Valencian Community,the Valencian Community,ORG,0.18108974358974358,0.2259615384615384,en,1.3
-La Moneda,La Moneda,ORG,0.0,0.07692307692307693,en,1.3
-Melilla,Melilla,ORG,0.08237179487179487,0.2259615384615384,en,1.3
+Vanesa Aibar,Vanesa Aibar,ORG,0.0,0.0,en,1.3
+the European Commission,the European Commission,ORG,0.02622377622377622,0.038461538461538464,en,1.3
+the General Assembly,the General Assembly,ORG,0.15064102564102566,0.3846153846153846,en,1.3
+Quequé,Quequé,ORG,0.0,0.0,en,1.3
 the European Union,the European Union,ORG,0.07670454545454546,0.08741258741258741,en,1.3
-HUAWEI,HUAWEI,ORG,0.16736596736596737,0.25641025641025644,en,1.3
-Nacional,Nacional,ORG,0.0,0.0,en,1.3
 Sánchez,Sánchez,ORG,0.1923076923076923,0.0,en,1.3
+Durango,Durango,ORG,-0.23076923076923075,0.3589743589743589,en,1.3
 CC.AA,CC.AA,ORG,-0.044871794871794865,0.0,en,1.3
 FITUR,FITUR,ORG,1.5384615384615383,0.23076923076923075,en,1.3
-Coruña,Coruña,ORG,0.12564102564102564,0.4346153846153846,en,1.3
-El Español,El Español,ORG,0.1923076923076923,0.0,en,1.3
-Davos,Davos,ORG,0.09230769230769233,0.1846153846153846,en,1.3
-Nils,Nils,ORG,-0.038461538461538464,0.0,en,1.3
-Borden,Borden,ORG,0.0,0.0,en,1.3
-AFA,AFA,ORG,0.2062937062937063,0.44405594405594406,en,1.3
-OPPO,OPPO,ORG,0.3333333333333333,0.7692307692307692,en,1.3
-Durango,Durango,ORG,-0.23076923076923075,0.3589743589743589,en,1.3
-Quequé,Quequé,ORG,0.0,0.0,en,1.3
-Agency,Agency,ORG,-0.015491452991452987,0.2259615384615384,en,1.3
-Jeep,Jeep,ORG,0.25641025641025644,0.16987179487179485,en,1.3
-Storm Nils,Storm Nils,ORG,0.3333333333333333,0.5641025641025641,en,1.3
-Galicia,Galicia,ORG,0.07983682983682984,0.358974358974359,en,1.3
-the Great Pyramid,the Great Pyramid,ORG,0.8632478632478632,0.47008547008547,en,1.3
-Manaslu,Manaslu,ORG,0.06666666666666667,0.24871794871794872,en,1.3
-TVE,TVE,ORG,0.0,0.05128205128205128,en,1.3
-AI,AI,ORG,0.09615384615384615,0.1282051282051282,en,1.3
-Flood Hub,Flood Hub,ORG,0.15384615384615385,0.6923076923076923,en,1.3
-Rubén del Campo,Rubén del Campo,ORG,0.3698834498834499,0.3333333333333333,en,1.3
+Boca Juniors,Boca Juniors,ORG,0.0,0.0,en,1.3
+the State Agency,the State Agency,ORG,0.45164835164835165,0.3725274725274725,en,1.3
+Gallardo,Gallardo,ORG,0.0,0.0,en,1.3
 TSXG,TSXG,ORG,0.3846153846153846,0.3846153846153846,en,1.3
-Starbucks,Starbucks,ORG,0.1923076923076923,0.0,en,1.3
+UTDT,UTDT,ORG,0.3333333333333333,0.2564102564102564,en,1.3
+OPPO,OPPO,ORG,0.3333333333333333,0.7692307692307692,en,1.3
+UBA,UBA,ORG,0.3333333333333333,0.2564102564102564,en,1.3
+Davos,Davos,ORG,0.09230769230769233,0.1846153846153846,en,1.3
+Rubén del Campo,Rubén del Campo,ORG,0.3698834498834499,0.3333333333333333,en,1.3
+Flood Hub,Flood Hub,ORG,0.15384615384615385,0.6923076923076923,en,1.3
+Melilla,Melilla,ORG,0.08237179487179487,0.2259615384615384,en,1.3
+HUAWEI,HUAWEI,ORG,0.16736596736596737,0.25641025641025644,en,1.3
+Coruña,Coruña,ORG,0.12564102564102564,0.4346153846153846,en,1.3
+Nils,Nils,ORG,-0.038461538461538464,0.0,en,1.3
+El Español,El Español,ORG,0.1923076923076923,0.0,en,1.3
+Apple Watch,Apple Watch,ORG,0.02051282051282051,0.2602564102564102,en,1.3
+the State of the Union,the State of the Union,ORG,0.0,0.0,en,1.3
+TikTok,TikTok,ORG,0.07692307692307693,0.0,en,1.3
+Ferrari,Ferrari,ORG,0.0641025641025641,0.47008547008547,en,1.3
+the Great Pyramid,the Great Pyramid,ORG,0.8632478632478632,0.47008547008547,en,1.3
+AI,AI,ORG,0.09615384615384615,0.1282051282051282,en,1.3
+TVE,TVE,ORG,0.0,0.05128205128205128,en,1.3
 the Ministry of Labor,the Ministry of Labor,ORG,0.24358974358974356,0.358974358974359,en,1.3
+Netflix,Netflix,ORG,0.5384615384615384,0.3076923076923077,en,1.3
+Minion,Minion,ORG,-0.2692307692307693,0.1474358974358974,en,1.3
+Storm Nils,Storm Nils,ORG,0.3333333333333333,0.5641025641025641,en,1.3
+the Milan-Cortina Olympic Games,the Milan-Cortina Olympic Games,ORG,0.16666666666666666,0.11538461538461538,en,1.3
 Aragón,Aragón,ORG,0.11538461538461539,0.21794871794871792,en,1.3
-Vanesa Aibar,Vanesa Aibar,ORG,0.0,0.0,en,1.3
+Manaslu,Manaslu,ORG,0.06666666666666667,0.24871794871794872,en,1.3
+Yamaha,Yamaha,ORG,0.3269230769230769,0.43269230769230765,en,1.3
+Kast,Kast,ORG,0.17948717948717946,0.07692307692307693,en,1.3
+Real Madrid,Real Madrid,ORG,0.21367521367521367,0.11538461538461539,en,1.3
+MarketingDirecto.com,MarketingDirecto.com,ORG,0.28846153846153844,0.7692307692307692,en,1.3
+Nacional,Nacional,ORG,0.0,0.0,en,1.3
+AFA,AFA,ORG,0.2062937062937063,0.44405594405594406,en,1.3
+BYD,BYD,ORG,0.3409090909090909,0.5769230769230769,en,1.3
+Borden,Borden,ORG,0.0,0.0,en,1.3
+La Moneda,La Moneda,ORG,0.0,0.07692307692307693,en,1.3
+Jeep,Jeep,ORG,0.25641025641025644,0.16987179487179485,en,1.3
+HBO,HBO,ORG,0.4615384615384615,0.3076923076923077,en,1.3
 V16,V16,ORG,0.34375,0.734375,en,1.2000000000000002
-Renault,Renault,ORG,0.1957070707070707,0.21022727272727273,en,1.2
+Tini,Tini,ORG,0.0,0.4166666666666667,en,1.2
 WRX,WRX,ORG,0.0,0.0,en,1.2
 The Cantabrian Football Federation,The Cantabrian Football Federation,ORG,-0.20833333333333334,0.3125,en,1.2
-Tini,Tini,ORG,0.0,0.4166666666666667,en,1.2
-Instagram,Instagram,ORG,0.0,0.9090909090909091,en,1.1
+Renault,Renault,ORG,0.1957070707070707,0.21022727272727273,en,1.2
 CNI,CNI,ORG,-0.045454545454545456,0.0,en,1.1
 Toyota,Toyota,ORG,0.1239669421487603,0.4132231404958677,en,1.1
 iOS,iOS,ORG,0.1239669421487603,0.0,en,1.1
-BBC,BBC,ORG,1.1363636363636362,0.5,en,1.1
-the National Wine Institute,the National Wine Institute,ORG,0.0,0.0,en,1.0
-CJEU,CJEU,ORG,0.5,0.0,en,1.0
-La Niña,La Niña,ORG,0.0,0.0,en,1.0
-The Ministry of Ecological Transition,The Ministry of Ecological Transition,ORG,-0.16666666666666666,0.0,en,1.0
-the European Commission,the European Commission,ORG,0.03409090909090909,0.0,en,1.0
-The National Meteorological Institute of Brazil,The National Meteorological Institute of Brazil,ORG,0.0,0.0,en,1.0
-Rally Sweden,Rally Sweden,ORG,-0.05,0.0,en,1.0
-Aemet,Aemet,ORG,-0.2,0.0,en,1.0
-KAMILA HRABCHUK,KAMILA HRABCHUK,ORG,0.03125,0.0,en,1.0
-congress,congress,ORG,0.06666666666666672,0.0,en,1.0
-U22,U22,ORG,-0.30000000000000004,0.0,en,1.0
-El Niño,El Niño,ORG,0.0,0.0,en,1.0
-the Apertura Tournament,the Apertura Tournament,ORG,0.0,0.0,en,1.0
-the Best Chocolatier,the Best Chocolatier,ORG,0.75,0.0,en,1.0
-Alcalá de Henares,Alcalá de Henares,ORG,0.0,0.0,en,1.0
-the European Space Agency,the European Space Agency,ORG,0.0,0.0,en,1.0
-ºC,ºC,ORG,0.0,0.0,en,1.0
-The Xunta de Galicia,The Xunta de Galicia,ORG,0.5,0.0,en,1.0
-A24,A24,ORG,0.0,0.0,en,1.0
-Santander Bank,Santander Bank,ORG,0.4333333333333333,0.0,en,1.0
-the European Council,the European Council,ORG,0.03409090909090909,0.0,en,1.0
-Consell,Consell,ORG,-0.04924242424242424,0.0,en,1.0
-Carnivals,Carnivals,ORG,-0.6999999999999998,0.0,en,1.0
-Editorial Plan Panini,Editorial Plan Panini,ORG,0.0,0.0,en,1.0
-ChatGPT,ChatGPT,ORG,0.08333333333333333,0.0,en,1.0
-DANA,DANA,ORG,0.0,0.0,en,1.0
-El E,El E,ORG,0.5,0.0,en,1.0
-Commuter Plan,Commuter Plan,ORG,-0.04924242424242424,0.0,en,1.0
-the Valencian Government,the Valencian Government,ORG,0.0,0.0,en,1.0
-Science Advances,Science Advances,ORG,0.0,0.0,en,1.0
-Aragon,Aragon,ORG,0.25,0.0,en,1.0
-Magamers,Magamers,ORG,0.5,0.0,en,1.0
-The League of Legends,The League of Legends,ORG,0.5,0.0,en,1.0
-Sorraia,Sorraia,ORG,-0.2,0.0,en,1.0
-technoligarchs,technoligarchs,ORG,0.0,0.0,en,1.0
-UME,UME,ORG,-0.1,0.0,en,1.0
-the State Agency for Me,the State Agency for Me,ORG,0.18571428571428572,0.0,en,1.0
-The Military Emergency Unit,The Military Emergency Unit,ORG,-0.1,0.0,en,1.0
-Associated Press,Associated Press,ORG,0.0,0.0,en,1.0
-Marvel Spain Magazine,Marvel Spain Magazine,ORG,0.5,0.0,en,1.0
-Toyota Argentina,Toyota Argentina,ORG,0.06818181818181818,0.0,en,1.0
-MSP,MSP,ORG,-0.3333333333333333,0.0,en,1.0
-Yaris Cross,Yaris Cross,ORG,0.06818181818181818,0.0,en,1.0
-​​were,​​were,ORG,0.4,0.0,en,1.0
-Nutresa,Nutresa,ORG,-0.125,0.0,en,1.0
-Gemini,Gemini,ORG,0.0,0.0,en,1.0
-Leonardo,Leonardo,ORG,0.2892857142857143,0.0,en,1.0
-Chrysler,Chrysler,ORG,-0.07777777777777779,0.0,en,1.0
-Michoacán,Michoacán,ORG,0.016666666666666663,0.0,en,1.0
-Elizalde,Elizalde,ORG,-0.15625,0.0,en,1.0
-Valencia Basket,Valencia Basket,ORG,-0.30000000000000004,0.0,en,1.0
-Lacrem,Lacrem,ORG,0.13636363636363635,0.0,en,1.0
---cache-->The,--cache-->The,ORG,0.34545454545454546,0.0,en,1.0
-TeamSpeak,TeamSpeak,ORG,-0.125,0.0,en,1.0
-Pueyo,Pueyo,ORG,0.0,0.0,en,1.0
-the National News,the National News,ORG,0.5,0.0,en,1.0
-National News,National News,ORG,0.0,0.0,en,1.0
-Nintendo,Nintendo,ORG,0.5833333333333334,0.0,en,1.0
-Sierra de los Caracoles,Sierra de los Caracoles,ORG,0.016666666666666677,0.0,en,1.0
-the Desertification Research Center,the Desertification Research Center,ORG,0.010000000000000009,0.0,en,1.0
-Cauca,Cauca,ORG,-0.041666666666666664,0.0,en,1.0
-Black Hawk,Black Hawk,ORG,-0.041666666666666664,0.0,en,1.0
-Santa Fe,Santa Fe,ORG,0.13636363636363635,0.0,en,1.0
-Hyundai,Hyundai,ORG,0.0,0.0,en,1.0
-CFE,CFE,ORG,0.0,0.0,en,1.0
-Cheyne Capital,Cheyne Capital,ORG,0.0,0.0,en,1.0
-Clásico Argentino,Clásico Argentino,ORG,0.0,0.0,en,1.0
-United,United,ORG,0.34545454545454546,0.0,en,1.0
-Catholic Diocese,Catholic Diocese,ORG,0.21212121212121213,0.0,en,1.0
-the State Agency,the State Agency,ORG,0.4,0.0,en,1.0
-Conaprole,Conaprole,ORG,0.0,0.0,en,1.0
-The Chilean Rowing Federation,The Chilean Rowing Federation,ORG,0.25,0.0,en,1.0
-COU,COU,ORG,0.0,0.0,en,1.0
-Ucha,Ucha,ORG,0.0,0.0,en,1.0
-Merz,Merz,ORG,0.0,0.0,en,1.0
-the Office of the President-Elect,the Office of the President-Elect,ORG,0.0,0.0,en,1.0
-MeteoGalicia,MeteoGalicia,ORG,-0.15,0.0,en,1.0
-NWS,NWS,ORG,0.32166666666666666,0.0,en,1.0
-Macarena la kilombera,Macarena la kilombera,ORG,-0.4,0.0,en,1.0
+American Alex Ferreira,American Alex Ferreira,ORG,0.0,0.0,en,1.0
 INIA,INIA,ORG,0.0,0.0,en,1.0
-the reunion party,the reunion party,ORG,0.0,0.0,en,1.0
-The Basque Meteorological Agency,The Basque Meteorological Agency,ORG,-0.16666666666666666,0.0,en,1.0
+H225M Cougar,H225M Cougar,ORG,0.2642857142857143,0.0,en,1.0
+--cache-->The,--cache-->The,ORG,0.34545454545454546,0.0,en,1.0
+Macarena la kilombera,Macarena la kilombera,ORG,-0.4,0.0,en,1.0
+MeteoGalicia,MeteoGalicia,ORG,-0.15,0.0,en,1.0
 Euskadi,Euskadi,ORG,-0.16666666666666666,0.0,en,1.0
-NASA,NASA,ORG,-0.15555555555555559,0.0,en,1.0
-Gallardo,Gallardo,ORG,0.0,0.0,en,1.0
-Farggi ice cream brands,Farggi ice cream brands,ORG,0.13636363636363635,0.0,en,1.0
+Prestianni,Prestianni,ORG,0.15,0.0,en,1.0
+United,United,ORG,0.34545454545454546,0.0,en,1.0
+The Basque Meteorological Agency,The Basque Meteorological Agency,ORG,-0.16666666666666666,0.0,en,1.0
+Catholic Diocese,Catholic Diocese,ORG,0.21212121212121213,0.0,en,1.0
+TeamSpeak,TeamSpeak,ORG,-0.125,0.0,en,1.0
+Conaprole,Conaprole,ORG,0.0,0.0,en,1.0
+The Mexican Air Force,The Mexican Air Force,ORG,0.2642857142857143,0.0,en,1.0
+the reunion party,the reunion party,ORG,0.0,0.0,en,1.0
+Airbus,Airbus,ORG,0.2642857142857143,0.0,en,1.0
+NWS,NWS,ORG,0.32166666666666666,0.0,en,1.0
+MSU,MSU,ORG,0.11666666666666665,0.0,en,1.0
+Michigan State University,Michigan State University,ORG,0.11666666666666665,0.0,en,1.0
+Ilulissat,Ilulissat,ORG,0.0,0.0,en,1.0
+Vinicius,Vinicius,ORG,0.15,0.0,en,1.0
+Santa Fe,Santa Fe,ORG,0.13636363636363635,0.0,en,1.0
+TNT Sports,TNT Sports,ORG,0.13636363636363635,0.0,en,1.0
+CLA,CLA,ORG,0.06818181818181818,0.0,en,1.0
 Subaru Uruguay,Subaru Uruguay,ORG,0.0,0.0,en,1.0
-MagSafe,MagSafe,ORG,0.0,0.0,en,1.0
 Subaru WRX Sedan,Subaru WRX Sedan,ORG,0.0,0.0,en,1.0
-MILENIO,MILENIO,ORG,0.18333333333333335,0.0,en,1.0
-Siri,Siri,ORG,0.10285714285714284,0.0,en,1.0
-the Sinaloa Cartel,the Sinaloa Cartel,ORG,0.0,0.0,en,1.0
-The Azteca Stadium,The Azteca Stadium,ORG,0.2,0.0,en,1.0
-the Prosecutor's Office,the Prosecutor's Office,ORG,0.4,0.0,en,1.0
-Nils',Nils',ORG,0.09375,0.0,en,1.0
-Meteocat,Meteocat,ORG,0.0,0.0,en,1.0
-AMC,AMC,ORG,0.0,0.0,en,1.0
-Prime Video,Prime Video,ORG,0.0,0.0,en,1.0
-Antena 3,Antena 3,ORG,0.0,0.0,en,1.0
-Maxwell,Maxwell,ORG,-0.05,0.0,en,1.0
-Instagram Stories,Instagram Stories,ORG,-0.05,0.0,en,1.0
-Milano,Milano,ORG,0.0,0.0,en,1.0
-the National Civil Protection Meeting,the National Civil Protection Meeting,ORG,0.0,0.0,en,1.0
-A19,A19,ORG,0.0,0.0,en,1.0
-State,State,ORG,-0.15625,0.0,en,1.0
-the Sierra Nevada,the Sierra Nevada,ORG,-0.2,0.0,en,1.0
-Interior,Interior,ORG,0.0,0.0,en,1.0
-Bárcena Mayor,Bárcena Mayor,ORG,0.25,0.0,en,1.0
+the World Government,the World Government,ORG,0.3,0.0,en,1.0
 the Junta de Andalucía,the Junta de Andalucía,ORG,0.2833333333333333,0.0,en,1.0
 the Popular Party (PP,the Popular Party (PP,ORG,0.2833333333333333,0.0,en,1.0
 Koleos,Koleos,ORG,0.0,0.0,en,1.0
 Filante,Filante,ORG,0.16666666666666666,0.0,en,1.0
 the Special Civil Protection Plan of Cantabria,the Special Civil Protection Plan of Cantabria,ORG,0.0857142857142857,0.0,en,1.0
+Racing de Strasbourg,Racing de Strasbourg,ORG,0.5,0.0,en,1.0
+Olympique de Marseille,Olympique de Marseille,ORG,0.0,0.0,en,1.0
+McDonald's,McDonald's,ORG,0.04545454545454545,0.0,en,1.0
 sertón,sertón,ORG,0.125,0.0,en,1.0
+Ghost Forest,Ghost Forest,ORG,0.0,0.0,en,1.0
+Bárcena Mayor,Bárcena Mayor,ORG,0.25,0.0,en,1.0
 Solidarity,Solidarity,ORG,0.0,0.0,en,1.0
-UNICEF,UNICEF,ORG,0.0,0.0,en,1.0
+Montaña de Lure,Montaña de Lure,ORG,0.0,0.0,en,1.0
 CAC,CAC,ORG,0.0,0.0,en,1.0
-the Milan-Cortina Olympic Games,the Milan-Cortina Olympic Games,ORG,0.21666666666666667,0.0,en,1.0
 JAMES ELLINGWORTH MILAN,JAMES ELLINGWORTH MILAN,ORG,0.21666666666666667,0.0,en,1.0
-the Supreme Court,the Supreme Court,ORG,0.0,0.0,en,1.0
 the UNICEF International Development Cooperation Agency,the UNICEF International Development Cooperation Agency,ORG,0.0,0.0,en,1.0
+Grana,Grana,ORG,0.05,0.0,en,1.0
+Mercedes,Mercedes,ORG,0.06818181818181818,0.0,en,1.0
+Pueyo,Pueyo,ORG,0.0,0.0,en,1.0
+Kingdoms,Kingdoms,ORG,0.3,0.0,en,1.0
+Newspaper Archive - Tenerife,Newspaper Archive - Tenerife,ORG,0.0,0.0,en,1.0
+Cabildo,Cabildo,ORG,0.0,0.0,en,1.0
+Heated Riva,Heated Riva,ORG,0.24930555555555556,0.0,en,1.0
+the National News,the National News,ORG,0.5,0.0,en,1.0
+National News,National News,ORG,0.0,0.0,en,1.0
+Nintendo,Nintendo,ORG,0.5833333333333334,0.0,en,1.0
+Sierra de los Caracoles,Sierra de los Caracoles,ORG,0.016666666666666677,0.0,en,1.0
+CORTINA,CORTINA,ORG,0.25,0.0,en,1.0
+MotoGP,MotoGP,ORG,0.0,0.0,en,1.0
+the Desertification Research Center,the Desertification Research Center,ORG,0.010000000000000009,0.0,en,1.0
+Cauca,Cauca,ORG,-0.041666666666666664,0.0,en,1.0
+Black Hawk,Black Hawk,ORG,-0.041666666666666664,0.0,en,1.0
+Hyundai,Hyundai,ORG,0.0,0.0,en,1.0
+CFE,CFE,ORG,0.0,0.0,en,1.0
+The Chilean Meteorological Directorate,The Chilean Meteorological Directorate,ORG,-0.0625,0.0,en,1.0
+Cheyne Capital,Cheyne Capital,ORG,0.0,0.0,en,1.0
+Clásico Argentino,Clásico Argentino,ORG,0.0,0.0,en,1.0
+Farggi ice cream brands,Farggi ice cream brands,ORG,0.13636363636363635,0.0,en,1.0
+Lacrem,Lacrem,ORG,0.13636363636363635,0.0,en,1.0
+Focus Online,Focus Online,ORG,0.0,0.0,en,1.0
+Michoacán,Michoacán,ORG,0.016666666666666663,0.0,en,1.0
+Stolz,Stolz,ORG,0.0,0.0,en,1.0
+Greenpeace,Greenpeace,ORG,0.45,0.0,en,1.0
+GGTech Entertainment,GGTech Entertainment,ORG,0.22727272727272727,0.0,en,1.0
+The 2026 Storm Circuit,The 2026 Storm Circuit,ORG,0.22727272727272727,0.0,en,1.0
+National Plant Breeding Day,National Plant Breeding Day,ORG,0.19999999999999998,0.0,en,1.0
+the Chamber of Dairy Industries,the Chamber of Dairy Industries,ORG,0.02500000000000001,0.0,en,1.0
+the Monetary Policy Committee,the Monetary Policy Committee,ORG,0.4,0.0,en,1.0
+BCU,BCU,ORG,0.0,0.0,en,1.0
+Moncloa,Moncloa,ORG,0.12,0.0,en,1.0
+BlackRock,BlackRock,ORG,0.12,0.0,en,1.0
+Naturgy,Naturgy,ORG,0.0,0.0,en,1.0
+the Frente Amplio,the Frente Amplio,ORG,0.05000000000000002,0.0,en,1.0
+the National Police,the National Police,ORG,0.13636363636363635,0.0,en,1.0
+the Spanish Government,the Spanish Government,ORG,0.02500000000000001,0.0,en,1.0
+Associated Press MILAN,Associated Press MILAN,ORG,0.10714285714285715,0.0,en,1.0
+Rutte,Rutte,ORG,0.0,0.0,en,1.0
+the Central Bank's,the Central Bank's,ORG,0.0,0.0,en,1.0
+the L'Oréal Group,the L'Oréal Group,ORG,0.0,0.0,en,1.0
+The Frente Amplio,The Frente Amplio,ORG,-0.08333333333333333,0.0,en,1.0
+Defense,Defense,ORG,0.35000000000000003,0.0,en,1.0
+Robles,Robles,ORG,0.35000000000000003,0.0,en,1.0
+Cores,Cores,ORG,0.0,0.0,en,1.0
+Time,Time,ORG,0.0,0.0,en,1.0
+the Ministry of Justice,the Ministry of Justice,ORG,0.0,0.0,en,1.0
+Amundsen-Scott,Amundsen-Scott,ORG,-0.4,0.0,en,1.0
+Tres Cruces MOOS Challenge,Tres Cruces MOOS Challenge,ORG,0.11818181818181818,0.0,en,1.0
+EL MUNDO,EL MUNDO,ORG,0.5,0.0,en,1.0
+World,World,ORG,0.0,0.0,en,1.0
+National Geographic,National Geographic,ORG,0.4,0.0,en,1.0
+Gabriel Boric's,Gabriel Boric's,ORG,0.0,0.0,en,1.0
+Shakira,Shakira,ORG,0.0,0.0,en,1.0
+Racing,Racing,ORG,0.25,0.0,en,1.0
+Sierra Nevada,Sierra Nevada,ORG,0.0,0.0,en,1.0
+Suzuki Van Van,Suzuki Van Van,ORG,0.0875,0.0,en,1.0
+CMT,CMT,ORG,0.0,0.0,en,1.0
+the Army Engineers Division,the Army Engineers Division,ORG,-0.0625,0.0,en,1.0
+Army,Army,ORG,-0.1,0.0,en,1.0
+Military Labor Corps,Military Labor Corps,ORG,-0.1,0.0,en,1.0
+Science,Science,ORG,0.0,0.0,en,1.0
+The Suntory Beverage & Food,The Suntory Beverage & Food,ORG,0.375,0.0,en,1.0
+European Burns,European Burns,ORG,-0.037500000000000006,0.0,en,1.0
+Virginia Tech,Virginia Tech,ORG,0.2,0.0,en,1.0
+Ecologistas en Acción,Ecologistas en Acción,ORG,0.10000000000000002,0.0,en,1.0
+the Tordesillas City Council,the Tordesillas City Council,ORG,0.0,0.0,en,1.0
+the Valladolid Provincial Council (PP,the Valladolid Provincial Council (PP,ORG,0.0,0.0,en,1.0
+Eastern agroindustrialists,Eastern agroindustrialists,ORG,-0.125,0.0,en,1.0
+Moonlighter,Moonlighter,ORG,0.11948051948051948,0.0,en,1.0
+Digital Sun,Digital Sun,ORG,0.11948051948051948,0.0,en,1.0
+ReVamp,ReVamp,ORG,0.11948051948051948,0.0,en,1.0
+Wells,Wells,ORG,0.17222222222222222,0.0,en,1.0
+Draper,Draper,ORG,0.17222222222222222,0.0,en,1.0
+IMN,IMN,ORG,0.0,0.0,en,1.0
+Broad Front,Broad Front,ORG,-0.11875000000000002,0.0,en,1.0
+Energy,Energy,ORG,0.0,0.0,en,1.0
+El Mencho',El Mencho',ORG,0.0,0.0,en,1.0
+Mahiques,Mahiques,ORG,0.0,0.0,en,1.0
+FEMA,FEMA,ORG,0.1,0.0,en,1.0
+Fútbol Club,Fútbol Club,ORG,0.5,0.0,en,1.0
+Border Patrol,Border Patrol,ORG,-0.2333333333333333,0.0,en,1.0
+ELÉONORE HUGHES RIO DE JANEIRO,ELÉONORE HUGHES RIO DE JANEIRO,ORG,-0.05454545454545456,0.0,en,1.0
+The Uruguayan Institute of Meteorology,The Uruguayan Institute of Meteorology,ORG,0.0,0.0,en,1.0
+III-IV,III-IV,ORG,0.0,0.0,en,1.0
+Bozell,Bozell,ORG,-0.045,0.0,en,1.0
+the Oval Office,the Oval Office,ORG,0.0,0.0,en,1.0
+DÁNICA COTO,DÁNICA COTO,ORG,-0.125,0.0,en,1.0
+The Sacratif Lighthouse,The Sacratif Lighthouse,ORG,0.0,0.0,en,1.0
+​​than,​​than,ORG,0.0,0.0,en,1.0
+Merz,Merz,ORG,0.0,0.0,en,1.0
+HALLIE GOLDEN,HALLIE GOLDEN,ORG,0.21818181818181817,0.0,en,1.0
+State of the Union,State of the Union,ORG,0.0,0.0,en,1.0
+the Office of the President-Elect,the Office of the President-Elect,ORG,0.0,0.0,en,1.0
+Ice Age,Ice Age,ORG,0.45000000000000007,0.0,en,1.0
+Minas Gerais,Minas Gerais,ORG,-0.13333333333333333,0.0,en,1.0
+Juiz de Fora,Juiz de Fora,ORG,-0.3,0.0,en,1.0
+Torres del Paine National Park,Torres del Paine National Park,ORG,0.0,0.0,en,1.0
+Hughes,Hughes,ORG,0.0,0.0,en,1.0
+MILAN,MILAN,ORG,0.16666666666666666,0.0,en,1.0
+the Kairos Institute,the Kairos Institute,ORG,0.05,0.0,en,1.0
+Jesuit,Jesuit,ORG,0.05,0.0,en,1.0
+Altadena,Altadena,ORG,0.0,0.0,en,1.0
+Bad Bunny's 'La Casita',Bad Bunny's 'La Casita',ORG,-0.6999999999999998,0.0,en,1.0
+The Academy of Cinema Arts and Sciences,The Academy of Cinema Arts and Sciences,ORG,0.0,0.0,en,1.0
+IDF,IDF,ORG,0.21212121212121213,0.0,en,1.0
+Associated Press RIO DE JANEIRO,Associated Press RIO DE JANEIRO,ORG,-0.2,0.0,en,1.0
+Real Oviedo,Real Oviedo,ORG,0.3,0.0,en,1.0
+the Copa del,the Copa del,ORG,0.0,0.0,en,1.0
+Congress,Congress,ORG,0.0,0.0,en,1.0
+Royal Ascot,Royal Ascot,ORG,-0.125,0.0,en,1.0
+The Noida International Airport,The Noida International Airport,ORG,0.26666666666666666,0.0,en,1.0
+Harvard (USA,Harvard (USA,ORG,0.21666666666666667,0.0,en,1.0
+International Relations,International Relations,ORG,0.16666666666666666,0.0,en,1.0
+Goyas,Goyas,ORG,0.0,0.0,en,1.0
+Ubeda,Ubeda,ORG,0.8,0.0,en,1.0
+Sopitas.com,Sopitas.com,ORG,0.25,0.0,en,1.0
+Peaky Blinders,Peaky Blinders,ORG,0.1,0.0,en,1.0
+Parliament,Parliament,ORG,-0.3,0.0,en,1.0
+Carrefour,Carrefour,ORG,0.5,0.0,en,1.0
+The Supreme Court,The Supreme Court,ORG,0.5,0.0,en,1.0
+The Chilean Rowing Federation,The Chilean Rowing Federation,ORG,0.25,0.0,en,1.0
+COU,COU,ORG,0.0,0.0,en,1.0
+Ucha,Ucha,ORG,0.0,0.0,en,1.0
+the Mercosur-European Union,the Mercosur-European Union,ORG,0.06818181818181818,0.0,en,1.0
+the Argentine Congress,the Argentine Congress,ORG,0.0,0.0,en,1.0
+Ford Argentina,Ford Argentina,ORG,0.0,0.0,en,1.0
+Labor,Labor,ORG,0.13333333333333333,0.0,en,1.0
+the Green Party,the Green Party,ORG,0.13333333333333333,0.0,en,1.0
 the Chile Fund,the Chile Fund,ORG,0.0,0.0,en,1.0
-Griselda Siciliani's,Griselda Siciliani's,ORG,-0.15,0.0,en,1.0
-Les Soulèvements de la Terre,Les Soulèvements de la Terre,ORG,0.13636363636363635,0.0,en,1.0
-Epstein,Epstein,ORG,0.0,0.0,en,1.0
-The United Nations,The United Nations,ORG,0.06666666666666667,0.0,en,1.0
+Prada,Prada,ORG,0.175,0.0,en,1.0
+Marvel Spain Magazine,Marvel Spain Magazine,ORG,0.5,0.0,en,1.0
+UNICEF,UNICEF,ORG,0.0,0.0,en,1.0
+Meteorological Directorate,Meteorological Directorate,ORG,-0.0625,0.0,en,1.0
+Bluetooth 6.0,Bluetooth 6.0,ORG,0.12666666666666668,0.0,en,1.0
+NPU,NPU,ORG,0.12666666666666668,0.0,en,1.0
+Mercadona,Mercadona,ORG,0.0,0.0,en,1.0
+Senasa,Senasa,ORG,-0.12121212121212122,0.0,en,1.0
+The Meteorological Directorate of Chile,The Meteorological Directorate of Chile,ORG,-0.13333333333333333,0.0,en,1.0
+Columbia,Columbia,ORG,0.24444444444444446,0.0,en,1.0
+Biobío,Biobío,ORG,0.0,0.0,en,1.0
+Fiat Multipla,Fiat Multipla,ORG,0.0,0.0,en,1.0
+the Bolivarian National Armed Forces,the Bolivarian National Armed Forces,ORG,0.4666666666666667,0.0,en,1.0
+the Venezuelan Army,the Venezuelan Army,ORG,0.0,0.0,en,1.0
+CONAF,CONAF,ORG,-0.0625,0.0,en,1.0
+Cascadia,Cascadia,ORG,0.0,0.0,en,1.0
+the General Directorate of Emergencies,the General Directorate of Emergencies,ORG,0.05000000000000002,0.0,en,1.0
+the Wildlife Foundation,the Wildlife Foundation,ORG,0.02500000000000001,0.0,en,1.0
+calorcronista.com,calorcronista.com,ORG,0.3111111111111111,0.0,en,1.0
+Alliance,Alliance,ORG,-0.125,0.0,en,1.0
+SEAT & CUPRA,SEAT & CUPRA,ORG,0.675,0.0,en,1.0
+CUPRA,CUPRA,ORG,0.0,0.0,en,1.0
+Magazindie,Magazindie,ORG,0.0,0.0,en,1.0
+Alauda Ruiz de Azúa,Alauda Ruiz de Azúa,ORG,0.5,0.0,en,1.0
+The Academy of Motion Picture Arts and Sciences,The Academy of Motion Picture Arts and Sciences,ORG,0.1,0.0,en,1.0
+Los Domingos',Los Domingos',ORG,0.0,0.0,en,1.0
+Community,Community,ORG,0.5,0.0,en,1.0
+León and Lugo,León and Lugo,ORG,0.2222222222222222,0.0,en,1.0
+the Fuerteventura council,the Fuerteventura council,ORG,0.0,0.0,en,1.0
+Storm Ingrid,Storm Ingrid,ORG,0.13333333333333333,0.0,en,1.0
+the Basque Country,the Basque Country,ORG,0.0,0.0,en,1.0
+Universe,Universe,ORG,0.3125,0.0,en,1.0
+"Magas, Crónica Global and Vandal","Magas, Crónica Global and Vandal",ORG,0.0,0.0,en,1.0
+the National Weather Service,the National Weather Service,ORG,-0.125,0.0,en,1.0
+Conaf,Conaf,ORG,-0.12916666666666665,0.0,en,1.0
+Foyth,Foyth,ORG,0.0,0.0,en,1.0
+Broncos Denver,Broncos Denver,ORG,0.12900432900432898,0.0,en,1.0
+New England,New England,ORG,0.12900432900432898,0.0,en,1.0
+Patriots,Patriots,ORG,0.08,0.0,en,1.0
+AFC Final,AFC Final,ORG,0.08,0.0,en,1.0
+Raphinha,Raphinha,ORG,-0.08333333333333333,0.0,en,1.0
+La Ribera de Folgoso,La Ribera de Folgoso,ORG,0.2222222222222222,0.0,en,1.0
+AZZONI,AZZONI,ORG,0.0,0.0,en,1.0
+Oviedo,Oviedo,ORG,0.0,0.0,en,1.0
+Chihuahua,Chihuahua,ORG,0.0,0.0,en,1.0
+Verne,Verne,ORG,0.025,0.0,en,1.0
+the Air and Space Army,the Air and Space Army,ORG,0.025,0.0,en,1.0
+European Union,European Union,ORG,0.0,0.0,en,1.0
+White House,White House,ORG,-0.1471590909090909,0.0,en,1.0
+Noboa,Noboa,ORG,0.0,0.0,en,1.0
+Unilever,Unilever,ORG,0.05,0.0,en,1.0
+The Galician Government,The Galician Government,ORG,0.0625,0.0,en,1.0
+meteotsunami,meteotsunami,ORG,-0.1,0.0,en,1.0
+the Argentine Football Association,the Argentine Football Association,ORG,0.2681818181818182,0.0,en,1.0
 the General Vehicle Regulations,the General Vehicle Regulations,ORG,0.10416666666666667,0.0,en,1.0
+Monte Moro,Monte Moro,ORG,-0.3166666666666667,0.0,en,1.0
+Decathlon,Decathlon,ORG,0.0,0.0,en,1.0
+Intersport CCS,Intersport CCS,ORG,0.0,0.0,en,1.0
+CNMC,CNMC,ORG,0.0,0.0,en,1.0
+Intersport,Intersport,ORG,0.0,0.0,en,1.0
+Their Majesties of,Their Majesties of,ORG,0.16666666666666666,0.0,en,1.0
+Navacerrada,Navacerrada,ORG,0.4666666666666667,0.0,en,1.0
+Directorate,Directorate,ORG,0.0,0.0,en,1.0
+Spanish League,Spanish League,ORG,0.4,0.0,en,1.0
+the Cursa de Reis de Cornellà,the Cursa de Reis de Cornellà,ORG,0.125,0.0,en,1.0
+Cursa de Reis de Cornellà Guide,Cursa de Reis de Cornellà Guide,ORG,0.25,0.0,en,1.0
+the San Jorge Hospital,the San Jorge Hospital,ORG,0.016666666666666666,0.0,en,1.0
 incendies de forêts sous un,incendies de forêts sous un,ORG,0.0,0.0,en,1.0
+EUROPA PRESS,EUROPA PRESS,ORG,-0.08333333333333333,0.0,en,1.0
+HUESCA,HUESCA,ORG,-0.08333333333333333,0.0,en,1.0
+PANTICOSA,PANTICOSA,ORG,-0.08333333333333333,0.0,en,1.0
+Azores,Azores,ORG,0.0,0.0,en,1.0
+Barón Rojo,Barón Rojo,ORG,0.0,0.0,en,1.0
+TWA,TWA,ORG,0.1,0.0,en,1.0
+Mazarrón,Mazarrón,ORG,0.0,0.0,en,1.0
+The Emergency Coordination Center,The Emergency Coordination Center,ORG,-0.05,0.0,en,1.0
+Ombudsman's,Ombudsman's,ORG,-0.125,0.0,en,1.0
+Colombian Ombudsman,Colombian Ombudsman,ORG,-0.125,0.0,en,1.0
+KLM,KLM,ORG,-0.6,0.0,en,1.0
+Pollo,Pollo,ORG,-0.05,0.0,en,1.0
+Chavista Intelligence,Chavista Intelligence,ORG,0.0,0.0,en,1.0
+Del,Del,ORG,0.0,0.0,en,1.0
 Featured News,Featured News,ORG,0.0,0.0,en,1.0
 Service,Service,ORG,0.0,0.0,en,1.0
 the Provincial Fire Management Service,the Provincial Fire Management Service,ORG,0.0,0.0,en,1.0
@@ -222,137 +389,120 @@ Primera,Primera,ORG,0.024999999999999994,0.0,en,1.0
 Matalascañas,Matalascañas,ORG,0.0,0.0,en,1.0
 the Faculty of Marine Sciences,the Faculty of Marine Sciences,ORG,0.0,0.0,en,1.0
 Oysho,Oysho,ORG,0.25000000000000006,0.0,en,1.0
-the National Seismological Center of the University of Chile,the National Seismological Center of the University of Chile,ORG,-0.05,0.0,en,1.0
 AirPods,AirPods,ORG,0.4083333333333333,0.0,en,1.0
 Justice,Justice,ORG,0.0,0.0,en,1.0
 Morena,Morena,ORG,0.5,0.0,en,1.0
 xAI,xAI,ORG,-0.25,0.0,en,1.0
-the Argentine Football Association,the Argentine Football Association,ORG,0.2681818181818182,0.0,en,1.0
-meteotsunami,meteotsunami,ORG,-0.1,0.0,en,1.0
-Los Domingos',Los Domingos',ORG,0.0,0.0,en,1.0
-calorcronista.com,calorcronista.com,ORG,0.3111111111111111,0.0,en,1.0
-the Bolivarian National Armed Forces,the Bolivarian National Armed Forces,ORG,0.4666666666666667,0.0,en,1.0
-the Venezuelan Army,the Venezuelan Army,ORG,0.0,0.0,en,1.0
-Meteorological Directorate,Meteorological Directorate,ORG,-0.0625,0.0,en,1.0
-CONAF,CONAF,ORG,-0.0625,0.0,en,1.0
-the General Directorate of Emergencies,the General Directorate of Emergencies,ORG,0.05000000000000002,0.0,en,1.0
-the Wildlife Foundation,the Wildlife Foundation,ORG,0.02500000000000001,0.0,en,1.0
-Alliance,Alliance,ORG,-0.125,0.0,en,1.0
-The Academy of Motion Picture Arts and Sciences,The Academy of Motion Picture Arts and Sciences,ORG,0.1,0.0,en,1.0
-NATO,NATO,ORG,-0.6,0.0,en,1.0
-SEAT & CUPRA,SEAT & CUPRA,ORG,0.675,0.0,en,1.0
-CUPRA,CUPRA,ORG,0.0,0.0,en,1.0
-Magazindie,Magazindie,ORG,0.0,0.0,en,1.0
-Goya,Goya,ORG,0.0,0.0,en,1.0
-Alauda Ruiz de Azúa,Alauda Ruiz de Azúa,ORG,0.5,0.0,en,1.0
 UN,UN,ORG,0.06666666666666667,0.0,en,1.0
+The United Nations,The United Nations,ORG,0.06666666666666667,0.0,en,1.0
 the New York Stock Exchange,the New York Stock Exchange,ORG,0.3181818181818182,0.0,en,1.0
-FBI,FBI,ORG,0.0,0.0,en,1.0
 Spanish Navy,Spanish Navy,ORG,0.0,0.0,en,1.0
-the Cursa de Reis de Cornellà,the Cursa de Reis de Cornellà,ORG,0.125,0.0,en,1.0
-Cursa de Reis de Cornellà Guide,Cursa de Reis de Cornellà Guide,ORG,0.25,0.0,en,1.0
-Monte Moro,Monte Moro,ORG,-0.3166666666666667,0.0,en,1.0
-the San Jorge Hospital,the San Jorge Hospital,ORG,0.016666666666666666,0.0,en,1.0
-EUROPA PRESS,EUROPA PRESS,ORG,-0.08333333333333333,0.0,en,1.0
-HUESCA,HUESCA,ORG,-0.08333333333333333,0.0,en,1.0
-PANTICOSA,PANTICOSA,ORG,-0.08333333333333333,0.0,en,1.0
-Azores,Azores,ORG,0.0,0.0,en,1.0
-Autonomous Communities,Autonomous Communities,ORG,0.15000000000000002,0.0,en,1.0
-Barón Rojo,Barón Rojo,ORG,0.0,0.0,en,1.0
-TWA,TWA,ORG,0.1,0.0,en,1.0
-Mazarrón,Mazarrón,ORG,0.0,0.0,en,1.0
-The Emergency Coordination Center,The Emergency Coordination Center,ORG,-0.05,0.0,en,1.0
-Ombudsman's,Ombudsman's,ORG,-0.125,0.0,en,1.0
-Colombian Ombudsman,Colombian Ombudsman,ORG,-0.125,0.0,en,1.0
-Spanish League,Spanish League,ORG,0.4,0.0,en,1.0
-Directorate,Directorate,ORG,0.0,0.0,en,1.0
-Navacerrada,Navacerrada,ORG,0.4666666666666667,0.0,en,1.0
-Del,Del,ORG,0.0,0.0,en,1.0
-Real Madrid,Real Madrid,ORG,0.17777777777777778,0.0,en,1.0
 Petro,Petro,ORG,0.0,0.0,en,1.0
 the Calasso Foundation,the Calasso Foundation,ORG,0.0,0.0,en,1.0
 Crisis-Bombón,Crisis-Bombón,ORG,0.0,0.0,en,1.0
 Magazine Marvel,Magazine Marvel,ORG,0.16666666666666666,0.0,en,1.0
 REE,REE,ORG,0.09523809523809523,0.0,en,1.0
-Chavista Intelligence,Chavista Intelligence,ORG,0.0,0.0,en,1.0
-Their Majesties of,Their Majesties of,ORG,0.16666666666666666,0.0,en,1.0
-Pollo,Pollo,ORG,-0.05,0.0,en,1.0
-KLM,KLM,ORG,-0.6,0.0,en,1.0
-Decathlon,Decathlon,ORG,0.0,0.0,en,1.0
-Intersport CCS,Intersport CCS,ORG,0.0,0.0,en,1.0
-CNMC,CNMC,ORG,0.0,0.0,en,1.0
-Intersport,Intersport,ORG,0.0,0.0,en,1.0
-Fiat Multipla,Fiat Multipla,ORG,0.0,0.0,en,1.0
-Biobío,Biobío,ORG,0.0,0.0,en,1.0
-Columbia,Columbia,ORG,0.24444444444444446,0.0,en,1.0
-Cáceres,Cáceres,ORG,-0.6,0.0,en,1.0
-Kast,Kast,ORG,0.3333333333333333,0.0,en,1.0
+The Canarian Academy of Language,The Canarian Academy of Language,ORG,0.1,0.0,en,1.0
+CMO,CMO,ORG,0.0,0.0,en,1.0
+Mercedes Ron's,Mercedes Ron's,ORG,0.5,0.0,en,1.0
+Toyota Argentina,Toyota Argentina,ORG,0.06818181818181818,0.0,en,1.0
+the European Space Agency,the European Space Agency,ORG,0.0,0.0,en,1.0
+Rally Sweden,Rally Sweden,ORG,-0.05,0.0,en,1.0
+La Niña,La Niña,ORG,0.0,0.0,en,1.0
+El Niño,El Niño,ORG,0.0,0.0,en,1.0
+Edu Saz,Edu Saz,ORG,0.35,0.0,en,1.0
+Carnivals,Carnivals,ORG,-0.6999999999999998,0.0,en,1.0
+Chrysler,Chrysler,ORG,-0.07777777777777779,0.0,en,1.0
+Nutresa,Nutresa,ORG,-0.125,0.0,en,1.0
+​​were,​​were,ORG,0.4,0.0,en,1.0
+Yaris Cross,Yaris Cross,ORG,0.06818181818181818,0.0,en,1.0
+The National Meteorological Service (SMN,The National Meteorological Service (SMN,ORG,0.25,0.0,en,1.0
+IAG,IAG,ORG,0.0,0.0,en,1.0
+Editorial Plan Panini,Editorial Plan Panini,ORG,0.0,0.0,en,1.0
+technoligarchs,technoligarchs,ORG,0.0,0.0,en,1.0
+Sorraia,Sorraia,ORG,-0.2,0.0,en,1.0
+Aragon,Aragon,ORG,0.25,0.0,en,1.0
+Science Advances,Science Advances,ORG,0.0,0.0,en,1.0
+the Valencian Government,the Valencian Government,ORG,0.0,0.0,en,1.0
+Commuter Plan,Commuter Plan,ORG,-0.04924242424242424,0.0,en,1.0
+Consell,Consell,ORG,-0.04924242424242424,0.0,en,1.0
+THE ASSOCIATED PRESS The,THE ASSOCIATED PRESS The,ORG,-0.06666666666666667,0.0,en,1.0
+Gemini,Gemini,ORG,0.0,0.0,en,1.0
+The Ministry of Ecological Transition,The Ministry of Ecological Transition,ORG,-0.16666666666666666,0.0,en,1.0
+British Airways,British Airways,ORG,-0.08333333333333333,0.0,en,1.0
+Catarroja,Catarroja,ORG,0.25,0.0,en,1.0
+Prime Video,Prime Video,ORG,0.0,0.0,en,1.0
+Interior,Interior,ORG,0.0,0.0,en,1.0
+the Sierra Nevada,the Sierra Nevada,ORG,-0.2,0.0,en,1.0
+Elizalde,Elizalde,ORG,-0.15625,0.0,en,1.0
+Siri,Siri,ORG,0.10285714285714284,0.0,en,1.0
+the Sinaloa Cartel,the Sinaloa Cartel,ORG,0.0,0.0,en,1.0
+The Azteca Stadium,The Azteca Stadium,ORG,0.2,0.0,en,1.0
+the Prosecutor's Office,the Prosecutor's Office,ORG,0.4,0.0,en,1.0
+Nils',Nils',ORG,0.09375,0.0,en,1.0
+Meteocat,Meteocat,ORG,0.0,0.0,en,1.0
+AMC,AMC,ORG,0.0,0.0,en,1.0
+Antena 3,Antena 3,ORG,0.0,0.0,en,1.0
+Mart,Mart,ORG,-0.08333333333333333,0.0,en,1.0
+Maxwell,Maxwell,ORG,-0.05,0.0,en,1.0
+Instagram Stories,Instagram Stories,ORG,-0.05,0.0,en,1.0
+Milano,Milano,ORG,0.0,0.0,en,1.0
+the National Civil Protection Meeting,the National Civil Protection Meeting,ORG,0.0,0.0,en,1.0
+A19,A19,ORG,0.0,0.0,en,1.0
+MagSafe,MagSafe,ORG,0.0,0.0,en,1.0
+Valencia Basket,Valencia Basket,ORG,-0.30000000000000004,0.0,en,1.0
+U22,U22,ORG,-0.30000000000000004,0.0,en,1.0
+Santander Bank,Santander Bank,ORG,0.4333333333333333,0.0,en,1.0
+ºC,ºC,ORG,0.0,0.0,en,1.0
+ChatGPT,ChatGPT,ORG,0.08333333333333333,0.0,en,1.0
+El E,El E,ORG,0.5,0.0,en,1.0
+Magamers,Magamers,ORG,0.5,0.0,en,1.0
+the CAF International Economic Forum,the CAF International Economic Forum,ORG,0.12000000000000002,0.0,en,1.0
+Inca,Inca,ORG,0.10000000000000002,0.0,en,1.0
+VAR,VAR,ORG,0.275,0.0,en,1.0
+the Argentine Federation of Agricultural Machinery Contractors,the Argentine Federation of Agricultural Machinery Contractors,ORG,0.5,0.0,en,1.0
+the Benasque Civil Guard,the Benasque Civil Guard,ORG,0.0,0.0,en,1.0
+The Mountain Rescue and Intervention Group,The Mountain Rescue and Intervention Group,ORG,0.0,0.0,en,1.0
+Sony Pictures Animation,Sony Pictures Animation,ORG,0.0,0.0,en,1.0
+COAG,COAG,ORG,0.02083333333333333,0.0,en,1.0
+The Great Pyramid,The Great Pyramid,ORG,0.8,0.0,en,1.0
+the Teatro Falla,the Teatro Falla,ORG,1.0,0.0,en,1.0
+The Irrigation Club,The Irrigation Club,ORG,0.8,0.0,en,1.0
+Economics,Economics,ORG,0.12000000000000002,0.0,en,1.0
+The League of Legends,The League of Legends,ORG,0.5,0.0,en,1.0
 Lula,Lula,ORG,0.3333333333333333,0.0,en,1.0
 the Champions League,the Champions League,ORG,0.35,0.0,en,1.0
 Niebla,Niebla,ORG,0.3333333333333333,0.0,en,1.0
 Christ,Christ,ORG,0.8,0.0,en,1.0
 UTE,UTE,ORG,0.045000000000000005,0.0,en,1.0
-TikTok,TikTok,ORG,0.1,0.0,en,1.0
 the National Civil Police,the National Civil Police,ORG,-0.3,0.0,en,1.0
-The National Meteorological Service (SMN,The National Meteorological Service (SMN,ORG,0.25,0.0,en,1.0
+Les Soulèvements de la Terre,Les Soulèvements de la Terre,ORG,0.13636363636363635,0.0,en,1.0
 Calais,Calais,ORG,0.13636363636363635,0.0,en,1.0
 Greenland,Greenland,ORG,-0.5,0.0,en,1.0
 Court,Court,ORG,0.25,0.0,en,1.0
-Catarroja,Catarroja,ORG,0.25,0.0,en,1.0
-Senate,Senate,ORG,0.2,0.0,en,1.0
-CMO,CMO,ORG,0.0,0.0,en,1.0
-Economics,Economics,ORG,0.12000000000000002,0.0,en,1.0
-the CAF International Economic Forum,the CAF International Economic Forum,ORG,0.12000000000000002,0.0,en,1.0
-The Irrigation Club,The Irrigation Club,ORG,0.8,0.0,en,1.0
-VAR,VAR,ORG,0.275,0.0,en,1.0
-City Council,City Council,ORG,0.0625,0.0,en,1.0
-Myalgic,Myalgic,ORG,0.06666666666666667,0.0,en,1.0
-Sun,Sun,ORG,-0.096875,0.0,en,1.0
-the Miguel Servet Hospital,the Miguel Servet Hospital,ORG,0.05,0.0,en,1.0
 Trinitarios de Córdoba,Trinitarios de Córdoba,ORG,0.0,0.0,en,1.0
-Inca,Inca,ORG,0.10000000000000002,0.0,en,1.0
-the Argentine Federation of Agricultural Machinery Contractors,the Argentine Federation of Agricultural Machinery Contractors,ORG,0.5,0.0,en,1.0
-the Teatro Falla,the Teatro Falla,ORG,1.0,0.0,en,1.0
-the Benasque Civil Guard,the Benasque Civil Guard,ORG,0.0,0.0,en,1.0
-The Mountain Rescue and Intervention Group,The Mountain Rescue and Intervention Group,ORG,0.0,0.0,en,1.0
-Sony Pictures Animation,Sony Pictures Animation,ORG,0.0,0.0,en,1.0
-Netflix,Netflix,ORG,0.6,0.0,en,1.0
-COAG,COAG,ORG,0.02083333333333333,0.0,en,1.0
-The Great Pyramid,The Great Pyramid,ORG,0.8,0.0,en,1.0
-MarketingDirecto.com,MarketingDirecto.com,ORG,0.0,0.0,en,1.0
-the Fuerteventura council,the Fuerteventura council,ORG,0.0,0.0,en,1.0
-The Canarian Academy of Language,The Canarian Academy of Language,ORG,0.1,0.0,en,1.0
-Cascadia,Cascadia,ORG,0.0,0.0,en,1.0
-White House,White House,ORG,-0.1471590909090909,0.0,en,1.0
-Noboa,Noboa,ORG,0.0,0.0,en,1.0
-Unilever,Unilever,ORG,0.05,0.0,en,1.0
-The Galician Government,The Galician Government,ORG,0.0625,0.0,en,1.0
-La Ribera de Folgoso,La Ribera de Folgoso,ORG,0.2222222222222222,0.0,en,1.0
-León and Lugo,León and Lugo,ORG,0.2222222222222222,0.0,en,1.0
-Community,Community,ORG,0.5,0.0,en,1.0
-the Air and Space Army,the Air and Space Army,ORG,0.025,0.0,en,1.0
-Bluetooth 6.0,Bluetooth 6.0,ORG,0.12666666666666668,0.0,en,1.0
-NPU,NPU,ORG,0.12666666666666668,0.0,en,1.0
-Meteored,Meteored,ORG,0.21212121212121213,0.0,en,1.0
-Mercadona,Mercadona,ORG,0.0,0.0,en,1.0
-Senasa,Senasa,ORG,-0.12121212121212122,0.0,en,1.0
-The Meteorological Directorate of Chile,The Meteorological Directorate of Chile,ORG,-0.13333333333333333,0.0,en,1.0
-European Union,European Union,ORG,0.0,0.0,en,1.0
-Verne,Verne,ORG,0.025,0.0,en,1.0
-the Basque Country,the Basque Country,ORG,0.0,0.0,en,1.0
-New England,New England,ORG,0.12900432900432898,0.0,en,1.0
-Universe,Universe,ORG,0.3125,0.0,en,1.0
-"Magas, Crónica Global and Vandal","Magas, Crónica Global and Vandal",ORG,0.0,0.0,en,1.0
-the National Weather Service,the National Weather Service,ORG,-0.125,0.0,en,1.0
-Conaf,Conaf,ORG,-0.12916666666666665,0.0,en,1.0
-Foyth,Foyth,ORG,0.0,0.0,en,1.0
-Broncos Denver,Broncos Denver,ORG,0.12900432900432898,0.0,en,1.0
-Patriots,Patriots,ORG,0.08,0.0,en,1.0
-Chihuahua,Chihuahua,ORG,0.0,0.0,en,1.0
-AFC Final,AFC Final,ORG,0.08,0.0,en,1.0
-Storm Ingrid,Storm Ingrid,ORG,0.13333333333333333,0.0,en,1.0
-RM,RM,ORG,0.0,0.0,en,1.0
-Raphinha,Raphinha,ORG,-0.08333333333333333,0.0,en,1.0
-AZZONI,AZZONI,ORG,0.0,0.0,en,1.0
-Oviedo,Oviedo,ORG,0.0,0.0,en,1.0
-Parliament,Parliament,ORG,-0.3,0.0,en,1.0
+the Miguel Servet Hospital,the Miguel Servet Hospital,ORG,0.05,0.0,en,1.0
+Sun,Sun,ORG,-0.096875,0.0,en,1.0
+Myalgic,Myalgic,ORG,0.06666666666666667,0.0,en,1.0
+UME,UME,ORG,-0.1,0.0,en,1.0
+The Military Emergency Unit,The Military Emergency Unit,ORG,-0.1,0.0,en,1.0
+Associated Press,Associated Press,ORG,0.0,0.0,en,1.0
+MSP,MSP,ORG,-0.3333333333333333,0.0,en,1.0
+Leonardo,Leonardo,ORG,0.2892857142857143,0.0,en,1.0
+the State Agency for Me,the State Agency for Me,ORG,0.18571428571428572,0.0,en,1.0
+The National Meteorological Institute of Brazil,The National Meteorological Institute of Brazil,ORG,0.0,0.0,en,1.0
+KAMILA HRABCHUK,KAMILA HRABCHUK,ORG,0.03125,0.0,en,1.0
+the Apertura Tournament,the Apertura Tournament,ORG,0.0,0.0,en,1.0
+the Best Chocolatier,the Best Chocolatier,ORG,0.75,0.0,en,1.0
+Alcalá de Henares,Alcalá de Henares,ORG,0.0,0.0,en,1.0
+The Xunta de Galicia,The Xunta de Galicia,ORG,0.5,0.0,en,1.0
+CJEU,CJEU,ORG,0.5,0.0,en,1.0
+congress,congress,ORG,0.06666666666666672,0.0,en,1.0
+A24,A24,ORG,0.0,0.0,en,1.0
+the National Wine Institute,the National Wine Institute,ORG,0.0,0.0,en,1.0
+the European Council,the European Council,ORG,0.03409090909090909,0.0,en,1.0
+Griselda Siciliani's,Griselda Siciliani's,ORG,-0.15,0.0,en,1.0
+MILENIO,MILENIO,ORG,0.18333333333333335,0.0,en,1.0
+Epstein,Epstein,ORG,0.0,0.0,en,1.0
+City Council,City Council,ORG,0.0625,0.0,en,1.0
+megastorm,megastorm,ORG,0.025000000000000005,0.0,en,1.0
