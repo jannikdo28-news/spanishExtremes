@@ -5,6 +5,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7b864c9f0d',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial sierra,2026-03-08T04:24:00+00:00,Ecuador,0.7368258359481692,2,2,es,NWS,South-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-02-26T04:28:00+00:00,Chile,0.7368244209525204,1,2,es,SWS,South-America
 '58f77fa85f',extremes,Thunderstorm,#53785a,wmo,granizo españa,2026-01-31T04:16:00+00:00,Spain,0.7351326655651081,1,3,es,MED,Europe
+'d18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-03-23T04:41:00+00:00,Argentina,0.7348771016152845,1,2,es,SES,South-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-02-13T04:34:00+00:00,Paraguay,0.7339978629431838,1,2,es,SES,South-America
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,tormenta litoral,2026-02-19T04:32:00+00:00,Ecuador,0.7268604370551868,1,3,es,NWS,South-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,inundaciones estados unidos,2026-02-07T04:19:00+00:00,United States,0.72399240100864,1,3,es,CNA,North-America
@@ -22,7 +23,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '331f9db5d5',extremes,Snow&Ice,#d60d2b,wmo,hielo españa,2026-03-05T04:24:00+00:00,Spain,0.6957799799704756,1,3,es,MED,Europe
 '60d823a47b',extremes,Storm,#b3b2b1,wmo,tormenta estados unidos,2026-02-05T04:27:00+00:00,United States,0.6954076941065317,1,3,es,CNA,North-America
 '7d68920b56',extremes,Earthquake,#870007,usgs,terremoto nicaragua,2026-02-25T04:32:00+00:00,Nicaragua,0.6894960161382184,1,2,es,SCA,North-America
-'d18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-03-23T04:41:00+00:00,Argentina,0.6879142195473935,0,1,es,SES,South-America
 '525fc683ca',extremes,Drought,#edc291,edo,falta de lluvia chile,2026-02-11T04:42:00+00:00,Chile,0.6876918869639864,2,2,es,SPO,Pacific Ocean
 '2f51d04c0e',extremes,Fog,#d60d2b,wmo,niebla españa,2026-02-24T04:31:00+00:00,Spain,0.6872253128379568,2,3,es,MED,Europe
 '9ceba27bb5',extremes,Heat Wave,#c40202,wmo,ola de calor brasil,2026-02-03T04:27:00+00:00,Brazil,0.6852231654676165,1,2,es,SAM,South-America
