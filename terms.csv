@@ -12,7 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2026-02-05T04:27:00+00:00,United States,0.7184880247809518,1,3,es,CNA,North-America
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,incendio forestal estados unidos,2026-03-18T04:36:00+00:00,United States,0.7183503823648015,1,2,es,CNA,North-America
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,lluvia litoral,2026-02-17T04:31:00+00:00,Ecuador,0.7104124386534518,3,3,es,NWS,South-America
-'3738ea4320',extremes,Precipitation,#d60d2b,wmo,precipitación uruguay,2026-03-23T04:42:00+00:00,Uruguay,0.7070273245015438,1,1,es,SES,South-America
 '30406c7856',extremes,Flood,#030ba1,cmeter,inundaciones en brasil,2026-03-07T04:13:00+00:00,Brazil,0.7062985654823638,1,3,es,SES,South-America
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,avalancha estados unidos,2026-02-11T04:41:00+00:00,United States,0.7022518012016501,1,3,es,CNA,North-America
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2026-02-16T04:38:00+00:00,Qatar,0.7001841854741774,1,2,es,ARP,Asia
@@ -49,7 +48,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-02-25T04:32:00+00:00,Chile,0.6502989313195242,2,1,es,SWS,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-02-25T04:32:00+00:00,Argentina,0.6501799534357924,1,2,es,SES,South-America
 'e3449c4e60',extremes,Earthquake,#870007,usgs,terremoto de atocha,2026-03-22T04:33:00+00:00,Bolivia,0.6497814782766064,2,1,es,SWS,South-America
-'87796e123c',extremes,Wildfire,#d60d2b,wmo,incendio forestal hamilton stanton morton,2026-03-05T04:24:00+00:00,United States,0.6474219391341874,0,1,es,CNA,North-America
 'fa90f6f8d4',extremes,Storm,#b3b2b1,wmo,tormenta insular,2026-03-11T04:22:00+00:00,Ecuador,0.6458310990647731,3,1,es,NWS,South-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-03-03T04:27:00+00:00,Argentina,0.6449619586957651,2,1,es,SES,South-America
 '930b9adc51',extremes,Drought,#edc291,edo,sequedad argentina,2026-02-22T04:31:00+00:00,Argentina,0.6449395686019224,2,2,es,SES,South-America
@@ -99,6 +97,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c9dc747da',extremes,Drought,#edc291,edo,falta de lluvia cuba,2026-02-27T04:26:00+00:00,Cuba,0.6054435641278015,1,1,es,CAR,North-America
 'e40d44c836',extremes,Earthquake,#870007,usgs,terremoto burica,2026-03-09T04:30:00+00:00,Panama,0.6046502846855589,1,1,es,SCA,South-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,nieve estados unidos,2026-02-05T04:27:00+00:00,United States,0.6037140278163335,3,3,es,CNA,North-America
+'3738ea4320',extremes,Precipitation,#d60d2b,wmo,precipitación uruguay,2026-03-23T04:42:00+00:00,Uruguay,0.6023233608263122,2,1,es,SES,South-America
 'bac5d8b8f9',extremes,Earthquake,#870007,usgs,arenas sísmicas,2026-02-12T04:36:00+00:00,Panama,0.6008143299984511,1,1,es,SCA,South-America
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-03-12T04:25:00+00:00,Costa Rica,0.6002753752930784,1,1,es,SCA,South-America
 'b4e660db49',extremes,Drought,#edc291,edo,sequía uruguay,2026-02-12T04:37:00+00:00,Uruguay,0.5995466103448374,2,3,es,SES,South-America
@@ -241,6 +240,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8608bf6521',extremes,Flood,#030ba1,wmo,inundación lawrence en martin en,2026-03-07T04:12:00+00:00,United States,0.5506606715496447,1,1,es,CNA,North-America
 '7b04c02184',extremes,Earthquake,#870007,usgs,terremoto río bravo,2026-03-11T04:22:00+00:00,Guatemala,0.5504632187816118,1,1,es,SCA,North-America
 '9d5db1db16',extremes,Flood,#030ba1,wmo,inundación repentina bartolomé en jackson en,2026-03-07T04:12:00+00:00,United States,0.5504409476635402,1,1,es,CNA,North-America
+'87796e123c',extremes,Wildfire,#d60d2b,wmo,incendio forestal hamilton stanton morton,2026-03-05T04:24:00+00:00,United States,0.5503086482640593,1,1,es,CNA,North-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2026-02-27T04:26:00+00:00,Argentina,0.548057905489002,2,1,es,SES,South-America
 '422773ffe0',extremes,Heat Wave,#c40202,wmo,ola de calor zona 2 – moderada,2026-02-17T04:31:00+00:00,Paraguay,0.5475096493127938,2,1,es,SES,South-America
 'a63efd7f21',extremes,Heat Wave,#c40202,wmo,ola de calor tartagal y alrededores,2026-02-17T04:31:00+00:00,Argentina,0.5473035289255299,2,1,es,SES,South-America
