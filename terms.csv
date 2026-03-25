@@ -48,7 +48,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-02-25T04:32:00+00:00,Chile,0.6502989313195242,2,1,es,SWS,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-02-25T04:32:00+00:00,Argentina,0.6501799534357924,1,2,es,SES,South-America
 'e3449c4e60',extremes,Earthquake,#870007,usgs,terremoto de atocha,2026-03-22T04:33:00+00:00,Bolivia,0.6497814782766064,2,1,es,SWS,South-America
-'f3c4da5993',extremes,Thunderstorm,#53785a,wmo,granizo cumbres de la palma,2026-03-19T04:35:00+00:00,Spain,0.6472462862391812,0,1,es,MED,Europe
 'fa90f6f8d4',extremes,Storm,#b3b2b1,wmo,tormenta insular,2026-03-11T04:22:00+00:00,Ecuador,0.6458310990647731,3,1,es,NWS,South-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-03-03T04:27:00+00:00,Argentina,0.6449619586957651,2,1,es,SES,South-America
 '930b9adc51',extremes,Drought,#edc291,edo,sequedad argentina,2026-02-22T04:31:00+00:00,Argentina,0.6449395686019224,2,2,es,SES,South-America
@@ -86,6 +85,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b7364c237',extremes,Earthquake,#870007,usgs,terremoto el cairo,2026-02-14T04:21:00+00:00,Colombia,0.6228089392639025,2,2,es,NWS,South-America
 '163415ef24',extremes,Earthquake,#870007,usgs,terremoto maisí,2026-03-09T04:30:00+00:00,Cuba,0.6206436241980617,1,1,es,CAR,North-America
 '07f5003376',extremes,Storm,#b3b2b1,wmo,tormenta ecuador continental,2026-03-12T04:26:00+00:00,Ecuador,0.619750041610226,1,1,es,NWS,South-America
+'f3c4da5993',extremes,Thunderstorm,#53785a,wmo,granizo cumbres de la palma,2026-03-19T04:35:00+00:00,Spain,0.6175953725890183,1,2,es,MED,Europe
 'd57776053a',extremes,Thunderstorm,#53785a,wmo,tormenta estados unidos,2026-02-14T04:21:00+00:00,United States,0.6153628119717485,1,2,es,CNA,North-America
 '48457b6eba',extremes,Earthquake,#870007,usgs,terremoto ovalle,2026-02-15T04:34:00+00:00,Chile,0.6143242591184149,1,1,es,SWS,South-America
 '3a67915e02',extremes,Earthquake,#870007,usgs,terremoto peru,2026-02-25T04:32:00+00:00,Peru,0.6123520811438207,1,1,es,NWS,South-America
