@@ -1,4 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-03-18T04:36:00+00:00,Argentina,0.7518168716858462,0,1,es,SES,South-America
 '6c91162e45',extremes,Precipitation,#d60d2b,wmo,precipitación ecuador continental,2026-03-11T04:22:00+00:00,Ecuador,0.7514726605954248,0,1,es,NWS,South-America
 'ffcbb36b12',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral,2026-03-09T04:31:00+00:00,Ecuador,0.746927375566262,0,1,es,NWS,South-America
 '30e68a3b40',extremes,Storm,#b3b2b1,wmo,tormenta sierra litoral,2026-02-08T04:43:00+00:00,Ecuador,0.7409652371909582,1,2,es,NWS,South-America
@@ -33,6 +34,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '608967f3c5',extremes,Drought,#edc291,edo,sequedad bolivia,2026-02-14T04:22:00+00:00,Bolivia,0.678212705642987,2,2,es,SAM,South-America
 'dcaaba7a57',extremes,Earthquake,#870007,usgs,terremoto los amates,2026-03-21T04:17:00+00:00,Guatemala,0.6738086886325955,0,1,es,SCA,North-America
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tormenta amazonia,2026-02-08T04:43:00+00:00,Ecuador,0.6733785752703623,2,2,es,NWS,South-America
+'314d696add',extremes,Snow&Ice,#d60d2b,wmo,nieve estados unidos,2026-03-17T04:30:00+00:00,United States,0.6731514341951236,0,1,es,CNA,North-America
 '52d7a12550',extremes,Earthquake,#870007,usgs,terremoto candelaria,2026-03-11T04:22:00+00:00,Argentina,0.6712045509232183,2,2,es,SES,South-America
 '19b7eba349',extremes,Fog,#d60d2b,wmo,niebla sur de mallorca,2026-02-24T04:31:00+00:00,Spain,0.6711720227557562,2,2,es,MED,Europe
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial argentina,2026-02-26T04:29:00+00:00,Argentina,0.6691089618252553,2,1,es,SES,South-America
