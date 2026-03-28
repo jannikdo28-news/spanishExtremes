@@ -33,6 +33,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-02-25T04:32:00+00:00,Chile,0.6803000081017703,1,2,es,SWS,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,lluvia brasil,2026-03-18T04:36:00+00:00,Brazil,0.6790823570407025,0,1,es,SAM,South-America
 '608967f3c5',extremes,Drought,#edc291,edo,sequedad bolivia,2026-02-14T04:22:00+00:00,Bolivia,0.678212705642987,2,2,es,SAM,South-America
+'5e4ea480a4',extremes,Thunderstorm,#53785a,wmo,granizo qatar,2026-03-26T04:56:00+00:00,Qatar,0.6757916413599867,0,1,es,ARP,Asia
 'dcaaba7a57',extremes,Earthquake,#870007,usgs,terremoto los amates,2026-03-21T04:17:00+00:00,Guatemala,0.6738086886325955,0,1,es,SCA,North-America
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tormenta amazonia,2026-02-08T04:43:00+00:00,Ecuador,0.6733785752703623,2,2,es,NWS,South-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,nieve estados unidos,2026-03-17T04:30:00+00:00,United States,0.6731514341951236,0,1,es,CNA,North-America
@@ -43,9 +44,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '654261891c',extremes,Precipitation,#d60d2b,wmo,lluvia sierra sur,2026-02-15T04:35:00+00:00,Ecuador,0.668124982370436,2,3,es,NWS,South-America
 'bd3d425160',extremes,Snow&Ice,#d60d2b,wmo,hielo del mar de Bering frente a la costa al este de 171w,2026-03-20T04:26:00+00:00,United States,0.6677207346328542,0,1,es,CNA,North-America
 '6303656ade',extremes,Wildfire,#d60d2b,wmo,incendio forestal phillips grajos franklin,2026-03-27T04:57:00+00:00,United States,0.6673937670328487,0,1,es,CNA,North-America
+'9ef0236c6e',extremes,Flood,#030ba1,wmo,inundación chelan wa,2026-03-18T04:36:00+00:00,United States,0.6673476133796628,0,1,es,CNA,North-America
 'c67ec160f8',extremes,Precipitation,#d60d2b,wmo,lluvia loja.,2026-03-05T04:24:00+00:00,Ecuador,0.6672593649319887,2,2,es,NWS,South-America
 '64393be751',extremes,Drought,#edc291,edo,sequía ecuador,2026-03-10T04:22:00+00:00,Ecuador,0.6669435547694559,0,1,es,EPO,Pacific Ocean
 'c459c88eba',extremes,Snow&Ice,#d60d2b,wmo,españa helada,2026-02-06T04:27:00+00:00,Spain,0.6664532372653068,1,3,es,MED,Europe
+'cb207f7e4e',extremes,Drought,#edc291,edo,falta de lluvia argentina,2026-03-10T04:22:00+00:00,Argentina,0.6661898615242651,0,1,es,SES,South-America
 'c0844bdd35',extremes,Storm,#b3b2b1,wmo,tormenta santa elena.,2026-03-03T04:27:00+00:00,Ecuador,0.6632571935455391,2,1,es,NWS,South-America
 'fbf82b1a96',extremes,Drought,#edc291,edo,sequía bolivia,2026-03-23T04:42:00+00:00,Bolivia,0.6626625043026215,0,1,es,SAM,South-America
 'b26829887e',extremes,Earthquake,#870007,usgs,terremoto jordán,2026-02-15T04:34:00+00:00,Colombia,0.6612972385069712,2,2,es,NWS,South-America
