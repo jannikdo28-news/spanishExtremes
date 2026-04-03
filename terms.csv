@@ -53,8 +53,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '56b0f39c90',extremes,Storm,#b3b2b1,wmo,marejada ciclónica bahía de yakutat,2026-03-31T04:59:00+00:00,United States,0.6745486317087797,0,1,es,CNA,North-America
 'b2a5b5c7df',extremes,Flood,#030ba1,wmo,inundación repentina erie oh,2026-04-02T04:42:00+00:00,United States,0.6738777496993084,0,1,es,CNA,North-America
 'dcaaba7a57',extremes,Earthquake,#870007,usgs,terremoto los amates,2026-03-21T04:17:00+00:00,Guatemala,0.6738086886325955,0,1,es,SCA,North-America
+'356d25c0ef',extremes,Flood,#030ba1,wmo,inundación hancock oh,2026-04-02T04:42:00+00:00,United States,0.6735383760673113,0,1,es,CNA,North-America
+'6c2aa26b6c',extremes,Drought,#edc291,edo,sequedad ecuador,2026-03-23T04:42:00+00:00,Ecuador,0.6734122325719758,0,1,es,EPO,Pacific Ocean
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tormenta amazonia,2026-02-08T04:43:00+00:00,Ecuador,0.6733785752703623,2,2,es,NWS,South-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,nieve estados unidos,2026-03-17T04:30:00+00:00,United States,0.6731514341951236,0,1,es,CNA,North-America
+'42edc58057',extremes,Drought,#edc291,edo,falta de lluvia paraguay,2026-03-23T04:42:00+00:00,Paraguay,0.6729563506075559,0,1,es,SES,South-America
 'f434a5525f',extremes,Drought,#edc291,edo,sequedad méxico,2026-03-16T05:05:00+00:00,Mexico,0.6723444223424483,0,1,es,NCA,North-America
 '52d7a12550',extremes,Earthquake,#870007,usgs,terremoto candelaria,2026-03-11T04:22:00+00:00,Argentina,0.6712045509232183,2,2,es,SES,South-America
 '19b7eba349',extremes,Fog,#d60d2b,wmo,niebla sur de mallorca,2026-02-24T04:31:00+00:00,Spain,0.6711720227557562,2,2,es,MED,Europe
