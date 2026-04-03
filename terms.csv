@@ -6,7 +6,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f5a98ca4eb',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral norte e interior,2026-03-30T05:12:00+00:00,Ecuador,0.7561971249688751,0,1,es,NWS,South-America
 'b7410cf0a8',extremes,Precipitation,#d60d2b,wmo,aguacero sierra norte y centro,2026-03-30T05:12:00+00:00,Ecuador,0.7558950977510384,0,1,es,NWS,South-America
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,ola de calor corrientes y alrededores,2026-03-29T05:00:00+00:00,Argentina,0.7557404693729164,0,1,es,SES,South-America
+'69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,ola de calor paraná y alrededores,2026-04-03T04:43:00+00:00,Argentina,0.7557338250540716,0,1,es,SES,South-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,lluvia ecuador,2026-04-01T05:12:00+00:00,Ecuador,0.7553780278432017,0,1,es,NWS,South-America
+'91c0c7bb02',extremes,Precipitation,#d60d2b,wmo,precipitación litoral y sierra,2026-04-03T04:43:00+00:00,Ecuador,0.7546700113451014,0,1,es,NWS,South-America
 'a82da7ee1b',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial litoral norte e interior,2026-04-01T05:12:00+00:00,Ecuador,0.7540485634353737,0,1,es,NWS,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-03-18T04:36:00+00:00,Argentina,0.7518168716858462,0,1,es,SES,South-America
 '6c91162e45',extremes,Precipitation,#d60d2b,wmo,precipitación ecuador continental,2026-03-11T04:22:00+00:00,Ecuador,0.7514726605954248,0,1,es,NWS,South-America
@@ -62,6 +64,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '52d7a12550',extremes,Earthquake,#870007,usgs,terremoto candelaria,2026-03-11T04:22:00+00:00,Argentina,0.6712045509232183,2,2,es,SES,South-America
 '19b7eba349',extremes,Fog,#d60d2b,wmo,niebla sur de mallorca,2026-02-24T04:31:00+00:00,Spain,0.6711720227557562,2,2,es,MED,Europe
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,heladas estados unidos,2026-03-17T04:30:00+00:00,United States,0.6702784257303925,0,1,es,CNA,North-America
+'9de5cba012',extremes,Flood,#030ba1,wmo,inundación erie ny,2026-04-01T05:12:00+00:00,United States,0.6700520813660161,0,1,es,CNA,North-America
 'f022d35342',extremes,Flood,#030ba1,wmo,inundaciones holmes oh wayne oh,2026-03-30T05:12:00+00:00,United States,0.6698111225891451,0,1,es,CNA,North-America
 '13e02b8122',extremes,Flood,#030ba1,wmo,inundación genesee ny monroe ny,2026-04-01T05:12:00+00:00,United States,0.6696490571300782,0,1,es,CNA,North-America
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial argentina,2026-02-26T04:29:00+00:00,Argentina,0.6691089618252553,2,1,es,SES,South-America
