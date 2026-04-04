@@ -53,6 +53,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '608967f3c5',extremes,Drought,#edc291,edo,sequedad bolivia,2026-02-14T04:22:00+00:00,Bolivia,0.678212705642987,2,2,es,SAM,South-America
 '5e4ea480a4',extremes,Thunderstorm,#53785a,wmo,granizo qatar,2026-03-26T04:56:00+00:00,Qatar,0.6757916413599867,0,1,es,ARP,Asia
 '276f377ae2',extremes,Drought,#edc291,edo,sequedad peru,2026-03-21T04:17:00+00:00,Peru,0.6754793185929306,0,1,es,NWS,South-America
+'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2026-04-03T04:42:00+00:00,Argentina,0.6753077275074691,0,1,es,SES,South-America
 '56b0f39c90',extremes,Storm,#b3b2b1,wmo,marejada ciclónica bahía de yakutat,2026-03-31T04:59:00+00:00,United States,0.6745486317087797,0,1,es,CNA,North-America
 'b2a5b5c7df',extremes,Flood,#030ba1,wmo,inundación repentina erie oh,2026-04-02T04:42:00+00:00,United States,0.6738777496993084,0,1,es,CNA,North-America
 'dcaaba7a57',extremes,Earthquake,#870007,usgs,terremoto los amates,2026-03-21T04:17:00+00:00,Guatemala,0.6738086886325955,0,1,es,SCA,North-America
@@ -64,11 +65,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f434a5525f',extremes,Drought,#edc291,edo,sequedad méxico,2026-03-16T05:05:00+00:00,Mexico,0.6723444223424483,0,1,es,NCA,North-America
 '52d7a12550',extremes,Earthquake,#870007,usgs,terremoto candelaria,2026-03-11T04:22:00+00:00,Argentina,0.6712045509232183,2,2,es,SES,South-America
 '19b7eba349',extremes,Fog,#d60d2b,wmo,niebla sur de mallorca,2026-02-24T04:31:00+00:00,Spain,0.6711720227557562,2,2,es,MED,Europe
+'dd1125f00f',extremes,Flood,#030ba1,wmo,inundación repentina oconto wi,2026-04-04T04:30:00+00:00,United States,0.6702889211183503,0,1,es,CNA,North-America
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,heladas estados unidos,2026-03-17T04:30:00+00:00,United States,0.6702784257303925,0,1,es,CNA,North-America
 '5cbf8c478c',extremes,Flood,#030ba1,wmo,inundación repentina cooper mo,2026-04-02T04:42:00+00:00,United States,0.6702071215306994,0,1,es,CNA,North-America
 '9de5cba012',extremes,Flood,#030ba1,wmo,inundación erie ny,2026-04-01T05:12:00+00:00,United States,0.6700520813660161,0,1,es,CNA,North-America
+'7a89dffcb0',extremes,Flood,#030ba1,wmo,inundación del lago il kenosha wi,2026-04-04T04:30:00+00:00,United States,0.6698794562909407,0,1,es,CNA,North-America
 'f022d35342',extremes,Flood,#030ba1,wmo,inundaciones holmes oh wayne oh,2026-03-30T05:12:00+00:00,United States,0.6698111225891451,0,1,es,CNA,North-America
 '13e02b8122',extremes,Flood,#030ba1,wmo,inundación genesee ny monroe ny,2026-04-01T05:12:00+00:00,United States,0.6696490571300782,0,1,es,CNA,North-America
+'863b31574a',extremes,Flood,#030ba1,wmo,inundación canadiense ok grady ok,2026-04-04T04:30:00+00:00,United States,0.6695927416019555,0,1,es,CNA,North-America
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial argentina,2026-02-26T04:29:00+00:00,Argentina,0.6691089618252553,2,1,es,SES,South-America
 '654261891c',extremes,Precipitation,#d60d2b,wmo,lluvia sierra sur,2026-02-15T04:35:00+00:00,Ecuador,0.668124982370436,2,3,es,NWS,South-America
 '9417fcfd3e',extremes,Flood,#030ba1,wmo,inundación repentina genesee ny monroe ny,2026-04-03T04:43:00+00:00,United States,0.66789415987954,0,1,es,CNA,North-America
