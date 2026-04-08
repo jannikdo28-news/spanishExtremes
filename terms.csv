@@ -97,10 +97,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0157ddda4e',extremes,Flood,#030ba1,wmo,inundación de madera wi,2026-04-05T05:01:00+00:00,United States,0.6681741816555914,0,1,es,CNA,North-America
 '654261891c',extremes,Precipitation,#d60d2b,wmo,lluvia sierra sur,2026-02-15T04:35:00+00:00,Ecuador,0.668124982370436,2,3,es,NWS,South-America
 '9417fcfd3e',extremes,Flood,#030ba1,wmo,inundación repentina genesee ny monroe ny,2026-04-03T04:43:00+00:00,United States,0.66789415987954,0,1,es,CNA,North-America
+'33770059e6',extremes,Flood,#030ba1,wmo,inundación repentina williams oh,2026-04-06T05:11:00+00:00,United States,0.6678896938733195,0,1,es,CNA,North-America
 '0a8dada260',extremes,Drought,#edc291,edo,sequía honduras,2026-04-02T04:42:00+00:00,Honduras,0.6677880921216638,0,1,es,SCA,North-America
 'bd3d425160',extremes,Snow&Ice,#d60d2b,wmo,hielo del mar de Bering frente a la costa al este de 171w,2026-03-20T04:26:00+00:00,United States,0.6677207346328542,0,1,es,CNA,North-America
+'a34c471fb7',extremes,Flood,#030ba1,wmo,inundación arenac mi,2026-04-05T05:01:00+00:00,United States,0.6675495126328802,0,1,es,CNA,North-America
+'69fc2693ee',extremes,Flood,#030ba1,wmo,inundaciones waupaca wi,2026-04-05T05:01:00+00:00,United States,0.6674502113998555,0,1,es,CNA,North-America
 '6303656ade',extremes,Wildfire,#d60d2b,wmo,incendio forestal phillips grajos franklin,2026-03-27T04:57:00+00:00,United States,0.6673937670328487,0,1,es,CNA,North-America
+'7f85b509dc',extremes,Flood,#030ba1,wmo,inundaciones Clayton ia,2026-04-05T05:01:00+00:00,United States,0.6673591338831996,0,1,es,CNA,North-America
 '9ef0236c6e',extremes,Flood,#030ba1,wmo,inundación chelan wa,2026-03-18T04:36:00+00:00,United States,0.6673476133796628,0,1,es,CNA,North-America
+'3e79e9ce59',extremes,Flood,#030ba1,wmo,inundación genesee mi,2026-04-05T05:01:00+00:00,United States,0.6672965045121855,0,1,es,CNA,North-America
 'c67ec160f8',extremes,Precipitation,#d60d2b,wmo,lluvia loja.,2026-03-05T04:24:00+00:00,Ecuador,0.6672593649319887,2,2,es,NWS,South-America
 '33db57a1ea',extremes,Flood,#030ba1,wmo,inundación repentina erie ny niagara ny,2026-04-03T04:43:00+00:00,United States,0.6671934258514395,0,1,es,CNA,North-America
 '64393be751',extremes,Drought,#edc291,edo,sequía ecuador,2026-03-10T04:22:00+00:00,Ecuador,0.6669435547694559,0,1,es,EPO,Pacific Ocean
