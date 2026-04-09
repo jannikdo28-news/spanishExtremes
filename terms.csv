@@ -115,7 +115,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bdc2b626fd',extremes,Flood,#030ba1,wmo,inundación boone il winnebago il,2026-04-05T05:01:00+00:00,United States,0.6667491395694385,0,1,es,CNA,North-America
 'c8f57c4f8a',extremes,Flood,#030ba1,wmo,inundación repentina ionia mi,2026-04-07T04:59:00+00:00,United States,0.6667441941044229,0,1,es,CNA,North-America
 'dd958e4b6d',extremes,Flood,#030ba1,wmo,inundaciones lawrence pa mercer pa,2026-04-01T05:12:00+00:00,United States,0.6666635758657994,0,1,es,CNA,North-America
+'3f21782c88',extremes,Flood,#030ba1,wmo,inundaciones crawford wi,2026-04-06T05:11:00+00:00,United States,0.6665808960101481,0,1,es,CNA,North-America
 'c459c88eba',extremes,Snow&Ice,#d60d2b,wmo,españa helada,2026-02-06T04:27:00+00:00,Spain,0.6664532372653068,1,3,es,MED,Europe
+'cdd6f16109',extremes,Flood,#030ba1,wmo,inundación repentina sauk wi,2026-04-05T05:01:00+00:00,United States,0.6664018603228162,0,1,es,CNA,North-America
+'58aec69d5b',extremes,Flood,#030ba1,wmo,inundación vernon mes,2026-04-03T04:43:00+00:00,United States,0.6663460438892838,0,1,es,CNA,North-America
 'cb207f7e4e',extremes,Drought,#edc291,edo,falta de lluvia argentina,2026-03-10T04:22:00+00:00,Argentina,0.6661898615242651,0,1,es,SES,South-America
 'c0844bdd35',extremes,Storm,#b3b2b1,wmo,tormenta santa elena.,2026-03-03T04:27:00+00:00,Ecuador,0.6632571935455391,2,1,es,NWS,South-America
 'fbf82b1a96',extremes,Drought,#edc291,edo,sequía bolivia,2026-03-23T04:42:00+00:00,Bolivia,0.6626625043026215,0,1,es,SAM,South-America
