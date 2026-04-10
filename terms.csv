@@ -104,6 +104,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a34c471fb7',extremes,Flood,#030ba1,wmo,inundación arenac mi,2026-04-05T05:01:00+00:00,United States,0.6675495126328802,0,1,es,CNA,North-America
 '69fc2693ee',extremes,Flood,#030ba1,wmo,inundaciones waupaca wi,2026-04-05T05:01:00+00:00,United States,0.6674502113998555,0,1,es,CNA,North-America
 '6303656ade',extremes,Wildfire,#d60d2b,wmo,incendio forestal phillips grajos franklin,2026-03-27T04:57:00+00:00,United States,0.6673937670328487,0,1,es,CNA,North-America
+'f7c7d2541f',extremes,Flood,#030ba1,wmo,inundaciones kent mi,2026-04-08T05:01:00+00:00,United States,0.6673805365945882,0,1,es,CNA,North-America
 '7f85b509dc',extremes,Flood,#030ba1,wmo,inundaciones Clayton ia,2026-04-05T05:01:00+00:00,United States,0.6673591338831996,0,1,es,CNA,North-America
 '9ef0236c6e',extremes,Flood,#030ba1,wmo,inundación chelan wa,2026-03-18T04:36:00+00:00,United States,0.6673476133796628,0,1,es,CNA,North-America
 '3e79e9ce59',extremes,Flood,#030ba1,wmo,inundación genesee mi,2026-04-05T05:01:00+00:00,United States,0.6672965045121855,0,1,es,CNA,North-America
@@ -127,6 +128,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'efd8233243',extremes,Flood,#030ba1,wmo,inundaciones tompkins ny,2026-04-03T04:43:00+00:00,United States,0.6660509415880354,0,1,es,CNA,North-America
 '7cf4a4eaa3',extremes,Flood,#030ba1,wmo,inundación repentina winnebago il,2026-04-06T05:11:00+00:00,United States,0.6660429360989131,0,1,es,CNA,North-America
 '7012d50057',extremes,Flood,#030ba1,wmo,inundación repentina ingham mi,2026-04-05T05:01:00+00:00,United States,0.665923129035045,0,1,es,CNA,North-America
+'053e5d4f2c',extremes,Flood,#030ba1,wmo,inundación kalamazoo mi,2026-04-06T05:11:00+00:00,United States,0.6658028304634201,0,1,es,CNA,North-America
+'5ab988d035',extremes,Flood,#030ba1,wmo,inundación williams oh,2026-04-03T04:43:00+00:00,United States,0.665695500184888,0,1,es,CNA,North-America
 'c0844bdd35',extremes,Storm,#b3b2b1,wmo,tormenta santa elena.,2026-03-03T04:27:00+00:00,Ecuador,0.6632571935455391,2,1,es,NWS,South-America
 'fbf82b1a96',extremes,Drought,#edc291,edo,sequía bolivia,2026-03-23T04:42:00+00:00,Bolivia,0.6626625043026215,0,1,es,SAM,South-America
 'b26829887e',extremes,Earthquake,#870007,usgs,terremoto jordán,2026-02-15T04:34:00+00:00,Colombia,0.6612972385069712,2,2,es,NWS,South-America
