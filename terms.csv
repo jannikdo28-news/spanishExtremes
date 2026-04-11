@@ -1,6 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '4508810067',extremes,Storm,#b3b2b1,wmo,tormenta litoral norte e interior,2026-03-31T04:59:00+00:00,Ecuador,0.7644226035682605,0,1,es,NWS,South-America
 'cb68d1153d',extremes,Storm,#b3b2b1,wmo,tormenta sierra norte y centro,2026-04-01T05:12:00+00:00,Ecuador,0.7574059943740472,0,1,es,NWS,South-America
+'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,heladas argentina,2026-04-11T04:34:00+00:00,Argentina,0.7572756310592763,0,1,es,SES,South-America
 '9131f8e093',extremes,Precipitation,#d60d2b,wmo,lluvias torrenciales sierra norte y centro,2026-03-31T04:59:00+00:00,Ecuador,0.7572559873583936,0,1,es,NWS,South-America
 '2b54723d48',extremes,Precipitation,#d60d2b,wmo,aguacero amazonía,2026-03-31T04:59:00+00:00,Ecuador,0.7570187174176264,0,1,es,NWS,South-America
 'f5a98ca4eb',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral norte e interior,2026-03-30T05:12:00+00:00,Ecuador,0.7561971249688751,0,1,es,NWS,South-America
@@ -11,9 +12,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '91c0c7bb02',extremes,Precipitation,#d60d2b,wmo,precipitación litoral y sierra,2026-04-03T04:43:00+00:00,Ecuador,0.7546700113451014,0,1,es,NWS,South-America
 'a82da7ee1b',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial litoral norte e interior,2026-04-01T05:12:00+00:00,Ecuador,0.7540485634353737,0,1,es,NWS,South-America
 'fda000bba3',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral y sierra,2026-04-05T05:01:00+00:00,Ecuador,0.7529716779285784,0,1,es,NWS,South-America
+'5d4d529776',extremes,Storm,#b3b2b1,wmo,tormenta reg. 11 cordillera austral sur,2026-04-11T04:34:00+00:00,Chile,0.7521064803473547,0,1,es,SWS,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-03-18T04:36:00+00:00,Argentina,0.7518168716858462,0,1,es,SES,South-America
+'0335b20cbc',extremes,Storm,#b3b2b1,wmo,marejada ciclónica reg. 15 cordillera,2026-04-11T04:34:00+00:00,Chile,0.751582843589394,0,1,es,SWS,South-America
 '6c91162e45',extremes,Precipitation,#d60d2b,wmo,precipitación ecuador continental,2026-03-11T04:22:00+00:00,Ecuador,0.7514726605954248,0,1,es,NWS,South-America
+'589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,nieve argentina,2026-04-11T04:34:00+00:00,Argentina,0.751011831827815,0,1,es,SES,South-America
 '22f763dc6a',extremes,Precipitation,#d60d2b,wmo,lluvia amazonía,2026-03-30T05:12:00+00:00,Ecuador,0.7507073908899037,0,1,es,NWS,South-America
+'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-04-11T04:34:00+00:00,Argentina,0.7505699267219642,0,1,es,SES,South-America
+'f78df3cf12',extremes,Drought,#edc291,edo,sequedad paraguay,2026-03-29T05:00:00+00:00,Paraguay,0.7483241391248694,0,1,es,SES,South-America
 '87f28505d1',extremes,Snow Avalanche,#deddd5,wmo,avalancha españa,2026-04-01T05:12:00+00:00,Spain,0.7470856080878242,0,1,es,MED,Europe
 'ffcbb36b12',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral,2026-03-09T04:31:00+00:00,Ecuador,0.746927375566262,0,1,es,NWS,South-America
 'ef8f4f660b',extremes,Earthquake,#870007,usgs,terremoto picota,2026-04-05T05:01:00+00:00,Peru,0.7455710017887318,0,1,es,NWS,South-America
