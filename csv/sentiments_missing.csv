@@ -484,7 +484,7 @@ the month of January,the month of January,DATE,,,en,1.0
 only six,only six,CARDINAL,,,en,1.0
 January of this year,January of this year,DATE,,,en,1.0
 26 thousand dollars,26 thousand dollars,MONEY,,,en,1.0
-morning,morning,TIME,,,en,1.0
+Roman,Roman,NORP,,,en,1.0
 the Six Nations,the Six Nations,FAC,,,en,1.0
 Last night,Last night,TIME,,,en,1.0
 three minutes,three minutes,TIME,,,en,1.0
@@ -570,7 +570,7 @@ December 2025,December 2025,DATE,,,en,1.0
 June to July,June to July,DATE,,,en,1.0
 Goya Awards,Goya Awards,EVENT,,,en,1.0
 the International Year of Grasslands,the International Year of Grasslands,EVENT,,,en,1.0
-Roman,Roman,NORP,,,en,1.0
+morning,morning,TIME,,,en,1.0
 Buddhist,Buddhist,NORP,,,en,1.0
 this March 9,this March 9,DATE,,,en,1.0
 26 centuries,26 centuries,DATE,,,en,1.0
@@ -730,7 +730,7 @@ January 13,January 13,DATE,,,en,1.0
 20%,20%,PERCENT,,,en,1.0
 5.5 million,5.5 million,CARDINAL,,,en,1.0
 $28 billion,$28 billion,MONEY,,,en,1.0
-millions of years,millions of years,DATE,,,en,1.0
+Chihuahua,Chihuahua,FAC,,,en,1.0
 28.1%,28.1%,PERCENT,,,en,1.0
 "27,000 kilometer","27,000 kilometer",QUANTITY,,,en,1.0
 three weeks,three weeks,DATE,,,en,1.0
@@ -739,9 +739,9 @@ Trinitarias,Trinitarias,NORP,,,en,1.0
 "this Sunday, January 25","this Sunday, January 25",DATE,,,en,1.0
 "Almost 15,000","Almost 15,000",CARDINAL,,,en,1.0
 "More than 140,000","More than 140,000",CARDINAL,,,en,1.0
+millions of years,millions of years,DATE,,,en,1.0
 Third winter,Third winter,DATE,,,en,1.0
 at least 12,at least 12,CARDINAL,,,en,1.0
-Chihuahua,Chihuahua,FAC,,,en,1.0
 10 meters,10 meters,QUANTITY,,,en,1.0
 "more than 9,000","more than 9,000",CARDINAL,,,en,1.0
 One million,One million,CARDINAL,,,en,1.0
