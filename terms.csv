@@ -4,6 +4,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,heladas argentina,2026-04-11T04:34:00+00:00,Argentina,0.7572756310592763,0,1,es,SES,South-America
 '9131f8e093',extremes,Precipitation,#d60d2b,wmo,lluvias torrenciales sierra norte y centro,2026-03-31T04:59:00+00:00,Ecuador,0.7572559873583936,0,1,es,NWS,South-America
 '2b54723d48',extremes,Precipitation,#d60d2b,wmo,aguacero amazonía,2026-03-31T04:59:00+00:00,Ecuador,0.7570187174176264,0,1,es,NWS,South-America
+'49f364b3e2',extremes,Precipitation,#d60d2b,wmo,aguacero formosa patino pirane.,2026-04-13T05:28:00+00:00,Argentina,0.7564458318440643,0,1,es,SES,South-America
 'f5a98ca4eb',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral norte e interior,2026-03-30T05:12:00+00:00,Ecuador,0.7561971249688751,0,1,es,NWS,South-America
 'b7410cf0a8',extremes,Precipitation,#d60d2b,wmo,aguacero sierra norte y centro,2026-03-30T05:12:00+00:00,Ecuador,0.7558950977510384,0,1,es,NWS,South-America
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,ola de calor corrientes y alrededores,2026-03-29T05:00:00+00:00,Argentina,0.7557404693729164,0,1,es,SES,South-America
@@ -20,6 +21,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '22f763dc6a',extremes,Precipitation,#d60d2b,wmo,lluvia amazonía,2026-03-30T05:12:00+00:00,Ecuador,0.7507073908899037,0,1,es,NWS,South-America
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,hielo argentina,2026-04-12T05:12:00+00:00,Argentina,0.750573529536717,0,1,es,SES,South-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-04-11T04:34:00+00:00,Argentina,0.7505699267219642,0,1,es,SES,South-America
+'d709206c08',extremes,Storm,#b3b2b1,wmo,tormenta reg. 15 cordillera,2026-04-13T05:28:00+00:00,Chile,0.7492907018194763,0,1,es,SWS,South-America
 'f78df3cf12',extremes,Drought,#edc291,edo,sequedad paraguay,2026-03-29T05:00:00+00:00,Paraguay,0.7483241391248694,0,1,es,SES,South-America
 '87f28505d1',extremes,Snow Avalanche,#deddd5,wmo,avalancha españa,2026-04-01T05:12:00+00:00,Spain,0.7470856080878242,0,1,es,MED,Europe
 'ffcbb36b12',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral,2026-03-09T04:31:00+00:00,Ecuador,0.746927375566262,0,1,es,NWS,South-America
@@ -41,9 +43,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,incendio forestal estados unidos,2026-03-18T04:36:00+00:00,United States,0.7183503823648015,1,2,es,CNA,North-America
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,lluvia litoral,2026-02-17T04:31:00+00:00,Ecuador,0.7104124386534518,3,3,es,NWS,South-America
 '797da0fa2e',extremes,Earthquake,#870007,usgs,terremoto masachapa,2026-04-04T04:30:00+00:00,Nicaragua,0.7093477169385104,0,1,es,SCA,North-America
+'aa13b0f92f',extremes,Earthquake,#870007,usgs,terremoto la uvita,2026-04-13T05:27:00+00:00,Colombia,0.709156373139692,0,1,es,NWS,South-America
 '0a2120b175',extremes,Earthquake,#870007,usgs,terremoto diego de almagro,2026-03-21T04:17:00+00:00,Chile,0.7071464486934761,0,1,es,SWS,South-America
 '30406c7856',extremes,Flood,#030ba1,cmeter,inundaciones en brasil,2026-03-07T04:13:00+00:00,Brazil,0.7062985654823638,1,3,es,SES,South-America
 '5e9084d084',extremes,Earthquake,#870007,usgs,terremoto santa casilda,2026-04-09T04:57:00+00:00,Mexico,0.7046486593341843,0,1,es,NCA,North-America
+'bfe7a21557',extremes,Earthquake,#870007,usgs,terremoto coayllo,2026-04-13T05:27:00+00:00,Peru,0.7037349223264623,0,1,es,NWS,South-America
 '072f41af80',extremes,Earthquake,#870007,usgs,terremoto de aratoca,2026-03-21T04:17:00+00:00,Colombia,0.7027600349899805,0,1,es,NWS,South-America
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,avalancha estados unidos,2026-02-11T04:41:00+00:00,United States,0.7022518012016501,1,3,es,CNA,North-America
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2026-02-16T04:38:00+00:00,Qatar,0.7001841854741774,1,2,es,ARP,Asia
@@ -69,6 +73,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '276f377ae2',extremes,Drought,#edc291,edo,sequedad peru,2026-03-21T04:17:00+00:00,Peru,0.6754793185929306,0,1,es,NWS,South-America
 'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2026-04-03T04:42:00+00:00,Argentina,0.6753077275074691,0,1,es,SES,South-America
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,ciclón tropical estados unidos,2026-04-11T04:34:00+00:00,United States,0.6752413617235484,0,1,es,CNA,North-America
+'9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón estados unidos,2026-04-12T05:12:00+00:00,United States,0.6745491427700122,0,1,es,CNA,North-America
 '56b0f39c90',extremes,Storm,#b3b2b1,wmo,marejada ciclónica bahía de yakutat,2026-03-31T04:59:00+00:00,United States,0.6745486317087797,0,1,es,CNA,North-America
 'b2a5b5c7df',extremes,Flood,#030ba1,wmo,inundación repentina erie oh,2026-04-02T04:42:00+00:00,United States,0.6738777496993084,0,1,es,CNA,North-America
 'dcaaba7a57',extremes,Earthquake,#870007,usgs,terremoto los amates,2026-03-21T04:17:00+00:00,Guatemala,0.6738086886325955,0,1,es,SCA,North-America
@@ -160,6 +165,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '012592e775',extremes,Flood,#030ba1,wmo,inundación de jaspe en porter en,2026-04-07T04:59:00+00:00,United States,0.6652550164586507,0,1,es,CNA,North-America
 '3300eff866',extremes,Flood,#030ba1,wmo,inundación repentina johnson mo pettis mo,2026-04-11T04:34:00+00:00,United States,0.6652252199345379,0,1,es,CNA,North-America
 '22ec810b64',extremes,Flood,#030ba1,wmo,inundación repentina clinton ia scott ia,2026-04-09T04:58:00+00:00,United States,0.6651962788899457,0,1,es,CNA,North-America
+'2918568fbe',extremes,Flood,#030ba1,wmo,inundación halcón negro ia,2026-04-06T05:11:00+00:00,United States,0.6649690003827115,0,1,es,CNA,North-America
 'c0844bdd35',extremes,Storm,#b3b2b1,wmo,tormenta santa elena.,2026-03-03T04:27:00+00:00,Ecuador,0.6632571935455391,2,1,es,NWS,South-America
 'fbf82b1a96',extremes,Drought,#edc291,edo,sequía bolivia,2026-03-23T04:42:00+00:00,Bolivia,0.6626625043026215,0,1,es,SAM,South-America
 'b26829887e',extremes,Earthquake,#870007,usgs,terremoto jordán,2026-02-15T04:34:00+00:00,Colombia,0.6612972385069712,2,2,es,NWS,South-America
