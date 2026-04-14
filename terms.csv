@@ -166,6 +166,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3300eff866',extremes,Flood,#030ba1,wmo,inundación repentina johnson mo pettis mo,2026-04-11T04:34:00+00:00,United States,0.6652252199345379,0,1,es,CNA,North-America
 '22ec810b64',extremes,Flood,#030ba1,wmo,inundación repentina clinton ia scott ia,2026-04-09T04:58:00+00:00,United States,0.6651962788899457,0,1,es,CNA,North-America
 '2918568fbe',extremes,Flood,#030ba1,wmo,inundación halcón negro ia,2026-04-06T05:11:00+00:00,United States,0.6649690003827115,0,1,es,CNA,North-America
+'b38b71a6df',extremes,Flood,#030ba1,wmo,inundación repentina poweshiek ia tama ia,2026-04-07T04:59:00+00:00,United States,0.6649376926751503,0,1,es,CNA,North-America
+'5bff331a17',extremes,Flood,#030ba1,wmo,inundación repentina genesee mi,2026-04-06T05:11:00+00:00,United States,0.6648809394635832,0,1,es,CNA,North-America
+'0f9abeb76e',extremes,Flood,#030ba1,wmo,inundación tompkins ny,2026-04-01T05:12:00+00:00,United States,0.6648522965409022,0,1,es,CNA,North-America
+'08d45746fe',extremes,Flood,#030ba1,wmo,inundación repentina hancock il mcdonough il,2026-04-03T04:43:00+00:00,United States,0.6645963195948488,0,1,es,CNA,North-America
+'a736f6d73e',extremes,Flood,#030ba1,wmo,inundación racine wi,2026-04-05T05:01:00+00:00,United States,0.6644907638427787,0,1,es,CNA,North-America
+'a2f2ee735b',extremes,Flood,#030ba1,wmo,inundación repentina cass il fulton il mason il,2026-04-06T05:11:00+00:00,United States,0.6641221166946638,0,1,es,CNA,North-America
 'c0844bdd35',extremes,Storm,#b3b2b1,wmo,tormenta santa elena.,2026-03-03T04:27:00+00:00,Ecuador,0.6632571935455391,2,1,es,NWS,South-America
 'fbf82b1a96',extremes,Drought,#edc291,edo,sequía bolivia,2026-03-23T04:42:00+00:00,Bolivia,0.6626625043026215,0,1,es,SAM,South-America
 'b26829887e',extremes,Earthquake,#870007,usgs,terremoto jordán,2026-02-15T04:34:00+00:00,Colombia,0.6612972385069712,2,2,es,NWS,South-America
