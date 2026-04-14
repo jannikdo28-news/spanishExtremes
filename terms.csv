@@ -1,12 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,marejada ciclónica argentina,2026-04-06T05:11:00+00:00,Argentina,0.7596164366949469,0,1,es,SES,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2026-04-09T04:58:00+00:00,Argentina,0.7593896155562133,0,1,es,SES,South-America
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial argentina,2026-04-07T04:59:00+00:00,Argentina,0.7587348543463984,0,1,es,SES,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-04-06T05:11:00+00:00,Argentina,0.7582425312050032,0,1,es,SES,South-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-03-28T04:33:00+00:00,Argentina,0.7580242406963612,0,1,es,SES,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paraguay,2026-04-06T05:11:00+00:00,Paraguay,0.7578735485183602,0,1,es,SES,South-America
-'cb68d1153d',extremes,Storm,#b3b2b1,wmo,tormenta sierra norte y centro,2026-04-01T05:12:00+00:00,Ecuador,0.7574059943740472,0,1,es,NWS,South-America
-'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,heladas argentina,2026-04-11T04:34:00+00:00,Argentina,0.7572756310592763,0,1,es,SES,South-America
 '9131f8e093',extremes,Precipitation,#d60d2b,wmo,lluvias torrenciales sierra norte y centro,2026-03-31T04:59:00+00:00,Ecuador,0.7572559873583936,0,1,es,NWS,South-America
 '2b54723d48',extremes,Precipitation,#d60d2b,wmo,aguacero amazonía,2026-03-31T04:59:00+00:00,Ecuador,0.7570187174176264,0,1,es,NWS,South-America
 '49f364b3e2',extremes,Precipitation,#d60d2b,wmo,aguacero formosa patino pirane.,2026-04-13T05:28:00+00:00,Argentina,0.7564458318440643,0,1,es,SES,South-America
@@ -64,6 +61,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '276f377ae2',extremes,Drought,#edc291,edo,sequedad peru,2026-03-21T04:17:00+00:00,Peru,0.6754793185929306,0,1,es,NWS,South-America
 'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2026-04-03T04:42:00+00:00,Argentina,0.6753077275074691,0,1,es,SES,South-America
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,ciclón tropical estados unidos,2026-04-11T04:34:00+00:00,United States,0.6752413617235484,0,1,es,CNA,North-America
+'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,heladas argentina,2026-04-11T04:34:00+00:00,Argentina,0.675184436400385,1,1,es,SES,South-America
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón estados unidos,2026-04-12T05:12:00+00:00,United States,0.6745491427700122,0,1,es,CNA,North-America
 '56b0f39c90',extremes,Storm,#b3b2b1,wmo,marejada ciclónica bahía de yakutat,2026-03-31T04:59:00+00:00,United States,0.6745486317087797,0,1,es,CNA,North-America
 'b2a5b5c7df',extremes,Flood,#030ba1,wmo,inundación repentina erie oh,2026-04-02T04:42:00+00:00,United States,0.6738777496993084,0,1,es,CNA,North-America
@@ -179,6 +177,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aaa59dbd70',extremes,Flood,#030ba1,wmo,inundación de madera wi,2026-03-24T04:31:00+00:00,United States,0.6471273615119573,0,1,es,CNA,North-America
 'd4635b9531',extremes,Earthquake,#870007,usgs,terremoto cañete,2026-03-21T04:17:00+00:00,Chile,0.646749854233747,0,1,es,SWS,South-America
 'fa90f6f8d4',extremes,Storm,#b3b2b1,wmo,tormenta insular,2026-03-11T04:22:00+00:00,Ecuador,0.6458310990647731,3,1,es,NWS,South-America
+'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,marejada ciclónica argentina,2026-04-06T05:11:00+00:00,Argentina,0.6456739711907049,1,1,es,SES,South-America
+'cb68d1153d',extremes,Storm,#b3b2b1,wmo,tormenta sierra norte y centro,2026-04-01T05:12:00+00:00,Ecuador,0.6437950952179401,1,1,es,NWS,South-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-03-19T04:35:00+00:00,Argentina,0.6427402611443779,1,1,es,SES,South-America
 '9bd86172ae',extremes,Storm,#b3b2b1,wmo,tormenta litoral y estribación,2026-03-13T04:25:00+00:00,Ecuador,0.6383910932556365,1,1,es,NWS,South-America
 '5cb766f03d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica área 2 – moderada,2026-03-23T04:42:00+00:00,Paraguay,0.63485660531632,1,1,es,SES,South-America
