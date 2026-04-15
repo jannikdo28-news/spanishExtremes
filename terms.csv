@@ -4,10 +4,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-04-06T05:11:00+00:00,Argentina,0.7582425312050032,0,1,es,SES,South-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-03-28T04:33:00+00:00,Argentina,0.7580242406963612,0,1,es,SES,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paraguay,2026-04-06T05:11:00+00:00,Paraguay,0.7578735485183602,0,1,es,SES,South-America
+'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2026-04-10T05:13:00+00:00,Chile,0.7576638249412455,0,1,es,SWS,South-America
+'d61de81685',extremes,Storm,#b3b2b1,wmo,marejada ciclónica chile,2026-04-12T05:12:00+00:00,Chile,0.7576556198306356,0,1,es,SWS,South-America
+'0ef55bcfe1',extremes,Storm,#b3b2b1,wmo,tormenta formosa patino pirane.,2026-04-14T05:11:00+00:00,Argentina,0.7576334340256489,0,1,es,SES,South-America
 '2b54723d48',extremes,Precipitation,#d60d2b,wmo,aguacero amazonía,2026-03-31T04:59:00+00:00,Ecuador,0.7570187174176264,0,1,es,NWS,South-America
 '49f364b3e2',extremes,Precipitation,#d60d2b,wmo,aguacero formosa patino pirane.,2026-04-13T05:28:00+00:00,Argentina,0.7564458318440643,0,1,es,SES,South-America
 'f5a98ca4eb',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral norte e interior,2026-03-30T05:12:00+00:00,Ecuador,0.7561971249688751,0,1,es,NWS,South-America
 'b7410cf0a8',extremes,Precipitation,#d60d2b,wmo,aguacero sierra norte y centro,2026-03-30T05:12:00+00:00,Ecuador,0.7558950977510384,0,1,es,NWS,South-America
+'3f340afd02',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial ecuador,2026-04-01T05:12:00+00:00,Ecuador,0.7558135867821657,0,1,es,NWS,South-America
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,ola de calor corrientes y alrededores,2026-03-29T05:00:00+00:00,Argentina,0.7557404693729164,0,1,es,SES,South-America
 '69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,ola de calor paraná y alrededores,2026-04-03T04:43:00+00:00,Argentina,0.7557338250540716,0,1,es,SES,South-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,lluvia ecuador,2026-04-01T05:12:00+00:00,Ecuador,0.7553780278432017,0,1,es,NWS,South-America
@@ -18,10 +22,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-03-18T04:36:00+00:00,Argentina,0.7518168716858462,0,1,es,SES,South-America
 '0335b20cbc',extremes,Storm,#b3b2b1,wmo,marejada ciclónica reg. 15 cordillera,2026-04-11T04:34:00+00:00,Chile,0.751582843589394,0,1,es,SWS,South-America
 '6c91162e45',extremes,Precipitation,#d60d2b,wmo,precipitación ecuador continental,2026-03-11T04:22:00+00:00,Ecuador,0.7514726605954248,0,1,es,NWS,South-America
+'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-04-12T05:12:00+00:00,Paraguay,0.7511308049857288,0,1,es,SES,South-America
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,nieve argentina,2026-04-11T04:34:00+00:00,Argentina,0.751011831827815,0,1,es,SES,South-America
 '22f763dc6a',extremes,Precipitation,#d60d2b,wmo,lluvia amazonía,2026-03-30T05:12:00+00:00,Ecuador,0.7507073908899037,0,1,es,NWS,South-America
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,hielo argentina,2026-04-12T05:12:00+00:00,Argentina,0.750573529536717,0,1,es,SES,South-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-04-11T04:34:00+00:00,Argentina,0.7505699267219642,0,1,es,SES,South-America
+'3a67915e02',extremes,Earthquake,#870007,usgs,terremoto peru,2026-04-06T05:11:00+00:00,Peru,0.7502987525297979,0,1,es,NWS,South-America
 'd709206c08',extremes,Storm,#b3b2b1,wmo,tormenta reg. 15 cordillera,2026-04-13T05:28:00+00:00,Chile,0.7492907018194763,0,1,es,SWS,South-America
 'f78df3cf12',extremes,Drought,#edc291,edo,sequedad paraguay,2026-03-29T05:00:00+00:00,Paraguay,0.7483241391248694,0,1,es,SES,South-America
 '87f28505d1',extremes,Snow Avalanche,#deddd5,wmo,avalancha españa,2026-04-01T05:12:00+00:00,Spain,0.7470856080878242,0,1,es,MED,Europe
