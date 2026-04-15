@@ -9,7 +9,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2b54723d48',extremes,Precipitation,#d60d2b,wmo,aguacero amazonía,2026-03-31T04:59:00+00:00,Ecuador,0.7570187174176264,0,1,es,NWS,South-America
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial ecuador,2026-04-01T05:12:00+00:00,Ecuador,0.7558135867821657,0,1,es,NWS,South-America
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,ola de calor corrientes y alrededores,2026-03-29T05:00:00+00:00,Argentina,0.7557404693729164,0,1,es,SES,South-America
-'9801f8158e',extremes,Precipitation,#d60d2b,wmo,lluvia ecuador,2026-04-01T05:12:00+00:00,Ecuador,0.7553780278432017,0,1,es,NWS,South-America
 'a82da7ee1b',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial litoral norte e interior,2026-04-01T05:12:00+00:00,Ecuador,0.7540485634353737,0,1,es,NWS,South-America
 'fda000bba3',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral y sierra,2026-04-05T05:01:00+00:00,Ecuador,0.7529716779285784,0,1,es,NWS,South-America
 '5d4d529776',extremes,Storm,#b3b2b1,wmo,tormenta reg. 11 cordillera austral sur,2026-04-11T04:34:00+00:00,Chile,0.7521064803473547,0,1,es,SWS,South-America
@@ -50,11 +49,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '331f9db5d5',extremes,Snow&Ice,#d60d2b,wmo,hielo españa,2026-03-05T04:24:00+00:00,Spain,0.6957799799704756,1,3,es,MED,Europe
 '470eec8a5b',extremes,Earthquake,#870007,usgs,terremoto playas,2026-04-05T05:01:00+00:00,Ecuador,0.6921093433111273,0,1,es,NWS,South-America
 'cd74d750ef',extremes,Drought,#edc291,edo,falta de lluvia bolivia,2026-04-10T05:13:00+00:00,Bolivia,0.6912569585558117,0,1,es,SAM,South-America
-'7d68920b56',extremes,Earthquake,#870007,usgs,terremoto nicaragua,2026-02-25T04:32:00+00:00,Nicaragua,0.6894960161382184,1,2,es,SCA,North-America
 '2f51d04c0e',extremes,Fog,#d60d2b,wmo,niebla españa,2026-02-24T04:31:00+00:00,Spain,0.6872253128379568,2,3,es,MED,Europe
 '57df3dc86e',extremes,Drought,#edc291,edo,sequía chile,2026-04-02T04:42:00+00:00,Chile,0.6843043016738652,0,1,es,SPO,Pacific Ocean
 'f3235b0b66',extremes,Earthquake,#870007,usgs,terremoto chivay,2026-03-25T04:33:00+00:00,Peru,0.6825102404495189,0,1,es,SWS,South-America
-'03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-02-25T04:32:00+00:00,Chile,0.6803000081017703,1,2,es,SWS,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,lluvia brasil,2026-03-18T04:36:00+00:00,Brazil,0.6790823570407025,0,1,es,SAM,South-America
 '7cb8b855fa',extremes,Thunderstorm,#53785a,wmo,tormenta qatar,2026-03-28T04:33:00+00:00,Qatar,0.6782573275367615,0,1,es,ARP,Asia
 '5e4ea480a4',extremes,Thunderstorm,#53785a,wmo,granizo qatar,2026-03-26T04:56:00+00:00,Qatar,0.6757916413599867,0,1,es,ARP,Asia
@@ -62,6 +59,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2026-04-03T04:42:00+00:00,Argentina,0.6753077275074691,0,1,es,SES,South-America
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,ciclón tropical estados unidos,2026-04-11T04:34:00+00:00,United States,0.6752413617235484,0,1,es,CNA,North-America
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,heladas argentina,2026-04-11T04:34:00+00:00,Argentina,0.675184436400385,1,1,es,SES,South-America
+'9801f8158e',extremes,Precipitation,#d60d2b,wmo,lluvia ecuador,2026-04-01T05:12:00+00:00,Ecuador,0.6748178675128753,1,2,es,NWS,South-America
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón estados unidos,2026-04-12T05:12:00+00:00,United States,0.6745491427700122,0,1,es,CNA,North-America
 '56b0f39c90',extremes,Storm,#b3b2b1,wmo,marejada ciclónica bahía de yakutat,2026-03-31T04:59:00+00:00,United States,0.6745486317087797,0,1,es,CNA,North-America
 'b2a5b5c7df',extremes,Flood,#030ba1,wmo,inundación repentina erie oh,2026-04-02T04:42:00+00:00,United States,0.6738777496993084,0,1,es,CNA,North-America
@@ -202,12 +200,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3738ea4320',extremes,Precipitation,#d60d2b,wmo,precipitación uruguay,2026-03-23T04:42:00+00:00,Uruguay,0.6023233608263122,2,1,es,SES,South-America
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2026-03-24T04:31:00+00:00,Bolivia,0.6021896530946127,1,1,es,SWS,South-America
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-03-12T04:25:00+00:00,Costa Rica,0.6002753752930784,1,1,es,SCA,South-America
-'5e67a6e3c8',extremes,Earthquake,#870007,usgs,terremoto coquimbo,2026-03-05T04:23:00+00:00,Chile,0.5968944473901248,1,1,es,SWS,South-America
 '81575252a2',extremes,Storm,#b3b2b1,wmo,tormenta sierra,2026-03-10T04:22:00+00:00,Ecuador,0.5928775152424433,2,3,es,NWS,South-America
 'e5b46f3978',extremes,Drought,#edc291,edo,sequía argentina,2026-03-02T04:27:00+00:00,Argentina,0.5823878721050378,1,2,es,SES,South-America
 'a4e5a232ca',extremes,Earthquake,#870007,usgs,terremoto cañas gordas,2026-03-19T04:35:00+00:00,Costa Rica,0.5810741697956853,1,1,es,SCA,North-America
 '037bb37761',extremes,Flood,#030ba1,wmo,inundación estados unidos,2026-03-18T04:36:00+00:00,United States,0.5775538157654617,2,1,es,CNA,North-America
-'fb2c8c631a',extremes,Earthquake,#870007,usgs,terremoto máncora,2026-03-06T04:21:00+00:00,Peru,0.5743561197368696,1,1,es,NWS,South-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica brasil,2026-03-22T04:33:00+00:00,Brazil,0.5738439374722322,1,1,es,SAM,South-America
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial brasil,2026-03-21T04:17:00+00:00,Brazil,0.5734819323570802,1,1,es,SAM,South-America
 '707990706c',extremes,Earthquake,#870007,usgs,terremoto molina,2026-03-17T04:30:00+00:00,Chile,0.5723150526173448,2,1,es,SWS,South-America
@@ -233,28 +229,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a4cf1e9346',extremes,Storm,#b3b2b1,wmo,marejada ciclónica qatar,2026-03-09T04:31:00+00:00,Qatar,0.5608464877006929,1,1,es,ARP,Asia
 '19e427569b',extremes,Drought,#edc291,edo,sequía en uruguay,2026-03-10T04:22:00+00:00,Uruguay,0.5607520758781219,2,1,es,SES,South-America
 '8c362c1849',extremes,Storm,#b3b2b1,wmo,marejada ciclónica el hierro,2026-03-10T04:22:00+00:00,Spain,0.5607426820324983,1,1,es,MED,Europe
-'fb2e52d1fa',extremes,Flood,#030ba1,wmo,inundación repentina lawrence en martin en,2026-03-06T04:21:00+00:00,United States,0.559482940823433,1,1,es,CNA,North-America
 '179db1ae1a',extremes,Thunderstorm,#53785a,wmo,granizo دولة قطر,2026-03-09T04:31:00+00:00,Qatar,0.5593047998042764,1,1,es,ARP,Asia
 '2696c78a02',extremes,Heat Wave,#c40202,wmo,ola de calor costa de malibu,2026-03-15T04:45:00+00:00,United States,0.5592581523522862,1,1,es,CNA,North-America
-'97800b2ead',extremes,Flood,#030ba1,wmo,inundación repentina crawford mo washington mo,2026-03-06T04:21:00+00:00,United States,0.559182435033788,1,1,es,CNA,North-America
 'be41680ba8',extremes,Flood,#030ba1,wmo,inundación crawford mo washington mo,2026-03-07T04:12:00+00:00,United States,0.5590643550238299,1,1,es,CNA,North-America
 'f6d615fe7c',extremes,Drought,#edc291,edo,sequedad venezuela,2026-03-07T04:13:00+00:00,Venezuela,0.5588664916992706,1,1,es,NSA,South-America
 'd96d10a52c',extremes,Earthquake,#870007,usgs,terremoto huabal,2026-03-08T04:24:00+00:00,Peru,0.5587127542256919,1,1,es,NWS,South-America
-'a22d1b5c5d',extremes,Flood,#030ba1,wmo,inundación arcilla il richland il,2026-03-06T04:21:00+00:00,United States,0.5577384007127131,1,1,es,CNA,North-America
 '3d84dbb72f',extremes,Storm,#b3b2b1,wmo,tormenta estrecho de clarence,2026-03-12T04:26:00+00:00,United States,0.5572669273241321,1,1,es,CNA,North-America
-'8b36be7a01',extremes,Flood,#030ba1,wmo,inundaciones lawrence il,2026-03-06T04:21:00+00:00,United States,0.5570124280815538,1,1,es,CNA,North-America
 '0d6443fd8b',extremes,Thunderstorm,#53785a,wmo,clima severo qatar,2026-03-10T04:22:00+00:00,Qatar,0.5565073012928468,1,1,es,ARP,Asia
 'eda8e8bf82',extremes,Earthquake,#870007,usgs,terremoto lago puelo,2026-03-16T05:04:00+00:00,Chile,0.5560475669705709,1,1,es,SWS,South-America
-'c9ae36ff90',extremes,Flood,#030ba1,wmo,inundación repentina shelby en,2026-03-06T04:21:00+00:00,United States,0.555869539428468,1,1,es,CNA,North-America
 '1923c16449',extremes,Flood,#030ba1,wmo,inundación repentina en greene en monroe en owen en,2026-03-07T04:12:00+00:00,United States,0.5558590494880219,1,1,es,CNA,North-America
 '0a870c3511',extremes,Flood,#030ba1,wmo,inundación de lawrence en martin en,2026-03-07T04:12:00+00:00,United States,0.5556772544114784,1,1,es,CNA,North-America
 '496e868079',extremes,Flood,#030ba1,emdat,inundación república dominicana,2026-03-07T04:13:00+00:00,Dominican Republic,0.555610892241404,1,1,es,CAR,North-America
-'ab09cf7c41',extremes,Flood,#030ba1,wmo,inundación johnson en,2026-03-06T04:21:00+00:00,United States,0.5549976359249151,1,1,es,CNA,North-America
 'b875d9331f',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paso de Stephens,2026-03-12T04:26:00+00:00,United States,0.5546841637446729,1,1,es,CNA,North-America
 'd02b1fa9c1',extremes,Flood,#030ba1,wmo,inundación greene oh warren oh,2026-03-07T04:12:00+00:00,United States,0.5544130704224414,1,1,es,CNA,North-America
-'2293c26d43',extremes,Flood,#030ba1,wmo,inundación repentina hamilton oh,2026-03-06T04:21:00+00:00,United States,0.5535935309360621,1,1,es,CNA,North-America
 '01038989c1',extremes,Flood,#030ba1,wmo,inundaciones chelan wa,2026-03-13T04:25:00+00:00,United States,0.5525212397211743,1,1,es,CNA,North-America
-'d43f2c5c0b',extremes,Flood,#030ba1,wmo,inundación repentina daviess en greene en knox en,2026-03-06T04:21:00+00:00,United States,0.5514309257017264,1,1,es,CNA,North-America
 '94a7350fbb',extremes,Storm,#b3b2b1,wmo,tormenta bahía glaciar,2026-03-11T04:22:00+00:00,United States,0.5509830525350435,1,1,es,CNA,North-America
 'fd6079b0ba',extremes,Earthquake,#870007,usgs,terremoto caucete,2026-03-08T04:24:00+00:00,Argentina,0.5506746737891756,1,1,es,SES,South-America
 '8608bf6521',extremes,Flood,#030ba1,wmo,inundación lawrence en martin en,2026-03-07T04:12:00+00:00,United States,0.5506606715496447,1,1,es,CNA,North-America
@@ -268,7 +256,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fe5dc71b7f',extremes,Storm,#b3b2b1,wmo,tormenta mendoza san carlos san rafael.,2026-03-14T04:22:00+00:00,Argentina,0.5427464985782772,2,1,es,SES,South-America
 '5f8393ea03',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral y estribación,2026-03-12T04:26:00+00:00,Ecuador,0.5394718411251067,2,1,es,NWS,South-America
 'b2c023909a',extremes,Storm,#b3b2b1,wmo,área de tormenta 2 – moderada,2026-03-21T04:17:00+00:00,Paraguay,0.5391125771538154,2,1,es,SES,South-America
-'be647fc7a4',extremes,Storm,#b3b2b1,wmo,marejada ciclónica ecuador,2026-03-09T04:31:00+00:00,Ecuador,0.5361782940533063,2,1,es,NWS,South-America
 '01f4e3df7d',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial amazonía,2026-03-10T04:22:00+00:00,Ecuador,0.5329620545684568,2,1,es,NWS,South-America
 '6b892b36d0',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – moderada,2026-03-10T04:22:00+00:00,Paraguay,0.5328288074708869,2,1,es,SES,South-America
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,marejada ciclónica área 1 – severa,2026-03-12T04:26:00+00:00,Paraguay,0.5321070882157779,2,1,es,SES,South-America
