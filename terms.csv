@@ -12,7 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial ecuador,2026-04-01T05:12:00+00:00,Ecuador,0.7558135867821657,0,1,es,NWS,South-America
 '9c373151bb',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – severa,2026-04-15T05:12:00+00:00,Paraguay,0.7550560800895197,0,1,es,SES,South-America
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,marejada ciclónica ecuador,2026-04-03T04:43:00+00:00,Ecuador,0.7545080117173688,0,1,es,NWS,South-America
-'589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,nieve argentina,2026-04-11T04:34:00+00:00,Argentina,0.751011831827815,0,1,es,SES,South-America
 '22f763dc6a',extremes,Precipitation,#d60d2b,wmo,lluvia amazonía,2026-03-30T05:12:00+00:00,Ecuador,0.7507073908899037,0,1,es,NWS,South-America
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,hielo argentina,2026-04-12T05:12:00+00:00,Argentina,0.750573529536717,0,1,es,SES,South-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-04-11T04:34:00+00:00,Argentina,0.7505699267219642,0,1,es,SES,South-America
@@ -178,6 +177,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e3449c4e60',extremes,Earthquake,#870007,usgs,terremoto de atocha,2026-03-22T04:33:00+00:00,Bolivia,0.6497814782766064,2,1,es,SWS,South-America
 '1a8ff73ad3',extremes,Flood,#030ba1,wmo,inundación repentina washington oh,2026-03-28T04:33:00+00:00,United States,0.6487958986056502,0,1,es,CNA,North-America
 'd389bc4f63',extremes,Earthquake,#870007,usgs,terremoto mexico,2026-03-19T04:35:00+00:00,Mexico,0.6484349531035575,0,1,es,SCA,North-America
+'589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,nieve argentina,2026-04-11T04:34:00+00:00,Argentina,0.6478560515990973,1,2,es,SES,South-America
 'aaa59dbd70',extremes,Flood,#030ba1,wmo,inundación de madera wi,2026-03-24T04:31:00+00:00,United States,0.6471273615119573,0,1,es,CNA,North-America
 'd4635b9531',extremes,Earthquake,#870007,usgs,terremoto cañete,2026-03-21T04:17:00+00:00,Chile,0.646749854233747,0,1,es,SWS,South-America
 'fa90f6f8d4',extremes,Storm,#b3b2b1,wmo,tormenta insular,2026-03-11T04:22:00+00:00,Ecuador,0.6458310990647731,3,1,es,NWS,South-America
