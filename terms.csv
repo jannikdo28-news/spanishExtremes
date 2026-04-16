@@ -28,8 +28,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ef8f4f660b',extremes,Earthquake,#870007,usgs,terremoto picota,2026-04-05T05:01:00+00:00,Peru,0.7455710017887318,0,1,es,NWS,South-America
 'f259fec1b4',extremes,Precipitation,#d60d2b,wmo,precipitación galápagos,2026-04-14T05:11:00+00:00,Ecuador,0.745159817143871,0,1,es,NWS,South-America
 '58e1428940',extremes,Snow Avalanche,#deddd5,wmo,alud valle de arán,2026-04-02T04:42:00+00:00,Spain,0.7415066903413681,0,1,es,MED,Europe
+'c85690d76d',extremes,Precipitation,#d60d2b,wmo,aguacero uruguay,2026-04-16T05:17:00+00:00,Uruguay,0.7414647437255684,0,1,es,SES,South-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-04-06T05:11:00+00:00,Chile,0.7395657813933882,0,1,es,SWS,South-America
 '2f486e78b4',extremes,Snow Avalanche,#deddd5,wmo,alud pirineo oscense,2026-04-03T04:43:00+00:00,Spain,0.7395462507216826,0,1,es,MED,Europe
+'0400bc529a',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral y estribación de cordillera,2026-04-16T05:17:00+00:00,Ecuador,0.7384029911792178,0,1,es,NWS,South-America
 'cff0a88351',extremes,Earthquake,#870007,usgs,terremoto ecuador,2026-04-10T05:12:00+00:00,Ecuador,0.7370657391499446,0,1,es,NWS,South-America
 '7b864c9f0d',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial sierra,2026-03-08T04:24:00+00:00,Ecuador,0.7368258359481692,2,2,es,NWS,South-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-02-26T04:28:00+00:00,Chile,0.7368244209525204,1,2,es,SWS,South-America
@@ -37,8 +39,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-04-06T05:11:00+00:00,Argentina,0.7295037901485761,0,1,es,SES,South-America
 '4508810067',extremes,Storm,#b3b2b1,wmo,tormenta litoral norte e interior,2026-03-31T04:59:00+00:00,Ecuador,0.7262593630330214,1,2,es,NWS,South-America
 'b4e660db49',extremes,Drought,#edc291,edo,sequía uruguay,2026-04-05T05:01:00+00:00,Uruguay,0.7206233268485367,0,1,es,SES,South-America
+'bd8c8650ea',extremes,Earthquake,#870007,usgs,terremoto el aguilar,2026-04-06T05:11:00+00:00,Argentina,0.71903397572721,0,1,es,SES,South-America
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,incendio forestal estados unidos,2026-03-18T04:36:00+00:00,United States,0.7183503823648015,1,2,es,CNA,North-America
 '91c0c7bb02',extremes,Precipitation,#d60d2b,wmo,precipitación litoral y sierra,2026-04-03T04:43:00+00:00,Ecuador,0.7167695396433361,1,2,es,NWS,South-America
+'34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-04-09T04:57:00+00:00,Chile,0.7128423907176907,0,1,es,SWS,South-America
 '797da0fa2e',extremes,Earthquake,#870007,usgs,terremoto masachapa,2026-04-04T04:30:00+00:00,Nicaragua,0.7093477169385104,0,1,es,SCA,North-America
 'aa13b0f92f',extremes,Earthquake,#870007,usgs,terremoto la uvita,2026-04-13T05:27:00+00:00,Colombia,0.709156373139692,0,1,es,NWS,South-America
 '0a2120b175',extremes,Earthquake,#870007,usgs,terremoto diego de almagro,2026-03-21T04:17:00+00:00,Chile,0.7071464486934761,0,1,es,SWS,South-America
@@ -46,11 +50,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5e9084d084',extremes,Earthquake,#870007,usgs,terremoto santa casilda,2026-04-09T04:57:00+00:00,Mexico,0.7046486593341843,0,1,es,NCA,North-America
 'bfe7a21557',extremes,Earthquake,#870007,usgs,terremoto coayllo,2026-04-13T05:27:00+00:00,Peru,0.7037349223264623,0,1,es,NWS,South-America
 '072f41af80',extremes,Earthquake,#870007,usgs,terremoto de aratoca,2026-03-21T04:17:00+00:00,Colombia,0.7027600349899805,0,1,es,NWS,South-America
+'a6e9427fb1',extremes,Earthquake,#870007,usgs,terremoto colombia,2026-04-15T05:11:00+00:00,Colombia,0.7020321933452985,0,1,es,NWS,South-America
 'b55290ca0d',extremes,Drought,#edc291,edo,sequía argentina,2026-02-28T04:07:00+00:00,Argentina,0.6984429540031387,1,3,es,SES,South-America
 'e043fce1a2',extremes,Drought,#edc291,edo,sequía bolivia,2026-03-07T04:13:00+00:00,Bolivia,0.6983754473367203,1,2,es,SAM,South-America
 '55e8cccd81',extremes,Earthquake,#870007,usgs,terremoto san juan,2026-03-24T04:31:00+00:00,Peru,0.6970031241410621,1,3,es,SWS,South-America
 '9c79ae42a6',extremes,Earthquake,#870007,usgs,terremoto ciudad sandino,2026-03-27T04:56:00+00:00,Nicaragua,0.6968942504538397,0,1,es,SCA,North-America
 '331f9db5d5',extremes,Snow&Ice,#d60d2b,wmo,hielo españa,2026-03-05T04:24:00+00:00,Spain,0.6957799799704756,1,3,es,MED,Europe
+'8be002d270',extremes,Drought,#edc291,edo,falta de lluvias venezuela,2026-04-06T05:12:00+00:00,Venezuela,0.6938373168449958,0,1,es,NSA,South-America
 '470eec8a5b',extremes,Earthquake,#870007,usgs,terremoto playas,2026-04-05T05:01:00+00:00,Ecuador,0.6921093433111273,0,1,es,NWS,South-America
 'cd74d750ef',extremes,Drought,#edc291,edo,falta de lluvia bolivia,2026-04-10T05:13:00+00:00,Bolivia,0.6912569585558117,0,1,es,SAM,South-America
 '2f51d04c0e',extremes,Fog,#d60d2b,wmo,niebla españa,2026-02-24T04:31:00+00:00,Spain,0.6872253128379568,2,3,es,MED,Europe
