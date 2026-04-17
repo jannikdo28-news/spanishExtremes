@@ -4,6 +4,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-04-12T05:12:00+00:00,Paraguay,0.7890612442378695,1,2,es,SES,South-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-04-11T04:34:00+00:00,Argentina,0.7888845277136696,1,2,es,SES,South-America
 'f78df3cf12',extremes,Drought,#edc291,edo,sequedad paraguay,2026-03-29T05:00:00+00:00,Paraguay,0.786225533256139,1,2,es,SES,South-America
+'ef8f4f660b',extremes,Earthquake,#870007,usgs,terremoto picota,2026-04-05T05:01:00+00:00,Peru,0.7838853665204221,1,2,es,NWS,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2026-04-09T04:58:00+00:00,Argentina,0.7593896155562133,0,1,es,SES,South-America
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial argentina,2026-04-07T04:59:00+00:00,Argentina,0.7587348543463984,0,1,es,SES,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-04-06T05:11:00+00:00,Argentina,0.7582425312050032,0,1,es,SES,South-America
@@ -18,11 +19,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '22f763dc6a',extremes,Precipitation,#d60d2b,wmo,lluvia amazonía,2026-03-30T05:12:00+00:00,Ecuador,0.7507073908899037,0,1,es,NWS,South-America
 '3a67915e02',extremes,Earthquake,#870007,usgs,terremoto peru,2026-04-06T05:11:00+00:00,Peru,0.7502987525297979,0,1,es,NWS,South-America
 'b7fc06d785',extremes,Storm,#b3b2b1,wmo,tormenta amazonia,2026-04-14T05:11:00+00:00,Ecuador,0.7487456245595081,0,1,es,NWS,South-America
-'afccf77c89',extremes,Storm,#b3b2b1,wmo,tormenta litora interandina y amazonia,2026-04-14T05:11:00+00:00,Ecuador,0.7477169802654899,0,1,es,NWS,South-America
 'aafce152ff',extremes,Storm,#b3b2b1,wmo,tormenta litoral y estribación de cordillera,2026-04-14T05:11:00+00:00,Ecuador,0.7471926148271171,0,1,es,NWS,South-America
 '87f28505d1',extremes,Snow Avalanche,#deddd5,wmo,avalancha españa,2026-04-01T05:12:00+00:00,Spain,0.7470856080878242,0,1,es,MED,Europe
-'ffcbb36b12',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral,2026-03-09T04:31:00+00:00,Ecuador,0.746927375566262,0,1,es,NWS,South-America
-'ef8f4f660b',extremes,Earthquake,#870007,usgs,terremoto picota,2026-04-05T05:01:00+00:00,Peru,0.7455710017887318,0,1,es,NWS,South-America
 'f259fec1b4',extremes,Precipitation,#d60d2b,wmo,precipitación galápagos,2026-04-14T05:11:00+00:00,Ecuador,0.745159817143871,0,1,es,NWS,South-America
 '58e1428940',extremes,Snow Avalanche,#deddd5,wmo,alud valle de arán,2026-04-02T04:42:00+00:00,Spain,0.7415066903413681,0,1,es,MED,Europe
 'c85690d76d',extremes,Precipitation,#d60d2b,wmo,aguacero uruguay,2026-04-16T05:17:00+00:00,Uruguay,0.7414647437255684,0,1,es,SES,South-America
@@ -208,6 +206,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9bd86172ae',extremes,Storm,#b3b2b1,wmo,tormenta litoral y estribación,2026-03-13T04:25:00+00:00,Ecuador,0.6383910932556365,1,1,es,NWS,South-America
 'd709206c08',extremes,Storm,#b3b2b1,wmo,tormenta reg. 15 cordillera,2026-04-13T05:28:00+00:00,Chile,0.6368970965465549,1,1,es,SWS,South-America
 '1c2c5da544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica 02 03,2026-04-14T05:11:00+00:00,Chile,0.6364570001759559,1,1,es,SWS,South-America
+'afccf77c89',extremes,Storm,#b3b2b1,wmo,tormenta litora interandina y amazonia,2026-04-14T05:11:00+00:00,Ecuador,0.6355594332256664,1,1,es,NWS,South-America
+'ffcbb36b12',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral,2026-03-09T04:31:00+00:00,Ecuador,0.6348882692313227,1,1,es,NWS,South-America
 '5cb766f03d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica área 2 – moderada,2026-03-23T04:42:00+00:00,Paraguay,0.63485660531632,1,1,es,SES,South-America
 '9a8f6bd767',extremes,Earthquake,#870007,usgs,terremoto argelia,2026-03-12T04:25:00+00:00,Colombia,0.6342655485759152,2,1,es,NWS,South-America
 '26336b6e2b',extremes,Storm,#b3b2b1,wmo,marejada ciclónica santa elena.,2026-03-06T04:21:00+00:00,Ecuador,0.6306686984269949,1,1,es,NWS,South-America
