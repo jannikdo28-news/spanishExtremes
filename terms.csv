@@ -13,6 +13,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2026-04-10T05:13:00+00:00,Chile,0.7576638249412455,0,1,es,SWS,South-America
 'd61de81685',extremes,Storm,#b3b2b1,wmo,marejada ciclónica chile,2026-04-12T05:12:00+00:00,Chile,0.7576556198306356,0,1,es,SWS,South-America
 '2b54723d48',extremes,Precipitation,#d60d2b,wmo,aguacero amazonía,2026-03-31T04:59:00+00:00,Ecuador,0.7570187174176264,0,1,es,NWS,South-America
+'596bcf1fdb',extremes,Storm,#b3b2b1,wmo,marejada ciclónica área 1 – severa,2026-04-11T04:34:00+00:00,Paraguay,0.756360514908614,0,1,es,SES,South-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-04-09T04:57:00+00:00,Chile,0.7562160621100371,1,2,es,SWS,South-America
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial ecuador,2026-04-01T05:12:00+00:00,Ecuador,0.7558135867821657,0,1,es,NWS,South-America
 '72e8366c4b',extremes,Unknown,#d60d2b,cmeter,desconocido orlando,2026-04-17T05:16:00+00:00,United States,0.7550820864858193,1,2,es,ENA,North-America
@@ -77,6 +78,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d73764800',extremes,Earthquake,#870007,usgs,terremoto silver springs,2026-04-14T05:10:00+00:00,United States,0.6723097243414426,0,1,es,WNA,North-America
 'e67e09eb5d',extremes,Flood,#030ba1,wmo,inundación saginaw mi shiawassee mi,2026-04-05T05:01:00+00:00,United States,0.6712106086573016,0,1,es,CNA,North-America
 '52d7a12550',extremes,Earthquake,#870007,usgs,terremoto candelaria,2026-03-11T04:22:00+00:00,Argentina,0.6712045509232183,2,2,es,SES,South-America
+'1428632393',extremes,Tropical Cyclone,#4f4f4f,wmo,ciclón tropical rota tinian saipan,2026-04-15T05:12:00+00:00,United States,0.6703011560714599,0,1,es,CNA,North-America
 'dd1125f00f',extremes,Flood,#030ba1,wmo,inundación repentina oconto wi,2026-04-04T04:30:00+00:00,United States,0.6702889211183503,0,1,es,CNA,North-America
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,heladas estados unidos,2026-03-17T04:30:00+00:00,United States,0.6702784257303925,0,1,es,CNA,North-America
 '5cbf8c478c',extremes,Flood,#030ba1,wmo,inundación repentina cooper mo,2026-04-02T04:42:00+00:00,United States,0.6702071215306994,0,1,es,CNA,North-America
@@ -90,8 +92,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'efebeb49c2',extremes,Flood,#030ba1,wmo,inundación herkimer ny oneida ny,2026-04-03T04:43:00+00:00,United States,0.6695675998928933,0,1,es,CNA,North-America
 'a024802e1b',extremes,Flood,#030ba1,wmo,caza de inundaciones tx,2026-04-05T05:01:00+00:00,United States,0.6693433824596631,0,1,es,CNA,North-America
 '8aa8e605da',extremes,Flood,#030ba1,wmo,inundación repentina midland mi saginaw mi,2026-04-06T05:11:00+00:00,United States,0.6692324287378834,0,1,es,CNA,North-America
+'19e427569b',extremes,Drought,#edc291,edo,sequía en uruguay,2026-03-30T05:12:00+00:00,Uruguay,0.6691242238402685,0,1,es,SES,South-America
 'e3fd3edd10',extremes,Flood,#030ba1,wmo,parque de inundaciones en bermellón en vigo en,2026-04-03T04:43:00+00:00,United States,0.6688706336360166,0,1,es,CNA,North-America
 '772d689ea1',extremes,Flood,#030ba1,wmo,inundación lucas oh madera oh,2026-04-06T05:11:00+00:00,United States,0.6688385222488468,0,1,es,CNA,North-America
+'c4be795f03',extremes,Drought,#edc291,edo,falta de lluvia guinea ecuatorial,2026-03-31T05:00:00+00:00,Equatorial Guinea,0.6687966117545511,0,1,es,WAF,Africa
 '8d73f8d2d3',extremes,Flood,#030ba1,wmo,inundaciones midland mi saginaw mi,2026-04-05T05:01:00+00:00,United States,0.6686733031017177,0,1,es,CNA,North-America
 'dee30fe053',extremes,Flood,#030ba1,wmo,inundación noble en,2026-03-20T04:26:00+00:00,United States,0.6685189666804676,0,1,es,CNA,North-America
 '5e6b06ff50',extremes,Flood,#030ba1,wmo,inundación lucas oh madera oh,2026-04-04T04:30:00+00:00,United States,0.6683955041817173,0,1,es,CNA,North-America
@@ -99,6 +103,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8fc1f3469c',extremes,Flood,#030ba1,wmo,inundación repentina richland wi vernon wi,2026-04-05T05:01:00+00:00,United States,0.6683202012889541,0,1,es,CNA,North-America
 '509082d6c7',extremes,Flood,#030ba1,wmo,inundación sauk wi,2026-04-06T05:11:00+00:00,United States,0.6682412085167692,0,1,es,CNA,North-America
 '0157ddda4e',extremes,Flood,#030ba1,wmo,inundación de madera wi,2026-04-05T05:01:00+00:00,United States,0.6681741816555914,0,1,es,CNA,North-America
+'308eac6e0e',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón guam,2026-04-15T05:12:00+00:00,United States,0.6680618236382817,0,1,es,CNA,North-America
 'd05330b7d1',extremes,Flood,#030ba1,wmo,inundación ingham mi,2026-04-05T05:01:00+00:00,United States,0.6679364746822587,0,1,es,CNA,North-America
 '9417fcfd3e',extremes,Flood,#030ba1,wmo,inundación repentina genesee ny monroe ny,2026-04-03T04:43:00+00:00,United States,0.66789415987954,0,1,es,CNA,North-America
 '33770059e6',extremes,Flood,#030ba1,wmo,inundación repentina williams oh,2026-04-06T05:11:00+00:00,United States,0.6678896938733195,0,1,es,CNA,North-America
@@ -118,6 +123,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a8fb63d3db',extremes,Earthquake,#870007,usgs,terremoto la breita,2026-04-12T05:11:00+00:00,Peru,0.6671909864147716,0,1,es,NWS,South-America
 '9e21bacc56',extremes,Flood,#030ba1,wmo,inundación calhoun il pike mo,2026-04-11T04:34:00+00:00,United States,0.6670472522052653,0,1,es,CNA,North-America
 '482e116bd4',extremes,Flood,#030ba1,wmo,inundación labette ks neosho ks,2026-04-03T04:43:00+00:00,United States,0.667033655910401,0,1,es,CNA,North-America
+'80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,hielo estados unidos,2026-04-06T05:11:00+00:00,United States,0.6670077014694092,0,1,es,CNA,North-America
 '64393be751',extremes,Drought,#edc291,edo,sequía ecuador,2026-03-10T04:22:00+00:00,Ecuador,0.6669435547694559,0,1,es,EPO,Pacific Ocean
 '1c59489eb7',extremes,Flood,#030ba1,wmo,inundación séneca oh,2026-04-02T04:42:00+00:00,United States,0.6668538961144386,0,1,es,CNA,North-America
 'f09570b6b3',extremes,Flood,#030ba1,wmo,inundación hancock il mcdonough il,2026-04-04T04:30:00+00:00,United States,0.6667723988534014,0,1,es,CNA,North-America
