@@ -42,11 +42,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '55e8cccd81',extremes,Earthquake,#870007,usgs,terremoto san juan,2026-03-24T04:31:00+00:00,Peru,0.6970031241410621,1,3,es,SWS,South-America
 '331f9db5d5',extremes,Snow&Ice,#d60d2b,wmo,hielo españa,2026-03-05T04:24:00+00:00,Spain,0.6957799799704756,1,3,es,MED,Europe
 'e1048c4180',extremes,Drought,#edc291,edo,sequedad uruguay,2026-04-12T05:12:00+00:00,Uruguay,0.6885722238839735,0,1,es,SES,South-America
-'43a43f5ed4',extremes,Earthquake,#870007,usgs,terremoto sácama,2026-04-14T05:10:00+00:00,Colombia,0.6860792401579997,0,1,es,NWS,South-America
 '57df3dc86e',extremes,Drought,#edc291,edo,sequía chile,2026-04-02T04:42:00+00:00,Chile,0.6843043016738652,0,1,es,SPO,Pacific Ocean
-'f3235b0b66',extremes,Earthquake,#870007,usgs,terremoto chivay,2026-03-25T04:33:00+00:00,Peru,0.6825102404495189,0,1,es,SWS,South-America
-'1505fe91a8',extremes,Earthquake,#870007,usgs,terremoto palora,2026-04-14T05:10:00+00:00,Ecuador,0.6814068158997666,0,1,es,NWS,South-America
-'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tormenta brasil,2026-04-11T04:34:00+00:00,Brazil,0.6813706036718572,0,1,es,SAM,South-America
 '5c6845871b',extremes,Drought,#edc291,edo,sequía en méxico,2026-04-04T04:30:00+00:00,Mexico,0.6805910202988947,0,1,es,NCA,North-America
 '234a1d14a7',extremes,Earthquake,#870007,usgs,terremoto tamarindo,2026-04-16T05:17:00+00:00,Costa Rica,0.6796357868670803,0,1,es,SCA,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,aguacero brasil,2026-04-10T05:13:00+00:00,Brazil,0.6792254788554871,0,1,es,SAM,South-America
@@ -227,6 +223,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '797da0fa2e',extremes,Earthquake,#870007,usgs,terremoto masachapa,2026-04-04T04:30:00+00:00,Nicaragua,0.6029455593977339,1,1,es,SCA,North-America
 'aa13b0f92f',extremes,Earthquake,#870007,usgs,terremoto la uvita,2026-04-13T05:27:00+00:00,Colombia,0.6027829171687382,1,1,es,NWS,South-America
 '3738ea4320',extremes,Precipitation,#d60d2b,wmo,precipitación uruguay,2026-03-23T04:42:00+00:00,Uruguay,0.6023233608263122,2,1,es,SES,South-America
+'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tormenta brasil,2026-04-11T04:34:00+00:00,Brazil,0.6022974313028968,1,2,es,SAM,South-America
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2026-03-24T04:31:00+00:00,Bolivia,0.6021896530946127,1,1,es,SWS,South-America
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-03-12T04:25:00+00:00,Costa Rica,0.6002753752930784,1,1,es,SCA,South-America
 '5e9084d084',extremes,Earthquake,#870007,usgs,terremoto santa casilda,2026-04-09T04:57:00+00:00,Mexico,0.5989513604340566,1,1,es,NCA,North-America
@@ -236,7 +233,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9c79ae42a6',extremes,Earthquake,#870007,usgs,terremoto ciudad sandino,2026-03-27T04:56:00+00:00,Nicaragua,0.5923601128857637,1,1,es,SCA,North-America
 '8be002d270',extremes,Drought,#edc291,edo,falta de lluvias venezuela,2026-04-06T05:12:00+00:00,Venezuela,0.5902117643182464,1,1,es,NSA,South-America
 '470eec8a5b',extremes,Earthquake,#870007,usgs,terremoto playas,2026-04-05T05:01:00+00:00,Ecuador,0.5890430168144581,1,1,es,NWS,South-America
+'43a43f5ed4',extremes,Earthquake,#870007,usgs,terremoto sácama,2026-04-14T05:10:00+00:00,Colombia,0.5831673541342998,1,1,es,NWS,South-America
 'a4e5a232ca',extremes,Earthquake,#870007,usgs,terremoto cañas gordas,2026-03-19T04:35:00+00:00,Costa Rica,0.5810741697956853,1,1,es,SCA,North-America
+'f3235b0b66',extremes,Earthquake,#870007,usgs,terremoto chivay,2026-03-25T04:33:00+00:00,Peru,0.5801337043820911,1,1,es,SWS,South-America
+'1505fe91a8',extremes,Earthquake,#870007,usgs,terremoto palora,2026-04-14T05:10:00+00:00,Ecuador,0.5791957935148015,1,1,es,NWS,South-America
 '037bb37761',extremes,Flood,#030ba1,wmo,inundación estados unidos,2026-03-18T04:36:00+00:00,United States,0.5775538157654617,2,1,es,CNA,North-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica brasil,2026-03-22T04:33:00+00:00,Brazil,0.5738439374722322,1,1,es,SAM,South-America
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial brasil,2026-03-21T04:17:00+00:00,Brazil,0.5734819323570802,1,1,es,SAM,South-America
