@@ -7,7 +7,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ef8f4f660b',extremes,Earthquake,#870007,usgs,terremoto picota,2026-04-05T05:01:00+00:00,Peru,0.7838853665204221,1,2,es,NWS,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2026-04-09T04:58:00+00:00,Argentina,0.7593896155562133,0,1,es,SES,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-04-06T05:11:00+00:00,Argentina,0.7582425312050032,0,1,es,SES,South-America
-'93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-03-28T04:33:00+00:00,Argentina,0.7580242406963612,0,1,es,SES,South-America
+'93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-03-28T04:33:00+00:00,Argentina,0.758020724591907,1,2,es,SES,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paraguay,2026-04-06T05:11:00+00:00,Paraguay,0.7578735485183602,0,1,es,SES,South-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2026-04-10T05:13:00+00:00,Chile,0.7576638249412455,0,1,es,SWS,South-America
 'd61de81685',extremes,Storm,#b3b2b1,wmo,marejada ciclónica chile,2026-04-12T05:12:00+00:00,Chile,0.7576556198306356,0,1,es,SWS,South-America
@@ -72,7 +72,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d73f8d2d3',extremes,Flood,#030ba1,wmo,inundaciones midland mi saginaw mi,2026-04-05T05:01:00+00:00,United States,0.6686733031017177,0,1,es,CNA,North-America
 'dee30fe053',extremes,Flood,#030ba1,wmo,inundación noble en,2026-03-20T04:26:00+00:00,United States,0.6685189666804676,0,1,es,CNA,North-America
 '8fc1f3469c',extremes,Flood,#030ba1,wmo,inundación repentina richland wi vernon wi,2026-04-05T05:01:00+00:00,United States,0.6683202012889541,0,1,es,CNA,North-America
-'d05330b7d1',extremes,Flood,#030ba1,wmo,inundación ingham mi,2026-04-05T05:01:00+00:00,United States,0.6679364746822587,0,1,es,CNA,North-America
 '9417fcfd3e',extremes,Flood,#030ba1,wmo,inundación repentina genesee ny monroe ny,2026-04-03T04:43:00+00:00,United States,0.66789415987954,0,1,es,CNA,North-America
 '33770059e6',extremes,Flood,#030ba1,wmo,inundación repentina williams oh,2026-04-06T05:11:00+00:00,United States,0.6678896938733195,0,1,es,CNA,North-America
 '0a8dada260',extremes,Drought,#edc291,edo,sequía honduras,2026-04-02T04:42:00+00:00,Honduras,0.6677880921216638,0,1,es,SCA,North-America
@@ -270,12 +269,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '509082d6c7',extremes,Flood,#030ba1,wmo,inundación sauk wi,2026-04-06T05:11:00+00:00,United States,0.5680050272392537,1,1,es,CNA,North-America
 '0157ddda4e',extremes,Flood,#030ba1,wmo,inundación de madera wi,2026-04-05T05:01:00+00:00,United States,0.5679480544072527,1,1,es,CNA,North-America
 '63d67b0640',extremes,Heat Wave,#c40202,wmo,ola de calor áreas costeras del condado de san diego,2026-03-18T04:36:00+00:00,United States,0.5678182152037605,1,1,es,CNA,North-America
+'d05330b7d1',extremes,Flood,#030ba1,wmo,inundación ingham mi,2026-04-05T05:01:00+00:00,United States,0.5677460034799199,1,1,es,CNA,North-America
 '7b66a30559',extremes,Heat Wave,#c40202,wmo,ola de calor paso san gorgonio cerca de prohibición,2026-03-18T04:36:00+00:00,United States,0.5669677790252035,1,1,es,CNA,North-America
 'c7448ebd33',extremes,Earthquake,#870007,usgs,terremoto comején,2026-03-16T05:04:00+00:00,Mexico,0.5626161485899065,1,1,es,SCA,North-America
 '2696c78a02',extremes,Heat Wave,#c40202,wmo,ola de calor costa de malibu,2026-03-15T04:45:00+00:00,United States,0.5592581523522862,1,1,es,CNA,North-America
-'3d84dbb72f',extremes,Storm,#b3b2b1,wmo,tormenta estrecho de clarence,2026-03-12T04:26:00+00:00,United States,0.5572669273241321,1,1,es,CNA,North-America
 'eda8e8bf82',extremes,Earthquake,#870007,usgs,terremoto lago puelo,2026-03-16T05:04:00+00:00,Chile,0.5560475669705709,1,1,es,SWS,South-America
-'b875d9331f',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paso de Stephens,2026-03-12T04:26:00+00:00,United States,0.5546841637446729,1,1,es,CNA,North-America
 '01038989c1',extremes,Flood,#030ba1,wmo,inundaciones chelan wa,2026-03-13T04:25:00+00:00,United States,0.5525212397211743,1,1,es,CNA,North-America
 '6fbc657cf9',extremes,Storm,#b3b2b1,wmo,tormenta reg. 1 litoral,2026-03-17T04:30:00+00:00,Chile,0.5470276250918166,2,1,es,SWS,South-America
 'c6b220be22',extremes,Storm,#b3b2b1,wmo,tormenta reg. 12 pampa patagónica sur,2026-03-16T05:05:00+00:00,Chile,0.5446687785878526,2,1,es,SWS,South-America
