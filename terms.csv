@@ -6,7 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f78df3cf12',extremes,Drought,#edc291,edo,sequedad paraguay,2026-03-29T05:00:00+00:00,Paraguay,0.786225533256139,1,2,es,SES,South-America
 'ef8f4f660b',extremes,Earthquake,#870007,usgs,terremoto picota,2026-04-05T05:01:00+00:00,Peru,0.7838853665204221,1,2,es,NWS,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2026-04-09T04:58:00+00:00,Argentina,0.7593896155562133,0,1,es,SES,South-America
-'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial argentina,2026-04-07T04:59:00+00:00,Argentina,0.7587348543463984,0,1,es,SES,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-04-06T05:11:00+00:00,Argentina,0.7582425312050032,0,1,es,SES,South-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-03-28T04:33:00+00:00,Argentina,0.7580242406963612,0,1,es,SES,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paraguay,2026-04-06T05:11:00+00:00,Paraguay,0.7578735485183602,0,1,es,SES,South-America
@@ -69,7 +68,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dd1125f00f',extremes,Flood,#030ba1,wmo,inundación repentina oconto wi,2026-04-04T04:30:00+00:00,United States,0.6702889211183503,0,1,es,CNA,North-America
 'e1754e3cea',extremes,Flood,#030ba1,wmo,inundación repentina crawford wi,2026-04-05T05:01:00+00:00,United States,0.6701507053677387,0,1,es,CNA,North-America
 '7a89dffcb0',extremes,Flood,#030ba1,wmo,inundación del lago il kenosha wi,2026-04-04T04:30:00+00:00,United States,0.6698794562909407,0,1,es,CNA,North-America
-'4da06a2174',extremes,Earthquake,#870007,usgs,terremoto paracas,2026-04-17T05:15:00+00:00,Peru,0.6697280114017379,0,1,es,NWS,South-America
 'a024802e1b',extremes,Flood,#030ba1,wmo,caza de inundaciones tx,2026-04-05T05:01:00+00:00,United States,0.6693433824596631,0,1,es,CNA,North-America
 '8d73f8d2d3',extremes,Flood,#030ba1,wmo,inundaciones midland mi saginaw mi,2026-04-05T05:01:00+00:00,United States,0.6686733031017177,0,1,es,CNA,North-America
 'dee30fe053',extremes,Flood,#030ba1,wmo,inundación noble en,2026-03-20T04:26:00+00:00,United States,0.6685189666804676,0,1,es,CNA,North-America
@@ -167,6 +165,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aaa59dbd70',extremes,Flood,#030ba1,wmo,inundación de madera wi,2026-03-24T04:31:00+00:00,United States,0.6471273615119573,0,1,es,CNA,North-America
 'd4635b9531',extremes,Earthquake,#870007,usgs,terremoto cañete,2026-03-21T04:17:00+00:00,Chile,0.646749854233747,0,1,es,SWS,South-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,marejada ciclónica argentina,2026-04-06T05:11:00+00:00,Argentina,0.6456739711907049,1,1,es,SES,South-America
+'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial argentina,2026-04-07T04:59:00+00:00,Argentina,0.6453746711944387,1,1,es,SES,South-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,inundaciones estados unidos,2026-04-09T04:58:00+00:00,United States,0.6448104076730445,1,2,es,CNA,North-America
 '0ef55bcfe1',extremes,Storm,#b3b2b1,wmo,tormenta formosa patino pirane.,2026-04-14T05:11:00+00:00,Argentina,0.6439884189218015,1,1,es,SES,South-America
 '9131f8e093',extremes,Precipitation,#d60d2b,wmo,lluvias torrenciales sierra norte y centro,2026-03-31T04:59:00+00:00,Ecuador,0.6438176042546345,1,1,es,NWS,South-America
@@ -253,6 +252,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9de5cba012',extremes,Flood,#030ba1,wmo,inundación erie ny,2026-04-01T05:12:00+00:00,United States,0.5695442691611137,1,1,es,CNA,North-America
 'f471382829',extremes,Heat Wave,#c40202,wmo,ola de calor montañas y estribaciones de santa ana,2026-03-14T04:22:00+00:00,United States,0.5693585060836018,1,1,es,CNA,North-America
 'f022d35342',extremes,Flood,#030ba1,wmo,inundaciones holmes oh wayne oh,2026-03-30T05:12:00+00:00,United States,0.5693394542007734,1,1,es,CNA,North-America
+'4da06a2174',extremes,Earthquake,#870007,usgs,terremoto paracas,2026-04-17T05:15:00+00:00,Peru,0.5692688096914772,1,1,es,NWS,South-America
 '73e6eaff5a',extremes,Heat Wave,#c40202,wmo,ola de calor montañas del condado ribereño,2026-03-18T04:36:00+00:00,United States,0.5692533996683419,1,1,es,CNA,North-America
 '13e02b8122',extremes,Flood,#030ba1,wmo,inundación genesee ny monroe ny,2026-04-01T05:12:00+00:00,United States,0.5692016985605665,1,1,es,CNA,North-America
 '863b31574a',extremes,Flood,#030ba1,wmo,inundación canadiense ok grady ok,2026-04-04T04:30:00+00:00,United States,0.5691538303616621,1,1,es,CNA,North-America
