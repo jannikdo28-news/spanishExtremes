@@ -22,9 +22,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,aguacero ecuador,2026-04-19T05:16:00+00:00,Ecuador,0.7318010389390472,0,1,es,NWS,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-04-06T05:11:00+00:00,Argentina,0.7295037901485761,0,1,es,SES,South-America
 '4508810067',extremes,Storm,#b3b2b1,wmo,tormenta litoral norte e interior,2026-03-31T04:59:00+00:00,Ecuador,0.7262593630330214,1,2,es,NWS,South-America
+'bd8c8650ea',extremes,Earthquake,#870007,usgs,terremoto el aguilar,2026-04-06T05:11:00+00:00,Argentina,0.7242789393681284,1,2,es,SES,South-America
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,huracán estados unidos,2026-04-12T05:12:00+00:00,United States,0.7233070582635261,1,3,es,CNA,North-America
 'b4e660db49',extremes,Drought,#edc291,edo,sequía uruguay,2026-04-05T05:01:00+00:00,Uruguay,0.7206233268485367,0,1,es,SES,South-America
-'bd8c8650ea',extremes,Earthquake,#870007,usgs,terremoto el aguilar,2026-04-06T05:11:00+00:00,Argentina,0.71903397572721,0,1,es,SES,South-America
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,incendio forestal estados unidos,2026-03-18T04:36:00+00:00,United States,0.7183503823648015,1,2,es,CNA,North-America
 '0a8dada260',extremes,Drought,#edc291,edo,sequía honduras,2026-04-02T04:42:00+00:00,Honduras,0.7180699233034142,1,2,es,SCA,North-America
 '308eac6e0e',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón guam,2026-04-15T05:12:00+00:00,United States,0.7180025650925395,1,2,es,CNA,North-America
@@ -66,7 +66,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dee30fe053',extremes,Flood,#030ba1,wmo,inundación noble en,2026-03-20T04:26:00+00:00,United States,0.6685189666804676,0,1,es,CNA,North-America
 '8fc1f3469c',extremes,Flood,#030ba1,wmo,inundación repentina richland wi vernon wi,2026-04-05T05:01:00+00:00,United States,0.6683202012889541,0,1,es,CNA,North-America
 '580f495125',extremes,Flood,#030ba1,wmo,inundación repentina kalamazoo mi,2026-04-07T04:59:00+00:00,United States,0.6676134196862197,0,1,es,CNA,North-America
-'a34c471fb7',extremes,Flood,#030ba1,wmo,inundación arenac mi,2026-04-05T05:01:00+00:00,United States,0.6675495126328802,0,1,es,CNA,North-America
 '69fc2693ee',extremes,Flood,#030ba1,wmo,inundaciones waupaca wi,2026-04-05T05:01:00+00:00,United States,0.6674502113998555,0,1,es,CNA,North-America
 '6303656ade',extremes,Wildfire,#d60d2b,wmo,incendio forestal phillips grajos franklin,2026-03-27T04:57:00+00:00,United States,0.6673937670328487,0,1,es,CNA,North-America
 'f7c7d2541f',extremes,Flood,#030ba1,wmo,inundaciones kent mi,2026-04-08T05:01:00+00:00,United States,0.6673805365945882,0,1,es,CNA,North-America
@@ -272,6 +271,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9417fcfd3e',extremes,Flood,#030ba1,wmo,inundación repentina genesee ny monroe ny,2026-04-03T04:43:00+00:00,United States,0.567710035897609,1,1,es,CNA,North-America
 '33770059e6',extremes,Flood,#030ba1,wmo,inundación repentina williams oh,2026-04-06T05:11:00+00:00,United States,0.5677062397923216,1,1,es,CNA,North-America
 'bd3d425160',extremes,Snow&Ice,#d60d2b,wmo,hielo del mar de Bering frente a la costa al este de 171w,2026-03-20T04:26:00+00:00,United States,0.567562624437926,1,1,es,CNA,North-America
+'a34c471fb7',extremes,Flood,#030ba1,wmo,inundación arenac mi,2026-04-05T05:01:00+00:00,United States,0.5674170857379481,1,1,es,CNA,North-America
 '7b66a30559',extremes,Heat Wave,#c40202,wmo,ola de calor paso san gorgonio cerca de prohibición,2026-03-18T04:36:00+00:00,United States,0.5669677790252035,1,1,es,CNA,North-America
 'c7448ebd33',extremes,Earthquake,#870007,usgs,terremoto comején,2026-03-16T05:04:00+00:00,Mexico,0.5626161485899065,1,1,es,SCA,North-America
 '2696c78a02',extremes,Heat Wave,#c40202,wmo,ola de calor costa de malibu,2026-03-15T04:45:00+00:00,United States,0.5592581523522862,1,1,es,CNA,North-America
