@@ -40,7 +40,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-04-24T05:21:00+00:00,Costa Rica,0.6907803442673862,1,1,es,SCA,South-America
 '55946bf748',extremes,Drought,#edc291,edo,sequía paraguay,2026-04-16T05:17:00+00:00,Paraguay,0.6888516352799672,1,1,es,SES,South-America
 '331dc2fd4a',extremes,Thunderstorm,#53785a,wmo,tormenta españa,2026-04-11T04:34:00+00:00,Spain,0.6873510244833622,0,1,es,MED,Europe
-'174e70acae',extremes,Thunderstorm,#53785a,wmo,clima severo españa,2026-04-19T05:16:00+00:00,Spain,0.6809503274036557,0,1,es,MED,Europe
 '5c6845871b',extremes,Drought,#edc291,edo,sequía en méxico,2026-04-04T04:30:00+00:00,Mexico,0.6805910202988947,0,1,es,NCA,North-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,lluvia brasil,2026-03-18T04:36:00+00:00,Brazil,0.6790823570407025,0,1,es,SAM,South-America
 '9349bd9c5e',extremes,Drought,#edc291,edo,sequedad guinea ecuatorial,2026-04-18T04:57:00+00:00,Equatorial Guinea,0.6782785961552033,0,1,es,WAF,Africa
@@ -212,6 +211,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1c9dc747da',extremes,Drought,#edc291,edo,falta de lluvia cuba,2026-04-08T05:01:00+00:00,Cuba,0.5802077116184475,1,1,es,CAR,North-America
 'f3235b0b66',extremes,Earthquake,#870007,usgs,terremoto chivay,2026-03-25T04:33:00+00:00,Peru,0.5801337043820911,1,1,es,SWS,South-America
 '503492b519',extremes,Drought,#edc291,edo,sequedad panamá,2026-04-19T05:16:00+00:00,Panama,0.5800051010236541,1,1,es,SCA,North-America
+'174e70acae',extremes,Thunderstorm,#53785a,wmo,clima severo españa,2026-04-19T05:16:00+00:00,Spain,0.5794078382931074,1,1,es,MED,Europe
 '1505fe91a8',extremes,Earthquake,#870007,usgs,terremoto palora,2026-04-14T05:10:00+00:00,Ecuador,0.5791957935148015,1,1,es,NWS,South-America
 '234a1d14a7',extremes,Earthquake,#870007,usgs,terremoto tamarindo,2026-04-16T05:17:00+00:00,Costa Rica,0.5776904188370182,1,1,es,SCA,South-America
 '5e4ea480a4',extremes,Thunderstorm,#53785a,wmo,granizo qatar,2026-03-26T04:56:00+00:00,Qatar,0.5744228951559887,1,1,es,ARP,Asia
