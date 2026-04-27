@@ -7,6 +7,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f78df3cf12',extremes,Drought,#edc291,edo,sequedad paraguay,2026-03-29T05:00:00+00:00,Paraguay,0.786225533256139,1,2,es,SES,South-America
 'ef8f4f660b',extremes,Earthquake,#870007,usgs,terremoto picota,2026-04-05T05:01:00+00:00,Peru,0.7838853665204221,1,2,es,NWS,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2026-04-09T04:58:00+00:00,Argentina,0.7593896155562133,0,1,es,SES,South-America
+'cf828743a1',extremes,Precipitation,#d60d2b,wmo,aguacero orellana.,2026-04-23T05:16:00+00:00,Ecuador,0.7586901953875074,0,1,es,NWS,South-America
 '93f18e9364',extremes,Heat Wave,#c40202,wmo,ola de calor argentina,2026-03-28T04:33:00+00:00,Argentina,0.758020724591907,1,2,es,SES,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paraguay,2026-04-06T05:11:00+00:00,Paraguay,0.7578735485183602,0,1,es,SES,South-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2026-04-10T05:13:00+00:00,Chile,0.7576638249412455,0,1,es,SWS,South-America
@@ -50,6 +51,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,nieve estados unidos,2026-03-17T04:30:00+00:00,United States,0.6731514341951236,0,1,es,CNA,North-America
 '42edc58057',extremes,Drought,#edc291,edo,falta de lluvia paraguay,2026-03-23T04:42:00+00:00,Paraguay,0.6729563506075559,0,1,es,SES,South-America
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-04-07T04:59:00+00:00,Spain,0.6724286969153428,0,1,es,MED,Europe
+'c3d3dc91ba',extremes,Fog,#d60d2b,wmo,niebla seul choix punto a punto desvío mi,2026-04-24T05:22:00+00:00,United States,0.671596594529561,0,1,es,CNA,North-America
+'6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2026-04-22T05:13:00+00:00,Qatar,0.6711447006757033,0,1,es,ARP,Asia
 '1428632393',extremes,Tropical Cyclone,#4f4f4f,wmo,ciclón tropical rota tinian saipan,2026-04-15T05:12:00+00:00,United States,0.6703011560714599,0,1,es,CNA,North-America
 '7a89dffcb0',extremes,Flood,#030ba1,wmo,inundación del lago il kenosha wi,2026-04-04T04:30:00+00:00,United States,0.6698794562909407,0,1,es,CNA,North-America
 'dee30fe053',extremes,Flood,#030ba1,wmo,inundación noble en,2026-03-20T04:26:00+00:00,United States,0.6685189666804676,0,1,es,CNA,North-America
