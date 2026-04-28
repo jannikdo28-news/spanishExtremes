@@ -33,6 +33,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb207f7e4e',extremes,Drought,#edc291,edo,falta de lluvia argentina,2026-04-05T05:01:00+00:00,Argentina,0.6952498581935056,0,1,es,SES,South-America
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-04-24T05:21:00+00:00,Costa Rica,0.6907803442673862,1,1,es,SCA,South-America
 '3f426b0479',extremes,Drought,#edc291,edo,sequía chile,2026-04-21T05:15:00+00:00,Chile,0.6899457601075997,1,3,es,SPO,Pacific Ocean
+'2a3e367958',extremes,Earthquake,#870007,usgs,terremoto cotacachi,2026-04-21T05:14:00+00:00,Ecuador,0.6894224934948551,0,1,es,NWS,South-America
 '55946bf748',extremes,Drought,#edc291,edo,sequía paraguay,2026-04-16T05:17:00+00:00,Paraguay,0.6888516352799672,1,1,es,SES,South-America
 '111af1cabe',extremes,Drought,#edc291,edo,falta de lluvia ecuador,2026-04-15T05:12:00+00:00,Ecuador,0.6887455500523616,1,2,es,EPO,Pacific Ocean
 '331dc2fd4a',extremes,Thunderstorm,#53785a,wmo,tormenta españa,2026-04-11T04:34:00+00:00,Spain,0.6873510244833622,0,1,es,MED,Europe
@@ -43,6 +44,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,lluvia ecuador,2026-04-01T05:12:00+00:00,Ecuador,0.6748178675128753,1,2,es,NWS,South-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,nieve estados unidos,2026-03-17T04:30:00+00:00,United States,0.6731514341951236,0,1,es,CNA,North-America
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-04-07T04:59:00+00:00,Spain,0.6724286969153428,0,1,es,MED,Europe
+'3dea46c095',extremes,Flood,#030ba1,wmo,inundación repentina estados unidos,2026-04-13T05:28:00+00:00,United States,0.6680569549821708,0,1,es,CNA,North-America
 'd15ffdaa30',extremes,Flood,#030ba1,wmo,inundación louisa ia,2026-04-11T04:34:00+00:00,United States,0.6673587719014509,0,1,es,CNA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,hielo estados unidos,2026-04-06T05:11:00+00:00,United States,0.6670077014694092,0,1,es,CNA,North-America
 'dd958e4b6d',extremes,Flood,#030ba1,wmo,inundaciones lawrence pa mercer pa,2026-04-01T05:12:00+00:00,United States,0.6666635758657994,0,1,es,CNA,North-America
