@@ -39,7 +39,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,lluvia ecuador,2026-04-01T05:12:00+00:00,Ecuador,0.6748178675128753,1,2,es,NWS,South-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,nieve estados unidos,2026-03-17T04:30:00+00:00,United States,0.6731514341951236,0,1,es,CNA,North-America
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-04-07T04:59:00+00:00,Spain,0.6724286969153428,0,1,es,MED,Europe
-'3dea46c095',extremes,Flood,#030ba1,wmo,inundación repentina estados unidos,2026-04-13T05:28:00+00:00,United States,0.6680569549821708,0,1,es,CNA,North-America
 'd15ffdaa30',extremes,Flood,#030ba1,wmo,inundación louisa ia,2026-04-11T04:34:00+00:00,United States,0.6673587719014509,0,1,es,CNA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,hielo estados unidos,2026-04-06T05:11:00+00:00,United States,0.6670077014694092,0,1,es,CNA,North-America
 'dd958e4b6d',extremes,Flood,#030ba1,wmo,inundaciones lawrence pa mercer pa,2026-04-01T05:12:00+00:00,United States,0.6666635758657994,0,1,es,CNA,North-America
@@ -221,10 +220,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6d73764800',extremes,Earthquake,#870007,usgs,terremoto silver springs,2026-04-14T05:10:00+00:00,United States,0.5714632656902262,1,1,es,WNA,North-America
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2026-04-22T05:13:00+00:00,Qatar,0.5710730555743478,1,1,es,ARP,Asia
 'c3d3dc91ba',extremes,Fog,#d60d2b,wmo,niebla seul choix punto a punto desvío mi,2026-04-24T05:22:00+00:00,United States,0.5708571053501268,1,1,es,CNA,North-America
-'68c777ad04',extremes,Heat Wave,#c40202,wmo,ola de calor valles y cuencas del condado de yavapai,2026-03-19T04:35:00+00:00,United States,0.5707374352899928,1,1,es,CNA,North-America
 '816f369677',extremes,Heat Wave,#c40202,wmo,ola de calor islas catalina y santa bárbara,2026-03-20T04:26:00+00:00,United States,0.5706807703615163,1,1,es,CNA,North-America
 'e67e09eb5d',extremes,Flood,#030ba1,wmo,inundación saginaw mi shiawassee mi,2026-04-05T05:01:00+00:00,United States,0.5705290173587064,1,1,es,CNA,North-America
-'da1fec61d2',extremes,Heat Wave,#c40202,wmo,ola de calor desiertos del condado de san diego,2026-03-19T04:35:00+00:00,United States,0.5700017372196557,1,1,es,CNA,North-America
 '1428632393',extremes,Tropical Cyclone,#4f4f4f,wmo,ciclón tropical rota tinian saipan,2026-04-15T05:12:00+00:00,United States,0.5697559826607409,1,1,es,CNA,North-America
 'dd1125f00f',extremes,Flood,#030ba1,wmo,inundación repentina oconto wi,2026-04-04T04:30:00+00:00,United States,0.5697455829505977,1,1,es,CNA,North-America
 '5cbf8c478c',extremes,Flood,#030ba1,wmo,inundación repentina cooper mo,2026-04-02T04:42:00+00:00,United States,0.5696760533010945,1,1,es,CNA,North-America
@@ -248,6 +245,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1451039273',extremes,Flood,#030ba1,wmo,inundación repentina tompkins ny,2026-04-05T05:01:00+00:00,United States,0.568114459396998,1,1,es,CNA,North-America
 '8fc1f3469c',extremes,Flood,#030ba1,wmo,inundación repentina richland wi vernon wi,2026-04-05T05:01:00+00:00,United States,0.5680721710956109,1,1,es,CNA,North-America
 '509082d6c7',extremes,Flood,#030ba1,wmo,inundación sauk wi,2026-04-06T05:11:00+00:00,United States,0.5680050272392537,1,1,es,CNA,North-America
+'3dea46c095',extremes,Flood,#030ba1,wmo,inundación repentina estados unidos,2026-04-13T05:28:00+00:00,United States,0.5679984267348451,1,1,es,CNA,North-America
 '0157ddda4e',extremes,Flood,#030ba1,wmo,inundación de madera wi,2026-04-05T05:01:00+00:00,United States,0.5679480544072527,1,1,es,CNA,North-America
 'd05330b7d1',extremes,Flood,#030ba1,wmo,inundación ingham mi,2026-04-05T05:01:00+00:00,United States,0.5677460034799199,1,1,es,CNA,North-America
 '9417fcfd3e',extremes,Flood,#030ba1,wmo,inundación repentina genesee ny monroe ny,2026-04-03T04:43:00+00:00,United States,0.567710035897609,1,1,es,CNA,North-America
