@@ -35,7 +35,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cff0a88351',extremes,Earthquake,#870007,usgs,terremoto ecuador,2026-04-10T05:12:00+00:00,Ecuador,0.6769559232774529,1,1,es,NWS,South-America
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,heladas argentina,2026-04-11T04:34:00+00:00,Argentina,0.675184436400385,1,1,es,SES,South-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,lluvia ecuador,2026-04-01T05:12:00+00:00,Ecuador,0.6748178675128753,1,2,es,NWS,South-America
-'7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,nieve brasil,2026-04-29T05:40:00+00:00,Brazil,0.6739090725698323,0,1,es,SAM,South-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,nieve estados unidos,2026-03-17T04:30:00+00:00,United States,0.6731514341951236,0,1,es,CNA,North-America
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-04-07T04:59:00+00:00,Spain,0.6724286969153428,0,1,es,MED,Europe
 'f78df3cf12',extremes,Drought,#edc291,edo,sequedad paraguay,2026-03-29T05:00:00+00:00,Paraguay,0.6682917182677182,2,1,es,SES,South-America
@@ -167,6 +166,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f478344c91',extremes,Drought,#edc291,edo,sequía paraguay,2026-04-15T05:12:00+00:00,Paraguay,0.6160659395675916,1,1,es,SES,South-America
 '6340f0b14d',extremes,Drought,#edc291,edo,sequía mexico,2026-04-14T05:11:00+00:00,Mexico,0.6137760615448354,1,1,es,NCA,North-America
 'e5b5d3771c',extremes,Earthquake,#870007,usgs,terremoto puerto,2026-03-22T04:33:00+00:00,Chile,0.6089536346380078,2,1,es,SWS,South-America
+'7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,nieve brasil,2026-04-29T05:40:00+00:00,Brazil,0.6070657788272147,1,1,es,SAM,South-America
 '797da0fa2e',extremes,Earthquake,#870007,usgs,terremoto masachapa,2026-04-04T04:30:00+00:00,Nicaragua,0.6029455593977339,1,1,es,SCA,North-America
 'aa13b0f92f',extremes,Earthquake,#870007,usgs,terremoto la uvita,2026-04-13T05:27:00+00:00,Colombia,0.6027829171687382,1,1,es,NWS,South-America
 '3738ea4320',extremes,Precipitation,#d60d2b,wmo,precipitación uruguay,2026-03-23T04:42:00+00:00,Uruguay,0.6023233608263122,2,1,es,SES,South-America
@@ -207,15 +207,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0fa731fd34',extremes,Drought,#edc291,edo,sequedad honduras,2026-04-18T04:57:00+00:00,Honduras,0.5747067921254485,1,1,es,SCA,North-America
 '5e4ea480a4',extremes,Thunderstorm,#53785a,wmo,granizo qatar,2026-03-26T04:56:00+00:00,Qatar,0.5744228951559887,1,1,es,ARP,Asia
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,ciclón tropical estados unidos,2026-04-11T04:34:00+00:00,United States,0.5744052024650161,1,1,es,CNA,North-America
-'276f377ae2',extremes,Drought,#edc291,edo,sequedad peru,2026-03-21T04:17:00+00:00,Peru,0.574157420803991,1,1,es,NWS,South-America
 'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2026-04-03T04:42:00+00:00,Argentina,0.5740115683813488,1,1,es,SES,South-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica brasil,2026-03-22T04:33:00+00:00,Brazil,0.5738439374722322,1,1,es,SAM,South-America
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón estados unidos,2026-04-12T05:12:00+00:00,United States,0.5735167863545104,1,1,es,CNA,North-America
-'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial brasil,2026-03-21T04:17:00+00:00,Brazil,0.5734819323570802,1,1,es,SAM,South-America
 '56b0f39c90',extremes,Storm,#b3b2b1,wmo,marejada ciclónica bahía de yakutat,2026-03-31T04:59:00+00:00,United States,0.5733663369524626,1,1,es,CNA,North-America
 'b2a5b5c7df',extremes,Flood,#030ba1,wmo,inundación repentina erie oh,2026-04-02T04:42:00+00:00,United States,0.5727960872444121,1,1,es,CNA,North-America
 '680fdbeba1',extremes,Earthquake,#870007,usgs,terremoto nejapa de madero,2026-04-21T05:14:00+00:00,Mexico,0.572742629992252,1,1,es,SCA,North-America
-'dcaaba7a57',extremes,Earthquake,#870007,usgs,terremoto los amates,2026-03-21T04:17:00+00:00,Guatemala,0.5727373853377061,1,1,es,SCA,North-America
 '356d25c0ef',extremes,Flood,#030ba1,wmo,inundación hancock oh,2026-04-02T04:42:00+00:00,United States,0.5725076196572145,1,1,es,CNA,North-America
 '6c2aa26b6c',extremes,Drought,#edc291,edo,sequedad ecuador,2026-03-23T04:42:00+00:00,Ecuador,0.5724003976861795,1,1,es,EPO,Pacific Ocean
 '42edc58057',extremes,Drought,#edc291,edo,falta de lluvia paraguay,2026-03-23T04:42:00+00:00,Paraguay,0.5723129280164225,1,1,es,SES,South-America
