@@ -74,8 +74,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ceb5678a74',extremes,Flood,#030ba1,wmo,inundación repentina des moines ia henderson il,2026-04-12T05:12:00+00:00,United States,0.6631147055987798,0,1,es,CNA,North-America
 '6526451879',extremes,Flood,#030ba1,wmo,inundación barry mi,2026-04-10T05:13:00+00:00,United States,0.6629328386703403,0,1,es,CNA,North-America
 'cd74d750ef',extremes,Drought,#edc291,edo,falta de lluvia bolivia,2026-04-10T05:13:00+00:00,Bolivia,0.6628684447724399,1,2,es,SAM,South-America
+'2bbbb034cd',extremes,Wildfire,#d60d2b,wmo,incendio forestal greeley wichita,2026-04-12T05:12:00+00:00,United States,0.6628596571369918,0,1,es,CNA,North-America
 '03d2f3becb',extremes,Flood,#030ba1,wmo,inundación de hierro mi,2026-04-10T05:13:00+00:00,United States,0.6627274127037043,0,1,es,CNA,North-America
 'fbf82b1a96',extremes,Drought,#edc291,edo,sequía bolivia,2026-03-23T04:42:00+00:00,Bolivia,0.6626625043026215,0,1,es,SAM,South-America
+'9c4aebae8b',extremes,Flood,#030ba1,wmo,inundación repentina clinton mi,2026-04-11T04:34:00+00:00,United States,0.662250033314631,0,1,es,CNA,North-America
+'2d2b7e6123',extremes,Flood,#030ba1,wmo,inundación washington ks,2026-04-12T05:12:00+00:00,United States,0.6615520430962689,0,1,es,CNA,North-America
 'a8d53a8f02',extremes,Flood,#030ba1,wmo,inundaciones tuscarawas oh,2026-03-28T04:33:00+00:00,United States,0.6612360348697366,0,1,es,CNA,North-America
 '7cb8b855fa',extremes,Thunderstorm,#53785a,wmo,tormenta qatar,2026-03-28T04:33:00+00:00,Qatar,0.6612021967395806,1,2,es,ARP,Asia
 'fdf41d6f21',extremes,Flood,#030ba1,wmo,inundación juneau wi,2026-03-27T04:57:00+00:00,United States,0.6608503805373772,0,1,es,CNA,North-America
