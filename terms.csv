@@ -9,6 +9,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '72e8366c4b',extremes,Unknown,#d60d2b,cmeter,desconocido orlando,2026-04-17T05:16:00+00:00,United States,0.7550820864858193,1,2,es,ENA,North-America
 '8bd48e7016',extremes,Storm,#b3b2b1,wmo,tormenta litoral y sierra,2026-04-05T05:01:00+00:00,Ecuador,0.7469810433700699,1,2,es,NWS,South-America
 'b18c9c2493',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial región litoral,2026-05-02T05:24:00+00:00,Ecuador,0.7443058035219827,0,1,es,NWS,South-America
+'0877c3e614',extremes,Precipitation,#d60d2b,wmo,aguacero región litoral,2026-04-30T05:46:00+00:00,Ecuador,0.7353772091184251,0,1,es,NWS,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,aguacero brasil,2026-04-10T05:13:00+00:00,Brazil,0.727491672027164,1,2,es,SAM,South-America
 'cb207f7e4e',extremes,Drought,#edc291,edo,falta de lluvia argentina,2026-04-05T05:01:00+00:00,Argentina,0.7254628294644797,1,3,es,SES,South-America
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,huracán estados unidos,2026-04-12T05:12:00+00:00,United States,0.7233070582635261,1,3,es,CNA,North-America
