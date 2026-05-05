@@ -29,23 +29,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f78df3cf12',extremes,Drought,#edc291,edo,sequedad paraguay,2026-03-29T05:00:00+00:00,Paraguay,0.6682917182677182,2,1,es,SES,South-America
 'ef8f4f660b',extremes,Earthquake,#870007,usgs,terremoto picota,2026-04-05T05:01:00+00:00,Peru,0.6663025765423588,2,1,es,NWS,South-America
 'cd74d750ef',extremes,Drought,#edc291,edo,falta de lluvia bolivia,2026-04-10T05:13:00+00:00,Bolivia,0.6628684447724399,1,2,es,SAM,South-America
-'9c4aebae8b',extremes,Flood,#030ba1,wmo,inundación repentina clinton mi,2026-04-11T04:34:00+00:00,United States,0.662250033314631,0,1,es,CNA,North-America
-'2d2b7e6123',extremes,Flood,#030ba1,wmo,inundación washington ks,2026-04-12T05:12:00+00:00,United States,0.6615520430962689,0,1,es,CNA,North-America
-'a8d53a8f02',extremes,Flood,#030ba1,wmo,inundaciones tuscarawas oh,2026-03-28T04:33:00+00:00,United States,0.6612360348697366,0,1,es,CNA,North-America
 '7cb8b855fa',extremes,Thunderstorm,#53785a,wmo,tormenta qatar,2026-03-28T04:33:00+00:00,Qatar,0.6612021967395806,1,2,es,ARP,Asia
-'fdf41d6f21',extremes,Flood,#030ba1,wmo,inundación juneau wi,2026-03-27T04:57:00+00:00,United States,0.6608503805373772,0,1,es,CNA,North-America
-'ccc8d90e4a',extremes,Wildfire,#d60d2b,wmo,incendio forestal osage washington pawnee creek,2026-03-26T04:56:00+00:00,United States,0.6601860061393158,0,1,es,CNA,North-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-04-06T05:11:00+00:00,Argentina,0.6585480956151618,1,2,es,SES,South-America
-'8119b55ee1',extremes,Storm,#b3b2b1,wmo,marejada ciclónica marrón wi outagamie wi,2026-03-31T04:59:00+00:00,United States,0.6576957743516141,0,1,es,CNA,North-America
-'e83c91c507',extremes,Flood,#030ba1,wmo,inundación repentina coshocton oh,2026-03-29T05:00:00+00:00,United States,0.6536003829611879,0,1,es,CNA,North-America
-'1a8ff73ad3',extremes,Flood,#030ba1,wmo,inundación repentina washington oh,2026-03-28T04:33:00+00:00,United States,0.6487958986056502,0,1,es,CNA,North-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2026-04-10T05:13:00+00:00,Chile,0.6482146712000586,1,2,es,SWS,South-America
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,nieve argentina,2026-04-11T04:34:00+00:00,Argentina,0.6478560515990973,1,2,es,SES,South-America
 'a6e9427fb1',extremes,Earthquake,#870007,usgs,terremoto colombia,2026-04-15T05:11:00+00:00,Colombia,0.6471774093435037,1,1,es,NWS,South-America
-'aaa59dbd70',extremes,Flood,#030ba1,wmo,inundación de madera wi,2026-03-24T04:31:00+00:00,United States,0.6471273615119573,0,1,es,CNA,North-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,marejada ciclónica argentina,2026-04-06T05:11:00+00:00,Argentina,0.6456739711907049,1,1,es,SES,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2026-04-09T04:58:00+00:00,Argentina,0.6454811732227813,1,1,es,SES,South-America
-'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial argentina,2026-04-07T04:59:00+00:00,Argentina,0.6453746711944387,1,1,es,SES,South-America
 'cf828743a1',extremes,Precipitation,#d60d2b,wmo,aguacero orellana.,2026-04-23T05:16:00+00:00,Ecuador,0.6448866660793813,1,1,es,NWS,South-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,inundaciones estados unidos,2026-04-09T04:58:00+00:00,United States,0.6448104076730445,1,2,es,CNA,North-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-04-23T05:16:00+00:00,Ecuador,0.6447981593935899,1,1,es,NWS,South-America
@@ -279,3 +269,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6526451879',extremes,Flood,#030ba1,wmo,inundación barry mi,2026-04-10T05:13:00+00:00,United States,0.5634929128697892,1,1,es,CNA,North-America
 '2bbbb034cd',extremes,Wildfire,#d60d2b,wmo,incendio forestal greeley wichita,2026-04-12T05:12:00+00:00,United States,0.5634307085664431,1,1,es,CNA,North-America
 '03d2f3becb',extremes,Flood,#030ba1,wmo,inundación de hierro mi,2026-04-10T05:13:00+00:00,United States,0.5633183007981486,1,1,es,CNA,North-America
+'9c4aebae8b',extremes,Flood,#030ba1,wmo,inundación repentina clinton mi,2026-04-11T04:34:00+00:00,United States,0.5629125283174363,1,1,es,CNA,North-America
+'2d2b7e6123',extremes,Flood,#030ba1,wmo,inundación washington ks,2026-04-12T05:12:00+00:00,United States,0.5623192366318286,1,1,es,CNA,North-America
+'a8d53a8f02',extremes,Flood,#030ba1,wmo,inundaciones tuscarawas oh,2026-03-28T04:33:00+00:00,United States,0.5620506296392761,1,1,es,CNA,North-America
+'fdf41d6f21',extremes,Flood,#030ba1,wmo,inundación juneau wi,2026-03-27T04:57:00+00:00,United States,0.5617228234567706,1,1,es,CNA,North-America
+'8119b55ee1',extremes,Storm,#b3b2b1,wmo,marejada ciclónica marrón wi outagamie wi,2026-03-31T04:59:00+00:00,United States,0.5590414081988719,1,1,es,CNA,North-America
+'e83c91c507',extremes,Flood,#030ba1,wmo,inundación repentina coshocton oh,2026-03-29T05:00:00+00:00,United States,0.5555603255170097,1,1,es,CNA,North-America
+'1a8ff73ad3',extremes,Flood,#030ba1,wmo,inundación repentina washington oh,2026-03-28T04:33:00+00:00,United States,0.5514765138148027,1,1,es,CNA,North-America
+'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial argentina,2026-04-07T04:59:00+00:00,Argentina,0.5487184855152729,2,1,es,SES,South-America
