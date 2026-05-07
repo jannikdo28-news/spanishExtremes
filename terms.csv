@@ -48,7 +48,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,marejada ciclónica área 1 – severa,2026-04-11T04:34:00+00:00,Paraguay,0.6429064376723219,1,1,es,SES,South-America
 'e043fce1a2',extremes,Drought,#edc291,edo,sequía bolivia,2026-05-01T05:54:00+00:00,Bolivia,0.6428734246527545,1,1,es,SAM,South-America
 'f5a98ca4eb',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral norte e interior,2026-03-30T05:12:00+00:00,Ecuador,0.6427675562235439,1,1,es,NWS,South-America
-'3f340afd02',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial ecuador,2026-04-01T05:12:00+00:00,Ecuador,0.6427415787648408,1,1,es,NWS,South-America
 '395db40dcf',extremes,Heat Wave,#c40202,wmo,ola de calor corrientes y alrededores,2026-03-29T05:00:00+00:00,Argentina,0.6423793989669789,1,1,es,SES,South-America
 '69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,ola de calor paraná y alrededores,2026-04-03T04:43:00+00:00,Argentina,0.6423737512959609,1,1,es,SES,South-America
 '9c373151bb',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – severa,2026-04-15T05:12:00+00:00,Paraguay,0.6417976680760917,1,1,es,SES,South-America
@@ -268,6 +267,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial argentina,2026-04-07T04:59:00+00:00,Argentina,0.5487184855152729,2,1,es,SES,South-America
 'cf828743a1',extremes,Precipitation,#d60d2b,wmo,aguacero orellana.,2026-04-23T05:16:00+00:00,Ecuador,0.5481536661674741,2,1,es,NWS,South-America
 '0ef55bcfe1',extremes,Storm,#b3b2b1,wmo,tormenta formosa patino pirane.,2026-04-14T05:11:00+00:00,Argentina,0.5473901560835313,2,1,es,SES,South-America
+'3f340afd02',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial ecuador,2026-04-01T05:12:00+00:00,Ecuador,0.5466303719501147,2,1,es,NWS,South-America
 '5d4d529776',extremes,Storm,#b3b2b1,wmo,tormenta reg. 11 cordillera austral sur,2026-04-11T04:34:00+00:00,Chile,0.5433969320509637,2,1,es,SWS,South-America
 '0335b20cbc',extremes,Storm,#b3b2b1,wmo,marejada ciclónica reg. 15 cordillera,2026-04-11T04:34:00+00:00,Chile,0.5430186044933372,2,1,es,SWS,South-America
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2026-05-01T05:54:00+00:00,Chile,0.5413959339112033,2,1,es,SWS,South-America
