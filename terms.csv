@@ -119,7 +119,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e4b924f369',extremes,Earthquake,#870007,usgs,terremoto chamical,2026-05-02T05:23:00+00:00,Argentina,0.5901382363958667,1,1,es,SES,South-America
 '950e2fcdf4',extremes,Drought,#edc291,edo,sequedad costa rica,2026-04-19T05:16:00+00:00,Costa Rica,0.5899017808383504,1,1,es,SCA,South-America
 '470eec8a5b',extremes,Earthquake,#870007,usgs,terremoto playas,2026-04-05T05:01:00+00:00,Ecuador,0.5890430168144581,1,1,es,NWS,South-America
-'8f13e1df9b',extremes,Drought,#edc291,edo,sequía en venezuela,2026-04-17T05:16:00+00:00,Venezuela,0.5886838256823365,1,1,es,NSA,South-America
 '19e427569b',extremes,Drought,#edc291,edo,sequía en uruguay,2026-03-30T05:12:00+00:00,Uruguay,0.5882560402642282,1,2,es,SES,South-America
 '5c6845871b',extremes,Drought,#edc291,edo,sequía en méxico,2026-04-04T04:30:00+00:00,Mexico,0.587998571799515,1,2,es,NCA,North-America
 '0c9ce7bbc6',extremes,Earthquake,#870007,usgs,terremoto calingasta,2026-04-20T05:26:00+00:00,Argentina,0.5878621389312393,1,1,es,SWS,South-America
@@ -262,6 +261,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9c4aebae8b',extremes,Flood,#030ba1,wmo,inundación repentina clinton mi,2026-04-11T04:34:00+00:00,United States,0.5629125283174363,1,1,es,CNA,North-America
 '2d2b7e6123',extremes,Flood,#030ba1,wmo,inundación washington ks,2026-04-12T05:12:00+00:00,United States,0.5623192366318286,1,1,es,CNA,North-America
 '652882bd27',extremes,Earthquake,#870007,usgs,terremoto cuya,2026-04-07T04:59:00+00:00,Chile,0.5584130463438584,2,2,es,SWS,South-America
+'8f13e1df9b',extremes,Drought,#edc291,edo,sequía en venezuela,2026-04-17T05:16:00+00:00,Venezuela,0.550831296829986,2,1,es,NSA,South-America
 '2f7fa1d528',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial región amazónica,2026-05-04T05:50:00+00:00,Ecuador,0.5490401814484471,2,1,es,NWS,South-America
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial argentina,2026-04-07T04:59:00+00:00,Argentina,0.5487184855152729,2,1,es,SES,South-America
 'cf828743a1',extremes,Precipitation,#d60d2b,wmo,aguacero orellana.,2026-04-23T05:16:00+00:00,Ecuador,0.5481536661674741,2,1,es,NWS,South-America
