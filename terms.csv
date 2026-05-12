@@ -29,6 +29,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-04-11T04:34:00+00:00,Argentina,0.6705519385566191,2,1,es,SES,South-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,nieve estados unidos,2026-04-26T05:25:00+00:00,United States,0.669698854472082,0,1,es,CNA,North-America
 'a258bc8dc2',extremes,Heat Wave,#c40202,wmo,ola de calor valle de tualatin,2026-05-02T05:24:00+00:00,United States,0.6688527862316289,0,1,es,CNA,North-America
+'17065d269f',extremes,Drought,#edc291,edo,falta de lluvia honduras,2026-05-01T05:54:00+00:00,Honduras,0.6685485939240438,0,1,es,SCA,North-America
+'7d68920b56',extremes,Earthquake,#870007,usgs,terremoto nicaragua,2026-05-06T05:43:00+00:00,Nicaragua,0.6678839819210217,0,1,es,SCA,North-America
+'105ee03aff',extremes,Earthquake,#870007,usgs,terremoto el salvador,2026-05-04T05:49:00+00:00,El Salvador,0.6675007031150885,0,1,es,SCA,North-America
+'5e0c447e93',extremes,Flood,#030ba1,wmo,inundación repentina chelan wa,2026-04-30T05:46:00+00:00,United States,0.6673373455221663,0,1,es,CNA,North-America
+'0af0f19936',extremes,Wildfire,#d60d2b,wmo,los incendios forestales dividen a williams mckenzie,2026-05-08T05:16:00+00:00,United States,0.6671031974540498,0,1,es,CNA,North-America
+'bda93c4af3',extremes,Flood,#030ba1,wmo,inundaciones rapides la,2026-05-10T05:51:00+00:00,United States,0.6667920144490908,0,1,es,CNA,North-America
 'ef8f4f660b',extremes,Earthquake,#870007,usgs,terremoto picota,2026-04-05T05:01:00+00:00,Peru,0.6663025765423588,2,1,es,NWS,South-America
 'cd74d750ef',extremes,Drought,#edc291,edo,falta de lluvia bolivia,2026-04-10T05:13:00+00:00,Bolivia,0.6628684447724399,1,2,es,SAM,South-America
 '7cb8b855fa',extremes,Thunderstorm,#53785a,wmo,tormenta qatar,2026-03-28T04:33:00+00:00,Qatar,0.6612021967395806,1,2,es,ARP,Asia
