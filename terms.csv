@@ -17,6 +17,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3f426b0479',extremes,Drought,#edc291,edo,sequía chile,2026-04-21T05:15:00+00:00,Chile,0.6899457601075997,1,3,es,SPO,Pacific Ocean
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-04-12T05:12:00+00:00,Paraguay,0.6892619154618606,3,2,es,SES,South-America
 '105ee03aff',extremes,Earthquake,#870007,usgs,terremoto el salvador,2026-05-04T05:49:00+00:00,El Salvador,0.6888757476478252,1,2,es,SCA,North-America
+'b74d7744ad',extremes,Storm,#b3b2b1,wmo,tormenta región insular,2026-05-10T05:51:00+00:00,Ecuador,0.6845887594327487,2,2,es,NWS,South-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-04-28T05:45:00+00:00,Argentina,0.6812279356418262,2,2,es,SES,South-America
 '87f28505d1',extremes,Snow Avalanche,#deddd5,wmo,avalancha españa,2026-04-01T05:12:00+00:00,Spain,0.6809750161389074,2,3,es,MED,Europe
 'bebba26d24',extremes,Unknown,#d60d2b,cmeter,desconocido estados unidos,2026-04-19T05:17:00+00:00,United States,0.6775742394579266,1,3,es,ENA,North-America
@@ -27,16 +28,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-04-11T04:34:00+00:00,Argentina,0.6705519385566191,2,1,es,SES,South-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,estados unidos helados,2026-04-26T05:25:00+00:00,United States,0.6669308441080106,1,3,es,CNA,North-America
 'ef8f4f660b',extremes,Earthquake,#870007,usgs,terremoto picota,2026-04-05T05:01:00+00:00,Peru,0.6663025765423588,2,1,es,NWS,South-America
-'d43f2c5c0b',extremes,Flood,#030ba1,wmo,inundación repentina daviess en greene en knox en,2026-04-30T05:46:00+00:00,United States,0.6658781699565851,0,1,es,CNA,North-America
-'450b6181bf',extremes,Flood,#030ba1,wmo,inundación tangipahoa la,2026-05-01T05:54:00+00:00,United States,0.6653018137501485,0,1,es,CNA,North-America
-'e69278a547',extremes,Wildfire,#d60d2b,wmo,incendio forestal en la cuenca del río loup,2026-05-12T05:52:00+00:00,United States,0.6652432832309672,0,1,es,CNA,North-America
-'4f08e7e227',extremes,Flood,#030ba1,wmo,inundación repentina george ms greene ms,2026-05-07T05:46:00+00:00,United States,0.6645881402626517,0,1,es,CNA,North-America
-'1335513c95',extremes,Flood,#030ba1,wmo,inundación daviess en greene en knox en,2026-04-30T05:46:00+00:00,United States,0.6645105616228647,0,1,es,CNA,North-America
-'23e64841e8',extremes,Flood,#030ba1,wmo,inundación pike il scott il,2026-05-06T05:43:00+00:00,United States,0.6642976587741696,0,1,es,CNA,North-America
-'0f78200302',extremes,Flood,#030ba1,wmo,inundaciones clinton il,2026-05-09T05:36:00+00:00,United States,0.6639497932632754,0,1,es,CNA,North-America
-'cff7fc564f',extremes,Flood,#030ba1,wmo,inundaciones gibson en knox en,2026-05-05T05:29:00+00:00,United States,0.663581895052296,0,1,es,CNA,North-America
-'657496cac5',extremes,Flood,#030ba1,wmo,inundación washington río la perla ms,2026-05-11T06:14:00+00:00,United States,0.6635013012274871,0,1,es,CNA,North-America
-'6ba0d506ee',extremes,Flood,#030ba1,wmo,inundación lafayette la vermilion la,2026-05-11T06:14:00+00:00,United States,0.6632596946031304,0,1,es,CNA,North-America
 'cd74d750ef',extremes,Drought,#edc291,edo,falta de lluvia bolivia,2026-04-10T05:13:00+00:00,Bolivia,0.6628684447724399,1,2,es,SAM,South-America
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,avalancha estados unidos,2026-05-01T05:54:00+00:00,United States,0.6622840577567503,1,3,es,CNA,North-America
 '7cb8b855fa',extremes,Thunderstorm,#53785a,wmo,tormenta qatar,2026-03-28T04:33:00+00:00,Qatar,0.6612021967395806,1,2,es,ARP,Asia
@@ -55,12 +46,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paraguay,2026-04-06T05:11:00+00:00,Paraguay,0.6441925162406061,1,1,es,SES,South-America
 'd61de81685',extremes,Storm,#b3b2b1,wmo,marejada ciclónica chile,2026-04-12T05:12:00+00:00,Chile,0.6440072768560402,1,1,es,SWS,South-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-04-09T04:57:00+00:00,Chile,0.6432336977935316,2,2,es,SWS,South-America
-'7d68920b56',extremes,Earthquake,#870007,usgs,terremoto nicaragua,2026-05-06T05:43:00+00:00,Nicaragua,0.6430014146328684,1,2,es,SCA,North-America
 '49f364b3e2',extremes,Precipitation,#d60d2b,wmo,aguacero formosa patino pirane.,2026-04-13T05:28:00+00:00,Argentina,0.6429789570674547,1,1,es,SES,South-America
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,marejada ciclónica área 1 – severa,2026-04-11T04:34:00+00:00,Paraguay,0.6429064376723219,1,1,es,SES,South-America
 'e043fce1a2',extremes,Drought,#edc291,edo,sequía bolivia,2026-05-01T05:54:00+00:00,Bolivia,0.6428734246527545,1,1,es,SAM,South-America
 '69dc5fcfc4',extremes,Heat Wave,#c40202,wmo,ola de calor paraná y alrededores,2026-04-03T04:43:00+00:00,Argentina,0.6423737512959609,1,1,es,SES,South-America
-'01b678efbf',extremes,Heat Wave,#c40202,wmo,ola de calor reg. 3 precordillera,2026-05-09T05:36:00+00:00,Chile,0.642329328790114,1,1,es,SWS,South-America
 '9c373151bb',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – severa,2026-04-15T05:12:00+00:00,Paraguay,0.6417976680760917,1,1,es,SES,South-America
 '6f16e7aa17',extremes,Flood,#030ba1,wmo,inundación washington la,2026-05-10T05:51:00+00:00,United States,0.6413319832605174,1,2,es,CNA,North-America
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,marejada ciclónica ecuador,2026-04-03T04:43:00+00:00,Ecuador,0.6413318099597635,1,1,es,NWS,South-America
@@ -69,11 +58,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c0e0f411e',extremes,Storm,#b3b2b1,wmo,tormenta región amazónica,2026-05-11T06:14:00+00:00,Ecuador,0.6380192126983548,1,1,es,NWS,South-America
 '3a67915e02',extremes,Earthquake,#870007,usgs,terremoto peru,2026-04-06T05:11:00+00:00,Peru,0.6377539396503282,1,1,es,NWS,South-America
 '7ef3a20daf',extremes,Storm,#b3b2b1,wmo,marejada ciclónica galápagos,2026-04-17T05:16:00+00:00,Ecuador,0.6370482978791353,1,1,es,NWS,South-America
-'fbfc5d1ed5',extremes,Precipitation,#d60d2b,wmo,lluvias torrenciales región insular,2026-05-11T06:14:00+00:00,Ecuador,0.6369659454001607,1,1,es,NWS,South-America
 'd709206c08',extremes,Storm,#b3b2b1,wmo,tormenta reg. 15 cordillera,2026-04-13T05:28:00+00:00,Chile,0.6368970965465549,1,1,es,SWS,South-America
 '1c2c5da544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica 02 03,2026-04-14T05:11:00+00:00,Chile,0.6364570001759559,1,1,es,SWS,South-America
 'b7fc06d785',extremes,Storm,#b3b2b1,wmo,tormenta amazonia,2026-04-14T05:11:00+00:00,Ecuador,0.6364337808755819,1,1,es,NWS,South-America
-'7e83ea89df',extremes,Precipitation,#d60d2b,wmo,aguacero región insular,2026-05-12T05:52:00+00:00,Ecuador,0.6359961131425068,1,1,es,NWS,South-America
 'afccf77c89',extremes,Storm,#b3b2b1,wmo,tormenta litora interandina y amazonia,2026-04-14T05:11:00+00:00,Ecuador,0.6355594332256664,1,1,es,NWS,South-America
 'aafce152ff',extremes,Storm,#b3b2b1,wmo,tormenta litoral y estribación de cordillera,2026-04-14T05:11:00+00:00,Ecuador,0.6351137226030495,1,1,es,NWS,South-America
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial ecuador,2026-04-23T05:16:00+00:00,Ecuador,0.6348805687311159,1,1,es,NWS,South-America
@@ -84,9 +71,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tormenta amazonia,2026-04-23T05:16:00+00:00,Ecuador,0.6313461482066279,1,1,es,NWS,South-America
 '2b54723d48',extremes,Precipitation,#d60d2b,wmo,aguacero amazonía,2026-04-24T05:22:00+00:00,Ecuador,0.6308925918502581,1,1,es,NWS,South-America
 'e45b825adb',extremes,Storm,#b3b2b1,wmo,marejada ciclónica orellana.,2026-04-22T05:13:00+00:00,Ecuador,0.6305675606944763,1,1,es,NWS,South-America
-'58e1428940',extremes,Snow Avalanche,#deddd5,wmo,alud valle de arán,2026-04-02T04:42:00+00:00,Spain,0.6302806867901628,1,1,es,MED,Europe
 'c85690d76d',extremes,Precipitation,#d60d2b,wmo,aguacero uruguay,2026-04-16T05:17:00+00:00,Uruguay,0.6302450321667331,1,1,es,SES,South-America
-'b74d7744ad',extremes,Storm,#b3b2b1,wmo,tormenta región insular,2026-05-10T05:51:00+00:00,Ecuador,0.6287514640385279,1,1,es,NWS,South-America
 '2f486e78b4',extremes,Snow Avalanche,#deddd5,wmo,alud pirineo oscense,2026-04-03T04:43:00+00:00,Spain,0.6286143131134302,1,1,es,MED,Europe
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,precipitación ecuador,2026-04-17T05:16:00+00:00,Ecuador,0.6285521752279127,1,1,es,NWS,South-America
 '50b4b6ae17',extremes,Earthquake,#870007,usgs,terremoto puerto natales,2026-04-19T05:16:00+00:00,Chile,0.6279224335131873,1,1,es,SSA,South-America
@@ -131,7 +116,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aa13b0f92f',extremes,Earthquake,#870007,usgs,terremoto la uvita,2026-04-13T05:27:00+00:00,Colombia,0.6027829171687382,1,1,es,NWS,South-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tormenta brasil,2026-04-11T04:34:00+00:00,Brazil,0.6022974313028968,1,2,es,SAM,South-America
 'd96d10a52c',extremes,Earthquake,#870007,usgs,terremoto huabal,2026-05-02T05:23:00+00:00,Peru,0.6002200354588212,1,1,es,NWS,South-America
-'66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-04-06T05:11:00+00:00,Chile,0.5997205562086559,2,1,es,SWS,South-America
 '5e9084d084',extremes,Earthquake,#870007,usgs,terremoto santa casilda,2026-04-09T04:57:00+00:00,Mexico,0.5989513604340566,1,1,es,NCA,North-America
 'bfe7a21557',extremes,Earthquake,#870007,usgs,terremoto coayllo,2026-04-13T05:27:00+00:00,Peru,0.598174683977493,1,1,es,NWS,South-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2026-04-11T04:34:00+00:00,United States,0.5946846622030865,1,2,es,CNA,North-America
@@ -232,6 +216,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7cf4a4eaa3',extremes,Flood,#030ba1,wmo,inundación repentina winnebago il,2026-04-06T05:11:00+00:00,United States,0.5661364956840761,1,1,es,CNA,North-America
 '9ef0236c6e',extremes,Flood,#030ba1,wmo,inundación chelan wa,2026-04-27T05:40:00+00:00,United States,0.5661334155912467,1,1,es,CNA,North-America
 '7012d50057',extremes,Flood,#030ba1,wmo,inundación repentina ingham mi,2026-04-05T05:01:00+00:00,United States,0.5660346596797883,1,1,es,CNA,North-America
+'d43f2c5c0b',extremes,Flood,#030ba1,wmo,inundación repentina daviess en greene en knox en,2026-04-30T05:46:00+00:00,United States,0.5659964444630974,1,1,es,CNA,North-America
 '99a7dc685f',extremes,Flood,#030ba1,wmo,inundación cooper mo saline mo,2026-04-07T04:59:00+00:00,United States,0.5659911527664804,1,1,es,CNA,North-America
 'cf8a4ff88f',extremes,Flood,#030ba1,wmo,inundación repentina gratiot mi,2026-04-06T05:11:00+00:00,United States,0.5659898430667957,1,1,es,CNA,North-America
 '053e5d4f2c',extremes,Flood,#030ba1,wmo,inundación kalamazoo mi,2026-04-06T05:11:00+00:00,United States,0.5659324058939071,1,1,es,CNA,North-America
@@ -240,9 +225,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '75b45b65f3',extremes,Flood,#030ba1,wmo,inundación lago il,2026-04-06T05:11:00+00:00,United States,0.5657273917848938,1,1,es,CNA,North-America
 '9b0be5e406',extremes,Drought,#edc291,edo,sequía en colombia,2026-04-11T04:34:00+00:00,Colombia,0.5656910984497773,1,1,es,NWS,South-America
 '062001dddd',extremes,Flood,#030ba1,wmo,inundación kane il lago il mchenry il,2026-04-10T05:13:00+00:00,United States,0.565524218275625,1,1,es,CNA,North-America
+'450b6181bf',extremes,Flood,#030ba1,wmo,inundación tangipahoa la,2026-05-01T05:54:00+00:00,United States,0.5655065416876263,1,1,es,CNA,North-America
 'aa1a2b2faf',extremes,Flood,#030ba1,wmo,inundación repentina benton ia iowa ia,2026-04-05T05:01:00+00:00,United States,0.5654962580493335,1,1,es,CNA,North-America
 '6e7d1e39a2',extremes,Flood,#030ba1,wmo,inundación repentina la salle il,2026-04-05T05:01:00+00:00,United States,0.5654792511087708,1,1,es,CNA,North-America
 '012592e775',extremes,Flood,#030ba1,wmo,inundación de jaspe en porter en,2026-04-07T04:59:00+00:00,United States,0.5654667639898531,1,1,es,CNA,North-America
+'e69278a547',extremes,Wildfire,#d60d2b,wmo,incendio forestal en la cuenca del río loup,2026-05-12T05:52:00+00:00,United States,0.565456790746322,1,1,es,CNA,North-America
 '3300eff866',extremes,Flood,#030ba1,wmo,inundación repentina johnson mo pettis mo,2026-04-11T04:34:00+00:00,United States,0.5654414369443572,1,1,es,CNA,North-America
 '22ec810b64',extremes,Flood,#030ba1,wmo,inundación repentina clinton ia scott ia,2026-04-09T04:58:00+00:00,United States,0.5654168370564538,1,1,es,CNA,North-America
 '541f3fa0f3',extremes,Storm,#b3b2b1,wmo,sonido de cruz de tormenta,2026-04-21T05:15:00+00:00,United States,0.5653467336660734,1,1,es,CNA,North-America
@@ -251,17 +238,24 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b38b71a6df',extremes,Flood,#030ba1,wmo,inundación repentina poweshiek ia tama ia,2026-04-07T04:59:00+00:00,United States,0.5651970387738778,1,1,es,CNA,North-America
 '5bff331a17',extremes,Flood,#030ba1,wmo,inundación repentina genesee mi,2026-04-06T05:11:00+00:00,United States,0.5651487985440456,1,1,es,CNA,North-America
 'b2eae4a5eb',extremes,Flood,#030ba1,wmo,lago inundado en newton en,2026-04-06T05:11:00+00:00,United States,0.5650222855549193,1,1,es,CNA,North-America
+'4f08e7e227',extremes,Flood,#030ba1,wmo,inundación repentina george ms greene ms,2026-05-07T05:46:00+00:00,United States,0.5648999192232539,1,1,es,CNA,North-America
 'bdeb0fe4a5',extremes,Flood,#030ba1,wmo,inundaciones wexford mi,2026-04-13T05:28:00+00:00,United States,0.5648658218401768,1,1,es,CNA,North-America
+'1335513c95',extremes,Flood,#030ba1,wmo,inundación daviess en greene en knox en,2026-04-30T05:46:00+00:00,United States,0.564833977379435,1,1,es,CNA,North-America
 'a736f6d73e',extremes,Flood,#030ba1,wmo,inundación racine wi,2026-04-05T05:01:00+00:00,United States,0.564817149266362,1,1,es,CNA,North-America
+'23e64841e8',extremes,Flood,#030ba1,wmo,inundación pike il scott il,2026-05-06T05:43:00+00:00,United States,0.5646530099580441,1,1,es,CNA,North-America
 'a2f2ee735b',extremes,Flood,#030ba1,wmo,inundación repentina cass il fulton il mason il,2026-04-06T05:11:00+00:00,United States,0.5645037991904642,1,1,es,CNA,North-America
+'0f78200302',extremes,Flood,#030ba1,wmo,inundaciones clinton il,2026-05-09T05:36:00+00:00,United States,0.564357324273784,1,1,es,CNA,North-America
 '246c6472b4',extremes,Flood,#030ba1,wmo,inundación columbia wi sauk wi,2026-04-06T05:11:00+00:00,United States,0.5642767100703778,1,1,es,CNA,North-America
 'b1bb90c275',extremes,Flood,#030ba1,wmo,inundación repentina noble en,2026-04-09T04:58:00+00:00,United States,0.5642226551135825,1,1,es,CNA,North-America
 '08a54d7720',extremes,Flood,#030ba1,wmo,inundación kane il lago il mchenry il,2026-04-14T05:11:00+00:00,United States,0.564129171450235,1,1,es,CNA,North-America
 '01a9374297',extremes,Flood,#030ba1,wmo,inundación newaygo mi,2026-04-08T05:01:00+00:00,United States,0.5640998117822941,1,1,es,CNA,North-America
 '6810a2a47a',extremes,Flood,#030ba1,wmo,inundación kent mi,2026-04-06T05:11:00+00:00,United States,0.564046361145472,1,1,es,CNA,North-America
+'cff7fc564f',extremes,Flood,#030ba1,wmo,inundaciones gibson en knox en,2026-05-05T05:29:00+00:00,United States,0.5640446107944516,1,1,es,CNA,North-America
 '15ea46f64a',extremes,Flood,#030ba1,wmo,inundación repentina macomb mi,2026-04-06T05:11:00+00:00,United States,0.5640434236237084,1,1,es,CNA,North-America
+'657496cac5',extremes,Flood,#030ba1,wmo,inundación washington río la perla ms,2026-05-11T06:14:00+00:00,United States,0.563976106043364,1,1,es,CNA,North-America
 '2a51d80fd0',extremes,Flood,#030ba1,wmo,inundación clinton ia scott ia,2026-04-07T04:59:00+00:00,United States,0.563860797734841,1,1,es,CNA,North-America
 '800b2252f9',extremes,Flood,#030ba1,wmo,inundación angelina tx nacogdoches tx,2026-04-10T05:13:00+00:00,United States,0.5638527632600526,1,1,es,CNA,North-America
+'6ba0d506ee',extremes,Flood,#030ba1,wmo,inundación lafayette la vermilion la,2026-05-11T06:14:00+00:00,United States,0.5637707404126608,1,1,es,CNA,North-America
 '5478987fda',extremes,Flood,#030ba1,wmo,bahía de inundación mi saginaw mi,2026-04-05T05:01:00+00:00,United States,0.5637437726473182,1,1,es,CNA,North-America
 'ceb5678a74',extremes,Flood,#030ba1,wmo,inundación repentina des moines ia henderson il,2026-04-12T05:12:00+00:00,United States,0.5636474997589629,1,1,es,CNA,North-America
 '6526451879',extremes,Flood,#030ba1,wmo,inundación barry mi,2026-04-10T05:13:00+00:00,United States,0.5634929128697892,1,1,es,CNA,North-America
@@ -272,14 +266,17 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '652882bd27',extremes,Earthquake,#870007,usgs,terremoto cuya,2026-04-07T04:59:00+00:00,Chile,0.5584130463438584,2,2,es,SWS,South-America
 '8f13e1df9b',extremes,Drought,#edc291,edo,sequía en venezuela,2026-04-17T05:16:00+00:00,Venezuela,0.550831296829986,2,1,es,NSA,South-America
 '2f7fa1d528',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial región amazónica,2026-05-04T05:50:00+00:00,Ecuador,0.5490401814484471,2,1,es,NWS,South-America
-'3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial argentina,2026-04-07T04:59:00+00:00,Argentina,0.5487184855152729,2,1,es,SES,South-America
 'cf828743a1',extremes,Precipitation,#d60d2b,wmo,aguacero orellana.,2026-04-23T05:16:00+00:00,Ecuador,0.5481536661674741,2,1,es,NWS,South-America
 '0ef55bcfe1',extremes,Storm,#b3b2b1,wmo,tormenta formosa patino pirane.,2026-04-14T05:11:00+00:00,Argentina,0.5473901560835313,2,1,es,SES,South-America
+'7d68920b56',extremes,Earthquake,#870007,usgs,terremoto nicaragua,2026-05-06T05:43:00+00:00,Nicaragua,0.5465512324379381,2,1,es,SCA,North-America
+'01b678efbf',extremes,Heat Wave,#c40202,wmo,ola de calor reg. 3 precordillera,2026-05-09T05:36:00+00:00,Chile,0.5459799294715968,2,1,es,SWS,South-America
 '5d4d529776',extremes,Storm,#b3b2b1,wmo,tormenta reg. 11 cordillera austral sur,2026-04-11T04:34:00+00:00,Chile,0.5433969320509637,2,1,es,SWS,South-America
 '0335b20cbc',extremes,Storm,#b3b2b1,wmo,marejada ciclónica reg. 15 cordillera,2026-04-11T04:34:00+00:00,Chile,0.5430186044933372,2,1,es,SWS,South-America
 '5cb766f03d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica área 2 – moderada,2026-05-07T05:46:00+00:00,Paraguay,0.5421703045850225,2,1,es,SES,South-America
+'fbfc5d1ed5',extremes,Precipitation,#d60d2b,wmo,lluvias torrenciales región insular,2026-05-11T06:14:00+00:00,Ecuador,0.5414210535901366,2,1,es,NWS,South-America
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2026-05-01T05:54:00+00:00,Chile,0.5413959339112033,2,1,es,SWS,South-America
 'f0a7622c15',extremes,Storm,#b3b2b1,wmo,tormenta galápagos,2026-04-19T05:16:00+00:00,Ecuador,0.5405973516020639,2,1,es,NWS,South-America
+'7e83ea89df',extremes,Precipitation,#d60d2b,wmo,aguacero región insular,2026-05-12T05:52:00+00:00,Ecuador,0.5405966961711308,2,1,es,NWS,South-America
 '7e44414ba4',extremes,Precipitation,#d60d2b,wmo,lluvia región amazónica,2026-05-03T05:44:00+00:00,Ecuador,0.5402750679857059,2,1,es,NWS,South-America
 '501b14a5de',extremes,Precipitation,#d60d2b,wmo,precipitación región amazónica,2026-05-06T05:43:00+00:00,Ecuador,0.5402489034269247,2,1,es,NWS,South-America
 '734861543c',extremes,Storm,#b3b2b1,wmo,marejada ciclónica región amazónica,2026-05-02T05:24:00+00:00,Ecuador,0.5401545534927019,2,1,es,NWS,South-America
