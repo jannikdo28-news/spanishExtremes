@@ -40,6 +40,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '01038989c1',extremes,Flood,#030ba1,wmo,inundación chelan wa,2026-05-08T05:16:00+00:00,United States,0.6621812198195868,0,1,es,CNA,North-America
 'b4f70102a8',extremes,Flood,#030ba1,wmo,inundación repentina arcilla il richland il,2026-05-03T05:44:00+00:00,United States,0.6618769848157513,0,1,es,CNA,North-America
 'a8b3ce64c3',extremes,Flood,#030ba1,wmo,inundación harrison ms,2026-05-11T06:14:00+00:00,United States,0.6617775523049946,0,1,es,CNA,North-America
+'ed12635a22',extremes,Flood,#030ba1,wmo,inundación victoria tx,2026-05-02T05:24:00+00:00,United States,0.6609740181301136,0,1,es,CNA,North-America
+'4f07dcd1ba',extremes,Wildfire,#d60d2b,wmo,incendio forestal pequeña serpiente río blanco,2026-05-11T06:14:00+00:00,United States,0.6609587157662405,0,1,es,CNA,North-America
+'d2843fece1',extremes,Flood,#030ba1,wmo,inundación repentina cheboygan mi emmet mi,2026-04-30T05:46:00+00:00,United States,0.6607912885650938,0,1,es,CNA,North-America
+'9925705a0e',extremes,Flood,#030ba1,wmo,inundación lee tx,2026-05-11T06:14:00+00:00,United States,0.6606918572271614,0,1,es,CNA,North-America
+'f321a6eca2',extremes,Flood,#030ba1,wmo,inundación gibson en knox en,2026-05-03T05:44:00+00:00,United States,0.6604974761120677,0,1,es,CNA,North-America
+'dc62f56c39',extremes,Flood,#030ba1,wmo,inundación repentina trumbull oh,2026-05-11T06:14:00+00:00,United States,0.6604555856241437,0,1,es,CNA,North-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-04-06T05:11:00+00:00,Argentina,0.6585480956151618,1,2,es,SES,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-04-28T05:45:00+00:00,Argentina,0.655886107619446,1,2,es,SES,South-America
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-04-24T05:21:00+00:00,Costa Rica,0.655180094293945,2,1,es,SCA,South-America
