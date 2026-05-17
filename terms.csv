@@ -27,9 +27,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-05-16T05:40:00+00:00,Argentina,0.6721093554919555,0,1,es,SES,South-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-04-11T04:34:00+00:00,Argentina,0.6705519385566191,2,1,es,SES,South-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,estados unidos helados,2026-04-26T05:25:00+00:00,United States,0.6669308441080106,1,3,es,CNA,North-America
+'1085e78d4e',extremes,Thunderstorm,#53785a,wmo,granizo estados unidos,2026-05-16T05:40:00+00:00,United States,0.6663593882900294,1,3,es,CNA,North-America
 'cd74d750ef',extremes,Drought,#edc291,edo,falta de lluvia bolivia,2026-04-10T05:13:00+00:00,Bolivia,0.6628684447724399,1,2,es,SAM,South-America
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,avalancha estados unidos,2026-05-01T05:54:00+00:00,United States,0.6622840577567503,1,3,es,CNA,North-America
-'1085e78d4e',extremes,Thunderstorm,#53785a,wmo,granizo estados unidos,2026-05-16T05:40:00+00:00,United States,0.6620694450470935,0,1,es,CNA,North-America
 '4081260650',extremes,Flood,#030ba1,wmo,inundaciones lafayette la vermilion la,2026-05-17T06:01:00+00:00,United States,0.6595050115534482,0,1,es,CNA,North-America
 '580f495125',extremes,Flood,#030ba1,wmo,inundación repentina kalamazoo mi,2026-04-28T05:45:00+00:00,United States,0.6589277486694352,0,1,es,CNA,North-America
 '7779bea202',extremes,Flood,#030ba1,wmo,inundación pike ms walthall ms,2026-05-10T05:51:00+00:00,United States,0.6588671560383407,0,1,es,CNA,North-America
