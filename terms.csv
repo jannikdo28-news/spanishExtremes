@@ -29,9 +29,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,estados unidos helados,2026-04-26T05:25:00+00:00,United States,0.6669308441080106,1,3,es,CNA,North-America
 'cd74d750ef',extremes,Drought,#edc291,edo,falta de lluvia bolivia,2026-04-10T05:13:00+00:00,Bolivia,0.6628684447724399,1,2,es,SAM,South-America
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,avalancha estados unidos,2026-05-01T05:54:00+00:00,United States,0.6622840577567503,1,3,es,CNA,North-America
-'c20907a300',extremes,Flood,#030ba1,wmo,inundaciones daviess mo gentry mo,2026-05-18T06:38:00+00:00,United States,0.6619547437602618,0,1,es,CNA,North-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-04-06T05:11:00+00:00,Argentina,0.6585480956151618,1,2,es,SES,South-America
-'1b499f1d11',extremes,Flood,#030ba1,wmo,inundación repentina gasconade mo montgomery mo,2026-04-29T05:40:00+00:00,United States,0.6574052870236122,0,1,es,CNA,North-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-04-28T05:45:00+00:00,Argentina,0.655886107619446,1,2,es,SES,South-America
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-04-24T05:21:00+00:00,Costa Rica,0.655180094293945,2,1,es,SCA,South-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,nieve estados unidos,2026-04-26T05:25:00+00:00,United States,0.651467608573997,1,3,es,CNA,North-America
@@ -76,10 +74,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6e09c9d98c',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial amazonía y sierra sur,2026-04-21T05:15:00+00:00,Ecuador,0.6258974936069166,1,1,es,NWS,South-America
 'd8aeda0ac7',extremes,Precipitation,#d60d2b,wmo,precipitación amazonía y sierra sur,2026-04-19T05:16:00+00:00,Ecuador,0.6257243905685981,1,1,es,NWS,South-America
 '8a3604d565',extremes,Earthquake,#870007,usgs,terremoto san antonio,2026-04-17T05:15:00+00:00,Chile,0.6252030929170307,2,2,es,SWS,South-America
-'f760624a54',extremes,Earthquake,#870007,usgs,terremoto vallenar,2026-04-25T05:00:00+00:00,Chile,0.6251514915775179,1,1,es,SWS,South-America
-'0877c3e614',extremes,Precipitation,#d60d2b,wmo,aguacero región litoral,2026-04-30T05:46:00+00:00,Ecuador,0.6250706277506614,1,1,es,NWS,South-America
 '4cc7a6f84d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica amazonía,2026-04-19T05:16:00+00:00,Ecuador,0.6250313094798802,1,1,es,NWS,South-America
-'a0fe6991da',extremes,Precipitation,#d60d2b,wmo,lluvia galápagos,2026-04-17T05:16:00+00:00,Ecuador,0.625002790506424,1,1,es,NWS,South-America
 'd0475248ee',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial litoral interior.,2026-04-19T05:16:00+00:00,Ecuador,0.6245558266744714,1,1,es,NWS,South-America
 'd5817db4a1',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial galápagos,2026-04-19T05:16:00+00:00,Ecuador,0.6242198112757169,1,1,es,NWS,South-America
 '6b6c5a52c1',extremes,Precipitation,#d60d2b,wmo,precipitación amazonía,2026-04-20T05:27:00+00:00,Ecuador,0.623612699751481,1,1,es,NWS,South-America
@@ -87,9 +82,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,aguacero ecuador,2026-04-19T05:16:00+00:00,Ecuador,0.6221808980981901,1,1,es,NWS,South-America
 '105ee03aff',extremes,Earthquake,#870007,usgs,terremoto el salvador,2026-05-04T05:49:00+00:00,El Salvador,0.6221099651160361,2,2,es,SCA,North-America
 '496ef38269',extremes,Earthquake,#870007,usgs,terremoto río grande,2026-05-08T05:16:00+00:00,Panama,0.6215046265902742,2,1,es,SCA,South-America
-'2c6dfe91e2',extremes,Earthquake,#870007,usgs,terremoto copiapó,2026-05-05T05:28:00+00:00,Chile,0.6184687287916595,1,1,es,SWS,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,aguacero brasil,2026-04-10T05:13:00+00:00,Brazil,0.6183679362230894,2,1,es,SAM,South-America
-'493ff10b88',extremes,Earthquake,#870007,usgs,terremoto panamá,2026-05-11T06:14:00+00:00,Panama,0.6161395327421408,1,1,es,SCA,South-America
 'f478344c91',extremes,Drought,#edc291,edo,sequía paraguay,2026-04-15T05:12:00+00:00,Paraguay,0.6160659395675916,1,1,es,SES,South-America
 '5e67a6e3c8',extremes,Earthquake,#870007,usgs,terremoto coquimbo,2026-05-07T05:46:00+00:00,Chile,0.6160597673154027,1,1,es,SWS,South-America
 'e5b5d3771c',extremes,Earthquake,#870007,usgs,terremoto puerto,2026-05-01T05:54:00+00:00,Chile,0.615218153796038,1,2,es,SWS,South-America
@@ -218,6 +211,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a22d1b5c5d',extremes,Flood,#030ba1,wmo,inundación arcilla il richland il,2026-04-29T05:40:00+00:00,United States,0.5632514553656811,1,1,es,CNA,North-America
 '9c4aebae8b',extremes,Flood,#030ba1,wmo,inundación repentina clinton mi,2026-04-11T04:34:00+00:00,United States,0.5629125283174363,1,1,es,CNA,North-America
 '01038989c1',extremes,Flood,#030ba1,wmo,inundación chelan wa,2026-05-08T05:16:00+00:00,United States,0.5628540368466487,1,1,es,CNA,North-America
+'c20907a300',extremes,Flood,#030ba1,wmo,inundaciones daviess mo gentry mo,2026-05-18T06:38:00+00:00,United States,0.5626615321962225,1,1,es,CNA,North-America
 'b4f70102a8',extremes,Flood,#030ba1,wmo,inundación repentina arcilla il richland il,2026-05-03T05:44:00+00:00,United States,0.5625954370933886,1,1,es,CNA,North-America
 'a8b3ce64c3',extremes,Flood,#030ba1,wmo,inundación harrison ms,2026-05-11T06:14:00+00:00,United States,0.5625109194592454,1,1,es,CNA,North-America
 '2d2b7e6123',extremes,Flood,#030ba1,wmo,inundación washington ks,2026-04-12T05:12:00+00:00,United States,0.5623192366318286,1,1,es,CNA,North-America
@@ -243,6 +237,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '881b2c67bc',extremes,Wildfire,#d60d2b,wmo,incendio forestal corson dewey,2026-05-14T06:02:00+00:00,United States,0.5593124614540131,1,1,es,CNA,North-America
 'c73622041e',extremes,Flood,#030ba1,wmo,inundación repentina adams il marion mo,2026-04-28T05:45:00+00:00,United States,0.5591220982272678,1,1,es,CNA,North-America
 '03c4bd98f6',extremes,Flood,#030ba1,wmo,inundación repentina fayette il,2026-04-28T05:45:00+00:00,United States,0.5589789961328104,1,1,es,CNA,North-America
+'1b499f1d11',extremes,Flood,#030ba1,wmo,inundación repentina gasconade mo montgomery mo,2026-04-29T05:40:00+00:00,United States,0.5587944939700704,1,1,es,CNA,North-America
 '652882bd27',extremes,Earthquake,#870007,usgs,terremoto cuya,2026-04-07T04:59:00+00:00,Chile,0.5584130463438584,2,2,es,SWS,South-America
 '8f13e1df9b',extremes,Drought,#edc291,edo,sequía en venezuela,2026-04-17T05:16:00+00:00,Venezuela,0.550831296829986,2,1,es,NSA,South-America
 '2f7fa1d528',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial región amazónica,2026-05-04T05:50:00+00:00,Ecuador,0.5490401814484471,2,1,es,NWS,South-America
@@ -271,5 +266,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0400bc529a',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral y estribación de cordillera,2026-04-16T05:17:00+00:00,Ecuador,0.5334961611269848,2,1,es,NWS,South-America
 'c423705638',extremes,Storm,#b3b2b1,wmo,marejada ciclónica región insular,2026-05-09T05:36:00+00:00,Ecuador,0.5333967252240521,2,1,es,NWS,South-America
 'dfbb2a2a1d',extremes,Drought,#edc291,edo,falta de lluvias uruguay,2026-04-16T05:17:00+00:00,Uruguay,0.5324080007265765,2,1,es,SES,South-America
+'f760624a54',extremes,Earthquake,#870007,usgs,terremoto vallenar,2026-04-25T05:00:00+00:00,Chile,0.5313787678408902,2,1,es,SWS,South-America
+'0877c3e614',extremes,Precipitation,#d60d2b,wmo,aguacero región litoral,2026-04-30T05:46:00+00:00,Ecuador,0.5313100335880622,2,1,es,NWS,South-America
+'a0fe6991da',extremes,Precipitation,#d60d2b,wmo,lluvia galápagos,2026-04-17T05:16:00+00:00,Ecuador,0.5312523719304604,2,1,es,NWS,South-America
+'2c6dfe91e2',extremes,Earthquake,#870007,usgs,terremoto copiapó,2026-05-05T05:28:00+00:00,Chile,0.5256984194729105,2,1,es,SWS,South-America
+'493ff10b88',extremes,Earthquake,#870007,usgs,terremoto panamá,2026-05-11T06:14:00+00:00,Panama,0.5240186328308197,2,1,es,SCA,South-America
 'e4b924f369',extremes,Earthquake,#870007,usgs,terremoto chamical,2026-05-02T05:23:00+00:00,Argentina,0.5016175009364867,2,1,es,SES,South-America
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,hielo brasil,2026-04-28T05:45:00+00:00,Brazil,0.4991847378275732,2,1,es,SAM,South-America
