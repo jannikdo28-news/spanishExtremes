@@ -25,9 +25,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,hielo argentina,2026-04-12T05:12:00+00:00,Argentina,0.673998237090278,2,2,es,SES,South-America
 'eddc59f608',extremes,Snow&Ice,#d60d2b,wmo,heladas españa,2026-05-14T06:02:00+00:00,Spain,0.6724576820167075,1,3,es,MED,Europe
 '6340f0b14d',extremes,Drought,#edc291,edo,sequía mexico,2026-04-14T05:11:00+00:00,Mexico,0.6718596673131101,2,2,es,NCA,North-America
-'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-04-11T04:34:00+00:00,Argentina,0.6705519385566191,2,1,es,SES,South-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,estados unidos helados,2026-04-26T05:25:00+00:00,United States,0.6669308441080106,1,3,es,CNA,North-America
-'cd74d750ef',extremes,Drought,#edc291,edo,falta de lluvia bolivia,2026-04-10T05:13:00+00:00,Bolivia,0.6628684447724399,1,2,es,SAM,South-America
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,avalancha estados unidos,2026-05-01T05:54:00+00:00,United States,0.6622840577567503,1,3,es,CNA,North-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-04-06T05:11:00+00:00,Argentina,0.6585480956151618,1,2,es,SES,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-04-28T05:45:00+00:00,Argentina,0.655886107619446,1,2,es,SES,South-America
@@ -50,7 +48,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9c373151bb',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – severa,2026-04-15T05:12:00+00:00,Paraguay,0.6417976680760917,1,1,es,SES,South-America
 '6f16e7aa17',extremes,Flood,#030ba1,wmo,inundación washington la,2026-05-10T05:51:00+00:00,United States,0.6413319832605174,1,2,es,CNA,North-America
 '862c45323e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica región insular isabela,2026-05-09T05:36:00+00:00,Ecuador,0.6385072665652776,1,1,es,NWS,South-America
-'4c0e0f411e',extremes,Storm,#b3b2b1,wmo,tormenta región amazónica,2026-05-11T06:14:00+00:00,Ecuador,0.6380192126983548,1,1,es,NWS,South-America
 '7ef3a20daf',extremes,Storm,#b3b2b1,wmo,marejada ciclónica galápagos,2026-04-17T05:16:00+00:00,Ecuador,0.6370482978791353,1,1,es,NWS,South-America
 'd709206c08',extremes,Storm,#b3b2b1,wmo,tormenta reg. 15 cordillera,2026-04-13T05:28:00+00:00,Chile,0.6368970965465549,1,1,es,SWS,South-America
 '1c2c5da544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica 02 03,2026-04-14T05:11:00+00:00,Chile,0.6364570001759559,1,1,es,SWS,South-America
@@ -117,7 +114,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2a3e367958',extremes,Earthquake,#870007,usgs,terremoto cotacachi,2026-04-21T05:14:00+00:00,Ecuador,0.5860091194706268,1,1,es,NWS,South-America
 '111af1cabe',extremes,Drought,#edc291,edo,falta de lluvia ecuador,2026-04-15T05:12:00+00:00,Ecuador,0.5858837625445074,2,2,es,EPO,Pacific Ocean
 '4d422738b1',extremes,Earthquake,#870007,usgs,terremoto palca,2026-04-20T05:26:00+00:00,Peru,0.5855962084361672,1,1,es,SWS,South-America
-'e1048c4180',extremes,Drought,#edc291,edo,sequedad uruguay,2026-04-12T05:12:00+00:00,Uruguay,0.5852863903013775,1,1,es,SES,South-America
 'bb7389a105',extremes,Earthquake,#870007,usgs,terremoto laraos,2026-04-25T05:00:00+00:00,Peru,0.5848263906142745,1,1,es,NWS,South-America
 'af2189fa51',extremes,Earthquake,#870007,usgs,terremoto zorritos,2026-05-07T05:46:00+00:00,Peru,0.5842181858051815,1,1,es,NWS,South-America
 '43a43f5ed4',extremes,Earthquake,#870007,usgs,terremoto sácama,2026-04-14T05:10:00+00:00,Colombia,0.5831673541342998,1,1,es,NWS,South-America
@@ -144,7 +140,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,ciclón tropical estados unidos,2026-04-11T04:34:00+00:00,United States,0.5744052024650161,1,1,es,CNA,North-America
 'd389bc4f63',extremes,Earthquake,#870007,usgs,terremoto mexico,2026-04-28T05:44:00+00:00,Mexico,0.5742370432962715,1,1,es,SCA,North-America
 '9d2d9fb469',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón estados unidos,2026-04-12T05:12:00+00:00,United States,0.5735167863545104,1,1,es,CNA,North-America
-'33a8c57788',extremes,Earthquake,#870007,usgs,terremoto tournavista,2026-04-28T05:44:00+00:00,Peru,0.5733393337041435,1,1,es,NWS,South-America
 '629b930b9b',extremes,Earthquake,#870007,usgs,terremoto taltal,2026-05-12T05:52:00+00:00,Chile,0.5730070927839894,1,1,es,SWS,South-America
 '680fdbeba1',extremes,Earthquake,#870007,usgs,terremoto nejapa de madero,2026-04-21T05:14:00+00:00,Mexico,0.572742629992252,1,1,es,SCA,North-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,hielo estados unidos,2026-04-06T05:11:00+00:00,United States,0.5719082712489978,1,2,es,CNA,North-America
@@ -245,6 +240,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0ef55bcfe1',extremes,Storm,#b3b2b1,wmo,tormenta formosa patino pirane.,2026-04-14T05:11:00+00:00,Argentina,0.5473901560835313,2,1,es,SES,South-America
 '7d68920b56',extremes,Earthquake,#870007,usgs,terremoto nicaragua,2026-05-06T05:43:00+00:00,Nicaragua,0.5465512324379381,2,1,es,SCA,North-America
 '01b678efbf',extremes,Heat Wave,#c40202,wmo,ola de calor reg. 3 precordillera,2026-05-09T05:36:00+00:00,Chile,0.5459799294715968,2,1,es,SWS,South-America
+'4c0e0f411e',extremes,Storm,#b3b2b1,wmo,tormenta región amazónica,2026-05-11T06:14:00+00:00,Ecuador,0.5423163307936015,2,1,es,NWS,South-America
 '5cb766f03d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica área 2 – moderada,2026-05-07T05:46:00+00:00,Paraguay,0.5421703045850225,2,1,es,SES,South-America
 'fbfc5d1ed5',extremes,Precipitation,#d60d2b,wmo,lluvias torrenciales región insular,2026-05-11T06:14:00+00:00,Ecuador,0.5414210535901366,2,1,es,NWS,South-America
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2026-05-01T05:54:00+00:00,Chile,0.5413959339112033,2,1,es,SWS,South-America
@@ -273,3 +269,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '493ff10b88',extremes,Earthquake,#870007,usgs,terremoto panamá,2026-05-11T06:14:00+00:00,Panama,0.5240186328308197,2,1,es,SCA,South-America
 'e4b924f369',extremes,Earthquake,#870007,usgs,terremoto chamical,2026-05-02T05:23:00+00:00,Argentina,0.5016175009364867,2,1,es,SES,South-America
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,hielo brasil,2026-04-28T05:45:00+00:00,Brazil,0.4991847378275732,2,1,es,SAM,South-America
+'33a8c57788',extremes,Earthquake,#870007,usgs,terremoto tournavista,2026-04-28T05:44:00+00:00,Peru,0.4873384336485219,2,1,es,NWS,South-America
