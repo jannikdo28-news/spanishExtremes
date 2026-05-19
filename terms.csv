@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-05-01T05:54:00+00:00,Argentina,0.7602605795005465,0,1,es,SES,South-America
+'d1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-05-01T05:54:00+00:00,Argentina,0.7968215525754645,1,2,es,SES,South-America
 '72e8366c4b',extremes,Unknown,#d60d2b,cmeter,desconocido orlando,2026-04-17T05:16:00+00:00,United States,0.7550820864858193,1,2,es,ENA,North-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,marejada ciclónica argentina,2026-05-16T05:40:00+00:00,Argentina,0.7523393621129862,0,1,es,SES,South-America
 '8bd48e7016',extremes,Storm,#b3b2b1,wmo,tormenta litoral y sierra,2026-04-05T05:01:00+00:00,Ecuador,0.7469810433700699,1,2,es,NWS,South-America
@@ -32,7 +32,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,estados unidos helados,2026-04-26T05:25:00+00:00,United States,0.6669308441080106,1,3,es,CNA,North-America
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,avalancha estados unidos,2026-05-01T05:54:00+00:00,United States,0.6622840577567503,1,3,es,CNA,North-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-04-06T05:11:00+00:00,Argentina,0.6585480956151618,1,2,es,SES,South-America
-'8608bf6521',extremes,Flood,#030ba1,wmo,inundación lawrence en martin en,2026-04-29T05:40:00+00:00,United States,0.6575622745376513,0,1,es,CNA,North-America
 'ecf3b73558',extremes,Snow&Ice,#d60d2b,wmo,nieve españa,2026-05-15T06:09:00+00:00,Spain,0.6574869305580868,0,1,es,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-04-28T05:45:00+00:00,Argentina,0.655886107619446,1,2,es,SES,South-America
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-04-24T05:21:00+00:00,Costa Rica,0.655180094293945,2,1,es,SCA,South-America
@@ -111,7 +110,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e3d0bfe94',extremes,Earthquake,#870007,usgs,terremoto la libertad,2026-04-17T05:15:00+00:00,El Salvador,0.5935470501354406,1,2,es,SCA,North-America
 '61ab896687',extremes,Earthquake,#870007,usgs,terremoto bahía solano,2026-04-17T05:15:00+00:00,Colombia,0.5932205263556045,1,1,es,NWS,South-America
 '53cbc471ca',extremes,Precipitation,#d60d2b,wmo,precipitación región litoral,2026-05-10T05:51:00+00:00,Ecuador,0.5923355507370409,2,1,es,NWS,South-America
-'57df3dc86e',extremes,Drought,#edc291,edo,sequía chile,2026-04-02T04:42:00+00:00,Chile,0.5911591064227855,1,2,es,SPO,Pacific Ocean
 '950e2fcdf4',extremes,Drought,#edc291,edo,sequedad costa rica,2026-04-19T05:16:00+00:00,Costa Rica,0.5899017808383504,1,1,es,SCA,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,lluvia brasil,2026-05-01T05:54:00+00:00,Brazil,0.5885224297994146,1,2,es,SAM,South-America
 '5c6845871b',extremes,Drought,#edc291,edo,sequía en méxico,2026-04-04T04:30:00+00:00,Mexico,0.587998571799515,1,2,es,NCA,North-America
@@ -238,6 +236,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '881b2c67bc',extremes,Wildfire,#d60d2b,wmo,incendio forestal corson dewey,2026-05-14T06:02:00+00:00,United States,0.5593124614540131,1,1,es,CNA,North-America
 'c73622041e',extremes,Flood,#030ba1,wmo,inundación repentina adams il marion mo,2026-04-28T05:45:00+00:00,United States,0.5591220982272678,1,1,es,CNA,North-America
 '03c4bd98f6',extremes,Flood,#030ba1,wmo,inundación repentina fayette il,2026-04-28T05:45:00+00:00,United States,0.5589789961328104,1,1,es,CNA,North-America
+'8608bf6521',extremes,Flood,#030ba1,wmo,inundación lawrence en martin en,2026-04-29T05:40:00+00:00,United States,0.5589279333570035,1,1,es,CNA,North-America
 '1b499f1d11',extremes,Flood,#030ba1,wmo,inundación repentina gasconade mo montgomery mo,2026-04-29T05:40:00+00:00,United States,0.5587944939700704,1,1,es,CNA,North-America
 '652882bd27',extremes,Earthquake,#870007,usgs,terremoto cuya,2026-04-07T04:59:00+00:00,Chile,0.5584130463438584,2,2,es,SWS,South-America
 '8f13e1df9b',extremes,Drought,#edc291,edo,sequía en venezuela,2026-04-17T05:16:00+00:00,Venezuela,0.550831296829986,2,1,es,NSA,South-America
