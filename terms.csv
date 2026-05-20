@@ -1,9 +1,8 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-05-01T05:54:00+00:00,Argentina,0.7968215525754645,1,2,es,SES,South-America
-'9801f8158e',extremes,Precipitation,#d60d2b,wmo,lluvia ecuador,2026-05-18T06:38:00+00:00,Ecuador,0.7604194008861692,0,1,es,NWS,South-America
+'9801f8158e',extremes,Precipitation,#d60d2b,wmo,lluvia ecuador,2026-05-18T06:38:00+00:00,Ecuador,0.7876707121168802,1,3,es,NWS,South-America
 '72e8366c4b',extremes,Unknown,#d60d2b,cmeter,desconocido orlando,2026-04-17T05:16:00+00:00,United States,0.7550820864858193,1,2,es,ENA,North-America
 '8bd48e7016',extremes,Storm,#b3b2b1,wmo,tormenta litoral y sierra,2026-04-05T05:01:00+00:00,Ecuador,0.7469810433700699,1,2,es,NWS,South-America
-'a43b4b4e31',extremes,Storm,#b3b2b1,wmo,tormenta región litoral e interandina,2026-05-19T06:33:00+00:00,Ecuador,0.7437593928068066,0,1,es,NWS,South-America
 'bee7cf7ad2',extremes,Snow&Ice,#d60d2b,wmo,chile helado,2026-04-14T05:11:00+00:00,Chile,0.7280027847332234,2,2,es,SWS,South-America
 'cb207f7e4e',extremes,Drought,#edc291,edo,falta de lluvia argentina,2026-04-05T05:01:00+00:00,Argentina,0.7254628294644797,1,3,es,SES,South-America
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,huracán estados unidos,2026-04-12T05:12:00+00:00,United States,0.7233070582635261,1,3,es,CNA,North-America
@@ -64,6 +63,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '42edc58057',extremes,Drought,#edc291,edo,falta de lluvia paraguay,2026-04-14T05:11:00+00:00,Paraguay,0.6345961392143564,1,1,es,SES,South-America
 'e7db391dce',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa rica,2026-05-04T05:50:00+00:00,Costa Rica,0.6327476009745234,1,1,es,SCA,North-America
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2026-04-16T05:17:00+00:00,Bolivia,0.6323932451921609,1,1,es,SES,South-America
+'a43b4b4e31',extremes,Storm,#b3b2b1,wmo,tormenta región litoral e interandina,2026-05-19T06:33:00+00:00,Ecuador,0.6321954838857856,1,1,es,NWS,South-America
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,Brasil helado,2026-04-27T05:40:00+00:00,Brazil,0.6316678431952364,2,2,es,SAM,South-America
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tormenta amazonia,2026-04-23T05:16:00+00:00,Ecuador,0.6313461482066279,1,1,es,NWS,South-America
 '2b54723d48',extremes,Precipitation,#d60d2b,wmo,aguacero amazonía,2026-04-24T05:22:00+00:00,Ecuador,0.6308925918502581,1,1,es,NWS,South-America
