@@ -13,7 +13,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f434a5525f',extremes,Drought,#edc291,edo,sequedad méxico,2026-04-28T05:45:00+00:00,Mexico,0.7058932748092184,1,2,es,NCA,North-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-05-16T05:40:00+00:00,Argentina,0.6955681921681621,1,2,es,SES,South-America
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,heladas estados unidos,2026-04-26T05:25:00+00:00,United States,0.6948700213554417,1,2,es,CNA,North-America
-'b4e660db49',extremes,Drought,#edc291,edo,sequía uruguay,2026-04-05T05:01:00+00:00,Uruguay,0.6917302478212561,1,3,es,SES,South-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-04-26T05:25:00+00:00,Bolivia,0.690927789274662,1,2,es,SWS,South-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-04-12T05:12:00+00:00,Paraguay,0.6892619154618606,3,2,es,SES,South-America
 'b74d7744ad',extremes,Storm,#b3b2b1,wmo,tormenta región insular,2026-05-10T05:51:00+00:00,Ecuador,0.6845887594327487,2,2,es,NWS,South-America
@@ -105,6 +104,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3e3d0bfe94',extremes,Earthquake,#870007,usgs,terremoto la libertad,2026-04-17T05:15:00+00:00,El Salvador,0.5935470501354406,1,2,es,SCA,North-America
 '61ab896687',extremes,Earthquake,#870007,usgs,terremoto bahía solano,2026-04-17T05:15:00+00:00,Colombia,0.5932205263556045,1,1,es,NWS,South-America
 '53cbc471ca',extremes,Precipitation,#d60d2b,wmo,precipitación región litoral,2026-05-10T05:51:00+00:00,Ecuador,0.5923355507370409,2,1,es,NWS,South-America
+'b4e660db49',extremes,Drought,#edc291,edo,sequía uruguay,2026-04-05T05:01:00+00:00,Uruguay,0.5921711306480677,2,3,es,SES,South-America
 '950e2fcdf4',extremes,Drought,#edc291,edo,sequedad costa rica,2026-04-19T05:16:00+00:00,Costa Rica,0.5899017808383504,1,1,es,SCA,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,lluvia brasil,2026-05-01T05:54:00+00:00,Brazil,0.5885224297994146,1,2,es,SAM,South-America
 '0c9ce7bbc6',extremes,Earthquake,#870007,usgs,terremoto calingasta,2026-04-20T05:26:00+00:00,Argentina,0.5878621389312393,1,1,es,SWS,South-America
