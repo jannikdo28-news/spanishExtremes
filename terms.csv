@@ -8,7 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb207f7e4e',extremes,Drought,#edc291,edo,falta de lluvia argentina,2026-04-05T05:01:00+00:00,Argentina,0.7254628294644797,1,3,es,SES,South-America
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,huracán estados unidos,2026-04-12T05:12:00+00:00,United States,0.7233070582635261,1,3,es,CNA,North-America
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,incendio forestal estados unidos,2026-04-27T05:40:00+00:00,United States,0.721346821947225,1,2,es,CNA,North-America
-'fa42f38021',extremes,Heat Wave,#c40202,wmo,ola de calor miño de ourense,2026-05-22T06:32:00+00:00,Spain,0.7210447207239304,0,1,es,MED,Europe
 'b534a4998a',extremes,Heat Wave,#c40202,wmo,ola de calor ribera del ebro de zaragoza,2026-05-22T06:32:00+00:00,Spain,0.7207458883850196,0,1,es,MED,Europe
 '308eac6e0e',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón guam,2026-04-15T05:12:00+00:00,United States,0.7180025650925395,1,2,es,CNA,North-America
 '331f9db5d5',extremes,Snow&Ice,#d60d2b,wmo,hielo españa,2026-05-15T06:09:00+00:00,Spain,0.7155926077433712,1,3,es,MED,Europe
@@ -91,6 +90,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5e67a6e3c8',extremes,Earthquake,#870007,usgs,terremoto coquimbo,2026-05-07T05:46:00+00:00,Chile,0.6160597673154027,1,1,es,SWS,South-America
 'e5b5d3771c',extremes,Earthquake,#870007,usgs,terremoto puerto,2026-05-01T05:54:00+00:00,Chile,0.615218153796038,1,2,es,SWS,South-America
 '883824b01c',extremes,Heat Wave,#c40202,wmo,ola de calor bizkaia litoral,2026-05-21T06:35:00+00:00,Spain,0.6134138530023859,1,1,es,MED,Europe
+'fa42f38021',extremes,Heat Wave,#c40202,wmo,ola de calor miño de ourense,2026-05-22T06:32:00+00:00,Spain,0.6130380276153409,1,1,es,MED,Europe
 '3bb9a06294',extremes,Heat Wave,#c40202,wmo,ola de calor interior de bizkaia,2026-05-21T06:35:00+00:00,Spain,0.6118328331381577,1,1,es,MED,Europe
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-04-19T05:16:00+00:00,Argentina,0.6109536072104418,1,1,es,SWS,South-America
 'e739a7d025',extremes,Storm,#b3b2b1,wmo,tormenta región litoral,2026-05-06T05:43:00+00:00,Ecuador,0.6095787022279254,2,2,es,NWS,South-America
