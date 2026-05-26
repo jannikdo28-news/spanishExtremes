@@ -16,6 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-04-23T05:16:00+00:00,Ecuador,0.6873786154845514,2,2,es,NWS,South-America
 'b74d7744ad',extremes,Storm,#b3b2b1,wmo,tormenta región insular,2026-05-10T05:51:00+00:00,Ecuador,0.6845887594327487,2,2,es,NWS,South-America
 'ecf3b73558',extremes,Snow&Ice,#d60d2b,wmo,nieve españa,2026-05-15T06:09:00+00:00,Spain,0.6841955258282177,2,3,es,MED,Europe
+'9cb0438918',extremes,Storm,#b3b2b1,emdat,tormenta minnesota,2026-05-05T05:29:00+00:00,United States,0.684015595759335,2,2,es,WNA,North-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-04-28T05:45:00+00:00,Argentina,0.6812279356418262,2,2,es,SES,South-America
 'd0475248ee',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial litoral interior.,2026-04-19T05:16:00+00:00,Ecuador,0.6811724826733006,2,2,es,NWS,South-America
 'dfbb2a2a1d',extremes,Drought,#edc291,edo,falta de lluvias uruguay,2026-05-06T05:43:00+00:00,Uruguay,0.680036347830146,1,2,es,SES,South-America
@@ -62,7 +63,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,precipitación ecuador,2026-04-17T05:16:00+00:00,Ecuador,0.6285521752279127,1,1,es,NWS,South-America
 'f7440680d2',extremes,Earthquake,#870007,usgs,terremoto salamanca,2026-05-14T06:02:00+00:00,Chile,0.6284359872505623,2,2,es,SWS,South-America
 '50b4b6ae17',extremes,Earthquake,#870007,usgs,terremoto puerto natales,2026-04-19T05:16:00+00:00,Chile,0.6279224335131873,1,1,es,SSA,South-America
-'9cb0438918',extremes,Storm,#b3b2b1,emdat,tormenta minnesota,2026-05-05T05:29:00+00:00,United States,0.6279006655992178,1,1,es,WNA,North-America
 '331dc2fd4a',extremes,Thunderstorm,#53785a,wmo,tormenta españa,2026-04-11T04:34:00+00:00,Spain,0.6264569778710473,2,3,es,MED,Europe
 '928d8af86d',extremes,Precipitation,#d60d2b,wmo,aguacero galápagos,2026-04-20T05:27:00+00:00,Ecuador,0.6261038452099164,1,1,es,NWS,South-America
 '6e09c9d98c',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial amazonía y sierra sur,2026-04-21T05:15:00+00:00,Ecuador,0.6258974936069166,1,1,es,NWS,South-America
