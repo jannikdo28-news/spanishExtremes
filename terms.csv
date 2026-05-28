@@ -8,6 +8,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5c6845871b',extremes,Drought,#edc291,edo,sequía en méxico,2026-05-14T06:02:00+00:00,Mexico,0.732769120761009,1,3,es,NCA,North-America
 'bee7cf7ad2',extremes,Snow&Ice,#d60d2b,wmo,chile helado,2026-04-14T05:11:00+00:00,Chile,0.7280027847332234,2,2,es,SWS,South-America
 'cb207f7e4e',extremes,Drought,#edc291,edo,falta de lluvia argentina,2026-04-05T05:01:00+00:00,Argentina,0.7254628294644797,1,3,es,SES,South-America
+'528ddf5b43',extremes,Earthquake,#870007,usgs,corral de terremotos,2026-05-24T06:22:00+00:00,Chile,0.7232893316277949,0,1,es,SWS,South-America
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,incendio forestal estados unidos,2026-04-27T05:40:00+00:00,United States,0.721346821947225,1,2,es,CNA,North-America
 '308eac6e0e',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón guam,2026-04-15T05:12:00+00:00,United States,0.7180025650925395,1,2,es,CNA,North-America
 '331f9db5d5',extremes,Snow&Ice,#d60d2b,wmo,hielo españa,2026-05-15T06:09:00+00:00,Spain,0.7155926077433712,1,3,es,MED,Europe
@@ -22,10 +23,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9cb0438918',extremes,Storm,#b3b2b1,emdat,tormenta minnesota,2026-05-05T05:29:00+00:00,United States,0.684015595759335,2,2,es,WNA,North-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-04-28T05:45:00+00:00,Argentina,0.6812279356418262,2,2,es,SES,South-America
 'd0475248ee',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial litoral interior.,2026-04-19T05:16:00+00:00,Ecuador,0.6811724826733006,2,2,es,NWS,South-America
+'6c2aa26b6c',extremes,Drought,#edc291,edo,sequedad ecuador,2026-05-21T06:35:00+00:00,Ecuador,0.6806486561972411,0,1,es,EPO,Pacific Ocean
 'dfbb2a2a1d',extremes,Drought,#edc291,edo,falta de lluvias uruguay,2026-05-06T05:43:00+00:00,Uruguay,0.680036347830146,1,2,es,SES,South-America
 'bebba26d24',extremes,Unknown,#d60d2b,cmeter,desconocido estados unidos,2026-04-19T05:17:00+00:00,United States,0.6775742394579266,1,3,es,ENA,North-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica brasil,2026-05-08T05:16:00+00:00,Brazil,0.6773070885662931,0,1,es,SAM,South-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-05-01T05:54:00+00:00,Argentina,0.6772984096891448,2,1,es,SES,South-America
+'cd668b2c13',extremes,Heat Wave,#c40202,wmo,ola de calor liébana,2026-05-22T06:32:00+00:00,Spain,0.6768923364395238,0,1,es,MED,Europe
+'813875ef2b',extremes,Heat Wave,#c40202,wmo,ola de calor lanzarote,2026-05-23T05:53:00+00:00,Spain,0.6759605725510446,0,1,es,MED,Europe
+'3b46801dfc',extremes,Heat Wave,#c40202,wmo,ola de calor depresión central de lleida,2026-05-26T06:31:00+00:00,Spain,0.6744376516677398,0,1,es,MED,Europe
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,hielo argentina,2026-04-12T05:12:00+00:00,Argentina,0.673998237090278,2,2,es,SES,South-America
 'eddc59f608',extremes,Snow&Ice,#d60d2b,wmo,heladas españa,2026-05-14T06:02:00+00:00,Spain,0.6724576820167075,1,3,es,MED,Europe
 '6340f0b14d',extremes,Drought,#edc291,edo,sequía mexico,2026-04-14T05:11:00+00:00,Mexico,0.6718596673131101,2,2,es,NCA,North-America
