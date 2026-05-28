@@ -12,7 +12,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '331f9db5d5',extremes,Snow&Ice,#d60d2b,wmo,hielo españa,2026-05-15T06:09:00+00:00,Spain,0.7155926077433712,1,3,es,MED,Europe
 '386f71a7fb',extremes,Precipitation,#d60d2b,wmo,lluvia costa rica,2026-04-25T05:00:00+00:00,Costa Rica,0.7088391764892396,1,3,es,SCA,North-America
 'f434a5525f',extremes,Drought,#edc291,edo,sequedad méxico,2026-04-28T05:45:00+00:00,Mexico,0.7058932748092184,1,2,es,NCA,North-America
-'f478344c91',extremes,Drought,#edc291,edo,sequía paraguay,2026-05-13T06:03:00+00:00,Paraguay,0.7032740469582176,0,1,es,SES,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-05-16T05:40:00+00:00,Argentina,0.6955681921681621,1,2,es,SES,South-America
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,heladas estados unidos,2026-04-26T05:25:00+00:00,United States,0.6948700213554417,1,2,es,CNA,North-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-04-23T05:16:00+00:00,Ecuador,0.6873786154845514,2,2,es,NWS,South-America
@@ -21,7 +20,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9cb0438918',extremes,Storm,#b3b2b1,emdat,tormenta minnesota,2026-05-05T05:29:00+00:00,United States,0.684015595759335,2,2,es,WNA,North-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-04-28T05:45:00+00:00,Argentina,0.6812279356418262,2,2,es,SES,South-America
 'd0475248ee',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial litoral interior.,2026-04-19T05:16:00+00:00,Ecuador,0.6811724826733006,2,2,es,NWS,South-America
-'6c2aa26b6c',extremes,Drought,#edc291,edo,sequedad ecuador,2026-05-21T06:35:00+00:00,Ecuador,0.6806486561972411,0,1,es,EPO,Pacific Ocean
 'dfbb2a2a1d',extremes,Drought,#edc291,edo,falta de lluvias uruguay,2026-05-06T05:43:00+00:00,Uruguay,0.680036347830146,1,2,es,SES,South-America
 'bebba26d24',extremes,Unknown,#d60d2b,cmeter,desconocido estados unidos,2026-04-19T05:17:00+00:00,United States,0.6775742394579266,1,3,es,ENA,North-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica brasil,2026-05-08T05:16:00+00:00,Brazil,0.6773070885662931,0,1,es,SAM,South-America
@@ -29,7 +27,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cd668b2c13',extremes,Heat Wave,#c40202,wmo,ola de calor liébana,2026-05-22T06:32:00+00:00,Spain,0.6768923364395238,0,1,es,MED,Europe
 '813875ef2b',extremes,Heat Wave,#c40202,wmo,ola de calor lanzarote,2026-05-23T05:53:00+00:00,Spain,0.6759605725510446,0,1,es,MED,Europe
 '3b46801dfc',extremes,Heat Wave,#c40202,wmo,ola de calor depresión central de lleida,2026-05-26T06:31:00+00:00,Spain,0.6744376516677398,0,1,es,MED,Europe
-'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,hielo argentina,2026-04-12T05:12:00+00:00,Argentina,0.673998237090278,2,2,es,SES,South-America
 'eddc59f608',extremes,Snow&Ice,#d60d2b,wmo,heladas españa,2026-05-14T06:02:00+00:00,Spain,0.6724576820167075,1,3,es,MED,Europe
 '6340f0b14d',extremes,Drought,#edc291,edo,sequía mexico,2026-04-14T05:11:00+00:00,Mexico,0.6718596673131101,2,2,es,NCA,North-America
 'fa42f38021',extremes,Heat Wave,#c40202,wmo,ola de calor miño de ourense,2026-05-22T06:32:00+00:00,Spain,0.6712323384730398,2,2,es,MED,Europe
@@ -43,7 +40,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '950e2fcdf4',extremes,Drought,#edc291,edo,sequedad costa rica,2026-04-19T05:16:00+00:00,Costa Rica,0.6515665287125979,2,2,es,SCA,South-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,nieve estados unidos,2026-04-26T05:25:00+00:00,United States,0.651467608573997,1,3,es,CNA,North-America
 '8a6ebb5b5c',extremes,Drought,#edc291,edo,sequedad cuba,2026-05-06T05:43:00+00:00,Cuba,0.6507162135250018,2,2,es,CAR,North-America
-'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2026-04-10T05:13:00+00:00,Chile,0.6482146712000586,1,2,es,SWS,South-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-04-26T05:25:00+00:00,Bolivia,0.6447387408834626,2,2,es,SWS,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-05-16T05:40:00+00:00,Argentina,0.6436093761678088,1,2,es,SES,South-America
 '6f16e7aa17',extremes,Flood,#030ba1,wmo,inundación washington la,2026-05-10T05:51:00+00:00,United States,0.6413319832605174,1,2,es,CNA,North-America
@@ -58,14 +54,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,marejada ciclónica ecuador,2026-05-21T06:35:00+00:00,Ecuador,0.6330436366434747,1,1,es,NWS,South-America
 'e0ffae6996',extremes,Heat Wave,#c40202,wmo,ola de calor este sur y oeste de gran canaria,2026-05-23T05:53:00+00:00,Spain,0.6329872070792447,2,2,es,MED,Europe
 'e7db391dce',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa rica,2026-05-04T05:50:00+00:00,Costa Rica,0.6327476009745234,1,1,es,SCA,North-America
-'80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2026-04-16T05:17:00+00:00,Bolivia,0.6323932451921609,1,1,es,SES,South-America
 'e12c49e365',extremes,Storm,#b3b2b1,wmo,marejada ciclónica región litoral e interandina,2026-05-23T05:53:00+00:00,Ecuador,0.6323907580991398,1,1,es,NWS,South-America
 '2add6f1c7b',extremes,Precipitation,#d60d2b,wmo,lluvias torrenciales región litoral e interandina,2026-05-25T06:53:00+00:00,Ecuador,0.6317600918048728,1,1,es,NWS,South-America
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,Brasil helado,2026-04-27T05:40:00+00:00,Brazil,0.6316678431952364,2,2,es,SAM,South-America
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tormenta amazonia,2026-04-23T05:16:00+00:00,Ecuador,0.6313461482066279,1,1,es,NWS,South-America
 '2b54723d48',extremes,Precipitation,#d60d2b,wmo,aguacero amazonía,2026-04-24T05:22:00+00:00,Ecuador,0.6308925918502581,1,1,es,NWS,South-America
 'e45b825adb',extremes,Storm,#b3b2b1,wmo,marejada ciclónica orellana.,2026-04-22T05:13:00+00:00,Ecuador,0.6305675606944763,1,1,es,NWS,South-America
-'c85690d76d',extremes,Precipitation,#d60d2b,wmo,aguacero uruguay,2026-04-16T05:17:00+00:00,Uruguay,0.6302450321667331,1,1,es,SES,South-America
 '55e8cccd81',extremes,Earthquake,#870007,usgs,terremoto san juan,2026-05-09T05:35:00+00:00,Peru,0.6298772866609503,2,2,es,SWS,South-America
 '677502a310',extremes,Precipitation,#d60d2b,wmo,lluvia región litoral e interandina,2026-05-23T05:53:00+00:00,Ecuador,0.6290966437030129,1,1,es,NWS,South-America
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,precipitación ecuador,2026-04-17T05:16:00+00:00,Ecuador,0.6285521752279127,1,1,es,NWS,South-America
@@ -76,6 +70,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd8aeda0ac7',extremes,Precipitation,#d60d2b,wmo,precipitación amazonía y sierra sur,2026-04-19T05:16:00+00:00,Ecuador,0.6257243905685981,1,1,es,NWS,South-America
 '8a3604d565',extremes,Earthquake,#870007,usgs,terremoto san antonio,2026-04-17T05:15:00+00:00,Chile,0.6252030929170307,2,2,es,SWS,South-America
 '4cc7a6f84d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica amazonía,2026-04-19T05:16:00+00:00,Ecuador,0.6250313094798802,1,1,es,NWS,South-America
+'f478344c91',extremes,Drought,#edc291,edo,sequía paraguay,2026-05-13T06:03:00+00:00,Paraguay,0.623683029914485,1,1,es,SES,South-America
 '6b6c5a52c1',extremes,Precipitation,#d60d2b,wmo,precipitación amazonía,2026-04-20T05:27:00+00:00,Ecuador,0.623612699751481,1,1,es,NWS,South-America
 '12775cc05a',extremes,Drought,#edc291,edo,sequía brasil,2026-04-12T05:12:00+00:00,Brazil,0.6224431196502724,2,3,es,SAM,South-America
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,aguacero ecuador,2026-04-19T05:16:00+00:00,Ecuador,0.6221808980981901,1,1,es,NWS,South-America
@@ -119,10 +114,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '797da0fa2e',extremes,Earthquake,#870007,usgs,terremoto masachapa,2026-05-05T05:28:00+00:00,Nicaragua,0.5800052485512207,1,1,es,SCA,North-America
 '503492b519',extremes,Drought,#edc291,edo,sequedad panamá,2026-04-19T05:16:00+00:00,Panama,0.5800051010236541,1,1,es,SCA,North-America
 '174e70acae',extremes,Thunderstorm,#53785a,wmo,clima severo españa,2026-04-19T05:16:00+00:00,Spain,0.5794078382931074,1,1,es,MED,Europe
+'6c2aa26b6c',extremes,Drought,#edc291,edo,sequedad ecuador,2026-05-21T06:35:00+00:00,Ecuador,0.578551357767655,1,1,es,EPO,Pacific Ocean
 'beccd0333c',extremes,Earthquake,#870007,usgs,terremoto colonia dora,2026-04-25T05:00:00+00:00,Argentina,0.5783629763537659,1,1,es,SES,South-America
 '037bb37761',extremes,Flood,#030ba1,wmo,inundación estados unidos,2026-04-27T05:40:00+00:00,United States,0.5771306480599074,2,2,es,CNA,North-America
 '2c3d48ffdc',extremes,Earthquake,#870007,usgs,terremoto santiago quiavicuzas,2026-04-22T05:13:00+00:00,Mexico,0.5757861436425666,1,1,es,SCA,North-America
-'0fa731fd34',extremes,Drought,#edc291,edo,sequedad honduras,2026-04-18T04:57:00+00:00,Honduras,0.5747067921254485,1,1,es,SCA,North-America
 '1f19f0ad30',extremes,Earthquake,#870007,usgs,terremoto champerico,2026-04-25T05:00:00+00:00,Guatemala,0.5746445149909137,1,1,es,SCA,North-America
 '629b930b9b',extremes,Earthquake,#870007,usgs,terremoto taltal,2026-05-12T05:52:00+00:00,Chile,0.5730070927839894,1,1,es,SWS,South-America
 '680fdbeba1',extremes,Earthquake,#870007,usgs,terremoto nejapa de madero,2026-04-21T05:14:00+00:00,Mexico,0.572742629992252,1,1,es,SCA,North-America
@@ -225,7 +220,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be4e178bab',extremes,Storm,#b3b2b1,wmo,marejada ciclónica uruguay,2026-04-27T05:40:00+00:00,Uruguay,0.5399360017486678,2,1,es,SES,South-America
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial ecuador,2026-04-23T05:16:00+00:00,Ecuador,0.5396484834214484,2,1,es,NWS,South-America
 '463920cdd3',extremes,Storm,#b3b2b1,wmo,tormenta reg. 10 chiloes,2026-05-03T05:44:00+00:00,Chile,0.5395470269408584,2,1,es,SWS,South-America
-'7bc7d3a97f',extremes,Storm,#b3b2b1,wmo,marejada ciclónica interior litoral,2026-04-21T05:15:00+00:00,Ecuador,0.539529033452208,2,1,es,NWS,South-America
 'b2f7553dba',extremes,Storm,#b3b2b1,wmo,marejada ciclónica región litoral,2026-05-01T05:54:00+00:00,Ecuador,0.5391992671734541,2,1,es,NWS,South-America
 '5f78747de8',extremes,Storm,#b3b2b1,wmo,tormenta islas galápagos,2026-05-02T05:24:00+00:00,Ecuador,0.5384056260589908,2,1,es,NWS,South-America
 '6f511c0b92',extremes,Precipitation,#d60d2b,wmo,precipitación región insular isabela,2026-05-09T05:36:00+00:00,Ecuador,0.5383269172607658,2,1,es,NWS,South-America
