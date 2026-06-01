@@ -33,7 +33,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,nieve estados unidos,2026-04-26T05:25:00+00:00,United States,0.651467608573997,1,3,es,CNA,North-America
 '8a6ebb5b5c',extremes,Drought,#edc291,edo,sequedad cuba,2026-05-06T05:43:00+00:00,Cuba,0.6507162135250018,2,2,es,CAR,North-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-04-26T05:25:00+00:00,Bolivia,0.6447387408834626,2,2,es,SWS,South-America
-'02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-05-16T05:40:00+00:00,Argentina,0.6436093761678088,1,2,es,SES,South-America
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,aguacero ecuador,2026-05-30T06:01:00+00:00,Ecuador,0.6426541622301754,1,1,es,NWS,South-America
 '6f16e7aa17',extremes,Flood,#030ba1,wmo,inundación washington la,2026-05-10T05:51:00+00:00,United States,0.6413319832605174,1,2,es,CNA,North-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,marejada ciclónica argentina,2026-05-16T05:40:00+00:00,Argentina,0.6396384727960382,1,1,es,SES,South-America
@@ -47,6 +46,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,marejada ciclónica ecuador,2026-05-21T06:35:00+00:00,Ecuador,0.6330436366434747,1,1,es,NWS,South-America
 'e0ffae6996',extremes,Heat Wave,#c40202,wmo,ola de calor este sur y oeste de gran canaria,2026-05-23T05:53:00+00:00,Spain,0.6329872070792447,2,2,es,MED,Europe
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,Brasil helado,2026-04-27T05:40:00+00:00,Brazil,0.6316678431952364,2,2,es,SAM,South-America
+'02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-05-16T05:40:00+00:00,Argentina,0.6315564447426375,2,3,es,SES,South-America
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tormenta amazonia,2026-04-23T05:16:00+00:00,Ecuador,0.6313461482066279,1,1,es,NWS,South-America
 '2b54723d48',extremes,Precipitation,#d60d2b,wmo,aguacero amazonía,2026-04-24T05:22:00+00:00,Ecuador,0.6308925918502581,1,1,es,NWS,South-America
 'e45b825adb',extremes,Storm,#b3b2b1,wmo,marejada ciclónica orellana.,2026-04-22T05:13:00+00:00,Ecuador,0.6305675606944763,1,1,es,NWS,South-America
@@ -178,7 +178,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '43a3482d04',extremes,Flood,#030ba1,wmo,inundación repentina angelina tx nacogdoches tx,2026-05-03T05:44:00+00:00,United States,0.5604046938355476,1,1,es,CNA,North-America
 '73b16dc950',extremes,Flood,#030ba1,wmo,inundación repentina jackson ar woodruff ar,2026-05-02T05:24:00+00:00,United States,0.5603804546217519,1,1,es,CNA,North-America
 '580f495125',extremes,Flood,#030ba1,wmo,inundación repentina kalamazoo mi,2026-04-28T05:45:00+00:00,United States,0.5600885863690198,1,1,es,CNA,North-America
-'7779bea202',extremes,Flood,#030ba1,wmo,inundación pike ms walthall ms,2026-05-10T05:51:00+00:00,United States,0.5600370826325896,1,1,es,CNA,North-America
 '41301505f1',extremes,Flood,#030ba1,wmo,inundaciones clay il richland il,2026-05-01T05:54:00+00:00,United States,0.5600096464767073,1,1,es,CNA,North-America
 'ee07d7ae88',extremes,Flood,#030ba1,wmo,inundaciones george ms greene ms jackson ms,2026-05-10T05:51:00+00:00,United States,0.5599976340772976,1,1,es,CNA,North-America
 '4d0f30500e',extremes,Flood,#030ba1,wmo,inundación winnebago il rock wi,2026-04-29T05:40:00+00:00,United States,0.5595816022369152,1,1,es,CNA,North-America
@@ -240,3 +239,4 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd389bc4f63',extremes,Earthquake,#870007,usgs,terremoto mexico,2026-04-28T05:44:00+00:00,Mexico,0.4881014868018307,2,1,es,SCA,North-America
 '33a8c57788',extremes,Earthquake,#870007,usgs,terremoto tournavista,2026-04-28T05:44:00+00:00,Peru,0.4873384336485219,2,1,es,NWS,South-America
 'a0a00630e5',extremes,Flood,#030ba1,wmo,inundación calcasieu la,2026-05-22T06:32:00+00:00,United States,0.4779861111025881,2,1,es,CNA,North-America
+'7779bea202',extremes,Flood,#030ba1,wmo,inundación pike ms walthall ms,2026-05-10T05:51:00+00:00,United States,0.4760315202377011,2,1,es,CNA,North-America
