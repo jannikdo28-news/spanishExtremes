@@ -4,13 +4,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-05-16T05:40:00+00:00,Chile,0.7501591229944116,1,3,es,SWS,South-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,lluvia ecuador,2026-05-18T06:38:00+00:00,Ecuador,0.7426525234811663,2,3,es,NWS,South-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-05-26T06:31:00+00:00,Chile,0.7413783394074319,2,3,es,SWS,South-America
-'d65f30b9ee',extremes,Precipitation,#d60d2b,wmo,aguacero sucumbios napo orellana pastaza,2026-05-31T06:40:00+00:00,Ecuador,0.740538085295368,0,1,es,NWS,South-America
 '5c6845871b',extremes,Drought,#edc291,edo,sequía en méxico,2026-05-14T06:02:00+00:00,Mexico,0.732769120761009,1,3,es,NCA,North-America
 'bebba26d24',extremes,Unknown,#d60d2b,cmeter,desconocido estados unidos,2026-04-19T05:17:00+00:00,United States,0.7308909685392375,2,3,es,ENA,North-America
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,incendio forestal estados unidos,2026-04-27T05:40:00+00:00,United States,0.721346821947225,1,2,es,CNA,North-America
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2026-05-19T06:33:00+00:00,Qatar,0.7213116570422156,1,2,es,ARP,Asia
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-05-20T06:33:00+00:00,Spain,0.721120338844296,2,3,es,MED,Europe
-'7c25e91029',extremes,Earthquake,#870007,usgs,terremoto huara,2026-05-27T06:46:00+00:00,Chile,0.720279931577806,0,1,es,SWS,South-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2026-05-10T05:51:00+00:00,United States,0.7181747844892412,1,3,es,CNA,North-America
 '308eac6e0e',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón guam,2026-04-15T05:12:00+00:00,United States,0.7180025650925395,1,2,es,CNA,North-America
 '331f9db5d5',extremes,Snow&Ice,#d60d2b,wmo,hielo españa,2026-05-15T06:09:00+00:00,Spain,0.7155926077433712,1,3,es,MED,Europe
@@ -45,7 +43,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '862c45323e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica región insular isabela,2026-05-09T05:36:00+00:00,Ecuador,0.6385072665652776,1,1,es,NWS,South-America
 'e043fce1a2',extremes,Drought,#edc291,edo,sequía bolivia,2026-05-01T05:54:00+00:00,Bolivia,0.6371924859548413,2,2,es,SAM,South-America
 '33caf0c926',extremes,Heat Wave,#c40202,wmo,ola de calor fuerteventura,2026-05-23T05:53:00+00:00,Spain,0.6351242796186992,2,2,es,MED,Europe
-'58f77fa85f',extremes,Thunderstorm,#53785a,wmo,granizo españa,2026-05-22T06:32:00+00:00,Spain,0.6350969258588938,1,2,es,MED,Europe
 'aafce152ff',extremes,Storm,#b3b2b1,wmo,tormenta litoral y estribación de cordillera,2026-05-30T06:01:00+00:00,Ecuador,0.634440567369969,1,1,es,NWS,South-America
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,marejada ciclónica ecuador,2026-05-21T06:35:00+00:00,Ecuador,0.6330436366434747,1,1,es,NWS,South-America
 'e0ffae6996',extremes,Heat Wave,#c40202,wmo,ola de calor este sur y oeste de gran canaria,2026-05-23T05:53:00+00:00,Spain,0.6329872070792447,2,2,es,MED,Europe
@@ -55,6 +52,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2b54723d48',extremes,Precipitation,#d60d2b,wmo,aguacero amazonía,2026-04-24T05:22:00+00:00,Ecuador,0.6308925918502581,1,1,es,NWS,South-America
 'e45b825adb',extremes,Storm,#b3b2b1,wmo,marejada ciclónica orellana.,2026-04-22T05:13:00+00:00,Ecuador,0.6305675606944763,1,1,es,NWS,South-America
 '55e8cccd81',extremes,Earthquake,#870007,usgs,terremoto san juan,2026-05-09T05:35:00+00:00,Peru,0.6298772866609503,2,2,es,SWS,South-America
+'d65f30b9ee',extremes,Precipitation,#d60d2b,wmo,aguacero sucumbios napo orellana pastaza,2026-05-31T06:40:00+00:00,Ecuador,0.6294573725010628,1,1,es,NWS,South-America
 'dfbb2a2a1d',extremes,Drought,#edc291,edo,falta de lluvias uruguay,2026-05-06T05:43:00+00:00,Uruguay,0.628480940655624,2,2,es,SES,South-America
 'f7440680d2',extremes,Earthquake,#870007,usgs,terremoto salamanca,2026-05-14T06:02:00+00:00,Chile,0.6284359872505623,2,2,es,SWS,South-America
 'f478344c91',extremes,Drought,#edc291,edo,sequía paraguay,2026-05-13T06:03:00+00:00,Paraguay,0.623683029914485,1,1,es,SES,South-America
@@ -65,6 +63,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e5b5d3771c',extremes,Earthquake,#870007,usgs,terremoto puerto,2026-05-01T05:54:00+00:00,Chile,0.615218153796038,1,2,es,SWS,South-America
 '528ddf5b43',extremes,Earthquake,#870007,usgs,corral de terremotos,2026-05-24T06:22:00+00:00,Chile,0.6147959318836256,1,1,es,SWS,South-America
 '608967f3c5',extremes,Drought,#edc291,edo,sequedad bolivia,2026-05-23T05:53:00+00:00,Bolivia,0.6136396148263308,1,1,es,SAM,South-America
+'7c25e91029',extremes,Earthquake,#870007,usgs,terremoto huara,2026-05-27T06:46:00+00:00,Chile,0.6122379418411351,1,1,es,SWS,South-America
 '5ce57f419d',extremes,Earthquake,#870007,usgs,terremoto venezuela,2026-05-30T06:01:00+00:00,Venezuela,0.6105108554340468,2,2,es,NSA,South-America
 'e739a7d025',extremes,Storm,#b3b2b1,wmo,tormenta región litoral,2026-05-06T05:43:00+00:00,Ecuador,0.6095787022279254,2,2,es,NWS,South-America
 '48275148b7',extremes,Earthquake,#870007,usgs,terremoto pacocha,2026-05-30T06:01:00+00:00,Peru,0.6090964447078405,1,1,es,SWS,South-America
@@ -101,6 +100,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c2aa26b6c',extremes,Drought,#edc291,edo,sequedad ecuador,2026-05-21T06:35:00+00:00,Ecuador,0.578551357767655,1,1,es,EPO,Pacific Ocean
 'beccd0333c',extremes,Earthquake,#870007,usgs,terremoto colonia dora,2026-04-25T05:00:00+00:00,Argentina,0.5783629763537659,1,1,es,SES,South-America
 '037bb37761',extremes,Flood,#030ba1,wmo,inundación estados unidos,2026-04-27T05:40:00+00:00,United States,0.5771306480599074,2,2,es,CNA,North-America
+'58f77fa85f',extremes,Thunderstorm,#53785a,wmo,granizo españa,2026-05-22T06:32:00+00:00,Spain,0.5766019637982415,2,2,es,MED,Europe
 'a4cf1e9346',extremes,Storm,#b3b2b1,wmo,marejada ciclónica qatar,2026-05-19T06:33:00+00:00,Qatar,0.5761475823847293,1,1,es,ARP,Asia
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica brasil,2026-05-08T05:16:00+00:00,Brazil,0.5757110252813491,1,1,es,SAM,South-America
 'a04b9bbfb7',extremes,Earthquake,#870007,usgs,terremoto tocopilla,2026-05-31T06:40:00+00:00,Chile,0.5753662311750238,1,1,es,SWS,South-America
