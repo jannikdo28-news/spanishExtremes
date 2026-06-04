@@ -11,11 +11,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2026-05-10T05:51:00+00:00,United States,0.7181747844892412,1,3,es,CNA,North-America
 '331f9db5d5',extremes,Snow&Ice,#d60d2b,wmo,hielo españa,2026-05-15T06:09:00+00:00,Spain,0.7155926077433712,1,3,es,MED,Europe
 '386f71a7fb',extremes,Precipitation,#d60d2b,wmo,lluvia costa rica,2026-04-25T05:00:00+00:00,Costa Rica,0.7088391764892396,1,3,es,SCA,North-America
-'0514da3654',extremes,Snow&Ice,#d60d2b,wmo,hielo brasil,2026-05-22T06:32:00+00:00,Brazil,0.7080199767546475,1,2,es,SAM,South-America
-'80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2026-06-01T07:30:00+00:00,Bolivia,0.7078843535095052,0,1,es,SES,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-05-16T05:40:00+00:00,Argentina,0.6955681921681621,1,2,es,SES,South-America
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,heladas estados unidos,2026-04-26T05:25:00+00:00,United States,0.6948700213554417,1,2,es,CNA,North-America
-'234a1d14a7',extremes,Earthquake,#870007,usgs,terremoto tamarindo,2026-05-28T06:38:00+00:00,Costa Rica,0.6945563488727378,0,1,es,SCA,South-America
 'e82c94efda',extremes,Earthquake,#870007,usgs,terremoto valparaíso,2026-06-02T07:08:00+00:00,Chile,0.6930272764999204,1,2,es,SWS,South-America
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-06-03T07:22:00+00:00,Costa Rica,0.6905757857168286,0,1,es,SCA,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-04-23T05:16:00+00:00,Ecuador,0.6873786154845514,2,2,es,NWS,South-America
@@ -31,6 +28,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,estados unidos helados,2026-04-26T05:25:00+00:00,United States,0.6669308441080106,1,3,es,CNA,North-America
 '27002f7a08',extremes,Heat Wave,#c40202,wmo,ola de calor españa,2026-05-21T06:35:00+00:00,Spain,0.6635113260094754,1,2,es,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-04-28T05:45:00+00:00,Argentina,0.655886107619446,1,2,es,SES,South-America
+'80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2026-06-01T07:30:00+00:00,Bolivia,0.6521517454830794,1,1,es,SES,South-America
 '14547038a5',extremes,Earthquake,#870007,usgs,terremoto pampa de tate,2026-05-20T06:32:00+00:00,Peru,0.6520133247983501,2,1,es,NWS,South-America
 '314d696add',extremes,Snow&Ice,#d60d2b,wmo,nieve estados unidos,2026-04-26T05:25:00+00:00,United States,0.651467608573997,1,3,es,CNA,North-America
 '8a6ebb5b5c',extremes,Drought,#edc291,edo,sequedad cuba,2026-05-06T05:43:00+00:00,Cuba,0.6507162135250018,2,2,es,CAR,North-America
@@ -71,6 +69,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '77d490ebd6',extremes,Drought,#edc291,edo,sequía panamá,2026-05-14T06:02:00+00:00,Panama,0.6044694448252943,2,1,es,SCA,North-America
 'a857897e25',extremes,Earthquake,#870007,usgs,terremoto palpacachi,2026-06-03T07:22:00+00:00,Peru,0.603751757127185,1,1,es,NWS,South-America
 '3f426b0479',extremes,Drought,#edc291,edo,sequía chile,2026-04-21T05:15:00+00:00,Chile,0.6033905897278233,2,3,es,SPO,Pacific Ocean
+'0514da3654',extremes,Snow&Ice,#d60d2b,wmo,hielo brasil,2026-05-22T06:32:00+00:00,Brazil,0.6018172802414503,2,1,es,SAM,South-America
 'd96d10a52c',extremes,Earthquake,#870007,usgs,terremoto huabal,2026-05-02T05:23:00+00:00,Peru,0.6002200354588212,1,1,es,NWS,South-America
 'f434a5525f',extremes,Drought,#edc291,edo,sequedad méxico,2026-04-28T05:45:00+00:00,Mexico,0.6000093285878355,2,1,es,NCA,North-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tormenta brasil,2026-05-22T06:32:00+00:00,Brazil,0.595598970808958,1,2,es,SAM,South-America
@@ -80,6 +79,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9b0be5e406',extremes,Drought,#edc291,edo,sequía en colombia,2026-05-09T05:36:00+00:00,Colombia,0.5939315845209812,1,1,es,NWS,South-America
 '53cbc471ca',extremes,Precipitation,#d60d2b,wmo,precipitación región litoral,2026-05-10T05:51:00+00:00,Ecuador,0.5923355507370409,2,1,es,NWS,South-America
 '62826bbd63',extremes,Earthquake,#870007,usgs,terremoto mutquín,2026-05-21T06:34:00+00:00,Argentina,0.5907071676084287,1,1,es,SES,South-America
+'234a1d14a7',extremes,Earthquake,#870007,usgs,terremoto tamarindo,2026-05-28T06:38:00+00:00,Costa Rica,0.5903728965418271,1,1,es,SCA,South-America
 '516e1f22f8',extremes,Earthquake,#870007,usgs,terremoto sucúa,2026-05-24T06:22:00+00:00,Ecuador,0.5901623886582851,1,1,es,NWS,South-America
 '99ca60e93e',extremes,Heat Wave,#c40202,wmo,ola de calor litoral cántabro,2026-05-24T06:22:00+00:00,Spain,0.5894534035890036,1,1,es,MED,Europe
 'e876b3ff36',extremes,Earthquake,#870007,usgs,terremoto abra pampa,2026-05-19T06:33:00+00:00,Argentina,0.5890022013433799,1,1,es,SES,South-America
