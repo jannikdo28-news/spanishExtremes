@@ -92,7 +92,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e3449c4e60',extremes,Earthquake,#870007,usgs,terremoto de atocha,2026-06-02T07:08:00+00:00,Bolivia,0.583329514781119,1,1,es,SES,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,aguacero brasil,2026-04-30T05:46:00+00:00,Brazil,0.5832993642230173,1,1,es,SAM,South-America
 '8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial brasil,2026-05-03T05:44:00+00:00,Brazil,0.5823005964748457,1,1,es,SAM,South-America
-'8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2026-05-02T05:24:00+00:00,Brazil,0.5812986456741154,1,1,es,SAM,South-America
 '41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,Brasil helado,2026-05-11T06:14:00+00:00,Brazil,0.5804012039528352,1,1,es,SAM,South-America
 '797da0fa2e',extremes,Earthquake,#870007,usgs,terremoto masachapa,2026-05-05T05:28:00+00:00,Nicaragua,0.5800052485512207,1,1,es,SCA,North-America
 '037bb37761',extremes,Flood,#030ba1,wmo,inundación estados unidos,2026-04-27T05:40:00+00:00,United States,0.5771306480599074,2,2,es,CNA,North-America
@@ -233,6 +232,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '85a9fce86a',extremes,Earthquake,#870007,usgs,terremoto san pedro de atacama,2026-05-15T06:09:00+00:00,Chile,0.5104220852701828,2,1,es,SWS,South-America
 'f78df3cf12',extremes,Drought,#edc291,edo,sequedad paraguay,2026-05-09T05:36:00+00:00,Paraguay,0.5058728209202549,2,1,es,SES,South-America
 'e4b924f369',extremes,Earthquake,#870007,usgs,terremoto chamical,2026-05-02T05:23:00+00:00,Argentina,0.5016175009364867,2,1,es,SES,South-America
+'8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2026-05-02T05:24:00+00:00,Brazil,0.4944038788229981,2,1,es,SAM,South-America
 '3437d5ad74',extremes,Earthquake,#870007,usgs,terremoto zocoteaca de león,2026-05-05T05:28:00+00:00,Mexico,0.4935495351456099,2,1,es,SCA,North-America
 '6c2aa26b6c',extremes,Drought,#edc291,edo,sequedad ecuador,2026-05-21T06:35:00+00:00,Ecuador,0.4917686541025067,2,1,es,EPO,Pacific Ocean
 'a4cf1e9346',extremes,Storm,#b3b2b1,wmo,marejada ciclónica qatar,2026-05-19T06:33:00+00:00,Qatar,0.4897254450270198,2,1,es,ARP,Asia
