@@ -4,19 +4,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-05-26T06:31:00+00:00,Chile,0.7413783394074319,2,3,es,SWS,South-America
 '5c6845871b',extremes,Drought,#edc291,edo,sequía en méxico,2026-05-14T06:02:00+00:00,Mexico,0.732769120761009,1,3,es,NCA,North-America
 'bebba26d24',extremes,Unknown,#d60d2b,cmeter,desconocido estados unidos,2026-04-19T05:17:00+00:00,United States,0.7308909685392375,2,3,es,ENA,North-America
-'74eaec292f',extremes,Earthquake,#870007,usgs,terremoto el tocuyo,2026-06-06T06:08:00+00:00,Venezuela,0.7294571910135462,0,1,es,NSA,South-America
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,nieve argentina,2026-05-25T06:53:00+00:00,Argentina,0.7263769998227,2,3,es,SES,South-America
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,incendio forestal estados unidos,2026-04-27T05:40:00+00:00,United States,0.721346821947225,1,2,es,CNA,North-America
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2026-05-19T06:33:00+00:00,Qatar,0.7213116570422156,1,2,es,ARP,Asia
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-05-20T06:33:00+00:00,Spain,0.721120338844296,2,3,es,MED,Europe
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2026-05-10T05:51:00+00:00,United States,0.7181747844892412,1,3,es,CNA,North-America
-'1895f26add',extremes,Precipitation,#d60d2b,wmo,lluvias torrenciales en zonas del sur y algunas zonas centrales.,2026-06-02T07:08:00+00:00,Belize,0.7166454487014655,1,2,es,SCA,North-America
 '331f9db5d5',extremes,Snow&Ice,#d60d2b,wmo,hielo españa,2026-05-15T06:09:00+00:00,Spain,0.7155926077433712,1,3,es,MED,Europe
 '386f71a7fb',extremes,Precipitation,#d60d2b,wmo,lluvia costa rica,2026-04-25T05:00:00+00:00,Costa Rica,0.7088391764892396,1,3,es,SCA,North-America
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-06-03T07:22:00+00:00,Costa Rica,0.7000894778593043,1,2,es,SCA,South-America
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,heladas estados unidos,2026-04-26T05:25:00+00:00,United States,0.6948700213554417,1,2,es,CNA,North-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-04-23T05:16:00+00:00,Ecuador,0.6873786154845514,2,2,es,NWS,South-America
 'b74d7744ad',extremes,Storm,#b3b2b1,wmo,tormenta región insular,2026-05-10T05:51:00+00:00,Ecuador,0.6845887594327487,2,2,es,NWS,South-America
+'1895f26add',extremes,Precipitation,#d60d2b,wmo,lluvias torrenciales en zonas del sur y algunas zonas centrales.,2026-06-02T07:08:00+00:00,Belize,0.6844486613962456,2,2,es,SCA,North-America
 '9cb0438918',extremes,Storm,#b3b2b1,emdat,tormenta minnesota,2026-05-05T05:29:00+00:00,United States,0.684015595759335,2,2,es,WNA,North-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2026-05-27T06:46:00+00:00,Chile,0.6818924660151507,2,3,es,SWS,South-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-04-28T05:45:00+00:00,Argentina,0.6812279356418262,2,2,es,SES,South-America
@@ -61,6 +60,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '105ee03aff',extremes,Earthquake,#870007,usgs,terremoto el salvador,2026-05-04T05:49:00+00:00,El Salvador,0.6221099651160361,2,2,es,SCA,North-America
 '496ef38269',extremes,Earthquake,#870007,usgs,terremoto río grande,2026-05-08T05:16:00+00:00,Panama,0.6215046265902742,2,1,es,SCA,South-America
 '19e427569b',extremes,Drought,#edc291,edo,sequía en uruguay,2026-05-19T06:33:00+00:00,Uruguay,0.6213574595903045,1,2,es,SES,South-America
+'74eaec292f',extremes,Earthquake,#870007,usgs,terremoto el tocuyo,2026-06-06T06:08:00+00:00,Venezuela,0.6200386123615143,1,1,es,NSA,South-America
 '3a67915e02',extremes,Earthquake,#870007,usgs,terremoto peru,2026-05-16T05:40:00+00:00,Peru,0.6168660901325775,1,1,es,SWS,South-America
 'e5b5d3771c',extremes,Earthquake,#870007,usgs,terremoto puerto,2026-05-01T05:54:00+00:00,Chile,0.615218153796038,1,2,es,SWS,South-America
 '111af1cabe',extremes,Drought,#edc291,edo,falta de lluvia ecuador,2026-05-16T05:40:00+00:00,Ecuador,0.61402596331007,2,2,es,EPO,Pacific Ocean
