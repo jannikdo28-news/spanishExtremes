@@ -30,6 +30,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '05396a2590',extremes,Storm,#b3b2b1,wmo,tormenta دولة قطر,2026-06-06T06:08:00+00:00,Qatar,0.6671971256149792,0,1,es,ARP,Asia
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,estados unidos helados,2026-04-26T05:25:00+00:00,United States,0.6669308441080106,1,3,es,CNA,North-America
 '27002f7a08',extremes,Heat Wave,#c40202,wmo,ola de calor españa,2026-05-21T06:35:00+00:00,Spain,0.6635113260094754,1,2,es,MED,Europe
+'b4e660db49',extremes,Drought,#edc291,edo,sequía uruguay,2026-05-24T06:22:00+00:00,Uruguay,0.6624656782069949,0,1,es,SES,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-04-28T05:45:00+00:00,Argentina,0.655886107619446,1,2,es,SES,South-America
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2026-06-01T07:30:00+00:00,Bolivia,0.6521517454830794,1,1,es,SES,South-America
 '14547038a5',extremes,Earthquake,#870007,usgs,terremoto pampa de tate,2026-05-20T06:32:00+00:00,Peru,0.6520133247983501,2,1,es,NWS,South-America
