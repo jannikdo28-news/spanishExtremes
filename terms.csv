@@ -36,8 +36,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b892b36d0',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – moderada,2026-06-08T07:13:00+00:00,Paraguay,0.6654627590115351,2,2,es,SES,South-America
 '7a1d28bed6',extremes,Fog,#d60d2b,wmo,marquette de niebla a munising mi,2026-06-11T07:14:00+00:00,United States,0.6650927697309751,0,1,es,CNA,North-America
 '0a8dada260',extremes,Drought,#edc291,edo,sequía honduras,2026-05-21T06:35:00+00:00,Honduras,0.6644797004326246,0,1,es,SCA,North-America
+'c2aa66a9b9',extremes,Flood,#030ba1,wmo,inundaciones vernon mo,2026-06-11T07:14:00+00:00,United States,0.6638496087840637,0,1,es,CNA,North-America
 '3d84dbb72f',extremes,Storm,#b3b2b1,wmo,tormenta estrecho de clarence,2026-06-07T06:48:00+00:00,United States,0.6638303739455905,0,1,es,CNA,North-America
 '27002f7a08',extremes,Heat Wave,#c40202,wmo,ola de calor españa,2026-05-21T06:35:00+00:00,Spain,0.6635113260094754,1,2,es,MED,Europe
+'f61f7da360',extremes,Heat Wave,#c40202,wmo,ola de calor campiña cordobesa,2026-05-28T06:38:00+00:00,Spain,0.6631742950828609,0,1,es,MED,Europe
+'77fa7ad29c',extremes,Wildfire,#d60d2b,wmo,incendio forestal,2026-06-10T06:49:00+00:00,United States,0.6628030221138997,0,1,es,CNA,North-America
+'31b1131ed7',extremes,Flood,#030ba1,wmo,inundación lucas ia,2026-06-11T07:14:00+00:00,United States,0.6623113160685479,0,1,es,CNA,North-America
+'1b67830f24',extremes,Fog,#d60d2b,wmo,niebla grand marais hasta whitefish point mi,2026-05-25T06:53:00+00:00,United States,0.661556699161066,0,1,es,CNA,North-America
+'3dea46c095',extremes,Flood,#030ba1,wmo,inundación repentina estados unidos,2026-05-23T05:53:00+00:00,United States,0.6614657698950884,0,1,es,CNA,North-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2026-05-24T06:22:00+00:00,Brazil,0.6589837953249681,1,2,es,SAM,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-06-08T07:13:00+00:00,Ecuador,0.6574529562959391,1,1,es,NWS,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-04-28T05:45:00+00:00,Argentina,0.655886107619446,1,2,es,SES,South-America
