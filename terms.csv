@@ -14,6 +14,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2026-05-10T05:51:00+00:00,United States,0.7181747844892412,1,3,es,CNA,North-America
 '331f9db5d5',extremes,Snow&Ice,#d60d2b,wmo,hielo españa,2026-05-15T06:09:00+00:00,Spain,0.7155926077433712,1,3,es,MED,Europe
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,Brasil helado,2026-06-04T07:06:00+00:00,Brazil,0.715570317115828,1,2,es,SAM,South-America
+'0a8dada260',extremes,Drought,#edc291,edo,sequía honduras,2026-05-21T06:35:00+00:00,Honduras,0.7155578203677309,1,2,es,SCA,North-America
 'd2b3cefe08',extremes,Precipitation,#d60d2b,wmo,precipitación costa rica,2026-06-07T06:48:00+00:00,Costa Rica,0.709667631171283,2,2,es,SCA,North-America
 '386f71a7fb',extremes,Precipitation,#d60d2b,wmo,lluvia costa rica,2026-04-25T05:00:00+00:00,Costa Rica,0.7088391764892396,1,3,es,SCA,North-America
 'b4e660db49',extremes,Drought,#edc291,edo,sequía uruguay,2026-05-24T06:22:00+00:00,Uruguay,0.7044099578395819,1,3,es,SES,South-America
@@ -25,7 +26,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1895f26add',extremes,Precipitation,#d60d2b,wmo,lluvias torrenciales en zonas del sur y algunas zonas centrales.,2026-06-02T07:08:00+00:00,Belize,0.6844486613962456,2,2,es,SCA,North-America
 '9cb0438918',extremes,Storm,#b3b2b1,emdat,tormenta minnesota,2026-05-05T05:29:00+00:00,United States,0.684015595759335,2,2,es,WNA,North-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2026-05-27T06:46:00+00:00,Chile,0.6818924660151507,2,3,es,SWS,South-America
-'6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-04-28T05:45:00+00:00,Argentina,0.6812279356418262,2,2,es,SES,South-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2026-05-28T06:38:00+00:00,Argentina,0.6758635711240937,2,2,es,SES,South-America
 'd3ea8177c3',extremes,Flood,#030ba1,wmo,inundaciones estados unidos,2026-05-19T06:33:00+00:00,United States,0.6732620636771746,1,3,es,CNA,North-America
 'ecf3b73558',extremes,Snow&Ice,#d60d2b,wmo,nieve españa,2026-05-15T06:09:00+00:00,Spain,0.6728819633176214,3,3,es,MED,Europe
@@ -33,9 +33,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-06-06T06:08:00+00:00,Chile,0.6675562040791279,2,2,es,SWS,South-America
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,estados unidos helados,2026-04-26T05:25:00+00:00,United States,0.6669308441080106,1,3,es,CNA,North-America
 '6b892b36d0',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – moderada,2026-06-08T07:13:00+00:00,Paraguay,0.6654627590115351,2,2,es,SES,South-America
-'0a8dada260',extremes,Drought,#edc291,edo,sequía honduras,2026-05-21T06:35:00+00:00,Honduras,0.6644797004326246,0,1,es,SCA,North-America
 '27002f7a08',extremes,Heat Wave,#c40202,wmo,ola de calor españa,2026-05-21T06:35:00+00:00,Spain,0.6635113260094754,1,2,es,MED,Europe
-'f61f7da360',extremes,Heat Wave,#c40202,wmo,ola de calor campiña cordobesa,2026-05-28T06:38:00+00:00,Spain,0.6631742950828609,0,1,es,MED,Europe
 '7d68920b56',extremes,Earthquake,#870007,usgs,terremoto nicaragua,2026-05-26T06:31:00+00:00,Nicaragua,0.6631283718413867,0,1,es,SCA,North-America
 '77fa7ad29c',extremes,Wildfire,#d60d2b,wmo,incendio forestal,2026-06-10T06:49:00+00:00,United States,0.6628030221138997,0,1,es,CNA,North-America
 '52d69677fc',extremes,Flood,#030ba1,wmo,inundación repentina platte mo,2026-06-12T07:05:00+00:00,United States,0.662335290045019,0,1,es,CNA,North-America
@@ -129,7 +127,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12775cc05a',extremes,Drought,#edc291,edo,sequía brasil,2026-05-24T06:22:00+00:00,Brazil,0.5874934751394539,1,2,es,SAM,South-America
 'af2189fa51',extremes,Earthquake,#870007,usgs,terremoto zorritos,2026-05-07T05:46:00+00:00,Peru,0.5842181858051815,1,1,es,NWS,South-America
 'e3449c4e60',extremes,Earthquake,#870007,usgs,terremoto de atocha,2026-06-02T07:08:00+00:00,Bolivia,0.583329514781119,1,1,es,SES,South-America
-'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial brasil,2026-05-03T05:44:00+00:00,Brazil,0.5823005964748457,1,1,es,SAM,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,aguacero brasil,2026-05-22T06:32:00+00:00,Brazil,0.5821849206592223,1,1,es,SAM,South-America
 '41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,Brasil helado,2026-05-11T06:14:00+00:00,Brazil,0.5804012039528352,1,1,es,SAM,South-America
 '797da0fa2e',extremes,Earthquake,#870007,usgs,terremoto masachapa,2026-05-05T05:28:00+00:00,Nicaragua,0.5800052485512207,1,1,es,SCA,North-America
@@ -185,6 +182,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '014cc5ada0',extremes,Fog,#d60d2b,wmo,delta de niebla,2026-05-19T06:33:00+00:00,United States,0.5638562228014761,1,1,es,CNA,North-America
 'ba36240601',extremes,Flood,#030ba1,wmo,inundación repentina marshall ks,2026-05-19T06:33:00+00:00,United States,0.5637816406379489,1,1,es,CNA,North-America
 '6ba0d506ee',extremes,Flood,#030ba1,wmo,inundación lafayette la vermilion la,2026-05-11T06:14:00+00:00,United States,0.5637707404126608,1,1,es,CNA,North-America
+'f61f7da360',extremes,Heat Wave,#c40202,wmo,ola de calor campiña cordobesa,2026-05-28T06:38:00+00:00,Spain,0.5636981508204317,1,1,es,MED,Europe
 '2c544bc3cb',extremes,Flood,#030ba1,wmo,inundaciones daviess en greene en knox en,2026-05-10T05:51:00+00:00,United States,0.5636094293532558,1,1,es,CNA,North-America
 '9a9f4fcc3a',extremes,Flood,#030ba1,wmo,inundación st. tammany la,2026-05-10T05:51:00+00:00,United States,0.5633662377910753,1,1,es,CNA,North-America
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,avalancha estados unidos,2026-05-01T05:54:00+00:00,United States,0.5629423640932377,2,2,es,CNA,North-America
@@ -210,8 +208,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '01b678efbf',extremes,Heat Wave,#c40202,wmo,ola de calor reg. 3 precordillera,2026-05-09T05:36:00+00:00,Chile,0.5459799294715968,2,1,es,SWS,South-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-05-11T06:14:00+00:00,Paraguay,0.5446432965887116,2,1,es,SES,South-America
 '4c0e0f411e',extremes,Storm,#b3b2b1,wmo,tormenta región amazónica,2026-05-11T06:14:00+00:00,Ecuador,0.5423163307936015,2,1,es,NWS,South-America
-'5cb766f03d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica área 2 – moderada,2026-05-07T05:46:00+00:00,Paraguay,0.5421703045850225,2,1,es,SES,South-America
-'8f13e1df9b',extremes,Drought,#edc291,edo,sequía en venezuela,2026-05-07T05:46:00+00:00,Venezuela,0.5419011707269653,2,1,es,NSA,South-America
 'fbfc5d1ed5',extremes,Precipitation,#d60d2b,wmo,lluvias torrenciales región insular,2026-05-11T06:14:00+00:00,Ecuador,0.5414210535901366,2,1,es,NWS,South-America
 '7e83ea89df',extremes,Precipitation,#d60d2b,wmo,aguacero región insular,2026-05-12T05:52:00+00:00,Ecuador,0.5405966961711308,2,1,es,NWS,South-America
 'aafce152ff',extremes,Storm,#b3b2b1,wmo,tormenta litoral y estribación de cordillera,2026-05-30T06:01:00+00:00,Ecuador,0.5392744822644736,2,1,es,NWS,South-America
@@ -227,7 +223,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '647a47c194',extremes,Heat Wave,#c40202,wmo,ola de calor central y valles mineros,2026-05-21T06:35:00+00:00,Spain,0.5268281832004181,2,1,es,MED,Europe
 '48457b6eba',extremes,Earthquake,#870007,usgs,terremoto ovalle,2026-05-27T06:46:00+00:00,Chile,0.5264127468767444,2,1,es,SWS,South-America
 '493ff10b88',extremes,Earthquake,#870007,usgs,terremoto panamá,2026-05-11T06:14:00+00:00,Panama,0.5240186328308197,2,1,es,SCA,South-America
-'5e67a6e3c8',extremes,Earthquake,#870007,usgs,terremoto coquimbo,2026-05-07T05:46:00+00:00,Chile,0.5238008172180922,2,1,es,SWS,South-America
 '528ddf5b43',extremes,Earthquake,#870007,usgs,corral de terremotos,2026-05-24T06:22:00+00:00,Chile,0.5225765421010817,2,1,es,SWS,South-America
 '608967f3c5',extremes,Drought,#edc291,edo,sequedad bolivia,2026-05-23T05:53:00+00:00,Bolivia,0.5215936726023811,2,1,es,SAM,South-America
 '883824b01c',extremes,Heat Wave,#c40202,wmo,ola de calor bizkaia litoral,2026-05-21T06:35:00+00:00,Spain,0.521401775052028,2,1,es,MED,Europe
