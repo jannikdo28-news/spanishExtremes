@@ -41,8 +41,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '77fa7ad29c',extremes,Wildfire,#d60d2b,wmo,incendio forestal,2026-06-10T06:49:00+00:00,United States,0.6628030221138997,0,1,es,CNA,North-America
 '52d69677fc',extremes,Flood,#030ba1,wmo,inundación repentina platte mo,2026-06-12T07:05:00+00:00,United States,0.662335290045019,0,1,es,CNA,North-America
 '31b1131ed7',extremes,Flood,#030ba1,wmo,inundación lucas ia,2026-06-11T07:14:00+00:00,United States,0.6623113160685479,0,1,es,CNA,North-America
+'381308205e',extremes,Flood,#030ba1,wmo,inundación jackson ia,2026-06-12T07:05:00+00:00,United States,0.6617538949514579,0,1,es,CNA,North-America
 '1b67830f24',extremes,Fog,#d60d2b,wmo,niebla grand marais hasta whitefish point mi,2026-05-25T06:53:00+00:00,United States,0.661556699161066,0,1,es,CNA,North-America
 '3dea46c095',extremes,Flood,#030ba1,wmo,inundación repentina estados unidos,2026-05-23T05:53:00+00:00,United States,0.6614657698950884,0,1,es,CNA,North-America
+'53da2374e6',extremes,Snow&Ice,#d60d2b,wmo,nieve en el área metropolitana de Fairbanks,2026-06-09T06:32:00+00:00,United States,0.6610719874706832,0,1,es,CNA,North-America
+'9ef0236c6e',extremes,Flood,#030ba1,wmo,inundación chelan wa,2026-05-25T06:53:00+00:00,United States,0.6610486837904985,0,1,es,CNA,North-America
+'8eb8ab3bfe',extremes,Fog,#d60d2b,wmo,niebla islas hurones hasta marquette mi,2026-06-11T07:14:00+00:00,United States,0.6610188621606756,0,1,es,CNA,North-America
+'55a6c15c8a',extremes,Wildfire,#d60d2b,wmo,incendio forestal tavaputs meseta san rafael oleaje,2026-05-27T06:46:00+00:00,United States,0.6609969735765976,0,1,es,CNA,North-America
+'9727592806',extremes,Flood,#030ba1,wmo,inundación repentina andrew mo nodaway mo,2026-06-12T07:05:00+00:00,United States,0.6607821182501037,0,1,es,CNA,North-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2026-05-24T06:22:00+00:00,Brazil,0.6589837953249681,1,2,es,SAM,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-06-08T07:13:00+00:00,Ecuador,0.6574529562959391,1,1,es,NWS,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-04-28T05:45:00+00:00,Argentina,0.655886107619446,1,2,es,SES,South-America
