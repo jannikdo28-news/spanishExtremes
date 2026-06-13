@@ -34,9 +34,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,estados unidos helados,2026-04-26T05:25:00+00:00,United States,0.6669308441080106,1,3,es,CNA,North-America
 '6b892b36d0',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – moderada,2026-06-08T07:13:00+00:00,Paraguay,0.6654627590115351,2,2,es,SES,South-America
 '27002f7a08',extremes,Heat Wave,#c40202,wmo,ola de calor españa,2026-05-21T06:35:00+00:00,Spain,0.6635113260094754,1,2,es,MED,Europe
-'7d68920b56',extremes,Earthquake,#870007,usgs,terremoto nicaragua,2026-05-26T06:31:00+00:00,Nicaragua,0.6631283718413867,0,1,es,SCA,North-America
 '77fa7ad29c',extremes,Wildfire,#d60d2b,wmo,incendio forestal,2026-06-10T06:49:00+00:00,United States,0.6628030221138997,0,1,es,CNA,North-America
-'52d69677fc',extremes,Flood,#030ba1,wmo,inundación repentina platte mo,2026-06-12T07:05:00+00:00,United States,0.662335290045019,0,1,es,CNA,North-America
 '31b1131ed7',extremes,Flood,#030ba1,wmo,inundación lucas ia,2026-06-11T07:14:00+00:00,United States,0.6623113160685479,0,1,es,CNA,North-America
 '381308205e',extremes,Flood,#030ba1,wmo,inundación jackson ia,2026-06-12T07:05:00+00:00,United States,0.6617538949514579,0,1,es,CNA,North-America
 '1b67830f24',extremes,Fog,#d60d2b,wmo,niebla grand marais hasta whitefish point mi,2026-05-25T06:53:00+00:00,United States,0.661556699161066,0,1,es,CNA,North-America
@@ -60,6 +58,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6f16e7aa17',extremes,Flood,#030ba1,wmo,inundación washington la,2026-05-10T05:51:00+00:00,United States,0.6413319832605174,1,2,es,CNA,North-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,marejada ciclónica argentina,2026-05-16T05:40:00+00:00,Argentina,0.6396384727960382,1,1,es,SES,South-America
 'a828348731',extremes,Storm,#b3b2b1,wmo,tormenta costa rica,2026-06-09T06:32:00+00:00,Costa Rica,0.6395705339299206,2,2,es,SCA,North-America
+'7d68920b56',extremes,Earthquake,#870007,usgs,terremoto nicaragua,2026-05-26T06:31:00+00:00,Nicaragua,0.6389591460651787,1,2,es,SCA,North-America
 '9c373151bb',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – severa,2026-05-17T06:01:00+00:00,Paraguay,0.6388510019054383,1,1,es,SES,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paraguay,2026-05-29T06:38:00+00:00,Paraguay,0.638835453844672,1,1,es,SES,South-America
 '862c45323e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica región insular isabela,2026-05-09T05:36:00+00:00,Ecuador,0.6385072665652776,1,1,es,NWS,South-America
@@ -185,6 +184,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f61f7da360',extremes,Heat Wave,#c40202,wmo,ola de calor campiña cordobesa,2026-05-28T06:38:00+00:00,Spain,0.5636981508204317,1,1,es,MED,Europe
 '2c544bc3cb',extremes,Flood,#030ba1,wmo,inundaciones daviess en greene en knox en,2026-05-10T05:51:00+00:00,United States,0.5636094293532558,1,1,es,CNA,North-America
 '9a9f4fcc3a',extremes,Flood,#030ba1,wmo,inundación st. tammany la,2026-05-10T05:51:00+00:00,United States,0.5633662377910753,1,1,es,CNA,North-America
+'52d69677fc',extremes,Flood,#030ba1,wmo,inundación repentina platte mo,2026-06-12T07:05:00+00:00,United States,0.5629849965382662,1,1,es,CNA,North-America
 '4faeae3d65',extremes,Snow Avalanche,#deddd5,wmo,avalancha estados unidos,2026-05-01T05:54:00+00:00,United States,0.5629423640932377,2,2,es,CNA,North-America
 '5cbf8c478c',extremes,Flood,#030ba1,wmo,inundación repentina cooper mo,2026-05-19T06:33:00+00:00,United States,0.5629284918405805,1,1,es,CNA,North-America
 'f1bcaf442d',extremes,Fog,#d60d2b,wmo,niebla fulton desafío henry,2026-05-25T06:53:00+00:00,United States,0.5629131137856013,1,1,es,CNA,North-America
