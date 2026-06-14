@@ -8,7 +8,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,hielo estados unidos,2026-06-06T06:08:00+00:00,United States,0.7282345799837079,2,3,es,CNA,North-America
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,nieve argentina,2026-05-25T06:53:00+00:00,Argentina,0.7263769998227,2,3,es,SES,South-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-05-28T06:38:00+00:00,Argentina,0.7228615817459587,1,2,es,SES,South-America
-'432bab655c',extremes,Wildfire,#d60d2b,wmo,incendio forestal estados unidos,2026-04-27T05:40:00+00:00,United States,0.721346821947225,1,2,es,CNA,North-America
 '6d8d284096',extremes,Storm,#b3b2b1,wmo,tormenta qatar,2026-05-19T06:33:00+00:00,Qatar,0.7213116570422156,1,2,es,ARP,Asia
 '68a8d0a1b0',extremes,Storm,#b3b2b1,wmo,tormenta españa,2026-05-20T06:33:00+00:00,Spain,0.721120338844296,2,3,es,MED,Europe
 '174e70acae',extremes,Thunderstorm,#53785a,wmo,clima severo españa,2026-05-29T06:38:00+00:00,Spain,0.7190337053953701,1,2,es,MED,Europe
@@ -35,7 +34,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b892b36d0',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – moderada,2026-06-08T07:13:00+00:00,Paraguay,0.6654627590115351,2,2,es,SES,South-America
 '8f13e1df9b',extremes,Drought,#edc291,edo,sequía en venezuela,2026-06-02T07:08:00+00:00,Venezuela,0.6641805301258769,0,1,es,NSA,South-America
 '27002f7a08',extremes,Heat Wave,#c40202,wmo,ola de calor españa,2026-05-21T06:35:00+00:00,Spain,0.6635113260094754,1,2,es,MED,Europe
-'05f85ef615',extremes,Flood,#030ba1,wmo,inundación repentina fulton il knox il,2026-06-13T06:38:00+00:00,United States,0.6630711659520531,0,1,es,CNA,North-America
 'af99ca1540',extremes,Fog,#d60d2b,wmo,niebla costera hancock costera washington,2026-06-12T07:05:00+00:00,United States,0.6629182370896456,0,1,es,CNA,North-America
 '77fa7ad29c',extremes,Wildfire,#d60d2b,wmo,incendio forestal,2026-06-10T06:49:00+00:00,United States,0.6628030221138997,0,1,es,CNA,North-America
 'adceda9efe',extremes,Flood,#030ba1,wmo,inundación cass il fulton il mason il,2026-06-13T06:38:00+00:00,United States,0.6626175276094458,0,1,es,CNA,North-America
@@ -191,6 +189,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ba36240601',extremes,Flood,#030ba1,wmo,inundación repentina marshall ks,2026-05-19T06:33:00+00:00,United States,0.5637816406379489,1,1,es,CNA,North-America
 '6ba0d506ee',extremes,Flood,#030ba1,wmo,inundación lafayette la vermilion la,2026-05-11T06:14:00+00:00,United States,0.5637707404126608,1,1,es,CNA,North-America
 'f61f7da360',extremes,Heat Wave,#c40202,wmo,ola de calor campiña cordobesa,2026-05-28T06:38:00+00:00,Spain,0.5636981508204317,1,1,es,MED,Europe
+'05f85ef615',extremes,Flood,#030ba1,wmo,inundación repentina fulton il knox il,2026-06-13T06:38:00+00:00,United States,0.5636104910592451,1,1,es,CNA,North-America
 '2c544bc3cb',extremes,Flood,#030ba1,wmo,inundaciones daviess en greene en knox en,2026-05-10T05:51:00+00:00,United States,0.5636094293532558,1,1,es,CNA,North-America
 '9a9f4fcc3a',extremes,Flood,#030ba1,wmo,inundación st. tammany la,2026-05-10T05:51:00+00:00,United States,0.5633662377910753,1,1,es,CNA,North-America
 '52d69677fc',extremes,Flood,#030ba1,wmo,inundación repentina platte mo,2026-06-12T07:05:00+00:00,United States,0.5629849965382662,1,1,es,CNA,North-America
