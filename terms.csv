@@ -1,7 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'e7db391dce',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa rica,2026-05-25T06:53:00+00:00,Costa Rica,0.7777545814589333,1,2,es,SCA,North-America
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,hielo argentina,2026-06-09T06:32:00+00:00,Argentina,0.7732095699703473,1,3,es,SES,South-America
+'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-05-28T06:38:00+00:00,Argentina,0.7626434622979391,0,1,es,SES,South-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-05-16T05:40:00+00:00,Chile,0.7471315340907044,2,3,es,SWS,South-America
+'406b2198bd',extremes,Precipitation,#d60d2b,wmo,aguacero región amazónica,2026-06-15T08:36:00+00:00,Ecuador,0.7451921438083182,0,1,es,NWS,South-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,lluvia ecuador,2026-05-18T06:38:00+00:00,Ecuador,0.7426525234811663,2,3,es,NWS,South-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-05-26T06:31:00+00:00,Chile,0.7413783394074319,2,3,es,SWS,South-America
 '5c6845871b',extremes,Drought,#edc291,edo,sequía en méxico,2026-05-14T06:02:00+00:00,Mexico,0.732769120761009,1,3,es,NCA,North-America
@@ -22,6 +24,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-06-03T07:22:00+00:00,Costa Rica,0.7000894778593043,1,2,es,SCA,South-America
 '037bb37761',extremes,Flood,#030ba1,wmo,inundación estados unidos,2026-06-06T06:08:00+00:00,United States,0.6941842044953337,1,3,es,CNA,North-America
 'f37a06ce58',extremes,Earthquake,#870007,usgs,terremoto santa maría,2026-06-07T06:48:00+00:00,Mexico,0.6929295647329404,2,2,es,SCA,North-America
+'e043fce1a2',extremes,Drought,#edc291,edo,sequía bolivia,2026-05-31T06:40:00+00:00,Bolivia,0.6880681802521762,0,1,es,SAM,South-America
+'ad28ae330a',extremes,Earthquake,#870007,usgs,terremoto sardinal,2026-06-11T07:14:00+00:00,Costa Rica,0.6853255980950574,0,1,es,SCA,North-America
 'b74d7744ad',extremes,Storm,#b3b2b1,wmo,tormenta región insular,2026-05-10T05:51:00+00:00,Ecuador,0.6845887594327487,2,2,es,NWS,South-America
 '1895f26add',extremes,Precipitation,#d60d2b,wmo,lluvias torrenciales en zonas del sur y algunas zonas centrales.,2026-06-02T07:08:00+00:00,Belize,0.6844486613962456,2,2,es,SCA,North-America
 '9cb0438918',extremes,Storm,#b3b2b1,emdat,tormenta minnesota,2026-05-05T05:29:00+00:00,United States,0.684015595759335,2,2,es,WNA,North-America
@@ -36,6 +40,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b892b36d0',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – moderada,2026-06-08T07:13:00+00:00,Paraguay,0.6654627590115351,2,2,es,SES,South-America
 '8f13e1df9b',extremes,Drought,#edc291,edo,sequía en venezuela,2026-06-02T07:08:00+00:00,Venezuela,0.6641805301258769,0,1,es,NSA,South-America
 '531f521f39',extremes,Snow&Ice,#d60d2b,wmo,heladas estados unidos,2026-06-06T06:08:00+00:00,United States,0.6641603487913769,0,1,es,CNA,North-America
+'d30c917012',extremes,Flood,#030ba1,wmo,inundación hancock ms,2026-06-15T08:36:00+00:00,United States,0.6637673222760863,0,1,es,CNA,North-America
+'92dbe971ce',extremes,Flood,#030ba1,wmo,inundaciones christian mo piedra mo,2026-06-15T08:36:00+00:00,United States,0.6636139296324383,0,1,es,CNA,North-America
 '27002f7a08',extremes,Heat Wave,#c40202,wmo,ola de calor españa,2026-05-21T06:35:00+00:00,Spain,0.6635113260094754,1,2,es,MED,Europe
 '77fa7ad29c',extremes,Wildfire,#d60d2b,wmo,incendio forestal,2026-06-10T06:49:00+00:00,United States,0.6628030221138997,0,1,es,CNA,North-America
 'adceda9efe',extremes,Flood,#030ba1,wmo,inundación cass il fulton il mason il,2026-06-13T06:38:00+00:00,United States,0.6626175276094458,0,1,es,CNA,North-America
