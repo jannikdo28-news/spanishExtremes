@@ -41,14 +41,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd30c917012',extremes,Flood,#030ba1,wmo,inundación hancock ms,2026-06-15T08:36:00+00:00,United States,0.6637673222760863,0,1,es,CNA,North-America
 '92dbe971ce',extremes,Flood,#030ba1,wmo,inundaciones christian mo piedra mo,2026-06-15T08:36:00+00:00,United States,0.6636139296324383,0,1,es,CNA,North-America
 '27002f7a08',extremes,Heat Wave,#c40202,wmo,ola de calor españa,2026-05-21T06:35:00+00:00,Spain,0.6635113260094754,1,2,es,MED,Europe
+'386d2eebd7',extremes,Flood,#030ba1,wmo,inundaciones clinton ia scott ia,2026-06-14T07:07:00+00:00,United States,0.6630147294400608,0,1,es,CNA,North-America
+'85626ece1b',extremes,Flood,#030ba1,wmo,inundación blanca ar aspa ar,2026-06-15T08:36:00+00:00,United States,0.6629617778737044,0,1,es,CNA,North-America
 '77fa7ad29c',extremes,Wildfire,#d60d2b,wmo,incendio forestal,2026-06-10T06:49:00+00:00,United States,0.6628030221138997,0,1,es,CNA,North-America
+'733c793a68',extremes,Flood,#030ba1,wmo,inundación repentina linn mo livingston mo,2026-06-15T08:36:00+00:00,United States,0.6627195685042071,0,1,es,CNA,North-America
 'adceda9efe',extremes,Flood,#030ba1,wmo,inundación cass il fulton il mason il,2026-06-13T06:38:00+00:00,United States,0.6626175276094458,0,1,es,CNA,North-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-05-28T06:38:00+00:00,Argentina,0.6622895620441573,1,2,es,SES,South-America
+'d0c9a42c19',extremes,Flood,#030ba1,wmo,inundación repentina buchanan mo,2026-06-10T06:49:00+00:00,United States,0.662101160505096,0,1,es,CNA,North-America
 'e283e0bafd',extremes,Flood,#030ba1,wmo,inundación repentina cass mo henry mo johnson mo,2026-06-14T07:07:00+00:00,United States,0.6620436247623193,0,1,es,CNA,North-America
 '3c4150c26f',extremes,Flood,#030ba1,wmo,inundación repentina jackson ia,2026-06-13T06:38:00+00:00,United States,0.661820593133709,0,1,es,CNA,North-America
 '2f9ffd941f',extremes,Heat Wave,#c40202,wmo,ola de calor ribera del ebro de navarra,2026-05-27T06:46:00+00:00,Spain,0.6618076923583015,0,1,es,MED,Europe
 '381308205e',extremes,Flood,#030ba1,wmo,inundación jackson ia,2026-06-12T07:05:00+00:00,United States,0.6617538949514579,0,1,es,CNA,North-America
+'64c39a202a',extremes,Flood,#030ba1,wmo,inundación bourbon ks,2026-06-14T07:07:00+00:00,United States,0.6616882490785518,0,1,es,CNA,North-America
 '1b67830f24',extremes,Fog,#d60d2b,wmo,niebla grand marais hasta whitefish point mi,2026-05-25T06:53:00+00:00,United States,0.661556699161066,0,1,es,CNA,North-America
+'58aec69d5b',extremes,Flood,#030ba1,wmo,inundación vernon mes,2026-06-15T08:36:00+00:00,United States,0.6614829422204822,0,1,es,CNA,North-America
 '3dea46c095',extremes,Flood,#030ba1,wmo,inundación repentina estados unidos,2026-05-23T05:53:00+00:00,United States,0.6614657698950884,0,1,es,CNA,North-America
 'b8e06c079f',extremes,Flood,#030ba1,wmo,inundación repentina monroe mo,2026-06-12T07:05:00+00:00,United States,0.6614571663156258,0,1,es,CNA,North-America
 '53da2374e6',extremes,Snow&Ice,#d60d2b,wmo,nieve en el área metropolitana de Fairbanks,2026-06-09T06:32:00+00:00,United States,0.6610719874706832,0,1,es,CNA,North-America
