@@ -37,17 +37,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b892b36d0',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – moderada,2026-06-08T07:13:00+00:00,Paraguay,0.6654627590115351,2,2,es,SES,South-America
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,ola de calor estados unidos,2026-06-14T07:07:00+00:00,United States,0.6636478982900715,1,3,es,CNA,North-America
 '27002f7a08',extremes,Heat Wave,#c40202,wmo,ola de calor españa,2026-05-21T06:35:00+00:00,Spain,0.6635113260094754,1,2,es,MED,Europe
-'adceda9efe',extremes,Flood,#030ba1,wmo,inundación cass il fulton il mason il,2026-06-13T06:38:00+00:00,United States,0.6626175276094458,0,1,es,CNA,North-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-05-28T06:38:00+00:00,Argentina,0.6622895620441573,1,2,es,SES,South-America
-'e283e0bafd',extremes,Flood,#030ba1,wmo,inundación repentina cass mo henry mo johnson mo,2026-06-14T07:07:00+00:00,United States,0.6620436247623193,0,1,es,CNA,North-America
-'3c4150c26f',extremes,Flood,#030ba1,wmo,inundación repentina jackson ia,2026-06-13T06:38:00+00:00,United States,0.661820593133709,0,1,es,CNA,North-America
-'64c39a202a',extremes,Flood,#030ba1,wmo,inundación bourbon ks,2026-06-14T07:07:00+00:00,United States,0.6616882490785518,0,1,es,CNA,North-America
-'58aec69d5b',extremes,Flood,#030ba1,wmo,inundación vernon mes,2026-06-15T08:36:00+00:00,United States,0.6614829422204822,0,1,es,CNA,North-America
-'3dea46c095',extremes,Flood,#030ba1,wmo,inundación repentina estados unidos,2026-05-23T05:53:00+00:00,United States,0.6614657698950884,0,1,es,CNA,North-America
-'b8e06c079f',extremes,Flood,#030ba1,wmo,inundación repentina monroe mo,2026-06-12T07:05:00+00:00,United States,0.6614571663156258,0,1,es,CNA,North-America
-'03dafc5b61',extremes,Flood,#030ba1,wmo,inundaciones beauregard la,2026-06-17T07:33:00+00:00,United States,0.6613864760353052,0,1,es,CNA,North-America
-'2a3f72439d',extremes,Flood,#030ba1,wmo,inundación le flore ok,2026-06-08T07:13:00+00:00,United States,0.6613852070002838,0,1,es,CNA,North-America
-'72621058c9',extremes,Wildfire,#d60d2b,wmo,incendio forestal en el norte de san juan,2026-06-16T08:27:00+00:00,United States,0.6612836925482052,0,1,es,CNA,North-America
 '53da2374e6',extremes,Snow&Ice,#d60d2b,wmo,nieve en el área metropolitana de Fairbanks,2026-06-09T06:32:00+00:00,United States,0.6610719874706832,0,1,es,CNA,North-America
 'a1d71293cb',extremes,Flood,#030ba1,wmo,inundación cass il fulton il mason il,2026-06-14T07:07:00+00:00,United States,0.6610583732151406,0,1,es,CNA,North-America
 '9ef0236c6e',extremes,Flood,#030ba1,wmo,inundación chelan wa,2026-05-25T06:53:00+00:00,United States,0.6610486837904985,0,1,es,CNA,North-America
@@ -85,6 +75,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paraguay,2026-05-29T06:38:00+00:00,Paraguay,0.638835453844672,1,1,es,SES,South-America
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-05-31T06:40:00+00:00,Argentina,0.6386785128440348,1,1,es,SES,South-America
 '862c45323e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica región insular isabela,2026-05-09T05:36:00+00:00,Ecuador,0.6385072665652776,1,1,es,NWS,South-America
+'72621058c9',extremes,Wildfire,#d60d2b,wmo,incendio forestal en el norte de san juan,2026-06-16T08:27:00+00:00,United States,0.6373911686659743,1,2,es,CNA,North-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-06-18T07:16:00+00:00,Paraguay,0.6361611485368718,1,1,es,SES,South-America
 '33caf0c926',extremes,Heat Wave,#c40202,wmo,ola de calor fuerteventura,2026-05-23T05:53:00+00:00,Spain,0.6351242796186992,2,2,es,MED,Europe
 'd61de81685',extremes,Storm,#b3b2b1,wmo,marejada ciclónica chile,2026-05-28T06:38:00+00:00,Chile,0.6346502641774452,1,1,es,SWS,South-America
@@ -218,18 +209,27 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '85626ece1b',extremes,Flood,#030ba1,wmo,inundación blanca ar aspa ar,2026-06-15T08:36:00+00:00,United States,0.5635175111926487,1,1,es,CNA,North-America
 'af99ca1540',extremes,Fog,#d60d2b,wmo,niebla costera hancock costera washington,2026-06-12T07:05:00+00:00,United States,0.5634805015261988,1,1,es,CNA,North-America
 '733c793a68',extremes,Flood,#030ba1,wmo,inundación repentina linn mo livingston mo,2026-06-15T08:36:00+00:00,United States,0.563311633228576,1,1,es,CNA,North-America
+'adceda9efe',extremes,Flood,#030ba1,wmo,inundación cass il fulton il mason il,2026-06-13T06:38:00+00:00,United States,0.5632248984680289,1,1,es,CNA,North-America
 '52d69677fc',extremes,Flood,#030ba1,wmo,inundación repentina platte mo,2026-06-12T07:05:00+00:00,United States,0.5629849965382662,1,1,es,CNA,North-America
 '31b1131ed7',extremes,Flood,#030ba1,wmo,inundación lucas ia,2026-06-11T07:14:00+00:00,United States,0.5629646186582656,1,1,es,CNA,North-America
 '5cbf8c478c',extremes,Flood,#030ba1,wmo,inundación repentina cooper mo,2026-05-19T06:33:00+00:00,United States,0.5629284918405805,1,1,es,CNA,North-America
 'f1bcaf442d',extremes,Fog,#d60d2b,wmo,niebla fulton desafío henry,2026-05-25T06:53:00+00:00,United States,0.5629131137856013,1,1,es,CNA,North-America
 'd0c9a42c19',extremes,Flood,#030ba1,wmo,inundación repentina buchanan mo,2026-06-10T06:49:00+00:00,United States,0.5627859864293316,1,1,es,CNA,North-America
+'e283e0bafd',extremes,Flood,#030ba1,wmo,inundación repentina cass mo henry mo johnson mo,2026-06-14T07:07:00+00:00,United States,0.5627370810479714,1,1,es,CNA,North-America
 'c20907a300',extremes,Flood,#030ba1,wmo,inundaciones daviess mo gentry mo,2026-05-18T06:38:00+00:00,United States,0.5626615321962225,1,1,es,CNA,North-America
+'3c4150c26f',extremes,Flood,#030ba1,wmo,inundación repentina jackson ia,2026-06-13T06:38:00+00:00,United States,0.5625475041636526,1,1,es,CNA,North-America
 '2f9ffd941f',extremes,Heat Wave,#c40202,wmo,ola de calor ribera del ebro de navarra,2026-05-27T06:46:00+00:00,Spain,0.5625365385045563,1,1,es,MED,Europe
 'a8b3ce64c3',extremes,Flood,#030ba1,wmo,inundación harrison ms,2026-05-11T06:14:00+00:00,United States,0.5625109194592454,1,1,es,CNA,North-America
 '381308205e',extremes,Flood,#030ba1,wmo,inundación jackson ia,2026-06-12T07:05:00+00:00,United States,0.5624908107087392,1,1,es,CNA,North-America
 '489f35ef04',extremes,Snow&Ice,#d60d2b,wmo,región helada del gabinete Kootenai,2026-06-07T06:48:00+00:00,United States,0.5624469728844388,1,1,es,CNA,North-America
+'64c39a202a',extremes,Flood,#030ba1,wmo,inundación bourbon ks,2026-06-14T07:07:00+00:00,United States,0.562435011716769,1,1,es,CNA,North-America
 '72bc2580da',extremes,Flood,#030ba1,wmo,inundación de greene en monroe en owen en,2026-05-21T06:35:00+00:00,United States,0.5623332322380771,1,1,es,CNA,North-America
 '1b67830f24',extremes,Fog,#d60d2b,wmo,niebla grand marais hasta whitefish point mi,2026-05-25T06:53:00+00:00,United States,0.562323194286906,1,1,es,CNA,North-America
+'58aec69d5b',extremes,Flood,#030ba1,wmo,inundación vernon mes,2026-06-15T08:36:00+00:00,United States,0.5622605008874099,1,1,es,CNA,North-America
+'3dea46c095',extremes,Flood,#030ba1,wmo,inundación repentina estados unidos,2026-05-23T05:53:00+00:00,United States,0.5622459044108251,1,1,es,CNA,North-America
+'b8e06c079f',extremes,Flood,#030ba1,wmo,inundación repentina monroe mo,2026-06-12T07:05:00+00:00,United States,0.5622385913682819,1,1,es,CNA,North-America
+'03dafc5b61',extremes,Flood,#030ba1,wmo,inundaciones beauregard la,2026-06-17T07:33:00+00:00,United States,0.5621785046300094,1,1,es,CNA,North-America
+'2a3f72439d',extremes,Flood,#030ba1,wmo,inundación le flore ok,2026-06-08T07:13:00+00:00,United States,0.5621774259502412,1,1,es,CNA,North-America
 '4f07dcd1ba',extremes,Wildfire,#d60d2b,wmo,incendio forestal pequeña serpiente río blanco,2026-05-11T06:14:00+00:00,United States,0.5618149084013044,1,1,es,CNA,North-America
 '9925705a0e',extremes,Flood,#030ba1,wmo,inundación lee tx,2026-05-11T06:14:00+00:00,United States,0.5615880786430871,1,1,es,CNA,North-America
 'dc62f56c39',extremes,Flood,#030ba1,wmo,inundación repentina trumbull oh,2026-05-11T06:14:00+00:00,United States,0.5613872477805222,1,1,es,CNA,North-America
