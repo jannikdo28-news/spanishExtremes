@@ -22,6 +22,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0a8dada260',extremes,Drought,#edc291,edo,sequía honduras,2026-05-21T06:35:00+00:00,Honduras,0.7155578203677309,1,2,es,SCA,North-America
 'd2b3cefe08',extremes,Precipitation,#d60d2b,wmo,precipitación costa rica,2026-06-07T06:48:00+00:00,Costa Rica,0.709667631171283,2,2,es,SCA,North-America
 'b4e660db49',extremes,Drought,#edc291,edo,sequía uruguay,2026-05-24T06:22:00+00:00,Uruguay,0.7044099578395819,1,3,es,SES,South-America
+'60d823a47b',extremes,Storm,#b3b2b1,wmo,tormenta estados unidos,2026-06-06T06:08:00+00:00,United States,0.7028546565010452,1,3,es,CNA,North-America
 '77fa7ad29c',extremes,Wildfire,#d60d2b,wmo,incendio forestal,2026-06-10T06:49:00+00:00,United States,0.7001558506149966,1,3,es,CNA,North-America
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-06-03T07:22:00+00:00,Costa Rica,0.7000894778593043,1,2,es,SCA,South-America
 '037bb37761',extremes,Flood,#030ba1,wmo,inundación estados unidos,2026-06-06T06:08:00+00:00,United States,0.6941842044953337,1,3,es,CNA,North-America
@@ -39,7 +40,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,ola de calor estados unidos,2026-06-14T07:07:00+00:00,United States,0.6636478982900715,1,3,es,CNA,North-America
 '27002f7a08',extremes,Heat Wave,#c40202,wmo,ola de calor españa,2026-05-21T06:35:00+00:00,Spain,0.6635113260094754,1,2,es,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-05-28T06:38:00+00:00,Argentina,0.6622895620441573,1,2,es,SES,South-America
-'60d823a47b',extremes,Storm,#b3b2b1,wmo,tormenta estados unidos,2026-06-06T06:08:00+00:00,United States,0.660632153102834,0,1,es,CNA,North-America
 'c90ff38296',extremes,Flood,#030ba1,wmo,inundación repentina daviess mo livingston mo,2026-06-06T06:08:00+00:00,United States,0.6604768952375184,0,1,es,CNA,North-America
 'b795aa46fe',extremes,Flood,#030ba1,wmo,plataforma de inundación mo,2026-06-10T06:49:00+00:00,United States,0.6603432441292825,0,1,es,CNA,North-America
 '4e7faf91d4',extremes,Flood,#030ba1,wmo,inundación repentina carroll mo chariton mo,2026-06-13T06:38:00+00:00,United States,0.6602802220005414,0,1,es,CNA,North-America
