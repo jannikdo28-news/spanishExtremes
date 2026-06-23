@@ -52,6 +52,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '79948e7ab3',extremes,Heat Wave,#c40202,wmo,ola de calor valle del guadalquivir de jaén,2026-05-29T06:38:00+00:00,Spain,0.6618606912376069,2,2,es,MED,Europe
 '7d1c47c388',extremes,Flood,#030ba1,wmo,inundación vinton oh,2026-06-19T07:39:00+00:00,United States,0.6617827687551562,0,1,es,CNA,North-America
 'e9fca89019',extremes,Storm,#b3b2b1,wmo,tormenta en zonas costeras y mar adentro.,2026-06-22T08:39:00+00:00,Belize,0.6615229268294427,0,1,es,SCA,North-America
+'c8d6cdb086',extremes,Heat Wave,#c40202,wmo,ola de calor sistema central de soria,2026-06-20T06:47:00+00:00,Spain,0.661496718418353,0,1,es,MED,Europe
+'dae5ff763a',extremes,Flood,#030ba1,wmo,inundación escambia al,2026-06-19T07:39:00+00:00,United States,0.6613561112814013,0,1,es,CNA,North-America
+'36ddc82534',extremes,Flood,#030ba1,wmo,inundación jones ms,2026-06-18T07:16:00+00:00,United States,0.6612552651079995,0,1,es,CNA,North-America
+'1ca7fa0ddf',extremes,Flood,#030ba1,wmo,inundación baldwin al,2026-06-19T07:39:00+00:00,United States,0.6611123264656149,0,1,es,CNA,North-America
+'4d4bfe8c03',extremes,Flood,#030ba1,wmo,inundación repentina allen la,2026-06-18T07:16:00+00:00,United States,0.6609592062049303,0,1,es,CNA,North-America
+'8ded025e63',extremes,Wildfire,#d60d2b,wmo,incendio forestal desiertos del noroeste meseta del noroeste,2026-06-18T07:16:00+00:00,United States,0.660709488807794,0,1,es,CNA,North-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2026-05-24T06:22:00+00:00,Brazil,0.6589837953249681,1,2,es,SAM,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-06-08T07:13:00+00:00,Ecuador,0.6574529562959391,1,1,es,NWS,South-America
 'dbb3fa7d26',extremes,Earthquake,#870007,usgs,terremoto villa general roca,2026-06-06T06:08:00+00:00,Argentina,0.6528199833760641,2,2,es,SES,South-America
