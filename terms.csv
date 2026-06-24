@@ -54,6 +54,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b89f598c93',extremes,Flood,#030ba1,wmo,inundación repentina baldwin al,2026-06-03T07:23:00+00:00,United States,0.660341415176987,0,1,es,CNA,North-America
 'e3fd3edd10',extremes,Flood,#030ba1,wmo,parque de inundaciones en bermellón en vigo en,2026-06-13T06:38:00+00:00,United States,0.6601944773039056,0,1,es,CNA,North-America
 '3af227983a',extremes,Flood,#030ba1,wmo,inundación cherokee ok,2026-06-10T06:49:00+00:00,United States,0.6601399883313884,0,1,es,CNA,North-America
+'331dc2fd4a',extremes,Thunderstorm,#53785a,wmo,tormenta españa,2026-06-13T06:38:00+00:00,Spain,0.6600295633872276,0,1,es,MED,Europe
+'12ef06219f',extremes,Heat Wave,#c40202,wmo,ola de calor rioja alavesa,2026-06-18T07:16:00+00:00,Spain,0.6600090849535509,0,1,es,MED,Europe
+'17723719d6',extremes,Flood,#030ba1,wmo,inundación repentina brookings sd,2026-06-08T07:13:00+00:00,United States,0.6599551905473156,0,1,es,CNA,North-America
+'31c327c60a',extremes,Flood,#030ba1,wmo,inundación marion mo,2026-06-14T07:07:00+00:00,United States,0.6599446827006235,0,1,es,CNA,North-America
+'d58c2b6c81',extremes,Flood,#030ba1,wmo,inundación george ms greene ms,2026-06-17T07:33:00+00:00,United States,0.6599185642519706,0,1,es,CNA,North-America
+'46fb62f5cf',extremes,Flood,#030ba1,wmo,inundación repentina dallas tx,2026-06-08T07:13:00+00:00,United States,0.6598378077420125,0,1,es,CNA,North-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2026-05-24T06:22:00+00:00,Brazil,0.6589837953249681,1,2,es,SAM,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-06-08T07:13:00+00:00,Ecuador,0.6574529562959391,1,1,es,NWS,South-America
 'dbb3fa7d26',extremes,Earthquake,#870007,usgs,terremoto villa general roca,2026-06-06T06:08:00+00:00,Argentina,0.6528199833760641,2,2,es,SES,South-America
