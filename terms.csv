@@ -53,6 +53,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '31c327c60a',extremes,Flood,#030ba1,wmo,inundación marion mo,2026-06-14T07:07:00+00:00,United States,0.6599446827006235,0,1,es,CNA,North-America
 'd58c2b6c81',extremes,Flood,#030ba1,wmo,inundación george ms greene ms,2026-06-17T07:33:00+00:00,United States,0.6599185642519706,0,1,es,CNA,North-America
 '46fb62f5cf',extremes,Flood,#030ba1,wmo,inundación repentina dallas tx,2026-06-08T07:13:00+00:00,United States,0.6598378077420125,0,1,es,CNA,North-America
+'22ec810b64',extremes,Flood,#030ba1,wmo,inundación repentina clinton ia scott ia,2026-06-12T07:05:00+00:00,United States,0.6597507141526794,0,1,es,CNA,North-America
+'870c9642c6',extremes,Flood,#030ba1,wmo,inundacion parke en bermellón en vigo en,2026-06-12T07:05:00+00:00,United States,0.6597104021100823,0,1,es,CNA,North-America
+'e4e5a10861',extremes,Flood,#030ba1,wmo,inundación repentina brookings sd hamlin sd,2026-06-06T06:08:00+00:00,United States,0.6596829523430251,0,1,es,CNA,North-America
+'eb5e82594e',extremes,Flood,#030ba1,wmo,inundación repentina jefferson mo st. luis mo,2026-06-18T07:16:00+00:00,United States,0.6596035653043276,0,1,es,CNA,North-America
+'795671dd67',extremes,Flood,#030ba1,wmo,inundación lincoln ks,2026-06-11T07:14:00+00:00,United States,0.6595688474567074,0,1,es,CNA,North-America
+'43a3482d04',extremes,Flood,#030ba1,wmo,inundación repentina angelina tx nacogdoches tx,2026-06-17T07:33:00+00:00,United States,0.6595485689881623,0,1,es,CNA,North-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2026-05-24T06:22:00+00:00,Brazil,0.6589837953249681,1,2,es,SAM,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-06-08T07:13:00+00:00,Ecuador,0.6574529562959391,1,1,es,NWS,South-America
 'dbb3fa7d26',extremes,Earthquake,#870007,usgs,terremoto villa general roca,2026-06-06T06:08:00+00:00,Argentina,0.6528199833760641,2,2,es,SES,South-America
