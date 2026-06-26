@@ -42,10 +42,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b892b36d0',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – moderada,2026-06-08T07:13:00+00:00,Paraguay,0.6654627590115351,2,2,es,SES,South-America
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,ola de calor estados unidos,2026-06-14T07:07:00+00:00,United States,0.6636478982900715,1,3,es,CNA,North-America
 '27002f7a08',extremes,Heat Wave,#c40202,wmo,ola de calor españa,2026-05-21T06:35:00+00:00,Spain,0.6635113260094754,1,2,es,MED,Europe
-'fbf82b1a96',extremes,Drought,#edc291,edo,sequía bolivia,2026-06-25T06:32:00+00:00,Bolivia,0.6631867579687368,0,1,es,SAM,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-05-28T06:38:00+00:00,Argentina,0.6622895620441573,1,2,es,SES,South-America
+'fbf82b1a96',extremes,Drought,#edc291,edo,sequía bolivia,2026-06-25T06:32:00+00:00,Bolivia,0.6622375257019978,1,2,es,SAM,South-America
 '79948e7ab3',extremes,Heat Wave,#c40202,wmo,ola de calor valle del guadalquivir de jaén,2026-05-29T06:38:00+00:00,Spain,0.6618606912376069,2,2,es,MED,Europe
-'4a3257679a',extremes,Flood,#030ba1,wmo,inundación repentina calcasieu la,2026-06-12T07:05:00+00:00,United States,0.6594306116693667,0,1,es,CNA,North-America
 '7880553eb9',extremes,Flood,#030ba1,wmo,inundación vernon la,2026-06-16T08:27:00+00:00,United States,0.6593477743217385,0,1,es,CNA,North-America
 'd0fcb12863',extremes,Flood,#030ba1,wmo,inundaciones brazos tx burleson tx,2026-06-15T08:36:00+00:00,United States,0.6593223671643104,0,1,es,CNA,North-America
 '0f2e2a1043',extremes,Flood,#030ba1,wmo,inundación calhoun il greene il jersey il,2026-06-15T08:36:00+00:00,United States,0.6592128479478423,0,1,es,CNA,North-America
@@ -264,6 +263,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '43a3482d04',extremes,Flood,#030ba1,wmo,inundación repentina angelina tx nacogdoches tx,2026-06-17T07:33:00+00:00,United States,0.5606162836399379,1,1,es,CNA,North-America
 'fd15a1b9c6',extremes,Flood,#030ba1,wmo,inundación clarke ms,2026-06-20T06:47:00+00:00,United States,0.5605916170308153,1,1,es,CNA,North-America
 'f44dfc5bf5',extremes,Wildfire,#d60d2b,wmo,desierto del lago salado de incendios forestales,2026-06-20T06:47:00+00:00,United States,0.5605171776467673,1,1,es,CNA,North-America
+'4a3257679a',extremes,Flood,#030ba1,wmo,inundación repentina calcasieu la,2026-06-12T07:05:00+00:00,United States,0.5605160199189616,1,1,es,CNA,North-America
 '56dca2743f',extremes,Drought,#edc291,edo,sequía en guinea ecuatorial,2026-06-19T07:39:00+00:00,Equatorial Guinea,0.5501933117354696,2,1,es,WAF,Africa
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial ecuador,2026-05-23T05:53:00+00:00,Ecuador,0.5496906709074691,2,1,es,NWS,South-America
 'aaee78223c',extremes,Precipitation,#d60d2b,wmo,aguacero región litoral e interandina,2026-05-23T05:53:00+00:00,Ecuador,0.5490015805165208,2,1,es,NWS,South-America
