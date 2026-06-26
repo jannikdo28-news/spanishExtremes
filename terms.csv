@@ -38,8 +38,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fa42f38021',extremes,Heat Wave,#c40202,wmo,ola de calor miño de ourense,2026-05-22T06:32:00+00:00,Spain,0.6712323384730398,2,2,es,MED,Europe
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,lluvia brasil,2026-06-17T07:33:00+00:00,Brazil,0.6704265910639237,1,3,es,SAM,South-America
 '4c0e0f411e',extremes,Storm,#b3b2b1,wmo,tormenta región amazónica,2026-06-15T08:36:00+00:00,Ecuador,0.6686322402880496,2,2,es,NWS,South-America
-'41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,Brasil helado,2026-06-25T06:32:00+00:00,Brazil,0.6686108546390834,0,1,es,SAM,South-America
-'8068e6b5b7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica españa,2026-06-06T06:08:00+00:00,Spain,0.6685609922859542,0,1,es,MED,Europe
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-06-06T06:08:00+00:00,Chile,0.6675562040791279,2,2,es,SWS,South-America
 '6b892b36d0',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – moderada,2026-06-08T07:13:00+00:00,Paraguay,0.6654627590115351,2,2,es,SES,South-America
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,ola de calor estados unidos,2026-06-14T07:07:00+00:00,United States,0.6636478982900715,1,3,es,CNA,North-America
@@ -154,6 +152,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eddc59f608',extremes,Snow&Ice,#d60d2b,wmo,heladas españa,2026-05-14T06:02:00+00:00,Spain,0.5715897197142014,2,2,es,MED,Europe
 '559f239993',extremes,Heat Wave,#c40202,wmo,ola de calor cinco villas de zaragoza,2026-05-26T06:31:00+00:00,Spain,0.5715422817619639,1,1,es,MED,Europe
 '869ff000f5',extremes,Precipitation,#d60d2b,wmo,lluvia belice,2026-06-11T07:14:00+00:00,Belize,0.5704483469658201,1,1,es,SCA,North-America
+'41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,Brasil helado,2026-06-25T06:32:00+00:00,Brazil,0.5704194364432209,1,1,es,SAM,South-America
 'f6d615fe7c',extremes,Drought,#edc291,edo,sequedad venezuela,2026-06-14T07:07:00+00:00,Venezuela,0.5703081628658924,1,1,es,NSA,South-America
 '2433af70de',extremes,Storm,#b3b2b1,wmo,marejada ciclónica belice,2026-06-12T07:05:00+00:00,Belize,0.5700143155686385,1,1,es,SCA,North-America
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,ola de frío brasil,2026-06-06T06:08:00+00:00,Brazil,0.5699439768422783,1,1,es,SAM,South-America
@@ -164,6 +163,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '84e09433c3',extremes,Earthquake,#870007,usgs,terremoto castro barros,2026-06-02T07:08:00+00:00,Argentina,0.5686696071411145,1,1,es,SES,South-America
 '8deeb78802',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial belice,2026-06-12T07:05:00+00:00,Belize,0.568580062223594,1,1,es,SCA,North-America
 '7477f7090e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica دولة قطر,2026-06-04T07:06:00+00:00,Qatar,0.5683304270589837,1,1,es,ARP,Asia
+'8068e6b5b7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica españa,2026-06-06T06:08:00+00:00,Spain,0.5682768434430611,1,1,es,MED,Europe
 '476647561e',extremes,Drought,#edc291,edo,sequía nicaragua,2026-06-21T07:16:00+00:00,Nicaragua,0.5678916687224783,2,1,es,SCA,North-America
 '1617e554bb',extremes,Storm,#b3b2b1,wmo,marejada ciclónica en zonas costeras y mar adentro.,2026-06-13T06:38:00+00:00,Belize,0.5675495305251353,1,1,es,SCA,North-America
 'f02f91db16',extremes,Snow&Ice,#d60d2b,wmo,congelación en el este del condado de Lemhi,2026-06-11T07:14:00+00:00,United States,0.5673933738370857,1,1,es,CNA,North-America
