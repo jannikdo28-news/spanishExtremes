@@ -48,6 +48,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7880553eb9',extremes,Flood,#030ba1,wmo,inundación vernon la,2026-06-16T08:27:00+00:00,United States,0.6593477743217385,0,1,es,CNA,North-America
 'd0fcb12863',extremes,Flood,#030ba1,wmo,inundaciones brazos tx burleson tx,2026-06-15T08:36:00+00:00,United States,0.6593223671643104,0,1,es,CNA,North-America
 '0f2e2a1043',extremes,Flood,#030ba1,wmo,inundación calhoun il greene il jersey il,2026-06-15T08:36:00+00:00,United States,0.6592128479478423,0,1,es,CNA,North-America
+'04775c6cc2',extremes,Flood,#030ba1,wmo,inundación allen la jefferson davis la,2026-06-19T07:39:00+00:00,United States,0.6591993177429479,0,1,es,CNA,North-America
+'fa416d4c20',extremes,Flood,#030ba1,wmo,inundaciones lewis mo,2026-06-11T07:14:00+00:00,United States,0.6591863650799279,0,1,es,CNA,North-America
+'8cffcb8fc2',extremes,Flood,#030ba1,wmo,inundación móvil al,2026-06-19T07:39:00+00:00,United States,0.6591184480526482,0,1,es,CNA,North-America
+'f4c6a7e2ac',extremes,Flood,#030ba1,wmo,inundación repentina baldwin al escambia fl,2026-06-18T07:16:00+00:00,United States,0.6590936315075805,0,1,es,CNA,North-America
+'566f484a3a',extremes,Flood,#030ba1,wmo,inundación cass il mason il,2026-06-22T08:39:00+00:00,United States,0.6590404670681524,0,1,es,CNA,North-America
+'fbc9f3fe89',extremes,Flood,#030ba1,wmo,inundación repentina louisa ia,2026-06-19T07:39:00+00:00,United States,0.6589940688380455,0,1,es,CNA,North-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2026-05-24T06:22:00+00:00,Brazil,0.6589837953249681,1,2,es,SAM,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-06-08T07:13:00+00:00,Ecuador,0.6574529562959391,1,1,es,NWS,South-America
 'dbb3fa7d26',extremes,Earthquake,#870007,usgs,terremoto villa general roca,2026-06-06T06:08:00+00:00,Argentina,0.6528199833760641,2,2,es,SES,South-America
