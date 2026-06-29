@@ -59,6 +59,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4847969641',extremes,Snow&Ice,#d60d2b,wmo,nieve en el norte del condado de elko,2026-06-27T06:08:00+00:00,United States,0.6594409841371659,0,1,es,CNA,North-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2026-05-24T06:22:00+00:00,Brazil,0.6589837953249681,1,2,es,SAM,South-America
 'b553fdf5dc',extremes,Flood,#030ba1,wmo,inundaciones george ms greene ms,2026-06-18T07:16:00+00:00,United States,0.6589241263620539,0,1,es,CNA,North-America
+'c5a25659a7',extremes,Flood,#030ba1,wmo,inundación washington al,2026-06-19T07:39:00+00:00,United States,0.6588100216352294,0,1,es,CNA,North-America
+'9ef284af82',extremes,Flood,#030ba1,wmo,inundaciones ottawa ok,2026-06-12T07:05:00+00:00,United States,0.6587515324098681,0,1,es,CNA,North-America
+'9b88f11582',extremes,Flood,#030ba1,wmo,inundación este baton rouge la,2026-06-18T07:16:00+00:00,United States,0.6587479775208127,0,1,es,CNA,North-America
+'1b499f1d11',extremes,Flood,#030ba1,wmo,inundación repentina gasconade mo montgomery mo,2026-06-15T08:36:00+00:00,United States,0.6587132526099652,0,1,es,CNA,North-America
+'6227dca4a5',extremes,Flood,#030ba1,wmo,inundación st. tammany la,2026-06-17T07:33:00+00:00,United States,0.6586888753498638,0,1,es,CNA,North-America
+'6b3dbb8f9e',extremes,Flood,#030ba1,wmo,inundación cherokee ks labette ks,2026-06-11T07:14:00+00:00,United States,0.658684232341408,0,1,es,CNA,North-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-06-08T07:13:00+00:00,Ecuador,0.6574529562959391,1,1,es,NWS,South-America
 'dbb3fa7d26',extremes,Earthquake,#870007,usgs,terremoto villa general roca,2026-06-06T06:08:00+00:00,Argentina,0.6528199833760641,2,2,es,SES,South-America
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2026-06-01T07:30:00+00:00,Bolivia,0.6521517454830794,1,1,es,SES,South-America
