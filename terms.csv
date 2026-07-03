@@ -1,10 +1,15 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-06-27T06:08:00+00:00,Argentina,0.7875063610314257,3,3,es,SES,South-America
 '08e807a46b',extremes,Heat Wave,#c40202,wmo,ola de calor vertiente cantábrica de navarra,2026-06-18T07:16:00+00:00,Spain,0.7595393079173607,2,2,es,MED,Europe
+'d709206c08',extremes,Storm,#b3b2b1,wmo,tormenta reg. 15 cordillera,2026-07-03T06:09:00+00:00,Chile,0.7553547243679745,0,1,es,SWS,South-America
+'e739a7d025',extremes,Storm,#b3b2b1,wmo,tormenta región litoral,2026-07-03T06:09:00+00:00,Ecuador,0.7549649771154396,0,1,es,NWS,South-America
+'81f79ba492',extremes,Storm,#b3b2b1,wmo,tormenta región interandina y amazónica,2026-07-03T06:09:00+00:00,Ecuador,0.7534617705743312,0,1,es,NWS,South-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-05-16T05:40:00+00:00,Chile,0.7471315340907044,2,3,es,SWS,South-America
+'be647fc7a4',extremes,Storm,#b3b2b1,wmo,marejada ciclónica ecuador,2026-07-03T06:09:00+00:00,Ecuador,0.7450169234896196,0,1,es,NWS,South-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,lluvia ecuador,2026-05-18T06:38:00+00:00,Ecuador,0.7426525234811663,2,3,es,NWS,South-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-05-26T06:31:00+00:00,Chile,0.7413783394074319,2,3,es,SWS,South-America
 '1e08672b47',extremes,Earthquake,#870007,usgs,terremoto el progreso,2026-07-01T06:52:00+00:00,Mexico,0.7404963419035759,2,2,es,NCA,North-America
+'48457b6eba',extremes,Earthquake,#870007,usgs,terremoto ovalle,2026-06-16T08:27:00+00:00,Chile,0.7373000226395038,0,1,es,SWS,South-America
 '5c6845871b',extremes,Drought,#edc291,edo,sequía en méxico,2026-05-14T06:02:00+00:00,Mexico,0.732769120761009,1,3,es,NCA,North-America
 '3bb9a06294',extremes,Heat Wave,#c40202,wmo,ola de calor interior de bizkaia,2026-06-12T07:05:00+00:00,Spain,0.7302499296861266,2,2,es,MED,Europe
 'bee7cf7ad2',extremes,Snow&Ice,#d60d2b,wmo,chile helado,2026-06-18T07:16:00+00:00,Chile,0.7290154215092628,2,2,es,SWS,South-America
@@ -54,6 +59,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '79948e7ab3',extremes,Heat Wave,#c40202,wmo,ola de calor valle del guadalquivir de jaén,2026-05-29T06:38:00+00:00,Spain,0.6618606912376069,2,2,es,MED,Europe
 'bd8c8650ea',extremes,Earthquake,#870007,usgs,terremoto el aguilar,2026-06-17T07:33:00+00:00,Argentina,0.6593957952806654,2,1,es,SES,South-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2026-05-24T06:22:00+00:00,Brazil,0.6589837953249681,1,2,es,SAM,South-America
+'35008bd929',extremes,Flood,#030ba1,wmo,inundación brazos tx grimes tx madison tx,2026-06-24T06:30:00+00:00,United States,0.657765284573631,0,1,es,CNA,North-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-06-08T07:13:00+00:00,Ecuador,0.6574529562959391,1,1,es,NWS,South-America
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,hielo argentina,2026-06-09T06:32:00+00:00,Argentina,0.6572289744747952,2,2,es,SES,South-America
 'dbb3fa7d26',extremes,Earthquake,#870007,usgs,terremoto villa general roca,2026-06-06T06:08:00+00:00,Argentina,0.6528199833760641,2,2,es,SES,South-America
