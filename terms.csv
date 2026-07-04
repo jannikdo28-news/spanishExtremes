@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-06-27T06:08:00+00:00,Argentina,0.783422980967621,4,3,es,SES,South-America
+'997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-06-27T06:08:00+00:00,Argentina,0.7708611988224778,5,3,es,SES,South-America
 'e739a7d025',extremes,Storm,#b3b2b1,wmo,tormenta región litoral,2026-07-03T06:09:00+00:00,Ecuador,0.7616775834052665,1,2,es,NWS,South-America
 '08e807a46b',extremes,Heat Wave,#c40202,wmo,ola de calor vertiente cantábrica de navarra,2026-06-18T07:16:00+00:00,Spain,0.7595393079173607,2,2,es,MED,Europe
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-05-16T05:40:00+00:00,Chile,0.7471315340907044,2,3,es,SWS,South-America
