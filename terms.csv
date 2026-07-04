@@ -4,7 +4,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e739a7d025',extremes,Storm,#b3b2b1,wmo,tormenta región litoral,2026-07-03T06:09:00+00:00,Ecuador,0.7616775834052665,1,2,es,NWS,South-America
 '08e807a46b',extremes,Heat Wave,#c40202,wmo,ola de calor vertiente cantábrica de navarra,2026-06-18T07:16:00+00:00,Spain,0.7595393079173607,2,2,es,MED,Europe
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-05-16T05:40:00+00:00,Chile,0.7471315340907044,2,3,es,SWS,South-America
-'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2026-07-04T05:59:00+00:00,Chile,0.7464150512657896,0,1,es,SWS,South-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,lluvia ecuador,2026-05-18T06:38:00+00:00,Ecuador,0.7426525234811663,2,3,es,NWS,South-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-05-26T06:31:00+00:00,Chile,0.7413783394074319,2,3,es,SWS,South-America
 '1e08672b47',extremes,Earthquake,#870007,usgs,terremoto el progreso,2026-07-01T06:52:00+00:00,Mexico,0.7404963419035759,2,2,es,NCA,North-America
@@ -46,7 +45,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,huracán estados unidos,2026-07-04T05:59:00+00:00,United States,0.6687437022291416,0,1,es,CNA,North-America
 '4c0e0f411e',extremes,Storm,#b3b2b1,wmo,tormenta región amazónica,2026-06-15T08:36:00+00:00,Ecuador,0.6686322402880496,2,2,es,NWS,South-America
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial ecuador,2026-06-13T06:38:00+00:00,Ecuador,0.6681799377805244,2,1,es,NWS,South-America
-'04eea37aa0',extremes,Tropical Cyclone,#4f4f4f,wmo,ciclón tropical guam rota tinian saipan,2026-07-04T05:59:00+00:00,United States,0.6678317614092318,0,1,es,CNA,North-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-06-06T06:08:00+00:00,Chile,0.6675562040791279,2,2,es,SWS,South-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2026-06-27T06:08:00+00:00,United States,0.6664984914465326,0,1,es,CNA,North-America
 '6b892b36d0',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – moderada,2026-06-08T07:13:00+00:00,Paraguay,0.6654627590115351,2,2,es,SES,South-America
@@ -82,6 +80,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-05-31T06:40:00+00:00,Argentina,0.6386785128440348,1,1,es,SES,South-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-06-18T07:16:00+00:00,Paraguay,0.6361611485368718,1,1,es,SES,South-America
 '33caf0c926',extremes,Heat Wave,#c40202,wmo,ola de calor fuerteventura,2026-05-23T05:53:00+00:00,Spain,0.6351242796186992,2,2,es,MED,Europe
+'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2026-07-04T05:59:00+00:00,Chile,0.6349028385759211,1,1,es,SWS,South-America
 'd61de81685',extremes,Storm,#b3b2b1,wmo,marejada ciclónica chile,2026-05-28T06:38:00+00:00,Chile,0.6346502641774452,1,1,es,SWS,South-America
 'aaee78223c',extremes,Precipitation,#d60d2b,wmo,aguacero región litoral e interandina,2026-06-18T07:16:00+00:00,Ecuador,0.6345284077697972,1,1,es,NWS,South-America
 '734861543c',extremes,Storm,#b3b2b1,wmo,marejada ciclónica región amazónica,2026-06-13T06:38:00+00:00,Ecuador,0.6339799168680496,1,1,es,NWS,South-America
@@ -190,6 +189,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7477f7090e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica دولة قطر,2026-06-04T07:06:00+00:00,Qatar,0.5683304270589837,1,1,es,ARP,Asia
 '8068e6b5b7',extremes,Storm,#b3b2b1,wmo,marejada ciclónica españa,2026-06-06T06:08:00+00:00,Spain,0.5682768434430611,1,1,es,MED,Europe
 '476647561e',extremes,Drought,#edc291,edo,sequía nicaragua,2026-06-21T07:16:00+00:00,Nicaragua,0.5678916687224783,2,1,es,SCA,North-America
+'04eea37aa0',extremes,Tropical Cyclone,#4f4f4f,wmo,ciclón tropical guam rota tinian saipan,2026-07-04T05:59:00+00:00,United States,0.567656997197847,1,1,es,CNA,North-America
 '1617e554bb',extremes,Storm,#b3b2b1,wmo,marejada ciclónica en zonas costeras y mar adentro.,2026-06-13T06:38:00+00:00,Belize,0.5675495305251353,1,1,es,SCA,North-America
 'f02f91db16',extremes,Snow&Ice,#d60d2b,wmo,congelación en el este del condado de Lemhi,2026-06-11T07:14:00+00:00,United States,0.5673933738370857,1,1,es,CNA,North-America
 '05396a2590',extremes,Storm,#b3b2b1,wmo,tormenta دولة قطر,2026-06-06T06:08:00+00:00,Qatar,0.5671175567727323,1,1,es,ARP,Asia
