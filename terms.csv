@@ -51,6 +51,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-06-06T06:08:00+00:00,Chile,0.6675562040791279,2,2,es,SWS,South-America
 '308eac6e0e',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón guam,2026-07-05T06:25:00+00:00,United States,0.666356167126369,0,1,es,CNA,North-America
 '6b892b36d0',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – moderada,2026-06-08T07:13:00+00:00,Paraguay,0.6654627590115351,2,2,es,SES,South-America
+'3d8da6f8cf',extremes,Tropical Cyclone,#4f4f4f,wmo,huracán rota,2026-07-05T06:25:00+00:00,United States,0.664387546711388,0,1,es,CNA,North-America
+'a64243c96e',extremes,Earthquake,#870007,usgs,terremoto atico,2026-07-05T06:24:00+00:00,Peru,0.6642609940781943,0,1,es,SWS,South-America
 'ec60b7df34',extremes,Heat Wave,#c40202,wmo,ola de calor estados unidos,2026-06-14T07:07:00+00:00,United States,0.6636478982900715,1,3,es,CNA,North-America
 '27002f7a08',extremes,Heat Wave,#c40202,wmo,ola de calor españa,2026-05-21T06:35:00+00:00,Spain,0.6635113260094754,1,2,es,MED,Europe
 '9c373151bb',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – severa,2026-06-10T06:49:00+00:00,Paraguay,0.6625778975081844,2,1,es,SES,South-America
@@ -62,6 +64,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2026-05-24T06:22:00+00:00,Brazil,0.6589837953249681,1,2,es,SAM,South-America
 '3421a57149',extremes,Storm,#b3b2b1,wmo,tormenta ecuador,2026-06-08T07:13:00+00:00,Ecuador,0.6574529562959391,1,1,es,NWS,South-America
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,hielo argentina,2026-06-09T06:32:00+00:00,Argentina,0.6572289744747952,2,2,es,SES,South-America
+'3f21782c88',extremes,Flood,#030ba1,wmo,inundaciones crawford wi,2026-07-05T06:25:00+00:00,United States,0.6570272996018157,0,1,es,CNA,North-America
+'4296da6029',extremes,Flood,#030ba1,wmo,inundación repentina george ms,2026-06-20T06:47:00+00:00,United States,0.6569232450156228,0,1,es,CNA,North-America
+'f9353da6b5',extremes,Flood,#030ba1,wmo,inundación carroll mo chariton mo,2026-06-16T08:27:00+00:00,United States,0.6568360265926819,0,1,es,CNA,North-America
+'657496cac5',extremes,Flood,#030ba1,wmo,inundación washington río la perla ms,2026-06-23T06:33:00+00:00,United States,0.6567605830610459,0,1,es,CNA,North-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2026-06-27T06:08:00+00:00,United States,0.6532925895477345,1,3,es,CNA,North-America
 'dbb3fa7d26',extremes,Earthquake,#870007,usgs,terremoto villa general roca,2026-06-06T06:08:00+00:00,Argentina,0.6528199833760641,2,2,es,SES,South-America
 '0317e93d3c',extremes,Snow&Ice,#d60d2b,wmo,chile helado,2026-06-12T07:05:00+00:00,Chile,0.6487214234082931,1,1,es,SWS,South-America
