@@ -72,6 +72,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '800b2252f9',extremes,Flood,#030ba1,wmo,inundación angelina tx nacogdoches tx,2026-06-19T07:39:00+00:00,United States,0.6565465859350346,0,1,es,CNA,North-America
 '31c2adc4a5',extremes,Flood,#030ba1,wmo,inundación pawnee ks stafford ks,2026-06-26T06:36:00+00:00,United States,0.6565292232103692,0,1,es,CNA,North-America
 '1776577726',extremes,Flood,#030ba1,wmo,inundaciones bossier la webster la,2026-07-01T06:52:00+00:00,United States,0.6564915223635304,0,1,es,CNA,North-America
+'28ce74fedf',extremes,Flood,#030ba1,wmo,inundación del río washington la perla ms,2026-06-17T07:33:00+00:00,United States,0.6564124676043406,0,1,es,CNA,North-America
+'e0c5181a61',extremes,Flood,#030ba1,wmo,inundaciones sumner ks,2026-06-22T08:39:00+00:00,United States,0.6564016631641808,0,1,es,CNA,North-America
+'315ce37694',extremes,Wildfire,#d60d2b,wmo,incendio forestal en la cuenca baja de columbia de oregon,2026-07-03T06:09:00+00:00,United States,0.6563086800087775,0,1,es,CNA,North-America
+'191378b1a4',extremes,Flood,#030ba1,wmo,inundación del río perla ms,2026-06-20T06:47:00+00:00,United States,0.6562584818322429,0,1,es,CNA,North-America
+'bf655581b5',extremes,Flood,#030ba1,wmo,inundación columbia ar webster la,2026-06-28T06:44:00+00:00,United States,0.6561676805914687,0,1,es,CNA,North-America
+'e8987f9879',extremes,Wildfire,#d60d2b,wmo,incendio forestal en las cabeceras del río colorado,2026-06-30T06:39:00+00:00,United States,0.6560985338186149,0,1,es,CNA,North-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2026-06-27T06:08:00+00:00,United States,0.6532925895477345,1,3,es,CNA,North-America
 'dbb3fa7d26',extremes,Earthquake,#870007,usgs,terremoto villa general roca,2026-06-06T06:08:00+00:00,Argentina,0.6528199833760641,2,2,es,SES,South-America
 '0317e93d3c',extremes,Snow&Ice,#d60d2b,wmo,chile helado,2026-06-12T07:05:00+00:00,Chile,0.6487214234082931,1,1,es,SWS,South-America
