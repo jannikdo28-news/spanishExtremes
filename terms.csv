@@ -77,6 +77,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '191378b1a4',extremes,Flood,#030ba1,wmo,inundación del río perla ms,2026-06-20T06:47:00+00:00,United States,0.6562584818322429,0,1,es,CNA,North-America
 'bf655581b5',extremes,Flood,#030ba1,wmo,inundación columbia ar webster la,2026-06-28T06:44:00+00:00,United States,0.6561676805914687,0,1,es,CNA,North-America
 'e8987f9879',extremes,Wildfire,#d60d2b,wmo,incendio forestal en las cabeceras del río colorado,2026-06-30T06:39:00+00:00,United States,0.6560985338186149,0,1,es,CNA,North-America
+'6087aa661b',extremes,Flood,#030ba1,wmo,inundación bexar tx comal tx kendall tx,2026-06-20T06:47:00+00:00,United States,0.6559654143481072,0,1,es,CNA,North-America
+'3d5ac23d55',extremes,Wildfire,#d60d2b,wmo,incendio forestal en el valle inferior de kobuk,2026-07-08T05:37:00+00:00,United States,0.6559189603704518,0,1,es,CNA,North-America
+'4f08e7e227',extremes,Flood,#030ba1,wmo,inundación repentina george ms greene ms,2026-06-19T07:39:00+00:00,United States,0.6558095128482306,0,1,es,CNA,North-America
+'b5fb628eef',extremes,Flood,#030ba1,wmo,inundaciones richland wi vernon wi,2026-07-04T05:59:00+00:00,United States,0.6557744846663728,0,1,es,CNA,North-America
+'558463c960',extremes,Heat Wave,#c40202,wmo,ola de calor prelitoral de barcelona,2026-06-20T06:47:00+00:00,Spain,0.6557544295309083,0,1,es,MED,Europe
+'c34cf32b9b',extremes,Wildfire,#d60d2b,wmo,incendio forestal río blanco,2026-06-28T06:44:00+00:00,United States,0.6556703114478076,0,1,es,CNA,North-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2026-06-27T06:08:00+00:00,United States,0.6532925895477345,1,3,es,CNA,North-America
 'dbb3fa7d26',extremes,Earthquake,#870007,usgs,terremoto villa general roca,2026-06-06T06:08:00+00:00,Argentina,0.6528199833760641,2,2,es,SES,South-America
 '0317e93d3c',extremes,Snow&Ice,#d60d2b,wmo,chile helado,2026-06-12T07:05:00+00:00,Chile,0.6487214234082931,1,1,es,SWS,South-America
