@@ -1,12 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial argentina,2026-06-18T07:16:00+00:00,Argentina,0.8169586025024,2,2,es,SES,South-America
 '1eb7a3a4d3',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial costa rica,2026-07-04T05:59:00+00:00,Costa Rica,0.7934610495062471,1,2,es,SCA,North-America
+'5bcfa907bb',extremes,Storm,#b3b2b1,wmo,tormenta quito,2026-07-12T05:43:00+00:00,Ecuador,0.7850079521169968,1,2,es,NWS,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-06-27T06:08:00+00:00,Argentina,0.7708611988224778,5,3,es,SES,South-America
 'e739a7d025',extremes,Storm,#b3b2b1,wmo,tormenta región litoral,2026-07-03T06:09:00+00:00,Ecuador,0.7616775834052665,1,2,es,NWS,South-America
 '08e807a46b',extremes,Heat Wave,#c40202,wmo,ola de calor vertiente cantábrica de navarra,2026-06-18T07:16:00+00:00,Spain,0.7595393079173607,2,2,es,MED,Europe
-'8f29727ea9',extremes,Drought,#edc291,edo,sequía guinea ecuatorial,2026-06-23T06:33:00+00:00,Equatorial Guinea,0.7584294422157123,0,1,es,WAF,Africa
-'35c5babf8a',extremes,Storm,#b3b2b1,wmo,tormenta amazonía y norte de litoral,2026-07-12T05:43:00+00:00,Ecuador,0.7467316529040804,0,1,es,NWS,South-America
-'5bcfa907bb',extremes,Storm,#b3b2b1,wmo,tormenta quito,2026-07-12T05:43:00+00:00,Ecuador,0.7467152024905844,0,1,es,NWS,South-America
 'c3bed96c37',extremes,Precipitation,#d60d2b,wmo,aguacero méxico,2026-07-12T05:43:00+00:00,Mexico,0.7449248296108141,0,1,es,NCA,North-America
 '136338a1d6',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial coah nl,2026-07-12T05:43:00+00:00,Mexico,0.7434318509883635,0,1,es,NCA,North-America
 'b91eb8316e',extremes,Precipitation,#d60d2b,wmo,aguacero campamento yuc,2026-07-12T05:43:00+00:00,Mexico,0.741779618151402,0,1,es,NCA,North-America
@@ -102,6 +100,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,heladas argentina,2026-06-09T06:32:00+00:00,Argentina,0.6459550197555894,1,1,es,SES,South-America
 '80b81cc984',extremes,Heat Wave,#c40202,wmo,ola de calor suroeste de a coruña,2026-07-03T06:09:00+00:00,Spain,0.6455347423586488,2,2,es,MED,Europe
 'e1c395ee0f',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial quito,2026-07-11T05:27:00+00:00,Ecuador,0.6452085280050781,1,1,es,NWS,South-America
+'8f29727ea9',extremes,Drought,#edc291,edo,sequía guinea ecuatorial,2026-06-23T06:33:00+00:00,Equatorial Guinea,0.6446650258833554,1,1,es,WAF,Africa
 '82ed5705b2',extremes,Precipitation,#d60d2b,wmo,aguacero costa rica,2026-06-23T06:33:00+00:00,Costa Rica,0.644387182671516,2,1,es,SCA,North-America
 '493ff10b88',extremes,Earthquake,#870007,usgs,terremoto panamá,2026-06-08T07:13:00+00:00,Panama,0.6435031874157199,1,2,es,SCA,North-America
 'd709206c08',extremes,Storm,#b3b2b1,wmo,tormenta reg. 15 cordillera,2026-07-03T06:09:00+00:00,Chile,0.6420515157127783,1,1,es,SWS,South-America
@@ -112,6 +111,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7d68920b56',extremes,Earthquake,#870007,usgs,terremoto nicaragua,2026-05-26T06:31:00+00:00,Nicaragua,0.6389591460651787,1,2,es,SCA,North-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-06-18T07:16:00+00:00,Paraguay,0.6361611485368718,1,1,es,SES,South-America
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2026-07-04T05:59:00+00:00,Chile,0.6349028385759211,1,1,es,SWS,South-America
+'35c5babf8a',extremes,Storm,#b3b2b1,wmo,tormenta amazonía y norte de litoral,2026-07-12T05:43:00+00:00,Ecuador,0.6347219049684684,1,1,es,NWS,South-America
 'aaee78223c',extremes,Precipitation,#d60d2b,wmo,aguacero región litoral e interandina,2026-06-18T07:16:00+00:00,Ecuador,0.6345284077697972,1,1,es,NWS,South-America
 'd61de81685',extremes,Storm,#b3b2b1,wmo,marejada ciclónica chile,2026-07-08T05:37:00+00:00,Chile,0.6344654242725148,1,1,es,SWS,South-America
 '734861543c',extremes,Storm,#b3b2b1,wmo,marejada ciclónica región amazónica,2026-06-13T06:38:00+00:00,Ecuador,0.6339799168680496,1,1,es,NWS,South-America
