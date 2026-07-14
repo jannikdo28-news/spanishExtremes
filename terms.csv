@@ -10,7 +10,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1e08672b47',extremes,Earthquake,#870007,usgs,terremoto el progreso,2026-07-01T06:52:00+00:00,Mexico,0.7404963419035759,2,2,es,NCA,North-America
 '77d490ebd6',extremes,Drought,#edc291,edo,sequía panamá,2026-06-26T06:36:00+00:00,Panama,0.7399542377542364,0,1,es,SCA,North-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-06-27T06:08:00+00:00,Chile,0.7395240779041894,1,3,es,SWS,South-America
-'3f426b0479',extremes,Drought,#edc291,edo,sequía chile,2026-07-07T06:30:00+00:00,Chile,0.7343737310943979,0,1,es,SPO,Pacific Ocean
 '3bb9a06294',extremes,Heat Wave,#c40202,wmo,ola de calor interior de bizkaia,2026-06-12T07:05:00+00:00,Spain,0.7302499296861266,2,2,es,MED,Europe
 '7f5804bd83',extremes,Earthquake,#870007,usgs,terremoto santa rosa,2026-07-13T05:53:00+00:00,Peru,0.7295949037257249,0,1,es,NWS,South-America
 'bee7cf7ad2',extremes,Snow&Ice,#d60d2b,wmo,chile helado,2026-06-18T07:16:00+00:00,Chile,0.7290154215092628,2,2,es,SWS,South-America
@@ -116,6 +115,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b2ab090487',extremes,Precipitation,#d60d2b,wmo,lluvia chis gro oax pue ver,2026-07-13T05:53:00+00:00,Mexico,0.6425253326698616,1,1,es,NCA,North-America
 'd709206c08',extremes,Storm,#b3b2b1,wmo,tormenta reg. 15 cordillera,2026-07-03T06:09:00+00:00,Chile,0.6420515157127783,1,1,es,SWS,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paraguay,2026-06-22T08:39:00+00:00,Paraguay,0.6413218465194228,1,1,es,SES,South-America
+'3f426b0479',extremes,Drought,#edc291,edo,sequía chile,2026-07-07T06:30:00+00:00,Chile,0.6411543650666018,1,2,es,SPO,Pacific Ocean
 '52b1763615',extremes,Earthquake,#870007,usgs,terremoto el hoyo,2026-06-25T06:32:00+00:00,Argentina,0.6397095948250319,2,1,es,SES,South-America
 'a828348731',extremes,Storm,#b3b2b1,wmo,tormenta costa rica,2026-06-09T06:32:00+00:00,Costa Rica,0.6395705339299206,2,2,es,SCA,North-America
 'a43b4b4e31',extremes,Storm,#b3b2b1,wmo,tormenta región litoral e interandina,2026-06-25T06:32:00+00:00,Ecuador,0.6393716889686066,1,1,es,NWS,South-America
