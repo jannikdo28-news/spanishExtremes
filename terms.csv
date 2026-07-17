@@ -10,12 +10,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c3bed96c37',extremes,Precipitation,#d60d2b,wmo,aguacero méxico,2026-07-12T05:43:00+00:00,Mexico,0.7409848160312609,1,3,es,NCA,North-America
 '1e08672b47',extremes,Earthquake,#870007,usgs,terremoto el progreso,2026-07-01T06:52:00+00:00,Mexico,0.7404963419035759,2,2,es,NCA,North-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-06-27T06:08:00+00:00,Chile,0.7395240779041894,1,3,es,SWS,South-America
-'da616f2571',extremes,Earthquake,#870007,usgs,terremoto pichigua,2026-07-17T05:27:00+00:00,Peru,0.7370672386045675,0,1,es,SAM,South-America
-'23acda9b4d',extremes,Precipitation,#d60d2b,wmo,precipitación oax,2026-07-17T05:27:00+00:00,Mexico,0.7323464051979902,0,1,es,NCA,North-America
 '3bb9a06294',extremes,Heat Wave,#c40202,wmo,ola de calor interior de bizkaia,2026-06-12T07:05:00+00:00,Spain,0.7302499296861266,2,2,es,MED,Europe
 'bee7cf7ad2',extremes,Snow&Ice,#d60d2b,wmo,chile helado,2026-06-18T07:16:00+00:00,Chile,0.7290154215092628,2,2,es,SWS,South-America
 '80e021d8c4',extremes,Snow&Ice,#d60d2b,wmo,hielo estados unidos,2026-06-06T06:08:00+00:00,United States,0.7282345799837079,2,3,es,CNA,North-America
-'165cc0ca4c',extremes,Precipitation,#d60d2b,wmo,lluvia chih dgo,2026-07-17T05:27:00+00:00,Mexico,0.7271977332470462,0,1,es,NCA,North-America
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2026-06-26T06:35:00+00:00,Bolivia,0.7247223752024488,1,2,es,SWS,South-America
 '5e67a6e3c8',extremes,Earthquake,#870007,usgs,terremoto coquimbo,2026-07-06T06:52:00+00:00,Chile,0.7239737609238449,1,2,es,SWS,South-America
 '719b23b5eb',extremes,Earthquake,#870007,usgs,terremoto caraballeda,2026-06-30T06:39:00+00:00,Venezuela,0.7238145409101249,1,3,es,NSA,South-America
@@ -24,7 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5a8587427b',extremes,Snow&Ice,#d60d2b,wmo,estados unidos helados,2026-06-07T06:48:00+00:00,United States,0.7204141605169854,1,3,es,CNA,North-America
 '0514da3654',extremes,Snow&Ice,#d60d2b,wmo,hielo brasil,2026-06-15T08:36:00+00:00,Brazil,0.7190092743899017,1,2,es,SAM,South-America
 '814c50c438',extremes,Heat Wave,#c40202,wmo,ola de calor centro de navarra,2026-06-17T07:33:00+00:00,Spain,0.7186801475194634,1,2,es,MED,Europe
-'5ef8bde497',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial pue,2026-07-17T05:27:00+00:00,Mexico,0.7157205702806315,0,1,es,NCA,North-America
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,Brasil helado,2026-06-04T07:06:00+00:00,Brazil,0.715570317115828,1,2,es,SAM,South-America
 'd2b3cefe08',extremes,Precipitation,#d60d2b,wmo,precipitación costa rica,2026-06-07T06:48:00+00:00,Costa Rica,0.709667631171283,2,2,es,SCA,North-America
 'a6e9427fb1',extremes,Earthquake,#870007,usgs,terremoto colombia,2026-06-20T06:46:00+00:00,Colombia,0.706670797021751,1,2,es,NWS,South-America
@@ -47,8 +43,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-07-09T06:27:00+00:00,Argentina,0.6885538949064857,1,1,es,SES,South-America
 '1895f26add',extremes,Precipitation,#d60d2b,wmo,lluvias torrenciales en zonas del sur y algunas zonas centrales.,2026-06-02T07:08:00+00:00,Belize,0.6844486613962456,2,2,es,SCA,North-America
 'f1101350a4',extremes,Storm,#b3b2b1,wmo,tormenta chile,2026-05-27T06:46:00+00:00,Chile,0.6818924660151507,2,3,es,SWS,South-America
-'c6ce45829e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica brasil,2026-06-27T06:08:00+00:00,Brazil,0.6793651399801443,0,1,es,SAM,South-America
-'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,ola de frío brasil,2026-06-30T06:39:00+00:00,Brazil,0.6737291951152379,0,1,es,SAM,South-America
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,incendio forestal estados unidos,2026-06-26T06:36:00+00:00,United States,0.6710059670925365,0,1,es,CNA,North-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,lluvia brasil,2026-06-17T07:33:00+00:00,Brazil,0.6704265910639237,1,3,es,SAM,South-America
 'e7db391dce',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa rica,2026-06-25T06:32:00+00:00,Costa Rica,0.6702909740524944,2,1,es,SCA,North-America
@@ -167,17 +161,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd389bc4f63',extremes,Earthquake,#870007,usgs,terremoto mexico,2026-06-08T07:13:00+00:00,Mexico,0.6302609340918908,1,1,es,SCA,North-America
 '925cc6c6e9',extremes,Drought,#edc291,edo,sequía en costa rica,2026-07-08T05:37:00+00:00,Costa Rica,0.6283326439254927,1,1,es,SCA,South-America
 'fd48a0e5dc',extremes,Earthquake,#870007,usgs,terremoto cuba,2026-06-10T06:49:00+00:00,Cuba,0.6271755210894333,2,1,es,CAR,North-America
+'da616f2571',extremes,Earthquake,#870007,usgs,terremoto pichigua,2026-07-17T05:27:00+00:00,Peru,0.6265071528138824,1,1,es,SAM,South-America
 'e649f95a38',extremes,Precipitation,#d60d2b,wmo,precipitación región litoral e interandina,2026-06-25T06:32:00+00:00,Ecuador,0.6262414340012344,1,1,es,NWS,South-America
 '2c74300c6f',extremes,Precipitation,#d60d2b,wmo,aguacero chih dgo sin son,2026-07-16T05:25:00+00:00,Mexico,0.6256709481117393,1,1,es,NCA,North-America
 'b416b7c4db',extremes,Earthquake,#870007,usgs,terremoto mantua,2026-06-09T06:32:00+00:00,Cuba,0.6250194115738716,1,1,es,CAR,North-America
 'fc6abeb657',extremes,Earthquake,#870007,usgs,terremoto boconó,2026-06-18T07:16:00+00:00,Venezuela,0.6235138094818112,1,1,es,NSA,South-America
 'def0328fc5',extremes,Earthquake,#870007,usgs,terremoto villanueva,2026-06-18T07:16:00+00:00,Colombia,0.6233833695784603,1,1,es,NWS,South-America
 'a6561c66c0',extremes,Drought,#edc291,edo,sequía en Perú,2026-06-28T06:44:00+00:00,Peru,0.6231843918161792,1,1,es,NWS,South-America
+'23acda9b4d',extremes,Precipitation,#d60d2b,wmo,precipitación oax,2026-07-17T05:27:00+00:00,Mexico,0.6224944444182917,1,1,es,NCA,North-America
 '27c5f54ce3',extremes,Earthquake,#870007,usgs,terremoto torata,2026-06-24T06:29:00+00:00,Peru,0.6202262367025903,1,1,es,SWS,South-America
 '7f5804bd83',extremes,Earthquake,#870007,usgs,terremoto santa rosa,2026-07-13T05:53:00+00:00,Peru,0.6201556681668662,1,1,es,NWS,South-America
 '8f13e1df9b',extremes,Drought,#edc291,edo,sequía en venezuela,2026-06-25T06:32:00+00:00,Venezuela,0.6195511613866743,1,1,es,NSA,South-America
 '3b46801dfc',extremes,Heat Wave,#c40202,wmo,ola de calor depresión central de lleida,2026-06-16T08:27:00+00:00,Spain,0.6194269552086196,1,1,es,MED,Europe
 '01ebc34a26',extremes,Precipitation,#d60d2b,wmo,lluvia coah,2026-07-16T05:25:00+00:00,Mexico,0.6191933035330895,1,1,es,NCA,North-America
+'165cc0ca4c',extremes,Precipitation,#d60d2b,wmo,lluvia chih dgo,2026-07-17T05:27:00+00:00,Mexico,0.6181180732599892,1,1,es,NCA,North-America
 'f12ce0c729',extremes,Earthquake,#870007,usgs,terremoto orotina,2026-07-09T06:27:00+00:00,Costa Rica,0.6163550437667966,2,1,es,SCA,North-America
 '1c7e00e8dd',extremes,Heat Wave,#c40202,wmo,ola de calor meseta de soria,2026-06-20T06:47:00+00:00,Spain,0.616216891366872,2,2,es,MED,Europe
 '3f266fe1f6',extremes,Earthquake,#870007,usgs,terremoto puerto el triunfo,2026-06-25T06:32:00+00:00,El Salvador,0.6156456144186595,1,1,es,SCA,North-America
@@ -189,6 +186,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fff5bce6dd',extremes,Heat Wave,#c40202,wmo,ola de calor sur de huesca,2026-06-18T07:16:00+00:00,Spain,0.6097321357123243,2,1,es,MED,Europe
 '308eac6e0e',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón guam,2026-07-05T06:25:00+00:00,United States,0.6091973862488017,2,1,es,CNA,North-America
 '174e70acae',extremes,Thunderstorm,#53785a,wmo,clima severo españa,2026-06-18T07:16:00+00:00,Spain,0.608369598831437,2,2,es,MED,Europe
+'5ef8bde497',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial pue,2026-07-17T05:27:00+00:00,Mexico,0.6083624847385368,1,1,es,NCA,North-America
 'e528d858c2',extremes,Snow&Ice,#d60d2b,wmo,heladas brasil,2026-06-15T08:36:00+00:00,Brazil,0.6081885165320161,1,2,es,SAM,South-America
 '3d8da6f8cf',extremes,Tropical Cyclone,#4f4f4f,wmo,huracán rota,2026-07-05T06:25:00+00:00,United States,0.6079025857489777,2,1,es,CNA,North-America
 '234a1d14a7',extremes,Earthquake,#870007,usgs,terremoto tamarindo,2026-07-07T06:30:00+00:00,Costa Rica,0.607484402480425,1,1,es,SCA,South-America
@@ -217,6 +215,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8cffcb8fc2',extremes,Flood,#030ba1,wmo,inundación móvil al,2026-06-19T07:39:00+00:00,United States,0.5887958007180384,2,1,es,CNA,North-America
 '393400b105',extremes,Drought,#edc291,edo,sequedad puerto rico,2026-07-13T05:53:00+00:00,Puerto Rico,0.5887919756990003,1,1,es,CAR,North-America
 '9b0be5e406',extremes,Drought,#edc291,edo,sequía en colombia,2026-06-25T06:32:00+00:00,Colombia,0.5881882668076889,1,2,es,NWS,South-America
+'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,ola de frío brasil,2026-06-30T06:39:00+00:00,Brazil,0.5881086673864138,1,2,es,SAM,South-America
 '559f239993',extremes,Heat Wave,#c40202,wmo,ola de calor cinco villas de zaragoza,2026-06-16T08:27:00+00:00,Spain,0.5878805154221919,1,1,es,MED,Europe
 '6c2aa26b6c',extremes,Drought,#edc291,edo,sequedad ecuador,2026-07-10T06:27:00+00:00,Ecuador,0.587734813952954,1,1,es,EPO,Pacific Ocean
 '55946bf748',extremes,Drought,#edc291,edo,sequía paraguay,2026-07-13T05:53:00+00:00,Paraguay,0.5872377237194593,1,1,es,SES,South-America
@@ -236,6 +235,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '22055e4283',extremes,Drought,#edc291,edo,sequía nicaragua,2026-06-08T07:13:00+00:00,Nicaragua,0.5805688900760938,1,1,es,SCA,North-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2026-07-07T06:30:00+00:00,Brazil,0.5785903306424901,1,1,es,SAM,South-America
 'deebf112c9',extremes,Drought,#edc291,edo,falta de lluvia colombia,2026-06-24T06:30:00+00:00,Colombia,0.5775274622589283,2,1,es,NWS,South-America
+'c6ce45829e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica brasil,2026-06-27T06:08:00+00:00,Brazil,0.5774603689831226,1,1,es,SAM,South-America
 'f760624a54',extremes,Earthquake,#870007,usgs,terremoto vallenar,2026-06-12T07:05:00+00:00,Chile,0.5772448224669593,1,1,es,SWS,South-America
 '4eb11b9f9a',extremes,Earthquake,#870007,usgs,terremoto caucagüito,2026-06-27T06:08:00+00:00,Venezuela,0.5768706684778505,2,1,es,NSA,South-America
 'e1048c4180',extremes,Drought,#edc291,edo,sequedad uruguay,2026-06-19T07:39:00+00:00,Uruguay,0.5753653618712609,1,1,es,SES,South-America
