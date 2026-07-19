@@ -24,6 +24,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '814c50c438',extremes,Heat Wave,#c40202,wmo,ola de calor centro de navarra,2026-06-17T07:33:00+00:00,Spain,0.7186801475194634,1,2,es,MED,Europe
 '386f71a7fb',extremes,Precipitation,#d60d2b,wmo,lluvia costa rica,2026-07-18T05:10:00+00:00,Costa Rica,0.7164522685952402,0,1,es,SCA,North-America
 'd7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,Brasil helado,2026-06-04T07:06:00+00:00,Brazil,0.715570317115828,1,2,es,SAM,South-America
+'cc9c315c8c',extremes,Earthquake,#870007,usgs,terremoto puerto madero,2026-07-18T05:10:00+00:00,Mexico,0.7149508420850245,1,2,es,SCA,North-America
 '0fa731fd34',extremes,Drought,#edc291,edo,sequedad honduras,2026-07-01T06:52:00+00:00,Honduras,0.7138167898920426,0,1,es,SCA,North-America
 'd2b3cefe08',extremes,Precipitation,#d60d2b,wmo,precipitación costa rica,2026-06-07T06:48:00+00:00,Costa Rica,0.709667631171283,2,2,es,SCA,North-America
 'a6e9427fb1',extremes,Earthquake,#870007,usgs,terremoto colombia,2026-06-20T06:46:00+00:00,Colombia,0.706670797021751,1,2,es,NWS,South-America
@@ -46,7 +47,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,incendio forestal estados unidos,2026-06-26T06:36:00+00:00,United States,0.6876898824132713,1,2,es,CNA,North-America
 '8a6ebb5b5c',extremes,Drought,#edc291,edo,sequedad cuba,2026-07-12T05:43:00+00:00,Cuba,0.6857765514636839,0,1,es,CAR,North-America
 'e82c94efda',extremes,Earthquake,#870007,usgs,terremoto valparaíso,2026-07-17T05:27:00+00:00,Chile,0.6817398335849674,0,1,es,SWS,South-America
-'cc9c315c8c',extremes,Earthquake,#870007,usgs,terremoto puerto madero,2026-07-18T05:10:00+00:00,Mexico,0.6772360730412053,0,1,es,SCA,North-America
 '122a78fcc0',extremes,Drought,#edc291,edo,falta de lluvia panamá,2026-07-14T05:15:00+00:00,Panama,0.675452902805051,0,1,es,SCA,North-America
 'e57843925c',extremes,Drought,#edc291,edo,sequía el salvador,2026-07-15T05:15:00+00:00,El Salvador,0.6748035305037484,0,1,es,SCA,North-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,lluvia brasil,2026-06-17T07:33:00+00:00,Brazil,0.6704265910639237,1,3,es,SAM,South-America
