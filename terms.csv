@@ -49,7 +49,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '432bab655c',extremes,Wildfire,#d60d2b,wmo,incendio forestal estados unidos,2026-06-26T06:36:00+00:00,United States,0.6876898824132713,1,2,es,CNA,North-America
 '8a6ebb5b5c',extremes,Drought,#edc291,edo,sequedad cuba,2026-07-12T05:43:00+00:00,Cuba,0.6857765514636839,0,1,es,CAR,North-America
 'e82c94efda',extremes,Earthquake,#870007,usgs,terremoto valparaíso,2026-07-17T05:27:00+00:00,Chile,0.6817398335849674,0,1,es,SWS,South-America
-'9f1c5401cf',extremes,Drought,#edc291,edo,sequía colombia,2026-07-18T05:10:00+00:00,Colombia,0.673583650916418,0,1,es,NWS,South-America
 '8626b81b9b',extremes,Flood,#030ba1,emdat,inundacion zamora chinchipe,2026-07-21T05:36:00+00:00,Ecuador,0.6732158776821334,1,1,es,NWS,South-America
 '26dc110943',extremes,Drought,#edc291,edo,falta de lluvia nicaragua,2026-07-05T06:25:00+00:00,Nicaragua,0.6720203026689321,0,1,es,SCA,North-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,lluvia brasil,2026-06-17T07:33:00+00:00,Brazil,0.6704265910639237,1,3,es,SAM,South-America
@@ -263,6 +262,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ad28ae330a',extremes,Earthquake,#870007,usgs,terremoto sardinal,2026-06-11T07:14:00+00:00,Costa Rica,0.5825267583807988,1,1,es,SCA,North-America
 'f6daa7bff6',extremes,Earthquake,#870007,usgs,terremoto villa el carmen,2026-06-27T06:08:00+00:00,Nicaragua,0.582293716479891,1,1,es,SCA,North-America
 'b3e00f492f',extremes,Drought,#edc291,edo,sequía belice,2026-07-13T05:53:00+00:00,Belize,0.5822296165260945,1,1,es,SCA,North-America
+'9f1c5401cf',extremes,Drought,#edc291,edo,sequía colombia,2026-07-18T05:10:00+00:00,Colombia,0.582215724048186,1,2,es,NWS,South-America
 'c871a8ceef',extremes,Precipitation,#d60d2b,wmo,aguacero hijo,2026-07-19T05:37:00+00:00,Mexico,0.5818633550176441,1,1,es,NCA,North-America
 '5611346f0f',extremes,Earthquake,#870007,usgs,terremoto suyo,2026-06-14T07:06:00+00:00,Peru,0.5816616775122231,2,1,es,NWS,South-America
 '27381475df',extremes,Earthquake,#870007,usgs,terremoto la ligua,2026-07-07T06:30:00+00:00,Chile,0.5807988831968663,1,1,es,SWS,South-America
