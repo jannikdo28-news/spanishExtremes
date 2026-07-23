@@ -62,17 +62,20 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5bcfa907bb',extremes,Storm,#b3b2b1,wmo,tormenta quito,2026-07-12T05:43:00+00:00,Ecuador,0.6672567892994473,2,1,es,NWS,South-America
 '2f9ffd941f',extremes,Heat Wave,#c40202,wmo,ola de calor ribera del ebro de navarra,2026-06-17T07:33:00+00:00,Spain,0.6668237335813043,1,3,es,MED,Europe
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-07-12T05:43:00+00:00,Argentina,0.6662357905936502,0,1,es,SES,South-America
+'8deeb78802',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial belice,2026-07-14T05:14:00+00:00,Belize,0.66619863192468,0,1,es,SCA,North-America
 '2918568fbe',extremes,Flood,#030ba1,wmo,inundación halcón negro ia,2026-07-05T06:25:00+00:00,United States,0.6657682816312519,0,1,es,CNA,North-America
 '7ae34b7c06',extremes,Flood,#030ba1,wmo,inundación repentina uvalde tx,2026-07-15T05:15:00+00:00,United States,0.6657553088039565,0,1,es,CNA,North-America
 '375ea807cb',extremes,Flood,#030ba1,wmo,inundación repentina frio tx,2026-07-18T05:10:00+00:00,United States,0.665611181563964,0,1,es,CNA,North-America
 'd29253d0b5',extremes,Flood,#030ba1,wmo,inundaciones val verde tx,2026-07-16T05:25:00+00:00,United States,0.6654738759948308,0,1,es,CNA,North-America
 '6b892b36d0',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – moderada,2026-06-08T07:13:00+00:00,Paraguay,0.6654627590115351,2,2,es,SES,South-America
 '08945238c8',extremes,Snow&Ice,#d60d2b,wmo,nieve chile,2026-07-14T05:14:00+00:00,Chile,0.6649631796443835,1,2,es,SWS,South-America
+'f8fba3264c',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial chih son,2026-07-22T05:35:00+00:00,Mexico,0.6647994867528575,0,1,es,NCA,North-America
 'a752baaf9c',extremes,Flood,#030ba1,wmo,inundación frio tx,2026-07-15T05:15:00+00:00,United States,0.664732937215137,0,1,es,CNA,North-America
 '087c4025a0',extremes,Flood,#030ba1,wmo,inundación repentina louisa ia muscatine ia,2026-07-16T05:25:00+00:00,United States,0.6642891170880267,0,1,es,CNA,North-America
 '2293c26d43',extremes,Flood,#030ba1,wmo,inundación repentina hamilton oh,2026-07-18T05:10:00+00:00,United States,0.6641416665402036,0,1,es,CNA,North-America
 '30b5e288fa',extremes,Flood,#030ba1,wmo,inundación val verde tx,2026-07-17T05:27:00+00:00,United States,0.664012570774206,0,1,es,CNA,North-America
 'c1d5568a3f',extremes,Flood,#030ba1,wmo,inundaciones karnes tx wilson tx,2026-07-16T05:25:00+00:00,United States,0.6638664332787872,0,1,es,CNA,North-America
+'68eb82a941',extremes,Flood,#030ba1,wmo,inundación repentina lewis wv randolph wv upshur wv,2026-07-22T05:35:00+00:00,United States,0.6638402556400207,0,1,es,CNA,North-America
 'dfbb2a2a1d',extremes,Drought,#edc291,edo,falta de lluvias uruguay,2026-07-09T06:27:00+00:00,Uruguay,0.6638140108604529,0,1,es,SES,South-America
 '99b5178830',extremes,Flood,#030ba1,wmo,inundación jackson tx wharton tx,2026-07-16T05:25:00+00:00,United States,0.6638026429548932,0,1,es,CNA,North-America
 '20ea94e30d',extremes,Flood,#030ba1,wmo,inundaciones crawford mo,2026-07-11T05:27:00+00:00,United States,0.663531577994365,0,1,es,CNA,North-America
@@ -98,6 +101,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '97800b2ead',extremes,Flood,#030ba1,wmo,inundación repentina crawford mo washington mo,2026-07-12T05:43:00+00:00,United States,0.6616465810880492,0,1,es,CNA,North-America
 '4417a1ee52',extremes,Heat Wave,#c40202,wmo,ola de calor villuercas y montánchez,2026-06-19T07:39:00+00:00,Spain,0.6615367660454534,0,1,es,MED,Europe
 'bcebe0aaf5',extremes,Flood,#030ba1,wmo,inundación repentina dimmit tx,2026-07-17T05:27:00+00:00,United States,0.6610397096667125,0,1,es,CNA,North-America
+'b478eb3fce',extremes,Flood,#030ba1,wmo,inundación repentina armstrong pa indiana pa,2026-07-19T05:37:00+00:00,United States,0.6609263875945927,0,1,es,CNA,North-America
+'1eb5846391',extremes,Flood,#030ba1,wmo,inundación repentina medina tx,2026-07-14T05:14:00+00:00,United States,0.6607651205467084,0,1,es,CNA,North-America
+'61cf2eb3ed',extremes,Flood,#030ba1,wmo,inundación repentina val verde tx,2026-07-17T05:27:00+00:00,United States,0.6607324047819721,0,1,es,CNA,North-America
 '61771054e9',extremes,Tropical Cyclone,#4f4f4f,wmo,huracán estados unidos,2026-07-04T05:59:00+00:00,United States,0.6597469532584066,1,3,es,CNA,North-America
 'bd8c8650ea',extremes,Earthquake,#870007,usgs,terremoto el aguilar,2026-06-17T07:33:00+00:00,Argentina,0.6593957952806654,2,1,es,SES,South-America
 'b26829887e',extremes,Earthquake,#870007,usgs,terremoto jordán,2026-07-20T05:54:00+00:00,Colombia,0.6592157345649061,2,2,es,NWS,South-America
