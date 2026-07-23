@@ -25,8 +25,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '814c50c438',extremes,Heat Wave,#c40202,wmo,ola de calor centro de navarra,2026-06-17T07:33:00+00:00,Spain,0.7186801475194634,1,2,es,MED,Europe
 'd2b3cefe08',extremes,Precipitation,#d60d2b,wmo,precipitación costa rica,2026-06-07T06:48:00+00:00,Costa Rica,0.709667631171283,2,2,es,SCA,North-America
 'a6e9427fb1',extremes,Earthquake,#870007,usgs,terremoto colombia,2026-06-20T06:46:00+00:00,Colombia,0.706670797021751,1,2,es,NWS,South-America
+'2ae957eb10',extremes,Earthquake,#870007,usgs,terremoto chupaca,2026-07-22T05:35:00+00:00,Peru,0.7053439200584963,2,2,es,NWS,South-America
 '58f77fa85f',extremes,Thunderstorm,#53785a,wmo,granizo españa,2026-07-06T06:52:00+00:00,Spain,0.7050947832634702,1,3,es,MED,Europe
-'2ae957eb10',extremes,Earthquake,#870007,usgs,terremoto chupaca,2026-07-22T05:35:00+00:00,Peru,0.7025305387242814,1,2,es,NWS,South-America
 '77fa7ad29c',extremes,Wildfire,#d60d2b,wmo,incendio forestal,2026-06-10T06:49:00+00:00,United States,0.7001558506149966,1,3,es,CNA,North-America
 'd57776053a',extremes,Thunderstorm,#53785a,wmo,tormenta estados unidos,2026-06-27T06:08:00+00:00,United States,0.6997753561013713,1,3,es,CNA,North-America
 '0ab1ae01c5',extremes,Earthquake,#870007,usgs,terremoto catia la mar,2026-07-05T06:24:00+00:00,Venezuela,0.6975933787893545,1,3,es,NSA,South-America
@@ -57,7 +57,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5bcfa907bb',extremes,Storm,#b3b2b1,wmo,tormenta quito,2026-07-12T05:43:00+00:00,Ecuador,0.6672567892994473,2,1,es,NWS,South-America
 '2f9ffd941f',extremes,Heat Wave,#c40202,wmo,ola de calor ribera del ebro de navarra,2026-06-17T07:33:00+00:00,Spain,0.6668237335813043,1,3,es,MED,Europe
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-07-12T05:43:00+00:00,Argentina,0.6662357905936502,0,1,es,SES,South-America
-'2918568fbe',extremes,Flood,#030ba1,wmo,inundación halcón negro ia,2026-07-05T06:25:00+00:00,United States,0.6657682816312519,0,1,es,CNA,North-America
 '7ae34b7c06',extremes,Flood,#030ba1,wmo,inundación repentina uvalde tx,2026-07-15T05:15:00+00:00,United States,0.6657553088039565,0,1,es,CNA,North-America
 '375ea807cb',extremes,Flood,#030ba1,wmo,inundación repentina frio tx,2026-07-18T05:10:00+00:00,United States,0.665611181563964,0,1,es,CNA,North-America
 'd29253d0b5',extremes,Flood,#030ba1,wmo,inundaciones val verde tx,2026-07-16T05:25:00+00:00,United States,0.6654738759948308,0,1,es,CNA,North-America
@@ -287,6 +286,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8deeb78802',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial belice,2026-07-14T05:14:00+00:00,Belize,0.566268837135978,1,1,es,SCA,North-America
 '8b533aa307',extremes,Thunderstorm,#53785a,wmo,clima severo estados unidos,2026-07-01T06:52:00+00:00,United States,0.5659624634437848,1,1,es,CNA,North-America
 '577a43566a',extremes,Precipitation,#d60d2b,wmo,aguacero belice,2026-07-12T05:43:00+00:00,Belize,0.5659295463583885,1,1,es,SCA,North-America
+'2918568fbe',extremes,Flood,#030ba1,wmo,inundación halcón negro ia,2026-07-05T06:25:00+00:00,United States,0.565903039386564,1,1,es,CNA,North-America
 'b0af706b4d',extremes,Wildfire,#d60d2b,wmo,incendio forestal en la bifurcación norte,2026-06-16T08:27:00+00:00,United States,0.5653668887912583,1,1,es,CNA,North-America
 '1832ba612c',extremes,Flood,#030ba1,wmo,inundación repentina okaloosa fl,2026-06-18T07:16:00+00:00,United States,0.5652018447728554,1,1,es,CNA,North-America
 'a0a00630e5',extremes,Flood,#030ba1,wmo,inundación calcasieu la,2026-06-14T07:07:00+00:00,United States,0.565017183176298,1,1,es,CNA,North-America
@@ -388,4 +388,3 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '46b58bff76',extremes,Storm,#b3b2b1,wmo,tormenta reg. 2 reg. litoral. 3 litoral,2026-06-20T06:47:00+00:00,Chile,0.5372909696108902,2,1,es,SWS,South-America
 'e12c49e365',extremes,Storm,#b3b2b1,wmo,marejada ciclónica región litoral e interandina,2026-06-26T06:36:00+00:00,Ecuador,0.5369210403406058,2,1,es,NWS,South-America
 '649be03eb1',extremes,Storm,#b3b2b1,wmo,marejada ciclónica área 1 – moderada,2026-06-28T06:44:00+00:00,Paraguay,0.5365695021396905,2,1,es,SES,South-America
-'48457b6eba',extremes,Earthquake,#870007,usgs,terremoto ovalle,2026-06-16T08:27:00+00:00,Chile,0.5326992663570415,2,1,es,SWS,South-America
