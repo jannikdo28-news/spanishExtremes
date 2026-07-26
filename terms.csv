@@ -55,23 +55,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5bcfa907bb',extremes,Storm,#b3b2b1,wmo,tormenta quito,2026-07-12T05:43:00+00:00,Ecuador,0.6672567892994473,2,1,es,NWS,South-America
 '2f9ffd941f',extremes,Heat Wave,#c40202,wmo,ola de calor ribera del ebro de navarra,2026-06-17T07:33:00+00:00,Spain,0.6668237335813043,1,3,es,MED,Europe
 '08945238c8',extremes,Snow&Ice,#d60d2b,wmo,nieve chile,2026-07-14T05:14:00+00:00,Chile,0.6649631796443835,1,2,es,SWS,South-America
-'20ea94e30d',extremes,Flood,#030ba1,wmo,inundaciones crawford mo,2026-07-11T05:27:00+00:00,United States,0.663531577994365,0,1,es,CNA,North-America
-'cc5991a226',extremes,Flood,#030ba1,wmo,inundaciones franklin mo jefferson mo,2026-07-12T05:43:00+00:00,United States,0.6632410926635971,0,1,es,CNA,North-America
-'0b51e026a2',extremes,Precipitation,#d60d2b,wmo,precipitación campamento yuc,2026-07-25T05:29:00+00:00,Mexico,0.6631857058502973,0,1,es,NCA,North-America
-'2a3bc7ef93',extremes,Wildfire,#d60d2b,wmo,incendio forestal en el valle de methow,2026-07-24T05:36:00+00:00,United States,0.663114447067234,0,1,es,CNA,North-America
-'5f67ceebdc',extremes,Flood,#030ba1,wmo,inundación repentina live oak tx mcmullen tx,2026-07-16T05:25:00+00:00,United States,0.6630965137982425,0,1,es,CNA,North-America
-'000f88797f',extremes,Flood,#030ba1,wmo,inundación gibson en,2026-07-11T05:27:00+00:00,United States,0.6629950623183491,0,1,es,CNA,North-America
-'d29468f4c7',extremes,Flood,#030ba1,wmo,inundación kimble tx,2026-07-17T05:27:00+00:00,United States,0.6627488505195219,0,1,es,CNA,North-America
-'7bb78849dc',extremes,Flood,#030ba1,wmo,inundación live oak tx mcmullen tx,2026-07-21T05:36:00+00:00,United States,0.662743330913825,0,1,es,CNA,North-America
-'8e7c5d7795',extremes,Earthquake,#870007,usgs,terremoto güiria,2026-07-21T05:36:00+00:00,Venezuela,0.6627101089360464,0,1,es,NSA,South-America
-'c0c306510d',extremes,Storm,#b3b2b1,wmo,tormenta islas pribilof aguas cercanas a la costa,2026-07-07T06:30:00+00:00,United States,0.6626795084632483,0,1,es,CNA,North-America
-'6cc70f58b6',extremes,Flood,#030ba1,wmo,inundación webb tx,2026-07-17T05:27:00+00:00,United States,0.662678937261223,0,1,es,CNA,North-America
-'cf22ca3284',extremes,Flood,#030ba1,wmo,inundación brookings sd,2026-07-11T05:27:00+00:00,United States,0.6625595344207597,0,1,es,CNA,North-America
-'1829eb25f5',extremes,Flood,#030ba1,wmo,inundación repentina la salle tx,2026-07-19T05:37:00+00:00,United States,0.6624317700298165,0,1,es,CNA,North-America
-'ab80f10100',extremes,Flood,#030ba1,wmo,inundación uvalde tx,2026-07-15T05:15:00+00:00,United States,0.6623194888090335,0,1,es,CNA,North-America
-'2db67d3ffb',extremes,Flood,#030ba1,wmo,inundación repentina monroe il st. claro,2026-07-11T05:27:00+00:00,United States,0.6622959522779185,0,1,es,CNA,North-America
 'fbf82b1a96',extremes,Drought,#edc291,edo,sequía bolivia,2026-06-25T06:32:00+00:00,Bolivia,0.6622375257019978,1,2,es,SAM,South-America
-'a129435394',extremes,Flood,#030ba1,wmo,inundación repentina wayne mo,2026-07-10T06:27:00+00:00,United States,0.6622127139915195,0,1,es,CNA,North-America
 'dc9e9edda8',extremes,Flood,#030ba1,wmo,inundación chaves nm,2026-07-19T05:37:00+00:00,United States,0.662042936123387,0,1,es,CNA,North-America
 '79d861c1ad',extremes,Flood,#030ba1,wmo,inundación apache az,2026-07-18T05:10:00+00:00,United States,0.6618630777320579,0,1,es,CNA,North-America
 '94256b33f9',extremes,Flood,#030ba1,wmo,inundación cullman al,2026-07-12T05:43:00+00:00,United States,0.6618466694419194,0,1,es,CNA,North-America
@@ -299,7 +283,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd29253d0b5',extremes,Flood,#030ba1,wmo,inundaciones val verde tx,2026-07-16T05:25:00+00:00,United States,0.5656527945956061,1,1,es,CNA,North-America
 'a1d71293cb',extremes,Flood,#030ba1,wmo,inundación cass il fulton il mason il,2026-07-17T05:27:00+00:00,United States,0.5655859286020304,1,1,es,CNA,North-America
 '775c7c508b',extremes,Flood,#030ba1,wmo,inundación de live oak tx mcmullen tx,2026-07-24T05:36:00+00:00,United States,0.5654315928781739,1,1,es,CNA,North-America
-'b0af706b4d',extremes,Wildfire,#d60d2b,wmo,incendio forestal en la bifurcación norte,2026-06-16T08:27:00+00:00,United States,0.5653668887912583,1,1,es,CNA,North-America
 '1832ba612c',extremes,Flood,#030ba1,wmo,inundación repentina okaloosa fl,2026-06-18T07:16:00+00:00,United States,0.5652018447728554,1,1,es,CNA,North-America
 'f8fba3264c',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial chih son,2026-07-22T05:35:00+00:00,Mexico,0.5650795637399288,1,1,es,NCA,North-America
 'a752baaf9c',extremes,Flood,#030ba1,wmo,inundación frio tx,2026-07-15T05:15:00+00:00,United States,0.5650229966328665,1,1,es,CNA,North-America
@@ -317,9 +300,25 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c1d5568a3f',extremes,Flood,#030ba1,wmo,inundaciones karnes tx wilson tx,2026-07-16T05:25:00+00:00,United States,0.5642864682869692,1,1,es,CNA,North-America
 '68eb82a941',extremes,Flood,#030ba1,wmo,inundación repentina lewis wv randolph wv upshur wv,2026-07-22T05:35:00+00:00,United States,0.5642642172940175,1,1,es,CNA,North-America
 '99b5178830',extremes,Flood,#030ba1,wmo,inundación jackson tx wharton tx,2026-07-16T05:25:00+00:00,United States,0.5642322465116593,1,1,es,CNA,North-America
+'20ea94e30d',extremes,Flood,#030ba1,wmo,inundaciones crawford mo,2026-07-11T05:27:00+00:00,United States,0.5640018412952102,1,1,es,CNA,North-America
 '698a1bbc04',extremes,Flood,#030ba1,wmo,inundación de aguas termales wy,2026-07-16T05:25:00+00:00,United States,0.563872976742463,1,1,es,CNA,North-America
+'cc5991a226',extremes,Flood,#030ba1,wmo,inundaciones franklin mo jefferson mo,2026-07-12T05:43:00+00:00,United States,0.5637549287640575,1,1,es,CNA,North-America
+'0b51e026a2',extremes,Precipitation,#d60d2b,wmo,precipitación campamento yuc,2026-07-25T05:29:00+00:00,Mexico,0.5637078499727527,1,1,es,NCA,North-America
+'2a3bc7ef93',extremes,Wildfire,#d60d2b,wmo,incendio forestal en el valle de methow,2026-07-24T05:36:00+00:00,United States,0.5636472800071489,1,1,es,CNA,North-America
+'5f67ceebdc',extremes,Flood,#030ba1,wmo,inundación repentina live oak tx mcmullen tx,2026-07-16T05:25:00+00:00,United States,0.5636320367285061,1,1,es,CNA,North-America
+'000f88797f',extremes,Flood,#030ba1,wmo,inundación gibson en,2026-07-11T05:27:00+00:00,United States,0.5635458029705968,1,1,es,CNA,North-America
+'d29468f4c7',extremes,Flood,#030ba1,wmo,inundación kimble tx,2026-07-17T05:27:00+00:00,United States,0.5633365229415936,1,1,es,CNA,North-America
+'7bb78849dc',extremes,Flood,#030ba1,wmo,inundación live oak tx mcmullen tx,2026-07-21T05:36:00+00:00,United States,0.5633318312767512,1,1,es,CNA,North-America
 'eb87d1255b',extremes,Flood,#030ba1,wmo,inundación repentina mitchell ia,2026-07-10T06:27:00+00:00,United States,0.5633171153542,1,1,es,CNA,North-America
+'8e7c5d7795',extremes,Earthquake,#870007,usgs,terremoto güiria,2026-07-21T05:36:00+00:00,Venezuela,0.5633035925956394,1,1,es,NSA,South-America
+'c0c306510d',extremes,Storm,#b3b2b1,wmo,tormenta islas pribilof aguas cercanas a la costa,2026-07-07T06:30:00+00:00,United States,0.563277582193761,1,1,es,CNA,North-America
+'6cc70f58b6',extremes,Flood,#030ba1,wmo,inundación webb tx,2026-07-17T05:27:00+00:00,United States,0.5632770966720395,1,1,es,CNA,North-America
+'cf22ca3284',extremes,Flood,#030ba1,wmo,inundación brookings sd,2026-07-11T05:27:00+00:00,United States,0.5631756042576457,1,1,es,CNA,North-America
+'1829eb25f5',extremes,Flood,#030ba1,wmo,inundación repentina la salle tx,2026-07-19T05:37:00+00:00,United States,0.563067004525344,1,1,es,CNA,North-America
+'ab80f10100',extremes,Flood,#030ba1,wmo,inundación uvalde tx,2026-07-15T05:15:00+00:00,United States,0.5629715654876785,1,1,es,CNA,North-America
+'2db67d3ffb',extremes,Flood,#030ba1,wmo,inundación repentina monroe il st. claro,2026-07-11T05:27:00+00:00,United States,0.5629515594362307,1,1,es,CNA,North-America
 '2c9da95b86',extremes,Earthquake,#870007,usgs,terremoto boca de yuma,2026-06-29T07:12:00+00:00,Dominican Republic,0.5629198466815083,1,1,es,CAR,North-America
+'a129435394',extremes,Flood,#030ba1,wmo,inundación repentina wayne mo,2026-07-10T06:27:00+00:00,United States,0.5628808068927915,1,1,es,CNA,North-America
 'dbbe4a4db2',extremes,Flood,#030ba1,wmo,inundaciones marshall il putnam il,2026-06-18T07:16:00+00:00,United States,0.5626228556064836,1,1,es,CNA,North-America
 '7d1c47c388',extremes,Flood,#030ba1,wmo,inundación vinton oh,2026-06-19T07:39:00+00:00,United States,0.5625153534418827,1,1,es,CNA,North-America
 'e9fca89019',extremes,Storm,#b3b2b1,wmo,tormenta en zonas costeras y mar adentro.,2026-06-22T08:39:00+00:00,Belize,0.5624445028050262,1,1,es,SCA,North-America
@@ -340,7 +339,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fd15a1b9c6',extremes,Flood,#030ba1,wmo,inundación clarke ms,2026-06-20T06:47:00+00:00,United States,0.5605916170308153,1,1,es,CNA,North-America
 '4847969641',extremes,Snow&Ice,#d60d2b,wmo,nieve en el norte del condado de elko,2026-06-27T06:08:00+00:00,United States,0.560524836516591,1,1,es,CNA,North-America
 'f44dfc5bf5',extremes,Wildfire,#d60d2b,wmo,desierto del lago salado de incendios forestales,2026-06-20T06:47:00+00:00,United States,0.5605171776467673,1,1,es,CNA,North-America
-'7880553eb9',extremes,Flood,#030ba1,wmo,inundación vernon la,2026-06-16T08:27:00+00:00,United States,0.5604456081734778,1,1,es,CNA,North-America
 '04775c6cc2',extremes,Flood,#030ba1,wmo,inundación allen la jefferson davis la,2026-06-19T07:39:00+00:00,United States,0.5603194200815057,1,1,es,CNA,North-America
 'f4c6a7e2ac',extremes,Flood,#030ba1,wmo,inundación repentina baldwin al escambia fl,2026-06-18T07:16:00+00:00,United States,0.5602295867814434,1,1,es,CNA,North-America
 '566f484a3a',extremes,Flood,#030ba1,wmo,inundación cass il mason il,2026-06-22T08:39:00+00:00,United States,0.5601843970079295,1,1,es,CNA,North-America
@@ -359,7 +357,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c66942d785',extremes,Flood,#030ba1,wmo,inundación repentina rapides la,2026-06-17T07:33:00+00:00,United States,0.5593465583378383,1,1,es,CNA,North-America
 'c3485f30a4',extremes,Flood,#030ba1,wmo,inundación repentina jackson ms,2026-06-20T06:47:00+00:00,United States,0.5592476886127512,1,1,es,CNA,North-America
 '35008bd929',extremes,Flood,#030ba1,wmo,inundación brazos tx grimes tx madison tx,2026-06-24T06:30:00+00:00,United States,0.5591004918875864,1,1,es,CNA,North-America
-'5564578888',extremes,Flood,#030ba1,wmo,inundación nueces tx,2026-06-16T08:27:00+00:00,United States,0.5590760667050464,1,1,es,CNA,North-America
 '2bd639a9d4',extremes,Flood,#030ba1,wmo,inundación alexander il,2026-07-10T06:27:00+00:00,United States,0.5590162800125614,1,1,es,CNA,North-America
 'e1754e3cea',extremes,Flood,#030ba1,wmo,inundación repentina crawford wi,2026-07-03T06:09:00+00:00,United States,0.5589848423638518,1,1,es,CNA,North-America
 '88f8b5429a',extremes,Flood,#030ba1,wmo,inundación pike il scott il,2026-06-17T07:33:00+00:00,United States,0.5589561282468567,1,1,es,CNA,North-America
@@ -371,7 +368,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3f21782c88',extremes,Flood,#030ba1,wmo,inundaciones crawford wi,2026-07-05T06:25:00+00:00,United States,0.5584732046615434,1,1,es,CNA,North-America
 '9a9f4fcc3a',extremes,Flood,#030ba1,wmo,inundación st. tammany la,2026-06-20T06:47:00+00:00,United States,0.558405561291231,1,1,es,CNA,North-America
 '4296da6029',extremes,Flood,#030ba1,wmo,inundación repentina george ms,2026-06-20T06:47:00+00:00,United States,0.5583847582632794,1,1,es,CNA,North-America
-'f9353da6b5',extremes,Flood,#030ba1,wmo,inundación carroll mo chariton mo,2026-06-16T08:27:00+00:00,United States,0.5583106226037796,1,1,es,CNA,North-America
 '1953d0e6b8',extremes,Flood,#030ba1,wmo,inundación morgan il pike il,2026-06-21T07:16:00+00:00,United States,0.5581111793077779,1,1,es,CNA,North-America
 '800b2252f9',extremes,Flood,#030ba1,wmo,inundación angelina tx nacogdoches tx,2026-06-19T07:39:00+00:00,United States,0.5580645980447794,1,1,es,CNA,North-America
 '1776577726',extremes,Flood,#030ba1,wmo,inundaciones bossier la webster la,2026-07-01T06:52:00+00:00,United States,0.5580177940090008,1,1,es,CNA,North-America
