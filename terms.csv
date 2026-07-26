@@ -87,8 +87,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1eb5846391',extremes,Flood,#030ba1,wmo,inundación repentina medina tx,2026-07-14T05:14:00+00:00,United States,0.6607651205467084,0,1,es,CNA,North-America
 '61cf2eb3ed',extremes,Flood,#030ba1,wmo,inundación repentina val verde tx,2026-07-17T05:27:00+00:00,United States,0.6607324047819721,0,1,es,CNA,North-America
 '7fc328dfd2',extremes,Flood,#030ba1,wmo,inundación repentina kerr tx,2026-07-17T05:27:00+00:00,United States,0.6606291288798235,0,1,es,CNA,North-America
+'df12157aef',extremes,Flood,#030ba1,wmo,inundación repentina forsyth ga,2026-07-25T05:29:00+00:00,United States,0.6605149873038829,0,1,es,CNA,North-America
 '48822ea628',extremes,Flood,#030ba1,wmo,inundación repentina blanco tx,2026-07-17T05:27:00+00:00,United States,0.660493272328529,0,1,es,CNA,North-America
+'c0abb8d977',extremes,Flood,#030ba1,wmo,inundación cochise az santa cruz az,2026-07-25T05:29:00+00:00,United States,0.6604487987922835,0,1,es,CNA,North-America
 'c569672130',extremes,Flood,#030ba1,wmo,inundación goliad tx karnes tx,2026-07-19T05:37:00+00:00,United States,0.6603575056541775,0,1,es,CNA,North-America
+'ffa5ca1a3b',extremes,Flood,#030ba1,wmo,inundación repentina live oak tx,2026-07-25T05:29:00+00:00,United States,0.6603555318193395,0,1,es,CNA,North-America
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-07-15T05:15:00+00:00,Costa Rica,0.6603413324499995,1,3,es,SCA,North-America
 '387233d757',extremes,Flood,#030ba1,wmo,inundación repentina gila az,2026-07-21T05:36:00+00:00,United States,0.6599726310874297,0,1,es,CNA,North-America
 '1d8b08293b',extremes,Flood,#030ba1,wmo,inundación tenue tx,2026-07-18T05:10:00+00:00,United States,0.6598129185794982,0,1,es,CNA,North-America
@@ -98,6 +101,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f75d51c8c0',extremes,Flood,#030ba1,wmo,inundación uvalde tx,2026-07-16T05:25:00+00:00,United States,0.6595243285939073,0,1,es,CNA,North-America
 'bd8c8650ea',extremes,Earthquake,#870007,usgs,terremoto el aguilar,2026-06-17T07:33:00+00:00,Argentina,0.6593957952806654,2,1,es,SES,South-America
 'b26829887e',extremes,Earthquake,#870007,usgs,terremoto jordán,2026-07-20T05:54:00+00:00,Colombia,0.6592157345649061,2,2,es,NWS,South-America
+'de1d98dc07',extremes,Flood,#030ba1,wmo,inundación Dyer tn gibson tn obion tn,2026-07-11T05:27:00+00:00,United States,0.6591950640256313,0,1,es,CNA,North-America
+'386d2eebd7',extremes,Flood,#030ba1,wmo,inundaciones clinton ia scott ia,2026-07-08T05:37:00+00:00,United States,0.6591357215010717,0,1,es,CNA,North-America
+'4a554b6101',extremes,Flood,#030ba1,wmo,inundación chatham nc harnett nc lee nc,2026-07-13T05:53:00+00:00,United States,0.659064195551819,0,1,es,CNA,North-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-06-17T07:33:00+00:00,Argentina,0.6573426028720294,1,1,es,SES,South-America
 'f61f7da360',extremes,Heat Wave,#c40202,wmo,ola de calor campiña cordobesa,2026-06-17T07:33:00+00:00,Spain,0.6569758067555945,0,1,es,MED,Europe
 'a4d0dc9af2',extremes,Flood,#030ba1,wmo,inundación repentina gibson en,2026-06-28T06:44:00+00:00,United States,0.6569674000929736,0,1,es,CNA,North-America
