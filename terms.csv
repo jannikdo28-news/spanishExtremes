@@ -56,11 +56,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4c0e0f411e',extremes,Storm,#b3b2b1,wmo,tormenta región amazónica,2026-06-15T08:36:00+00:00,Ecuador,0.6686322402880496,2,2,es,NWS,South-America
 'b2c023909a',extremes,Storm,#b3b2b1,wmo,área de tormenta 2 – moderada,2026-07-22T05:35:00+00:00,Paraguay,0.6684189544009616,2,1,es,SES,South-America
 '584710ade2',extremes,Storm,#b3b2b1,wmo,marejada ciclónica islas pribilof aguas cercanas a la costa,2026-07-21T05:36:00+00:00,United States,0.6678279180607397,0,1,es,CNA,North-America
+'625db112cc',extremes,Storm,#b3b2b1,wmo,marejada ciclónica adak al lado de kiska bering,2026-07-11T05:27:00+00:00,United States,0.6676436971550324,0,1,es,CNA,North-America
 'cc9c315c8c',extremes,Earthquake,#870007,usgs,terremoto puerto madero,2026-07-18T05:10:00+00:00,Mexico,0.6673507184645784,2,2,es,SCA,North-America
+'f2a835b2c0',extremes,Snow&Ice,#d60d2b,wmo,gama helada de arroyos centrales,2026-07-26T05:46:00+00:00,United States,0.6672812032456541,0,1,es,CNA,North-America
 '5bcfa907bb',extremes,Storm,#b3b2b1,wmo,tormenta quito,2026-07-12T05:43:00+00:00,Ecuador,0.6672567892994473,2,1,es,NWS,South-America
+'170f2d7753',extremes,Storm,#b3b2b1,wmo,tormenta en la Bahía de Bristol mayor de 15 millas náuticas.,2026-07-10T06:27:00+00:00,United States,0.6669498340698871,0,1,es,CNA,North-America
 '2f9ffd941f',extremes,Heat Wave,#c40202,wmo,ola de calor ribera del ebro de navarra,2026-06-17T07:33:00+00:00,Spain,0.6668237335813043,1,3,es,MED,Europe
 '08945238c8',extremes,Snow&Ice,#d60d2b,wmo,nieve chile,2026-07-14T05:14:00+00:00,Chile,0.6649631796443835,1,2,es,SWS,South-America
 'f760624a54',extremes,Earthquake,#870007,usgs,terremoto vallenar,2026-07-23T05:40:00+00:00,Chile,0.663616731363708,1,2,es,SWS,South-America
+'452ba4eb6a',extremes,Flood,#030ba1,wmo,inundación repentina cochise az,2026-07-20T05:54:00+00:00,United States,0.6625377527020115,0,1,es,CNA,North-America
 'fbf82b1a96',extremes,Drought,#edc291,edo,sequía bolivia,2026-06-25T06:32:00+00:00,Bolivia,0.6622375257019978,1,2,es,SAM,South-America
 'dc9e9edda8',extremes,Flood,#030ba1,wmo,inundación chaves nm,2026-07-19T05:37:00+00:00,United States,0.662042936123387,0,1,es,CNA,North-America
 '79d861c1ad',extremes,Flood,#030ba1,wmo,inundación apache az,2026-07-18T05:10:00+00:00,United States,0.6618630777320579,0,1,es,CNA,North-America
@@ -88,10 +92,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ead502b96f',extremes,Flood,#030ba1,wmo,inundaciones pima az pinal az,2026-07-13T05:53:00+00:00,United States,0.6597444373538585,0,1,es,CNA,North-America
 'f75d51c8c0',extremes,Flood,#030ba1,wmo,inundación uvalde tx,2026-07-16T05:25:00+00:00,United States,0.6595243285939073,0,1,es,CNA,North-America
 'bd8c8650ea',extremes,Earthquake,#870007,usgs,terremoto el aguilar,2026-06-17T07:33:00+00:00,Argentina,0.6593957952806654,2,1,es,SES,South-America
+'3d84dbb72f',extremes,Storm,#b3b2b1,wmo,tormenta estrecho de clarence,2026-07-06T06:52:00+00:00,United States,0.6592946149651205,0,1,es,CNA,North-America
 'b26829887e',extremes,Earthquake,#870007,usgs,terremoto jordán,2026-07-20T05:54:00+00:00,Colombia,0.6592157345649061,2,2,es,NWS,South-America
 'de1d98dc07',extremes,Flood,#030ba1,wmo,inundación Dyer tn gibson tn obion tn,2026-07-11T05:27:00+00:00,United States,0.6591950640256313,0,1,es,CNA,North-America
 '386d2eebd7',extremes,Flood,#030ba1,wmo,inundaciones clinton ia scott ia,2026-07-08T05:37:00+00:00,United States,0.6591357215010717,0,1,es,CNA,North-America
 '4a554b6101',extremes,Flood,#030ba1,wmo,inundación chatham nc harnett nc lee nc,2026-07-13T05:53:00+00:00,United States,0.659064195551819,0,1,es,CNA,North-America
+'066f4c5a46',extremes,Flood,#030ba1,wmo,inundación marshall il putnam il,2026-07-08T05:37:00+00:00,United States,0.6590087562958169,0,1,es,CNA,North-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-06-17T07:33:00+00:00,Argentina,0.6573426028720294,1,1,es,SES,South-America
 'f61f7da360',extremes,Heat Wave,#c40202,wmo,ola de calor campiña cordobesa,2026-06-17T07:33:00+00:00,Spain,0.6569758067555945,0,1,es,MED,Europe
 'a4d0dc9af2',extremes,Flood,#030ba1,wmo,inundación repentina gibson en,2026-06-28T06:44:00+00:00,United States,0.6569674000929736,0,1,es,CNA,North-America
