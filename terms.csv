@@ -65,7 +65,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b26829887e',extremes,Earthquake,#870007,usgs,terremoto jordán,2026-07-20T05:54:00+00:00,Colombia,0.6592157345649061,2,2,es,NWS,South-America
 '7ee1d3c68d',extremes,Flood,#030ba1,wmo,inundaciones greene ny ulster ny,2026-07-29T05:37:00+00:00,United States,0.6583587530843493,0,1,es,CNA,North-America
 'b4c112d11c',extremes,Flood,#030ba1,wmo,inundación del valle occidental de susitna,2026-07-21T05:36:00+00:00,United States,0.65705687506462,0,1,es,CNA,North-America
+'9b3df78ad0',extremes,Flood,#030ba1,wmo,inundación repentina clermont oh hamilton oh,2026-07-18T05:10:00+00:00,United States,0.6569693481992842,0,1,es,CNA,North-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-06-26T06:36:00+00:00,Argentina,0.6569589255931915,1,2,es,SES,South-America
+'e779a4acd4',extremes,Storm,#b3b2b1,wmo,tormenta adak al lado del pacífico de kiska,2026-07-15T05:15:00+00:00,United States,0.6568685273660285,0,1,es,CNA,North-America
+'d21652e726',extremes,Flood,#030ba1,wmo,inundación leelanau mi,2026-07-21T05:36:00+00:00,United States,0.6567660152447596,0,1,es,CNA,North-America
+'aef63eb6c0',extremes,Flood,#030ba1,wmo,inundación matagorda tx wharton tx,2026-07-16T05:25:00+00:00,United States,0.6566979155566663,0,1,es,CNA,North-America
+'6804fbe008',extremes,Flood,#030ba1,wmo,inundaciones kinney tx uvalde tx,2026-07-16T05:25:00+00:00,United States,0.6564347704286365,0,1,es,CNA,North-America
+'2bfc5530eb',extremes,Heat Wave,#c40202,wmo,ola de calor montañas del condado de san diego,2026-07-10T06:27:00+00:00,United States,0.656372794503885,0,1,es,CNA,North-America
 'c34cf32b9b',extremes,Wildfire,#d60d2b,wmo,incendio forestal río blanco,2026-06-28T06:44:00+00:00,United States,0.6556703114478076,0,1,es,CNA,North-America
 'f42ade92ff',extremes,Heat Wave,#c40202,wmo,ola de calor cordillera y picos de europa,2026-06-21T07:16:00+00:00,Spain,0.6556223949926357,0,1,es,MED,Europe
 'b6243a3455',extremes,Flood,#030ba1,wmo,inundando Gibson en,2026-07-02T06:24:00+00:00,United States,0.6555880602288188,0,1,es,CNA,North-America
