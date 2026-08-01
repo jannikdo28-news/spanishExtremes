@@ -31,7 +31,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a6e9427fb1',extremes,Earthquake,#870007,usgs,terremoto colombia,2026-06-20T06:46:00+00:00,Colombia,0.706670797021751,1,2,es,NWS,South-America
 '9630c35687',extremes,Earthquake,#870007,usgs,terremoto san fernando,2026-07-31T05:51:00+00:00,Peru,0.7064755978447902,0,1,es,NWS,South-America
 '2ae957eb10',extremes,Earthquake,#870007,usgs,terremoto chupaca,2026-07-22T05:35:00+00:00,Peru,0.7053439200584963,2,2,es,NWS,South-America
-'493ff10b88',extremes,Earthquake,#870007,usgs,terremoto panamá,2026-08-01T05:41:00+00:00,Panama,0.704577321408521,0,1,es,SCA,South-America
 '814c50c438',extremes,Heat Wave,#c40202,wmo,ola de calor centro de navarra,2026-06-17T07:33:00+00:00,Spain,0.7016286953915438,2,3,es,MED,Europe
 '77fa7ad29c',extremes,Wildfire,#d60d2b,wmo,incendio forestal,2026-06-10T06:49:00+00:00,United States,0.7001558506149966,1,3,es,CNA,North-America
 '558463c960',extremes,Heat Wave,#c40202,wmo,ola de calor prelitoral de barcelona,2026-06-20T06:47:00+00:00,Spain,0.6997899260406268,2,2,es,MED,Europe
@@ -52,6 +51,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'dfbb2a2a1d',extremes,Drought,#edc291,edo,falta de lluvias uruguay,2026-07-09T06:27:00+00:00,Uruguay,0.6779420292313849,1,2,es,SES,South-America
 '1eb7a3a4d3',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial costa rica,2026-07-04T05:59:00+00:00,Costa Rica,0.67444189208031,2,1,es,SCA,North-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-07-17T05:27:00+00:00,Paraguay,0.6732277522454169,1,2,es,SES,South-America
+'493ff10b88',extremes,Earthquake,#870007,usgs,terremoto panamá,2026-08-01T05:41:00+00:00,Panama,0.6720232463790611,1,2,es,SCA,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,lluvia brasil,2026-06-17T07:33:00+00:00,Brazil,0.6704265910639237,1,3,es,SAM,South-America
 'e7db391dce',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa rica,2026-06-25T06:32:00+00:00,Costa Rica,0.6702909740524944,2,1,es,SCA,North-America
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,aguacero ecuador,2026-07-03T06:09:00+00:00,Ecuador,0.6696345751709532,1,1,es,NWS,South-America
