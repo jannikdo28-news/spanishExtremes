@@ -54,7 +54,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-07-17T05:27:00+00:00,Paraguay,0.6732277522454169,1,2,es,SES,South-America
 '493ff10b88',extremes,Earthquake,#870007,usgs,terremoto panamá,2026-08-01T05:41:00+00:00,Panama,0.6720232463790611,1,2,es,SCA,South-America
 '7978d58b02',extremes,Precipitation,#d60d2b,wmo,lluvia brasil,2026-06-17T07:33:00+00:00,Brazil,0.6704265910639237,1,3,es,SAM,South-America
-'e9fca89019',extremes,Storm,#b3b2b1,wmo,tormenta en zonas costeras y mar adentro.,2026-07-13T05:53:00+00:00,Belize,0.6702982078484061,0,1,es,SCA,North-America
 'e7db391dce',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa rica,2026-06-25T06:32:00+00:00,Costa Rica,0.6702909740524944,2,1,es,SCA,North-America
 '30b1a37300',extremes,Earthquake,#870007,usgs,terremoto la tirana,2026-07-28T05:30:00+00:00,Chile,0.6700852952394045,0,1,es,SWS,South-America
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,aguacero ecuador,2026-07-03T06:09:00+00:00,Ecuador,0.6696345751709532,1,1,es,NWS,South-America
@@ -248,6 +247,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '981d813782',extremes,Earthquake,#870007,usgs,terremoto chapimarca,2026-07-02T06:23:00+00:00,Peru,0.570610950848765,1,1,es,NWS,South-America
 '41e66be4ee',extremes,Snow&Ice,#d60d2b,wmo,Brasil helado,2026-06-25T06:32:00+00:00,Brazil,0.5704194364432209,1,1,es,SAM,South-America
 'be3e20465e',extremes,Storm,#b3b2b1,wmo,tormenta belice,2026-07-15T05:15:00+00:00,Belize,0.5700491019618478,1,1,es,SCA,North-America
+'e9fca89019',extremes,Storm,#b3b2b1,wmo,tormenta en zonas costeras y mar adentro.,2026-07-13T05:53:00+00:00,Belize,0.5699034916711452,1,1,es,SCA,North-America
 '3dea46c095',extremes,Flood,#030ba1,wmo,inundación repentina estados unidos,2026-07-04T05:59:00+00:00,United States,0.5694716522079772,1,1,es,CNA,North-America
 'f3a830d97f',extremes,Storm,#b3b2b1,wmo,marejada ciclónica al norte y al oeste de la isla nunivak,2026-07-12T05:43:00+00:00,United States,0.5694479463538722,1,1,es,CNA,North-America
 'c3b0bd6e01',extremes,Storm,#b3b2b1,wmo,tormenta kiska al lado attu bering,2026-07-25T05:29:00+00:00,United States,0.5693145670464672,1,1,es,CNA,North-America
