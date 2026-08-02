@@ -12,15 +12,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9630c35687',extremes,Earthquake,#870007,usgs,terremoto san fernando,2026-07-31T05:51:00+00:00,Peru,0.7515543631680717,1,2,es,NWS,South-America
 '58f77fa85f',extremes,Thunderstorm,#53785a,wmo,granizo españa,2026-07-06T06:52:00+00:00,Spain,0.7488320057739496,2,3,es,MED,Europe
 'dd93c6b53d',extremes,Precipitation,#d60d2b,wmo,precipitación méxico,2026-07-13T05:53:00+00:00,Mexico,0.7486126929279768,1,3,es,NCA,North-America
-'4cc7a6f84d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica amazonía,2026-08-02T05:42:00+00:00,Ecuador,0.745928600626424,0,1,es,NWS,South-America
-'954932e1f1',extremes,Precipitation,#d60d2b,wmo,lluvia litoral e interandina.,2026-08-02T05:42:00+00:00,Ecuador,0.7457144184327352,0,1,es,NWS,South-America
 'c3bed96c37',extremes,Precipitation,#d60d2b,wmo,aguacero méxico,2026-07-12T05:43:00+00:00,Mexico,0.7409848160312609,1,3,es,NCA,North-America
 '8b5b4c9d3b',extremes,Earthquake,#870007,usgs,terremoto puerto santa,2026-07-24T05:35:00+00:00,Peru,0.7406847834434155,2,2,es,NWS,South-America
 '1e08672b47',extremes,Earthquake,#870007,usgs,terremoto el progreso,2026-07-01T06:52:00+00:00,Mexico,0.7404963419035759,2,2,es,NCA,North-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-06-27T06:08:00+00:00,Chile,0.7395240779041894,1,3,es,SWS,South-America
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,tormenta uruguay,2026-07-19T05:37:00+00:00,Uruguay,0.7384598958517656,2,3,es,SES,South-America
 'd2b3cefe08',extremes,Precipitation,#d60d2b,wmo,precipitación costa rica,2026-07-17T05:27:00+00:00,Costa Rica,0.7316356512236744,1,2,es,SCA,North-America
-'82ed5705b2',extremes,Precipitation,#d60d2b,wmo,aguacero costa rica,2026-08-02T05:42:00+00:00,Costa Rica,0.7311910384713869,0,1,es,SCA,North-America
 'bee7cf7ad2',extremes,Snow&Ice,#d60d2b,wmo,chile helado,2026-06-18T07:16:00+00:00,Chile,0.7290154215092628,2,2,es,SWS,South-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-07-24T05:35:00+00:00,Chile,0.7287360879871819,1,2,es,SWS,South-America
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2026-06-26T06:35:00+00:00,Bolivia,0.7247223752024488,1,2,es,SWS,South-America
@@ -141,6 +138,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '35c5babf8a',extremes,Storm,#b3b2b1,wmo,tormenta amazonía y norte de litoral,2026-07-12T05:43:00+00:00,Ecuador,0.6347219049684684,1,1,es,NWS,South-America
 'd61de81685',extremes,Storm,#b3b2b1,wmo,marejada ciclónica chile,2026-07-08T05:37:00+00:00,Chile,0.6344654242725148,1,1,es,SWS,South-America
 '499dfc6c4a',extremes,Storm,#b3b2b1,wmo,marejada ciclónica provincias de limarí y choapa,2026-07-18T05:10:00+00:00,Chile,0.6344419484994671,1,1,es,SWS,South-America
+'4cc7a6f84d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica amazonía,2026-08-02T05:42:00+00:00,Ecuador,0.6340393105324603,1,1,es,NWS,South-America
+'954932e1f1',extremes,Precipitation,#d60d2b,wmo,lluvia litoral e interandina.,2026-08-02T05:42:00+00:00,Ecuador,0.6338572556678249,1,1,es,NWS,South-America
 '155368a2ed',extremes,Earthquake,#870007,usgs,terremoto san felipe,2026-07-05T06:24:00+00:00,Venezuela,0.6336573253303633,2,2,es,NSA,South-America
 '3db0f2ddbc',extremes,Storm,#b3b2b1,wmo,marejada ciclónica 07 08a 08b,2026-07-31T05:51:00+00:00,Chile,0.6335536835925194,1,1,es,SWS,South-America
 'be647fc7a4',extremes,Storm,#b3b2b1,wmo,marejada ciclónica ecuador,2026-07-03T06:09:00+00:00,Ecuador,0.6334143999661767,1,1,es,NWS,South-America
@@ -170,6 +169,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a6561c66c0',extremes,Drought,#edc291,edo,sequía en Perú,2026-06-28T06:44:00+00:00,Peru,0.6231843918161792,1,1,es,NWS,South-America
 'e1048c4180',extremes,Drought,#edc291,edo,sequedad uruguay,2026-07-11T05:27:00+00:00,Uruguay,0.622525402051172,1,1,es,SES,South-America
 '23acda9b4d',extremes,Precipitation,#d60d2b,wmo,precipitación oax,2026-07-17T05:27:00+00:00,Mexico,0.6224944444182917,1,1,es,NCA,North-America
+'82ed5705b2',extremes,Precipitation,#d60d2b,wmo,aguacero costa rica,2026-08-02T05:42:00+00:00,Costa Rica,0.6218124127006789,1,1,es,SCA,North-America
 'b64b7a34ce',extremes,Precipitation,#d60d2b,wmo,lluvia jal nay,2026-07-18T05:10:00+00:00,Mexico,0.6205511171618794,1,1,es,NCA,North-America
 '27c5f54ce3',extremes,Earthquake,#870007,usgs,terremoto torata,2026-06-24T06:29:00+00:00,Peru,0.6202262367025903,1,1,es,SWS,South-America
 '7f5804bd83',extremes,Earthquake,#870007,usgs,terremoto santa rosa,2026-07-13T05:53:00+00:00,Peru,0.6201556681668662,1,1,es,NWS,South-America
