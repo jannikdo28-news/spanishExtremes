@@ -1,7 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'02d4c311ee',extremes,Wildfire,#d60d2b,effis,incendios forestales lugo españa,2026-08-07T11:06:00+00:00,Spain,0.8176425793112685,1,2,es,MED,Europe
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-06-27T06:08:00+00:00,Argentina,0.7982292981719675,7,3,es,SES,South-America
 'bee7cf7ad2',extremes,Snow&Ice,#d60d2b,wmo,chile helado,2026-08-04T05:32:00+00:00,Chile,0.793541341156987,1,2,es,SWS,South-America
-'02d4c311ee',extremes,Wildfire,#d60d2b,effis,incendios forestales lugo españa,2026-08-07T11:06:00+00:00,Spain,0.7913965072392634,0,1,es,MED,Europe
 '5746fa4adb',extremes,Wildfire,#d60d2b,effis,incendio forestal en españa,2026-08-07T09:56:00+00:00,Spain,0.7913863029969488,0,1,es,MED,Europe
 '4595f49a65',extremes,Wildfire,#d60d2b,effis,incendio forestal en españa,2026-08-07T11:06:00+00:00,Spain,0.7913851412760525,0,1,es,MED,Europe
 'fe6ff1821c',extremes,Wildfire,#d60d2b,effis,incendios forestales en españa,2026-08-07T11:06:00+00:00,Spain,0.7913702035179337,0,1,es,MED,Europe
