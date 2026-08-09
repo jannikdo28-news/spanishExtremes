@@ -16,7 +16,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '476647561e',extremes,Drought,#edc291,edo,sequía nicaragua,2026-08-06T05:33:00+00:00,Nicaragua,0.7514146847466724,0,1,es,SCA,North-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,marejada ciclónica argentina,2026-08-07T04:37:00+00:00,Argentina,0.7494965074074043,0,1,es,SES,South-America
 '58f77fa85f',extremes,Thunderstorm,#53785a,wmo,granizo españa,2026-07-06T06:52:00+00:00,Spain,0.7488320057739496,2,3,es,MED,Europe
-'9c373151bb',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – severa,2026-08-07T04:37:00+00:00,Paraguay,0.7487408888209564,0,1,es,SES,South-America
 'dd93c6b53d',extremes,Precipitation,#d60d2b,wmo,precipitación méxico,2026-07-13T05:53:00+00:00,Mexico,0.7486126929279768,1,3,es,NCA,North-America
 '2cf3cdc2f9',extremes,Storm,#b3b2b1,wmo,tormenta 10a 10b,2026-08-07T04:37:00+00:00,Chile,0.7481460911060633,0,1,es,SWS,South-America
 '039582a476',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral de la provincia de huasco,2026-08-07T11:06:00+00:00,Chile,0.7464573345624237,0,1,es,SWS,South-America
@@ -121,6 +120,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'eaf1abf1e7',extremes,Snow&Ice,#d60d2b,wmo,registro de hielo. 4 cordilleras,2026-07-20T05:54:00+00:00,Chile,0.6373628256071936,1,1,es,SWS,South-America
 'fa6f243498',extremes,Precipitation,#d60d2b,wmo,aguacero mich,2026-07-14T05:14:00+00:00,Mexico,0.6373318244518537,1,1,es,NCA,North-America
 '39dc68f588',extremes,Snow&Ice,#d60d2b,wmo,congelación reg. 11 patagonia subandina norte,2026-07-17T05:27:00+00:00,Chile,0.6368401417217926,1,1,es,SWS,South-America
+'9c373151bb',extremes,Storm,#b3b2b1,wmo,área de tormenta 1 – severa,2026-08-07T04:37:00+00:00,Paraguay,0.6367297854978129,1,1,es,SES,South-America
 '596bcf1fdb',extremes,Storm,#b3b2b1,wmo,marejada ciclónica área 1 – severa,2026-07-21T05:36:00+00:00,Paraguay,0.6363321971990409,1,1,es,SES,South-America
 '0f045e33e1',extremes,Storm,#b3b2b1,wmo,marejada ciclónica reg. 4 cordilleras,2026-07-19T05:37:00+00:00,Chile,0.6362956327534942,1,1,es,SWS,South-America
 'ac4720587c',extremes,Snow&Ice,#d60d2b,wmo,congelación reg. 3 cordilleras,2026-07-15T05:15:00+00:00,Chile,0.6359745166686656,1,1,es,SWS,South-America
@@ -382,4 +382,3 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2c47b727e5',extremes,Flood,#030ba1,wmo,desafío de inundación nc,2026-07-29T05:37:00+00:00,United States,0.5564668848149635,1,1,es,CNA,North-America
 '69420e8eee',extremes,Precipitation,#d60d2b,wmo,precipitación región interandina y amazónica,2026-07-04T05:59:00+00:00,Ecuador,0.5504455855309555,2,1,es,NWS,South-America
 '8d298839a5',extremes,Precipitation,#d60d2b,wmo,aguacero tamps ver,2026-07-10T06:27:00+00:00,Mexico,0.5493822270739824,2,1,es,NCA,North-America
-'81f79ba492',extremes,Storm,#b3b2b1,wmo,tormenta región interandina y amazónica,2026-07-03T06:09:00+00:00,Ecuador,0.5443761292399543,2,1,es,NWS,South-America
