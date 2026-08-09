@@ -10,7 +10,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e739a7d025',extremes,Storm,#b3b2b1,wmo,tormenta región litoral,2026-07-03T06:09:00+00:00,Ecuador,0.7616775834052665,1,2,es,NWS,South-America
 'd01480bffd',extremes,Drought,#edc291,edo,sequía en honduras,2026-08-07T04:37:00+00:00,Honduras,0.7607265974301094,0,1,es,SCA,North-America
 '335616d808',extremes,Drought,#edc291,edo,sequía costa rica,2026-07-13T05:53:00+00:00,Costa Rica,0.7592130295377505,1,2,es,SCA,South-America
-'c92435bdaa',extremes,Drought,#edc291,edo,falta de lluvia el salvador,2026-07-26T05:46:00+00:00,El Salvador,0.7583319909301607,0,1,es,SCA,North-America
 'c3d188b8ce',extremes,Drought,#edc291,edo,sequía el salvador,2026-08-07T04:37:00+00:00,El Salvador,0.7566845886388449,0,1,es,SCA,North-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-07-19T05:37:00+00:00,Bolivia,0.7547931395823582,1,2,es,SWS,South-America
 '9630c35687',extremes,Earthquake,#870007,usgs,terremoto san fernando,2026-07-31T05:51:00+00:00,Peru,0.7515543631680717,1,2,es,NWS,South-America
@@ -101,6 +100,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12efe1f7c1',extremes,Heat Wave,#c40202,wmo,ola de calor miño de pontevedra,2026-07-04T05:59:00+00:00,Spain,0.6470843442510658,1,2,es,MED,Europe
 'c6a5702096',extremes,Precipitation,#d60d2b,wmo,aguacero jal,2026-07-10T06:27:00+00:00,Mexico,0.6463681581534539,1,1,es,NCA,North-America
 '80b81cc984',extremes,Heat Wave,#c40202,wmo,ola de calor suroeste de a coruña,2026-07-03T06:09:00+00:00,Spain,0.6455347423586488,2,2,es,MED,Europe
+'c92435bdaa',extremes,Drought,#edc291,edo,falta de lluvia el salvador,2026-07-26T05:46:00+00:00,El Salvador,0.6453322672906365,1,1,es,SCA,North-America
 '17065d269f',extremes,Drought,#edc291,edo,falta de lluvia honduras,2026-07-07T06:30:00+00:00,Honduras,0.6453263864354397,1,1,es,SCA,North-America
 'e1c395ee0f',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial quito,2026-07-11T05:27:00+00:00,Ecuador,0.6452085280050781,1,1,es,NWS,South-America
 '3f340afd02',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial ecuador,2026-07-04T05:59:00+00:00,Ecuador,0.645107464736484,1,1,es,NWS,South-America
