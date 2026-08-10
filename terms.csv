@@ -13,7 +13,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-07-19T05:37:00+00:00,Bolivia,0.7547931395823582,1,2,es,SWS,South-America
 '22055e4283',extremes,Drought,#edc291,edo,sequía nicaragua,2026-07-25T05:29:00+00:00,Nicaragua,0.7521476486202427,1,2,es,SCA,North-America
 '9630c35687',extremes,Earthquake,#870007,usgs,terremoto san fernando,2026-07-31T05:51:00+00:00,Peru,0.7515543631680717,1,2,es,NWS,South-America
-'476647561e',extremes,Drought,#edc291,edo,sequía nicaragua,2026-08-06T05:33:00+00:00,Nicaragua,0.7514146847466724,0,1,es,SCA,North-America
 'ac9b4f5444',extremes,Storm,#b3b2b1,wmo,marejada ciclónica argentina,2026-08-07T04:37:00+00:00,Argentina,0.7494965074074043,0,1,es,SES,South-America
 '58f77fa85f',extremes,Thunderstorm,#53785a,wmo,granizo españa,2026-07-06T06:52:00+00:00,Spain,0.7488320057739496,2,3,es,MED,Europe
 'dd93c6b53d',extremes,Precipitation,#d60d2b,wmo,precipitación méxico,2026-07-13T05:53:00+00:00,Mexico,0.7486126929279768,1,3,es,NCA,North-America
@@ -30,7 +29,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-07-24T05:35:00+00:00,Chile,0.7287360879871819,1,2,es,SWS,South-America
 '997a2e2157',extremes,Earthquake,#870007,usgs,terremoto argentina,2026-08-07T09:56:00+00:00,Argentina,0.7278339005132528,0,1,es,SES,South-America
 '80f83e2f4e',extremes,Earthquake,#870007,usgs,terremoto bolivia,2026-06-26T06:35:00+00:00,Bolivia,0.7247223752024488,1,2,es,SWS,South-America
-'7a177b0824',extremes,Earthquake,#870007,usgs,terremoto puerto ayora,2026-08-02T05:42:00+00:00,Ecuador,0.724477290771031,0,1,es,EPO,Pacific Ocean
 '719b23b5eb',extremes,Earthquake,#870007,usgs,terremoto caraballeda,2026-06-30T06:39:00+00:00,Venezuela,0.7238145409101249,1,3,es,NSA,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-07-09T06:27:00+00:00,Argentina,0.7235597490917716,1,3,es,SES,South-America
 '8f29727ea9',extremes,Drought,#edc291,edo,sequía guinea ecuatorial,2026-08-05T05:31:00+00:00,Equatorial Guinea,0.7227741797432069,0,1,es,WAF,Africa
@@ -123,6 +121,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e82c94efda',extremes,Earthquake,#870007,usgs,terremoto valparaíso,2026-07-17T05:27:00+00:00,Chile,0.6402289335472222,1,1,es,SWS,South-America
 '649be03eb1',extremes,Storm,#b3b2b1,wmo,marejada ciclónica área 1 – moderada,2026-08-01T05:42:00+00:00,Paraguay,0.6400627248938047,1,1,es,SES,South-America
 '5cb766f03d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica área 2 – moderada,2026-08-03T05:57:00+00:00,Paraguay,0.6399291060587752,1,1,es,SES,South-America
+'476647561e',extremes,Drought,#edc291,edo,sequía nicaragua,2026-08-06T05:33:00+00:00,Nicaragua,0.6391525270346715,1,1,es,SCA,North-America
 '9ad3f02e70',extremes,Storm,#b3b2b1,wmo,tormenta reg. 3 litoral,2026-08-01T05:42:00+00:00,Chile,0.6390858739684759,1,1,es,SWS,South-America
 '70f725b0f1',extremes,Tropical Cyclone,#4f4f4f,wmo,ciclón tropical estados unidos,2026-07-20T05:54:00+00:00,United States,0.6385409702596652,1,1,es,CNA,North-America
 'eaf1abf1e7',extremes,Snow&Ice,#d60d2b,wmo,registro de hielo. 4 cordilleras,2026-07-20T05:54:00+00:00,Chile,0.6373628256071936,1,1,es,SWS,South-America
@@ -185,6 +184,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '311f73df2f',extremes,Precipitation,#d60d2b,wmo,aguacero jal nay,2026-08-08T03:51:00+00:00,Mexico,0.617552044447833,1,1,es,NCA,North-America
 '3a40ba9c4b',extremes,Precipitation,#d60d2b,wmo,lluvia chih dgo nay sin,2026-08-03T05:57:00+00:00,Mexico,0.6170386311174454,1,1,es,NCA,North-America
 'f12ce0c729',extremes,Earthquake,#870007,usgs,terremoto orotina,2026-07-09T06:27:00+00:00,Costa Rica,0.6163550437667966,2,1,es,SCA,North-America
+'7a177b0824',extremes,Earthquake,#870007,usgs,terremoto puerto ayora,2026-08-02T05:42:00+00:00,Ecuador,0.6158056971553763,1,1,es,EPO,Pacific Ocean
 '5e67a6e3c8',extremes,Earthquake,#870007,usgs,terremoto coquimbo,2026-07-06T06:52:00+00:00,Chile,0.6156777267852682,2,2,es,SWS,South-America
 '9356efb40c',extremes,Earthquake,#870007,usgs,terremoto monterrey,2026-07-26T05:46:00+00:00,Colombia,0.6135572301631913,2,1,es,NWS,South-America
 'f8ae91766d',extremes,Earthquake,#870007,usgs,terremoto santa cruz,2026-07-29T05:37:00+00:00,Chile,0.61310662490694,1,1,es,SWS,South-America
