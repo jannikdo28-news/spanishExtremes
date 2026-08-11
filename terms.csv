@@ -36,7 +36,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '27002f7a08',extremes,Heat Wave,#c40202,wmo,ola de calor españa,2026-07-01T06:52:00+00:00,Spain,0.7210646955714713,1,3,es,MED,Europe
 '8e87f54a50',extremes,Wildfire,#d60d2b,effis,incendio forestal cáceres españa,2026-08-07T09:56:00+00:00,Spain,0.7193549384654327,1,1,es,MED,Europe
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-07-12T05:43:00+00:00,Argentina,0.7164504370046028,1,2,es,SES,South-America
-'39ef6043d8',extremes,Precipitation,#d60d2b,wmo,lluvia españa,2026-08-01T05:42:00+00:00,Spain,0.7124980851048344,0,1,es,MED,Europe
 '62a17a1926',extremes,Wildfire,#d60d2b,effis,incendio forestal barcelona españa,2026-08-07T11:06:00+00:00,Spain,0.710078345611163,1,2,es,MED,Europe
 'd737229c25',extremes,Snow&Ice,#d60d2b,wmo,congelar chile,2026-07-13T05:53:00+00:00,Chile,0.7091825874628197,1,1,es,SWS,South-America
 '5a1e952f14',extremes,Precipitation,#d60d2b,wmo,precipitación hijo,2026-07-13T05:53:00+00:00,Mexico,0.7069319302676196,2,2,es,NCA,North-America
@@ -175,6 +174,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2c74300c6f',extremes,Precipitation,#d60d2b,wmo,aguacero chih dgo sin son,2026-07-16T05:25:00+00:00,Mexico,0.6256709481117393,1,1,es,NCA,North-America
 'a627698ed3',extremes,Earthquake,#870007,usgs,terremoto santiago,2026-07-15T05:15:00+00:00,Peru,0.6256399843691156,1,2,es,NWS,South-America
 '687d982c31',extremes,Drought,#edc291,edo,falta de lluvia costa rica,2026-07-02T06:24:00+00:00,Costa Rica,0.6253265313507175,2,2,es,SCA,South-America
+'39ef6043d8',extremes,Precipitation,#d60d2b,wmo,lluvia españa,2026-08-01T05:42:00+00:00,Spain,0.6242162909754728,1,2,es,MED,Europe
 '174e70acae',extremes,Thunderstorm,#53785a,wmo,clima severo españa,2026-08-01T05:42:00+00:00,Spain,0.6236442800887704,1,1,es,MED,Europe
 '265d1fa94b',extremes,Earthquake,#870007,usgs,terremoto san alejandro,2026-08-03T05:57:00+00:00,Peru,0.6228346883094913,1,1,es,NWS,South-America
 'e1048c4180',extremes,Drought,#edc291,edo,sequedad uruguay,2026-07-11T05:27:00+00:00,Uruguay,0.622525402051172,1,1,es,SES,South-America
