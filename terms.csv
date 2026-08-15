@@ -46,7 +46,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'bd42029055',extremes,Heat Wave,#c40202,meteo,alta temperatura en España,2026-08-08T03:51:00+00:00,Spain,0.6881786462816233,0,1,es,MED,Europe
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-08-07T04:37:00+00:00,Argentina,0.6881579725557321,1,2,es,SES,South-America
 'a6e9427fb1',extremes,Earthquake,#870007,usgs,terremoto colombia,2026-07-22T05:35:00+00:00,Colombia,0.687927872646726,1,2,es,NWS,South-America
-'10594e15ba',extremes,Earthquake,#870007,usgs,terremoto sechura,2026-08-12T04:22:00+00:00,Peru,0.6872473433740399,0,1,es,NWS,South-America
 'ab1b8b2754',extremes,Thunderstorm,#53785a,wmo,clima severo belice,2026-08-12T04:23:00+00:00,Belize,0.6832227802688674,0,1,es,SCA,North-America
 '3c84c6273d',extremes,Earthquake,#870007,usgs,terremoto belén,2026-08-03T05:57:00+00:00,Nicaragua,0.6831382691586432,0,1,es,SCA,North-America
 'cb68d1153d',extremes,Storm,#b3b2b1,wmo,tormenta sierra norte y centro,2026-08-13T04:26:00+00:00,Ecuador,0.6826814001169912,1,1,es,NWS,South-America
@@ -113,7 +112,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c92435bdaa',extremes,Drought,#edc291,edo,falta de lluvia el salvador,2026-07-26T05:46:00+00:00,El Salvador,0.6453322672906365,1,1,es,SCA,North-America
 '17065d269f',extremes,Drought,#edc291,edo,falta de lluvia honduras,2026-07-07T06:30:00+00:00,Honduras,0.6453263864354397,1,1,es,SCA,North-America
 'e1c395ee0f',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial quito,2026-07-11T05:27:00+00:00,Ecuador,0.6452085280050781,1,1,es,NWS,South-America
-'3f340afd02',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial ecuador,2026-07-04T05:59:00+00:00,Ecuador,0.645107464736484,1,1,es,NWS,South-America
 'd2400dbe3d',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial oax,2026-07-13T05:53:00+00:00,Mexico,0.6436439096231791,1,1,es,NCA,North-America
 'e57843925c',extremes,Drought,#edc291,edo,sequía el salvador,2026-07-15T05:15:00+00:00,El Salvador,0.6434149841100043,1,1,es,SCA,North-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paraguay,2026-07-29T05:37:00+00:00,Paraguay,0.6427913424009188,1,1,es,SES,South-America
@@ -150,7 +148,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '452a3c5c46',extremes,Storm,#b3b2b1,wmo,tormenta guayas manabí los ríos,2026-08-14T04:24:00+00:00,Ecuador,0.6358833319022789,1,1,es,NWS,South-America
 '9a2845aa9d',extremes,Drought,#edc291,edo,sequía puerto rico,2026-07-30T05:24:00+00:00,Puerto Rico,0.6351423555770979,1,2,es,CAR,North-America
 'b55290ca0d',extremes,Drought,#edc291,edo,sequía argentina,2026-07-07T06:30:00+00:00,Argentina,0.6349632935857956,1,2,es,SES,South-America
-'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2026-07-04T05:59:00+00:00,Chile,0.6349028385759211,1,1,es,SWS,South-America
 '8913aeaf64',extremes,Storm,#b3b2b1,wmo,tormenta litoral e interandina,2026-08-01T05:42:00+00:00,Ecuador,0.6347763240141607,1,1,es,NWS,South-America
 '35c5babf8a',extremes,Storm,#b3b2b1,wmo,tormenta amazonía y norte de litoral,2026-07-12T05:43:00+00:00,Ecuador,0.6347219049684684,1,1,es,NWS,South-America
 '039582a476',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral de la provincia de huasco,2026-08-07T11:06:00+00:00,Chile,0.6344887343780601,1,1,es,SWS,South-America
@@ -170,7 +167,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7f450bad1e',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial mex,2026-07-11T05:27:00+00:00,Mexico,0.6326808934999705,1,1,es,NCA,North-America
 '49b55c4a32',extremes,Precipitation,#d60d2b,wmo,precipitación gro oax,2026-07-11T05:27:00+00:00,Mexico,0.6324907970448115,1,1,es,NCA,North-America
 '52e6ca3f85',extremes,Storm,#b3b2b1,wmo,tormenta reg. 9 valles longitudinales,2026-07-15T05:15:00+00:00,Chile,0.6324898469576351,1,1,es,SWS,South-America
-'1c9dc747da',extremes,Drought,#edc291,edo,falta de lluvia cuba,2026-07-04T05:59:00+00:00,Cuba,0.6322753941440578,1,1,es,CAR,North-America
 '8a3604d565',extremes,Earthquake,#870007,usgs,terremoto san antonio,2026-07-20T05:54:00+00:00,Chile,0.6322479292918,1,2,es,SWS,South-America
 'd1620bd645',extremes,Storm,#b3b2b1,wmo,marejada ciclónica sierra norte y centro,2026-08-12T04:23:00+00:00,Ecuador,0.631971347732587,1,1,es,NWS,South-America
 '136338a1d6',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial coah nl,2026-07-12T05:43:00+00:00,Mexico,0.6319170733401089,1,1,es,NCA,North-America
@@ -255,6 +251,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a26bb5d697',extremes,Precipitation,#d60d2b,wmo,precipitación coah nl tamps,2026-07-24T05:36:00+00:00,Mexico,0.5865350031913404,1,1,es,NCA,North-America
 '12775cc05a',extremes,Drought,#edc291,wmo,sequía brasil,2026-07-07T06:30:00+00:00,Brazil,0.5860332936756605,1,2,es,SAM,South-America
 '32708e9fe4',extremes,Drought,#edc291,edo,falta de lluvia república dominicana,2026-08-05T05:31:00+00:00,Dominican Republic,0.5853367455947771,1,1,es,CAR,North-America
+'10594e15ba',extremes,Earthquake,#870007,usgs,terremoto sechura,2026-08-12T04:22:00+00:00,Peru,0.5843102568679339,1,1,es,NWS,South-America
 '3c87d8120d',extremes,Earthquake,#870007,usgs,terremoto huarmey,2026-07-13T05:53:00+00:00,Peru,0.5839190949506669,1,1,es,NWS,South-America
 'a85adb2b88',extremes,Earthquake,#870007,usgs,terremoto yaguaraparo,2026-07-08T05:37:00+00:00,Venezuela,0.5838680067519093,1,1,es,NSA,South-America
 '8a6ebb5b5c',extremes,Drought,#edc291,edo,sequedad cuba,2026-07-12T05:43:00+00:00,Cuba,0.5830600837441313,1,1,es,CAR,North-America
@@ -361,7 +358,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f75d51c8c0',extremes,Flood,#030ba1,wmo,inundación uvalde tx,2026-07-16T05:25:00+00:00,United States,0.5605956793048212,1,1,es,CNA,North-America
 'a1880c7767',extremes,Flood,#030ba1,wmo,inundación repentina fannin ga lumpkin ga union ga,2026-08-02T05:42:00+00:00,United States,0.56054195450233,1,1,es,CNA,North-America
 '657659b0b1',extremes,Flood,#030ba1,wmo,inundación surry nc,2026-08-02T05:42:00+00:00,United States,0.5605348634820692,1,1,es,CNA,North-America
-'3d84dbb72f',extremes,Storm,#b3b2b1,wmo,tormenta estrecho de clarence,2026-07-06T06:52:00+00:00,United States,0.5604004227203524,1,1,es,CNA,North-America
 'de1d98dc07',extremes,Flood,#030ba1,wmo,inundación Dyer tn gibson tn obion tn,2026-07-11T05:27:00+00:00,United States,0.5603158044217866,1,1,es,CNA,North-America
 '386d2eebd7',extremes,Flood,#030ba1,wmo,inundaciones clinton ia scott ia,2026-07-08T05:37:00+00:00,United States,0.5602653632759109,1,1,es,CNA,North-America
 '4a554b6101',extremes,Flood,#030ba1,wmo,inundación chatham nc harnett nc lee nc,2026-07-13T05:53:00+00:00,United States,0.5602045662190461,1,1,es,CNA,North-America
