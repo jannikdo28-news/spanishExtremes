@@ -24,13 +24,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1e08672b47',extremes,Earthquake,#870007,usgs,terremoto el progreso,2026-07-01T06:52:00+00:00,Mexico,0.7404963419035759,2,2,es,NCA,North-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-06-27T06:08:00+00:00,Chile,0.7395240779041894,1,3,es,SWS,South-America
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,tormenta uruguay,2026-07-19T05:37:00+00:00,Uruguay,0.7384598958517656,2,3,es,SES,South-America
-'1327c453bc',extremes,Precipitation,#d60d2b,wmo,precipitación españa,2026-08-01T05:42:00+00:00,Spain,0.7348056128907771,0,1,es,MED,Europe
 '3c84c6273d',extremes,Earthquake,#870007,usgs,terremoto belén,2026-08-03T05:57:00+00:00,Nicaragua,0.7317176337848468,1,2,es,SCA,North-America
 'd2b3cefe08',extremes,Precipitation,#d60d2b,wmo,precipitación costa rica,2026-07-17T05:27:00+00:00,Costa Rica,0.7316356512236744,1,2,es,SCA,North-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-07-24T05:35:00+00:00,Chile,0.7287360879871819,1,2,es,SWS,South-America
 '9778ee6716',extremes,Earthquake,#870007,usgs,terremoto yumare,2026-08-11T04:01:00+00:00,Venezuela,0.7278798440118908,0,1,es,NSA,South-America
 '7962bed540',extremes,Earthquake,#870007,usgs,terremoto el arenal,2026-08-01T05:41:00+00:00,Mexico,0.7267306619775307,1,2,es,SCA,North-America
-'e802bd5660',extremes,Earthquake,#870007,usgs,terremoto chirilagua,2026-08-14T04:24:00+00:00,El Salvador,0.7256834561473982,0,1,es,SCA,North-America
 '719b23b5eb',extremes,Earthquake,#870007,usgs,terremoto caraballeda,2026-06-30T06:39:00+00:00,Venezuela,0.7238145409101249,1,3,es,NSA,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-07-09T06:27:00+00:00,Argentina,0.7235597490917716,1,3,es,SES,South-America
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,nieve brasil,2026-07-05T06:25:00+00:00,Brazil,0.7211119329994525,1,3,es,SAM,South-America
@@ -106,6 +104,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0317e93d3c',extremes,Snow&Ice,#d60d2b,wmo,chile helado,2026-07-14T05:14:00+00:00,Chile,0.65421758005931,1,1,es,SWS,South-America
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,hielo argentina,2026-07-21T05:36:00+00:00,Argentina,0.6535942160232078,1,2,es,SES,South-America
 'be45bca4a8',extremes,Fog,#d60d2b,wmo,niebla estados unidos,2026-06-27T06:08:00+00:00,United States,0.6532925895477345,1,3,es,CNA,North-America
+'1327c453bc',extremes,Precipitation,#d60d2b,wmo,precipitación españa,2026-08-01T05:42:00+00:00,Spain,0.6522627636844331,1,2,es,MED,Europe
 '8e87f54a50',extremes,Wildfire,#d60d2b,effis,incendio forestal cáceres españa,2026-08-07T09:56:00+00:00,Spain,0.6513519376956178,2,1,es,MED,Europe
 '2aae619df1',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial hijo,2026-08-12T04:23:00+00:00,Mexico,0.6507743821947644,2,1,es,NCA,North-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-07-29T05:37:00+00:00,Argentina,0.6498786258457677,1,1,es,SES,South-America
@@ -212,6 +211,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '165cc0ca4c',extremes,Precipitation,#d60d2b,wmo,lluvia chih dgo,2026-07-17T05:27:00+00:00,Mexico,0.6181180732599892,1,1,es,NCA,North-America
 '311f73df2f',extremes,Precipitation,#d60d2b,wmo,aguacero jal nay,2026-08-08T03:51:00+00:00,Mexico,0.617552044447833,1,1,es,NCA,North-America
 '3a40ba9c4b',extremes,Precipitation,#d60d2b,wmo,lluvia chih dgo nay sin,2026-08-03T05:57:00+00:00,Mexico,0.6170386311174454,1,1,es,NCA,North-America
+'e802bd5660',extremes,Earthquake,#870007,usgs,terremoto chirilagua,2026-08-14T04:24:00+00:00,El Salvador,0.6168309377252884,1,1,es,SCA,North-America
 'f12ce0c729',extremes,Earthquake,#870007,usgs,terremoto orotina,2026-07-09T06:27:00+00:00,Costa Rica,0.6163550437667966,2,1,es,SCA,North-America
 '7a177b0824',extremes,Earthquake,#870007,usgs,terremoto puerto ayora,2026-08-02T05:42:00+00:00,Ecuador,0.6158056971553763,1,1,es,EPO,Pacific Ocean
 '77d490ebd6',extremes,Drought,#edc291,edo,sequía panamá,2026-08-12T04:23:00+00:00,Panama,0.6157072284633015,2,1,es,SCA,North-America
@@ -254,7 +254,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'deebf112c9',extremes,Drought,#edc291,edo,falta de lluvia colombia,2026-07-15T05:15:00+00:00,Colombia,0.5934617324771719,2,1,es,NWS,South-America
 'e40d44c836',extremes,Earthquake,#870007,usgs,terremoto burica,2026-07-31T05:51:00+00:00,Panama,0.592878690842941,1,1,es,SCA,South-America
 'b446232d99',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial chih dgo sin,2026-08-04T05:32:00+00:00,Mexico,0.5924813418186841,1,1,es,NCA,North-America
-'002e7e0d48',extremes,Heat Wave,#c40202,wmo,ola de calor noroeste de a coruña,2026-07-04T05:59:00+00:00,Spain,0.591837936698952,2,2,es,MED,Europe
 'f738617231',extremes,Earthquake,#870007,usgs,terremoto bahía de lobos,2026-08-04T05:31:00+00:00,Mexico,0.5909452915274267,1,1,es,NCA,North-America
 '393400b105',extremes,Drought,#edc291,edo,sequedad puerto rico,2026-07-13T05:53:00+00:00,Puerto Rico,0.5887919756990003,1,1,es,CAR,North-America
 'd518bac9ec',extremes,Earthquake,#870007,usgs,terremoto huayucachi,2026-08-07T04:37:00+00:00,Peru,0.5881446539819152,1,1,es,NWS,South-America
@@ -370,9 +369,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a1880c7767',extremes,Flood,#030ba1,wmo,inundación repentina fannin ga lumpkin ga union ga,2026-08-02T05:42:00+00:00,United States,0.56054195450233,1,1,es,CNA,North-America
 '657659b0b1',extremes,Flood,#030ba1,wmo,inundación surry nc,2026-08-02T05:42:00+00:00,United States,0.5605348634820692,1,1,es,CNA,North-America
 'de1d98dc07',extremes,Flood,#030ba1,wmo,inundación Dyer tn gibson tn obion tn,2026-07-11T05:27:00+00:00,United States,0.5603158044217866,1,1,es,CNA,North-America
-'386d2eebd7',extremes,Flood,#030ba1,wmo,inundaciones clinton ia scott ia,2026-07-08T05:37:00+00:00,United States,0.5602653632759109,1,1,es,CNA,North-America
 '4a554b6101',extremes,Flood,#030ba1,wmo,inundación chatham nc harnett nc lee nc,2026-07-13T05:53:00+00:00,United States,0.5602045662190461,1,1,es,CNA,North-America
-'066f4c5a46',extremes,Flood,#030ba1,wmo,inundación marshall il putnam il,2026-07-08T05:37:00+00:00,United States,0.5601574428514443,1,1,es,CNA,North-America
 '82a3a11e1d',extremes,Flood,#030ba1,wmo,cabo de inundación girardeau mo scott mo,2026-07-10T06:27:00+00:00,United States,0.5601360292161928,1,1,es,CNA,North-America
 'a856ccedf7',extremes,Flood,#030ba1,wmo,inundaciones crawford mo washington mo,2026-07-11T05:27:00+00:00,United States,0.560017978109051,1,1,es,CNA,North-America
 '67172b4ad8',extremes,Flood,#030ba1,wmo,inundación kimble tx,2026-07-15T05:15:00+00:00,United States,0.5599626019131213,1,1,es,CNA,North-America
@@ -395,7 +392,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd21652e726',extremes,Flood,#030ba1,wmo,inundación leelanau mi,2026-07-21T05:36:00+00:00,United States,0.5582511129580456,1,1,es,CNA,North-America
 'aef63eb6c0',extremes,Flood,#030ba1,wmo,inundación matagorda tx wharton tx,2026-07-16T05:25:00+00:00,United States,0.5581932282231664,1,1,es,CNA,North-America
 '6804fbe008',extremes,Flood,#030ba1,wmo,inundaciones kinney tx uvalde tx,2026-07-16T05:25:00+00:00,United States,0.5579695548643411,1,1,es,CNA,North-America
-'3d5ac23d55',extremes,Wildfire,#d60d2b,wmo,incendio forestal en el valle inferior de kobuk,2026-07-08T05:37:00+00:00,United States,0.5575311163148841,1,1,es,CNA,North-America
 '950fa67abd',extremes,Flood,#030ba1,wmo,inundación de hierro mo madison mo,2026-07-11T05:27:00+00:00,United States,0.5575041891431833,1,1,es,CNA,North-America
 'ac883452de',extremes,Flood,#030ba1,wmo,inundación repentina washington ut,2026-07-17T05:27:00+00:00,United States,0.5574289928020402,1,1,es,CNA,North-America
 '80a2d7fd6b',extremes,Flood,#030ba1,wmo,inundaciones pulaski il ballard ky,2026-07-10T06:27:00+00:00,United States,0.5572164173034628,1,1,es,CNA,North-America
