@@ -46,11 +46,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-07-09T06:27:00+00:00,Argentina,0.6885538949064857,1,1,es,SES,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-08-07T04:37:00+00:00,Argentina,0.6881579725557321,1,2,es,SES,South-America
 'a6e9427fb1',extremes,Earthquake,#870007,usgs,terremoto colombia,2026-07-22T05:35:00+00:00,Colombia,0.687927872646726,1,2,es,NWS,South-America
-'5d31bff833',extremes,Thunderstorm,#53785a,wmo,tormenta belice,2026-08-15T03:13:00+00:00,Belize,0.6839268603600787,0,1,es,SCA,North-America
-'cb68d1153d',extremes,Storm,#b3b2b1,wmo,tormenta sierra norte y centro,2026-08-13T04:26:00+00:00,Ecuador,0.6826814001169912,1,1,es,NWS,South-America
 '71152ed2cb',extremes,Wildfire,#d60d2b,effis,incendio forestal españa huelva niebla,2026-08-09T03:59:00+00:00,Spain,0.6781998897450318,0,1,es,MED,Europe
 'dfbb2a2a1d',extremes,Drought,#edc291,edo,falta de lluvias uruguay,2026-07-09T06:27:00+00:00,Uruguay,0.6779420292313849,1,2,es,SES,South-America
-'c6ce45829e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica brasil,2026-08-07T09:56:00+00:00,Brazil,0.6754565469842305,0,1,es,SAM,South-America
 '7851b8b348',extremes,Earthquake,#870007,usgs,terremoto la democracia,2026-08-07T04:37:00+00:00,Guatemala,0.6748829459825969,0,1,es,SCA,North-America
 '1eecfd582b',extremes,Drought,#edc291,edo,sequía puerto rico,2026-08-04T05:32:00+00:00,Puerto Rico,0.6740000904583227,0,1,es,CAR,North-America
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,ola de frío brasil,2026-08-07T04:37:00+00:00,Brazil,0.6732699429006475,0,1,es,SAM,South-America
@@ -112,7 +109,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c6a5702096',extremes,Precipitation,#d60d2b,wmo,aguacero jal,2026-07-10T06:27:00+00:00,Mexico,0.6463681581534539,1,1,es,NCA,North-America
 'cdd6a38435',extremes,Snow&Ice,#d60d2b,wmo,nieve reg. 4 cordilleras,2026-08-11T04:01:00+00:00,Chile,0.6458648369412255,1,1,es,SWS,South-America
 'c92435bdaa',extremes,Drought,#edc291,edo,falta de lluvia el salvador,2026-07-26T05:46:00+00:00,El Salvador,0.6453322672906365,1,1,es,SCA,North-America
-'17065d269f',extremes,Drought,#edc291,edo,falta de lluvia honduras,2026-07-07T06:30:00+00:00,Honduras,0.6453263864354397,1,1,es,SCA,North-America
 'e1c395ee0f',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial quito,2026-07-11T05:27:00+00:00,Ecuador,0.6452085280050781,1,1,es,NWS,South-America
 'd2400dbe3d',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial oax,2026-07-13T05:53:00+00:00,Mexico,0.6436439096231791,1,1,es,NCA,North-America
 'e57843925c',extremes,Drought,#edc291,edo,sequía el salvador,2026-07-15T05:15:00+00:00,El Salvador,0.6434149841100043,1,1,es,SCA,North-America
@@ -225,6 +221,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '85a9fce86a',extremes,Earthquake,#870007,usgs,terremoto san pedro de atacama,2026-07-23T05:40:00+00:00,Chile,0.6118924352675181,2,1,es,SWS,South-America
 '55bf848ea6',extremes,Earthquake,#870007,usgs,terremoto sicaya,2026-07-20T05:54:00+00:00,Peru,0.6114689602826828,1,1,es,NWS,South-America
 '200d9fc01e',extremes,Precipitation,#d60d2b,wmo,precipitación coah,2026-07-19T05:37:00+00:00,Mexico,0.6107639802849819,1,1,es,NCA,North-America
+'cb68d1153d',extremes,Storm,#b3b2b1,wmo,tormenta sierra norte y centro,2026-08-13T04:26:00+00:00,Ecuador,0.6092020823721698,2,1,es,NWS,South-America
 '75399310e2',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial mich,2026-08-17T03:28:00+00:00,Mexico,0.6091029272586828,1,1,es,NCA,North-America
 '5ef8bde497',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial pue,2026-07-17T05:27:00+00:00,Mexico,0.6083624847385368,1,1,es,NCA,North-America
 'bd42029055',extremes,Heat Wave,#c40202,meteo,alta temperatura en España,2026-08-08T03:51:00+00:00,Spain,0.608086622521198,1,2,es,MED,Europe
@@ -273,11 +270,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b3e00f492f',extremes,Drought,#edc291,edo,sequía belice,2026-07-13T05:53:00+00:00,Belize,0.5822296165260945,1,1,es,SCA,North-America
 '9f1c5401cf',extremes,Drought,#edc291,edo,sequía colombia,2026-07-18T05:10:00+00:00,Colombia,0.582215724048186,1,2,es,NWS,South-America
 'c871a8ceef',extremes,Precipitation,#d60d2b,wmo,aguacero hijo,2026-07-19T05:37:00+00:00,Mexico,0.5818633550176441,1,1,es,NCA,North-America
+'5d31bff833',extremes,Thunderstorm,#53785a,wmo,tormenta belice,2026-08-15T03:13:00+00:00,Belize,0.5813378313060669,1,1,es,SCA,North-America
 'ab1b8b2754',extremes,Thunderstorm,#53785a,wmo,clima severo belice,2026-08-12T04:23:00+00:00,Belize,0.5807393632285373,1,1,es,SCA,North-America
 '027da6a4db',extremes,Storm,#b3b2b1,wmo,marejada ciclónica estrecho de clarence,2026-07-28T05:31:00+00:00,United States,0.5760000754398718,1,1,es,CNA,North-America
 '09deb2b40e',extremes,Drought,#edc291,edo,falta de lluvia belice,2026-08-01T05:42:00+00:00,Belize,0.5757953811931984,1,1,es,SCA,North-America
 '1f19f0ad30',extremes,Earthquake,#870007,usgs,terremoto champerico,2026-07-24T05:35:00+00:00,Guatemala,0.5750173840759217,1,1,es,SCA,North-America
 '122a78fcc0',extremes,Drought,#edc291,edo,falta de lluvia panamá,2026-07-14T05:15:00+00:00,Panama,0.5744349973842934,1,1,es,SCA,North-America
+'c6ce45829e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica brasil,2026-08-07T09:56:00+00:00,Brazil,0.5741380649365959,1,1,es,SAM,South-America
 'bed53cc600',extremes,Precipitation,#d60d2b,wmo,aguacero brasil,2026-07-15T05:15:00+00:00,Brazil,0.5740842320906314,1,1,es,SAM,South-America
 '8626b81b9b',extremes,Flood,#030ba1,emdat,inundacion zamora chinchipe,2026-07-21T05:36:00+00:00,Ecuador,0.5722334960298134,2,1,es,NWS,South-America
 '03dcd63deb',extremes,Earthquake,#870007,usgs,terremoto puerto casma,2026-07-23T05:40:00+00:00,Peru,0.5721212749747933,1,1,es,NWS,South-America
