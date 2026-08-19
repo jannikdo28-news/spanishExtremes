@@ -66,8 +66,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '89b6ac7d7c',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón isla grande norte,2026-08-14T04:24:00+00:00,United States,0.6709247206150413,0,1,es,CNA,North-America
 'baf5f94907',extremes,Tropical Cyclone,#4f4f4f,wmo,huracán isla grande al este,2026-08-15T03:13:00+00:00,United States,0.6707623909271501,0,1,es,CNA,North-America
 '2433af70de',extremes,Storm,#b3b2b1,wmo,marejada ciclónica belice,2026-08-04T05:32:00+00:00,Belize,0.6706640693500141,0,1,es,SCA,North-America
+'1085e78d4e',extremes,Thunderstorm,#53785a,wmo,granizo estados unidos,2026-08-10T04:14:00+00:00,United States,0.6703739001594058,0,1,es,CNA,North-America
+'e22ac455ac',extremes,Flood,#030ba1,wmo,inundación repentina en fayette en franklin en,2026-08-13T04:26:00+00:00,United States,0.6699471639005753,0,1,es,CNA,North-America
 '8b533aa307',extremes,Thunderstorm,#53785a,wmo,clima severo estados unidos,2026-07-22T05:35:00+00:00,United States,0.6698636915191878,0,1,es,CNA,North-America
+'7e302bab2a',extremes,Tropical Cyclone,#4f4f4f,wmo,ciclón tropical interior de la isla grande,2026-08-16T03:28:00+00:00,United States,0.6698607710652001,0,1,es,CNA,North-America
 '09e449a99c',extremes,Wildfire,#d60d2b,effis,incendio forestal españa huelva niebla,2026-08-08T03:51:00+00:00,Spain,0.669663924418196,0,1,es,MED,Europe
+'65916423ca',extremes,Tropical Cyclone,#4f4f4f,wmo,huracán isla grande sureste,2026-08-16T03:28:00+00:00,United States,0.6695572472661186,0,1,es,CNA,North-America
+'ff8dcb04ac',extremes,Flood,#030ba1,wmo,inundación repentina delaware en madison en,2026-08-13T04:26:00+00:00,United States,0.669194291403005,0,1,es,CNA,North-America
+'ffab3bc6fd',extremes,Flood,#030ba1,wmo,inundación morgan oh washington oh,2026-08-12T04:23:00+00:00,United States,0.6691941928239994,0,1,es,CNA,North-America
 'b2c023909a',extremes,Storm,#b3b2b1,wmo,área de tormenta 2 – moderada,2026-07-22T05:35:00+00:00,Paraguay,0.6684189544009616,2,1,es,SES,South-America
 'cc9c315c8c',extremes,Earthquake,#870007,usgs,terremoto puerto madero,2026-07-18T05:10:00+00:00,Mexico,0.6673507184645784,2,2,es,SCA,North-America
 '5bcfa907bb',extremes,Storm,#b3b2b1,wmo,tormenta quito,2026-07-12T05:43:00+00:00,Ecuador,0.6672567892994473,2,1,es,NWS,South-America
