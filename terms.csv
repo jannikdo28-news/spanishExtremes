@@ -36,8 +36,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '27002f7a08',extremes,Heat Wave,#c40202,wmo,ola de calor españa,2026-07-01T06:52:00+00:00,Spain,0.7210646955714713,1,3,es,MED,Europe
 '5a1e952f14',extremes,Precipitation,#d60d2b,wmo,precipitación hijo,2026-07-13T05:53:00+00:00,Mexico,0.7069319302676196,2,2,es,NCA,North-America
 '2ae957eb10',extremes,Earthquake,#870007,usgs,terremoto chupaca,2026-07-22T05:35:00+00:00,Peru,0.7053439200584963,2,2,es,NWS,South-America
+'26dc110943',extremes,Drought,#edc291,edo,falta de lluvia nicaragua,2026-08-16T03:28:00+00:00,Nicaragua,0.703671442963437,0,1,es,SCA,North-America
 '493ff10b88',extremes,Earthquake,#870007,usgs,terremoto panamá,2026-08-01T05:41:00+00:00,Panama,0.7034431016949292,2,3,es,SCA,South-America
 'a828348731',extremes,Storm,#b3b2b1,wmo,tormenta costa rica,2026-08-17T03:28:00+00:00,Costa Rica,0.7027022086445078,1,2,es,SCA,North-America
+'6705f7fafc',extremes,Wildfire,#d60d2b,effis,incendio forestal españa huesca campo,2026-08-20T03:26:00+00:00,Spain,0.7022565530351287,0,1,es,MED,Europe
 'adc8088001',extremes,Fog,#d60d2b,wmo,niebla a mariña,2026-08-14T04:24:00+00:00,Spain,0.7010382241852325,1,2,es,MED,Europe
 'd57776053a',extremes,Thunderstorm,#53785a,wmo,tormenta estados unidos,2026-06-27T06:08:00+00:00,United States,0.6997753561013713,1,3,es,CNA,North-America
 'ae340540d6',extremes,Precipitation,#d60d2b,wmo,aguacero argentino,2026-07-09T06:27:00+00:00,Argentina,0.6992599090652585,2,2,es,SES,South-America
@@ -50,9 +52,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-07-09T06:27:00+00:00,Argentina,0.6885538949064857,1,1,es,SES,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-08-07T04:37:00+00:00,Argentina,0.6881579725557321,1,2,es,SES,South-America
 'a6e9427fb1',extremes,Earthquake,#870007,usgs,terremoto colombia,2026-07-22T05:35:00+00:00,Colombia,0.687927872646726,1,2,es,NWS,South-America
+'81f603e8c8',extremes,Wildfire,#d60d2b,effis,incendio forestal huesca españa,2026-08-20T03:26:00+00:00,Spain,0.6855613936488889,0,1,es,MED,Europe
 '925cc6c6e9',extremes,Drought,#edc291,edo,sequía en costa rica,2026-08-02T05:42:00+00:00,Costa Rica,0.6791262493742765,2,2,es,SCA,South-America
+'687d982c31',extremes,Drought,#edc291,edo,falta de lluvia costa rica,2026-08-20T03:26:00+00:00,Costa Rica,0.6781827278300544,0,1,es,SCA,South-America
 'dfbb2a2a1d',extremes,Drought,#edc291,edo,falta de lluvias uruguay,2026-07-09T06:27:00+00:00,Uruguay,0.6779420292313849,1,2,es,SES,South-America
 '76196dc5e1',extremes,Earthquake,#870007,usgs,terremoto guatemala,2026-08-15T03:13:00+00:00,Guatemala,0.6746327606932347,0,1,es,SCA,North-America
+'0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tormenta brasil,2026-08-17T03:28:00+00:00,Brazil,0.674107373273133,0,1,es,SAM,South-America
 '1eecfd582b',extremes,Drought,#edc291,edo,sequía puerto rico,2026-08-04T05:32:00+00:00,Puerto Rico,0.6740000904583227,0,1,es,CAR,North-America
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,ola de frío brasil,2026-08-07T04:37:00+00:00,Brazil,0.6732699429006475,0,1,es,SAM,South-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-07-17T05:27:00+00:00,Paraguay,0.6732277522454169,1,2,es,SES,South-America
@@ -78,6 +83,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ff8dcb04ac',extremes,Flood,#030ba1,wmo,inundación repentina delaware en madison en,2026-08-13T04:26:00+00:00,United States,0.669194291403005,0,1,es,CNA,North-America
 'ffab3bc6fd',extremes,Flood,#030ba1,wmo,inundación morgan oh washington oh,2026-08-12T04:23:00+00:00,United States,0.6691941928239994,0,1,es,CNA,North-America
 'a86281f168',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón isla grande sur,2026-08-16T03:28:00+00:00,United States,0.6689017616522694,0,1,es,CNA,North-America
+'d374f0679b',extremes,Flood,#030ba1,wmo,inundación blount tn knox tn sevier tn,2026-08-12T04:23:00+00:00,United States,0.6686785241713377,0,1,es,CNA,North-America
 'b2c023909a',extremes,Storm,#b3b2b1,wmo,área de tormenta 2 – moderada,2026-07-22T05:35:00+00:00,Paraguay,0.6684189544009616,2,1,es,SES,South-America
 'cc9c315c8c',extremes,Earthquake,#870007,usgs,terremoto puerto madero,2026-07-18T05:10:00+00:00,Mexico,0.6673507184645784,2,2,es,SCA,North-America
 '5bcfa907bb',extremes,Storm,#b3b2b1,wmo,tormenta quito,2026-07-12T05:43:00+00:00,Ecuador,0.6672567892994473,2,1,es,NWS,South-America
