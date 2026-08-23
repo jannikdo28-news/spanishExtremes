@@ -21,8 +21,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3a23ad42fe',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial argentina,2026-07-30T05:24:00+00:00,Argentina,0.7445266463733247,2,2,es,SES,South-America
 '8b5b4c9d3b',extremes,Earthquake,#870007,usgs,terremoto puerto santa,2026-07-24T05:35:00+00:00,Peru,0.7406847834434155,2,2,es,NWS,South-America
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,tormenta uruguay,2026-07-19T05:37:00+00:00,Uruguay,0.7384598958517656,2,3,es,SES,South-America
-'7f450bad1e',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial mex,2026-08-21T03:30:00+00:00,Mexico,0.737844775299921,0,1,es,NCA,North-America
-'98fbb0827e',extremes,Precipitation,#d60d2b,wmo,aguacero gto,2026-08-22T03:22:00+00:00,Mexico,0.7368668682785506,0,1,es,NCA,North-America
 '82a0d33ad5',extremes,Drought,#edc291,edo,sequedad republica dominicana,2026-08-22T03:22:00+00:00,Dominican Republic,0.7365280997871384,0,1,es,CAR,North-America
 'd2b3cefe08',extremes,Precipitation,#d60d2b,wmo,precipitación costa rica,2026-07-17T05:27:00+00:00,Costa Rica,0.7316356512236744,1,2,es,SCA,North-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-07-24T05:35:00+00:00,Chile,0.7287360879871819,1,2,es,SWS,South-America
@@ -207,8 +205,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c3bed96c37',extremes,Precipitation,#d60d2b,wmo,aguacero méxico,2026-07-12T05:43:00+00:00,Mexico,0.6298372886265717,2,2,es,NCA,North-America
 'ae7343e0e0',extremes,Storm,#b3b2b1,wmo,marejada ciclónica 04 05 05m 06 07 08a 08b,2026-08-14T04:24:00+00:00,Chile,0.6288628521960445,1,1,es,SWS,South-America
 'dbc7898410',extremes,Drought,#edc291,edo,sequía república dominicana,2026-08-07T04:37:00+00:00,Dominican Republic,0.6285555374197118,1,1,es,CAR,North-America
+'7f450bad1e',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial mex,2026-08-21T03:30:00+00:00,Mexico,0.6271680590049328,1,1,es,NCA,North-America
 'e7db391dce',extremes,Storm,#b3b2b1,wmo,marejada ciclónica costa rica,2026-08-09T03:59:00+00:00,Costa Rica,0.6268335194772985,1,1,es,SCA,North-America
 'da616f2571',extremes,Earthquake,#870007,usgs,terremoto pichigua,2026-07-17T05:27:00+00:00,Peru,0.6265071528138824,1,1,es,SAM,South-America
+'98fbb0827e',extremes,Precipitation,#d60d2b,wmo,aguacero gto,2026-08-22T03:22:00+00:00,Mexico,0.626486853036768,1,1,es,NCA,North-America
 '3a67915e02',extremes,Earthquake,#870007,usgs,terremoto peru,2026-08-07T09:56:00+00:00,Peru,0.6257482362523387,1,1,es,NWS,South-America
 '2c74300c6f',extremes,Precipitation,#d60d2b,wmo,aguacero chih dgo sin son,2026-07-16T05:25:00+00:00,Mexico,0.6256709481117393,1,1,es,NCA,North-America
 'a627698ed3',extremes,Earthquake,#870007,usgs,terremoto santiago,2026-07-15T05:15:00+00:00,Peru,0.6256399843691156,1,2,es,NWS,South-America
