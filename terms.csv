@@ -24,6 +24,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '95d130fbc5',extremes,Storm,#b3b2b1,wmo,tormenta uruguay,2026-07-19T05:37:00+00:00,Uruguay,0.7384598958517656,2,3,es,SES,South-America
 'd2b3cefe08',extremes,Precipitation,#d60d2b,wmo,precipitación costa rica,2026-07-17T05:27:00+00:00,Costa Rica,0.7316356512236744,1,2,es,SCA,North-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-07-09T06:27:00+00:00,Argentina,0.7235597490917716,1,3,es,SES,South-America
+'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial brasil,2026-08-01T05:42:00+00:00,Brazil,0.7222722924258123,1,2,es,SAM,South-America
 '7941ab1629',extremes,Snow&Ice,#d60d2b,wmo,nieve brasil,2026-07-05T06:25:00+00:00,Brazil,0.7211119329994525,1,3,es,SAM,South-America
 '27002f7a08',extremes,Heat Wave,#c40202,wmo,ola de calor españa,2026-07-01T06:52:00+00:00,Spain,0.7210646955714713,1,3,es,MED,Europe
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-08-07T09:56:00+00:00,Chile,0.7109812468377212,0,1,es,SWS,South-America
@@ -53,7 +54,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '76ec205ec6',extremes,Wildfire,#d60d2b,effis,incendio forestal zamora españa,2026-08-22T03:22:00+00:00,Spain,0.673814021523443,1,3,es,MED,Europe
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,ola de frío brasil,2026-08-07T04:37:00+00:00,Brazil,0.6732699429006475,0,1,es,SAM,South-America
 'adacd65a27',extremes,Storm,#b3b2b1,wmo,tormenta paraguay,2026-07-17T05:27:00+00:00,Paraguay,0.6732277522454169,1,2,es,SES,South-America
-'8bc0bfe218',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial brasil,2026-08-01T05:42:00+00:00,Brazil,0.6729085440303674,0,1,es,SAM,South-America
 'b48023de43',extremes,Wildfire,#d60d2b,effis,incendio forestal españa barcelona santa maria d'oló,2026-08-07T11:06:00+00:00,Spain,0.6727633044654779,1,1,es,MED,Europe
 '7ecb7f6962',extremes,Wildfire,#d60d2b,effis,incendio forestal españa lugo baralla,2026-08-07T11:06:00+00:00,Spain,0.6725672942423185,1,1,es,MED,Europe
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2026-08-15T03:13:00+00:00,Brazil,0.672565855504407,0,1,es,SAM,South-America
