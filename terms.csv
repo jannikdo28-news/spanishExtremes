@@ -58,7 +58,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitación litoral,2026-08-20T03:26:00+00:00,Ecuador,0.6713371344298112,2,2,es,NWS,South-America
 '8b533aa307',extremes,Thunderstorm,#53785a,wmo,clima severo estados unidos,2026-07-22T05:35:00+00:00,United States,0.6698636915191878,0,1,es,CNA,North-America
 '09e449a99c',extremes,Wildfire,#d60d2b,effis,incendio forestal españa huelva niebla,2026-08-08T03:51:00+00:00,Spain,0.669663924418196,0,1,es,MED,Europe
-'65916423ca',extremes,Tropical Cyclone,#4f4f4f,wmo,huracán isla grande sureste,2026-08-16T03:28:00+00:00,United States,0.6695572472661186,0,1,es,CNA,North-America
 '56f66f6845',extremes,Flood,#030ba1,wmo,inundación monroe en morgan en owen en,2026-08-16T03:28:00+00:00,United States,0.6693329610869794,0,1,es,CNA,North-America
 '3dea46c095',extremes,Flood,#030ba1,wmo,inundación repentina estados unidos,2026-08-15T03:13:00+00:00,United States,0.6692114983522011,0,1,es,CNA,North-America
 'ff8dcb04ac',extremes,Flood,#030ba1,wmo,inundación repentina delaware en madison en,2026-08-13T04:26:00+00:00,United States,0.669194291403005,0,1,es,CNA,North-America
@@ -276,6 +275,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0fa731fd34',extremes,Drought,#edc291,edo,sequedad honduras,2026-07-23T05:40:00+00:00,Honduras,0.5718451183515173,1,1,es,SCA,North-America
 '89b6ac7d7c',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón isla grande norte,2026-08-14T04:24:00+00:00,United States,0.5702860125227851,1,1,es,CNA,North-America
 '2433af70de',extremes,Storm,#b3b2b1,wmo,marejada ciclónica belice,2026-08-04T05:32:00+00:00,Belize,0.570064458947512,1,1,es,SCA,North-America
+'65916423ca',extremes,Tropical Cyclone,#4f4f4f,wmo,huracán isla grande sureste,2026-08-16T03:28:00+00:00,United States,0.5695737051762009,1,1,es,CNA,North-America
 '30b1a37300',extremes,Earthquake,#870007,usgs,terremoto la tirana,2026-07-28T05:30:00+00:00,Chile,0.5695725009534939,1,1,es,SWS,South-America
 'e22ac455ac',extremes,Flood,#030ba1,wmo,inundación repentina en fayette en franklin en,2026-08-13T04:26:00+00:00,United States,0.5694550893154889,1,1,es,CNA,North-America
 '7e302bab2a',extremes,Tropical Cyclone,#4f4f4f,wmo,ciclón tropical interior de la isla grande,2026-08-16T03:28:00+00:00,United States,0.5693816554054201,1,1,es,CNA,North-America
