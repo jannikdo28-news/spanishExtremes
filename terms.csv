@@ -5,10 +5,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02d4c311ee',extremes,Wildfire,#d60d2b,effis,incendios forestales lugo españa,2026-08-07T11:06:00+00:00,Spain,0.8162675300461572,2,2,es,MED,Europe
 'd01480bffd',extremes,Drought,#edc291,edo,sequía en honduras,2026-08-07T04:37:00+00:00,Honduras,0.7969176378155929,1,2,es,SCA,North-America
 'bee7cf7ad2',extremes,Snow&Ice,#d60d2b,wmo,chile helado,2026-08-04T05:32:00+00:00,Chile,0.793541341156987,1,2,es,SWS,South-America
+'0317e93d3c',extremes,Snow&Ice,#d60d2b,wmo,chile helado,2026-08-07T09:56:00+00:00,Chile,0.7912031073024582,1,2,es,SWS,South-America
 '3b16dc3453',extremes,Earthquake,#870007,usgs,terremoto san josé del palmar,2026-08-11T04:01:00+00:00,Colombia,0.7902486799723328,1,3,es,NWS,South-America
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,aguacero ecuador,2026-08-01T05:42:00+00:00,Ecuador,0.7810158863319585,1,2,es,NWS,South-America
 '9330418237',extremes,Precipitation,#d60d2b,wmo,lluvia uruguay,2026-08-20T03:26:00+00:00,Uruguay,0.7770256505381845,1,3,es,SES,South-America
-'0317e93d3c',extremes,Snow&Ice,#d60d2b,wmo,chile helado,2026-08-07T09:56:00+00:00,Chile,0.7656369104010822,0,1,es,SWS,South-America
 '5ce57f419d',extremes,Earthquake,#870007,usgs,terremoto venezuela,2026-07-11T05:27:00+00:00,Venezuela,0.7655586155267989,1,3,es,NSA,South-America
 '652882bd27',extremes,Earthquake,#870007,usgs,terremoto cuya,2026-07-23T05:40:00+00:00,Chile,0.76337949552594,1,3,es,SWS,South-America
 'e57843925c',extremes,Drought,#edc291,edo,sequía el salvador,2026-08-09T03:59:00+00:00,El Salvador,0.7603232393882653,0,1,es,SCA,North-America
@@ -62,7 +62,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitación litoral,2026-08-20T03:26:00+00:00,Ecuador,0.6713371344298112,2,2,es,NWS,South-America
 '8b533aa307',extremes,Thunderstorm,#53785a,wmo,clima severo estados unidos,2026-07-22T05:35:00+00:00,United States,0.6698636915191878,0,1,es,CNA,North-America
 '09e449a99c',extremes,Wildfire,#d60d2b,effis,incendio forestal españa huelva niebla,2026-08-08T03:51:00+00:00,Spain,0.669663924418196,0,1,es,MED,Europe
-'56f66f6845',extremes,Flood,#030ba1,wmo,inundación monroe en morgan en owen en,2026-08-16T03:28:00+00:00,United States,0.6693329610869794,0,1,es,CNA,North-America
 '3dea46c095',extremes,Flood,#030ba1,wmo,inundación repentina estados unidos,2026-08-15T03:13:00+00:00,United States,0.6692114983522011,0,1,es,CNA,North-America
 'ff8dcb04ac',extremes,Flood,#030ba1,wmo,inundación repentina delaware en madison en,2026-08-13T04:26:00+00:00,United States,0.669194291403005,0,1,es,CNA,North-America
 'ffab3bc6fd',extremes,Flood,#030ba1,wmo,inundación morgan oh washington oh,2026-08-12T04:23:00+00:00,United States,0.6691941928239994,0,1,es,CNA,North-America
@@ -281,6 +280,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7e302bab2a',extremes,Tropical Cyclone,#4f4f4f,wmo,ciclón tropical interior de la isla grande,2026-08-16T03:28:00+00:00,United States,0.5693816554054201,1,1,es,CNA,North-America
 'c3b0bd6e01',extremes,Storm,#b3b2b1,wmo,tormenta kiska al lado attu bering,2026-07-25T05:29:00+00:00,United States,0.5693145670464672,1,1,es,CNA,North-America
 '30dd1a71a3',extremes,Storm,#b3b2b1,wmo,marejada ciclónica aguas de la isla san mateo,2026-07-21T05:36:00+00:00,United States,0.5690624964168978,1,1,es,CNA,North-America
+'56f66f6845',extremes,Flood,#030ba1,wmo,inundación monroe en morgan en owen en,2026-08-16T03:28:00+00:00,United States,0.5689330169239325,1,1,es,CNA,North-America
 'e7188e5bc5',extremes,Precipitation,#d60d2b,wmo,precipitación col jal,2026-07-30T05:24:00+00:00,Mexico,0.5688411553495781,1,1,es,NCA,North-America
 '57823778f0',extremes,Precipitation,#d60d2b,wmo,lluvia chih hijo,2026-07-21T05:36:00+00:00,Mexico,0.5687657930293787,1,1,es,NCA,North-America
 '0dc6437975',extremes,Earthquake,#870007,usgs,terremoto fiambalá,2026-07-26T05:46:00+00:00,Argentina,0.5676574113028372,1,1,es,SWS,South-America
