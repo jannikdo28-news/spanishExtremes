@@ -29,10 +29,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '503492b519',extremes,Drought,#edc291,edo,sequedad panamá,2026-08-19T03:26:00+00:00,Panama,0.7270477277650713,0,1,es,SCA,North-America
 'cba8176088',extremes,Storm,#b3b2b1,emdat,tormenta regiones de los ríos,2026-08-27T13:01:00+00:00,Chile,0.7266923047504382,0,1,es,SWS,South-America
 '4f1ece82f6',extremes,Precipitation,#d60d2b,wmo,lluvia ver,2026-08-24T03:32:00+00:00,Mexico,0.7265158709505142,0,1,es,NCA,North-America
+'5ef8bde497',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial pue,2026-08-25T03:27:00+00:00,Mexico,0.7254055989222661,0,1,es,NCA,North-America
+'18307bdb07',extremes,Earthquake,#870007,usgs,terremoto coihueco,2026-08-26T03:33:00+00:00,Chile,0.725211268562506,0,1,es,SWS,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-07-09T06:27:00+00:00,Argentina,0.7235597490917716,1,3,es,SES,South-America
+'335616d808',extremes,Drought,#edc291,edo,sequía costa rica,2026-08-26T03:34:00+00:00,Costa Rica,0.7223551700882103,0,1,es,SCA,South-America
+'e91081c001',extremes,Earthquake,#870007,usgs,terremoto sipí,2026-08-29T09:18:00+00:00,Colombia,0.7216667776492729,0,1,es,NWS,South-America
 '0d1e3addbf',extremes,Storm,#b3b2b1,wmo,tormenta brasil,2026-08-17T03:28:00+00:00,Brazil,0.7188511981912539,1,3,es,SAM,South-America
 '03f33e230d',extremes,Earthquake,#870007,usgs,terremoto chile,2026-08-07T09:56:00+00:00,Chile,0.7183772339029721,1,3,es,SWS,South-America
+'f9841b5e6b',extremes,Wildfire,#d60d2b,effis,incendio forestal españa zaragoza villafranca de ebro,2026-08-31T08:51:00+00:00,Spain,0.7148135102195275,0,1,es,MED,Europe
 'd428cf6769',extremes,Wildfire,#d60d2b,effis,incendio forestal madrid españa,2026-08-21T03:30:00+00:00,Spain,0.7141577775621534,2,3,es,MED,Europe
+'4bd6fc446a',extremes,Wildfire,#d60d2b,effis,incendios forestales Ourense España,2026-08-24T03:32:00+00:00,Spain,0.7134867357563333,0,1,es,MED,Europe
 '2ae957eb10',extremes,Earthquake,#870007,usgs,terremoto chupaca,2026-07-22T05:35:00+00:00,Peru,0.7053439200584963,2,2,es,NWS,South-America
 '493ff10b88',extremes,Earthquake,#870007,usgs,terremoto panamá,2026-08-01T05:41:00+00:00,Panama,0.7034431016949292,2,3,es,SCA,South-America
 'a828348731',extremes,Storm,#b3b2b1,wmo,tormenta costa rica,2026-08-17T03:28:00+00:00,Costa Rica,0.7027022086445078,1,2,es,SCA,North-America
