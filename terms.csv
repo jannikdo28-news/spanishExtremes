@@ -10,7 +10,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aa63737fed',extremes,Heat Wave,#c40202,wmo,ola de calor litoral sur de valencia,2026-08-19T03:26:00+00:00,Spain,0.7872482218640711,2,2,es,MED,Europe
 'f8714a698d',extremes,Precipitation,#d60d2b,wmo,aguacero ecuador,2026-08-01T05:42:00+00:00,Ecuador,0.7810158863319585,1,2,es,NWS,South-America
 '9330418237',extremes,Precipitation,#d60d2b,wmo,lluvia uruguay,2026-08-20T03:26:00+00:00,Uruguay,0.7770256505381845,1,3,es,SES,South-America
-'5ce57f419d',extremes,Earthquake,#870007,usgs,terremoto venezuela,2026-07-11T05:27:00+00:00,Venezuela,0.7655586155267989,1,3,es,NSA,South-America
 'fe6ff1821c',extremes,Wildfire,#d60d2b,effis,incendios forestales en españa,2026-08-07T11:06:00+00:00,Spain,0.7594492648084255,1,3,es,MED,Europe
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-07-19T05:37:00+00:00,Bolivia,0.7547931395823582,1,2,es,SWS,South-America
 '22055e4283',extremes,Drought,#edc291,edo,sequía nicaragua,2026-07-25T05:29:00+00:00,Nicaragua,0.7521476486202427,1,2,es,SCA,North-America
@@ -28,7 +27,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd428cf6769',extremes,Wildfire,#d60d2b,effis,incendio forestal madrid españa,2026-08-21T03:30:00+00:00,Spain,0.7141577775621534,2,3,es,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-08-24T03:32:00+00:00,Argentina,0.7081911882580645,1,2,es,SES,South-America
 '2ae957eb10',extremes,Earthquake,#870007,usgs,terremoto chupaca,2026-07-22T05:35:00+00:00,Peru,0.7053439200584963,2,2,es,NWS,South-America
-'8f13e1df9b',extremes,Drought,#edc291,edo,sequía en venezuela,2026-08-16T03:28:00+00:00,Venezuela,0.703857580645325,0,1,es,NSA,South-America
 '493ff10b88',extremes,Earthquake,#870007,usgs,terremoto panamá,2026-08-01T05:41:00+00:00,Panama,0.7034431016949292,2,3,es,SCA,South-America
 'a828348731',extremes,Storm,#b3b2b1,wmo,tormenta costa rica,2026-08-17T03:28:00+00:00,Costa Rica,0.7027022086445078,1,2,es,SCA,North-America
 'adc8088001',extremes,Fog,#d60d2b,wmo,niebla a mariña,2026-08-14T04:24:00+00:00,Spain,0.7010382241852325,1,2,es,MED,Europe
@@ -52,10 +50,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6cf14ca636',extremes,Drought,#edc291,edo,falta de lluvia guatemala,2026-08-13T04:26:00+00:00,Guatemala,0.6722883022813247,2,1,es,SCA,North-America
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitación litoral,2026-08-20T03:26:00+00:00,Ecuador,0.6713371344298112,2,2,es,NWS,South-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-08-23T03:30:00+00:00,Argentina,0.670883089210103,2,1,es,SES,South-America
-'8b533aa307',extremes,Thunderstorm,#53785a,wmo,clima severo estados unidos,2026-07-22T05:35:00+00:00,United States,0.6698636915191878,0,1,es,CNA,North-America
 '0a8dada260',extremes,Drought,#edc291,edo,sequía honduras,2026-08-11T04:01:00+00:00,Honduras,0.6697723069188128,1,1,es,SCA,North-America
 '09e449a99c',extremes,Wildfire,#d60d2b,effis,incendio forestal españa huelva niebla,2026-08-08T03:51:00+00:00,Spain,0.669663924418196,0,1,es,MED,Europe
-'d374f0679b',extremes,Flood,#030ba1,wmo,inundación blount tn knox tn sevier tn,2026-08-12T04:23:00+00:00,United States,0.6686785241713377,0,1,es,CNA,North-America
 '6b6c5a52c1',extremes,Precipitation,#d60d2b,wmo,precipitación amazonía,2026-08-20T03:26:00+00:00,Ecuador,0.6674328465683452,2,1,es,NWS,South-America
 '01e50683b4',extremes,Fog,#d60d2b,wmo,niebla fayette clayton,2026-08-07T09:56:00+00:00,United States,0.6664039304505357,0,1,es,CNA,North-America
 '66e7fd7a8b',extremes,Flood,#030ba1,wmo,inundación cooper mo,2026-08-08T03:51:00+00:00,United States,0.666208212597592,0,1,es,CNA,North-America
@@ -204,6 +200,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'adc07d0fcc',extremes,Earthquake,#870007,usgs,terremoto tinogasta,2026-08-25T03:27:00+00:00,Argentina,0.6194392769261036,1,1,es,SES,South-America
 '9778ee6716',extremes,Earthquake,#870007,usgs,terremoto yumare,2026-08-11T04:01:00+00:00,Venezuela,0.6186978674101071,1,1,es,NSA,South-America
 '503492b519',extremes,Drought,#edc291,edo,sequedad panamá,2026-08-19T03:26:00+00:00,Panama,0.6179905686003107,1,1,es,SCA,North-America
+'8f13e1df9b',extremes,Drought,#edc291,edo,sequía en venezuela,2026-08-16T03:28:00+00:00,Venezuela,0.617645880215193,1,1,es,NSA,South-America
 '311f73df2f',extremes,Precipitation,#d60d2b,wmo,aguacero jal nay,2026-08-08T03:51:00+00:00,Mexico,0.617552044447833,1,1,es,NCA,North-America
 '3a40ba9c4b',extremes,Precipitation,#d60d2b,wmo,lluvia chih dgo nay sin,2026-08-03T05:57:00+00:00,Mexico,0.6170386311174454,1,1,es,NCA,North-America
 'e802bd5660',extremes,Earthquake,#870007,usgs,terremoto chirilagua,2026-08-14T04:24:00+00:00,El Salvador,0.6168309377252884,1,1,es,SCA,North-America
@@ -283,6 +280,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ff8dcb04ac',extremes,Flood,#030ba1,wmo,inundación repentina delaware en madison en,2026-08-13T04:26:00+00:00,United States,0.5688151476925543,1,1,es,CNA,North-America
 'ffab3bc6fd',extremes,Flood,#030ba1,wmo,inundación morgan oh washington oh,2026-08-12T04:23:00+00:00,United States,0.5688150639003995,1,1,es,CNA,North-America
 'a86281f168',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón isla grande sur,2026-08-16T03:28:00+00:00,United States,0.568716512404429,1,1,es,CNA,North-America
+'d374f0679b',extremes,Flood,#030ba1,wmo,inundación blount tn knox tn sevier tn,2026-08-12T04:23:00+00:00,United States,0.568376745545637,1,1,es,CNA,North-America
 'd9d012fe2a',extremes,Flood,#030ba1,wmo,inundación repentina mcmullen tx,2026-08-01T05:42:00+00:00,United States,0.5674319249231845,1,1,es,CNA,North-America
 '86ddfb3f0e',extremes,Wildfire,#d60d2b,wmo,incendio forestal en el este del Panhandle Crescent Lake nwr,2026-08-01T05:42:00+00:00,United States,0.5666706531156613,1,1,es,CNA,North-America
 '1c76a0930d',extremes,Flood,#030ba1,wmo,inundación repentina en el lago cook il,2026-07-28T05:31:00+00:00,United States,0.5658157339946102,1,1,es,CNA,North-America
