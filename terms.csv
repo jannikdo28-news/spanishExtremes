@@ -55,7 +55,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b533aa307',extremes,Thunderstorm,#53785a,wmo,clima severo estados unidos,2026-07-22T05:35:00+00:00,United States,0.6698636915191878,0,1,es,CNA,North-America
 '0a8dada260',extremes,Drought,#edc291,edo,sequía honduras,2026-08-11T04:01:00+00:00,Honduras,0.6697723069188128,1,1,es,SCA,North-America
 '09e449a99c',extremes,Wildfire,#d60d2b,effis,incendio forestal españa huelva niebla,2026-08-08T03:51:00+00:00,Spain,0.669663924418196,0,1,es,MED,Europe
-'a86281f168',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón isla grande sur,2026-08-16T03:28:00+00:00,United States,0.6689017616522694,0,1,es,CNA,North-America
 'd374f0679b',extremes,Flood,#030ba1,wmo,inundación blount tn knox tn sevier tn,2026-08-12T04:23:00+00:00,United States,0.6686785241713377,0,1,es,CNA,North-America
 '6b6c5a52c1',extremes,Precipitation,#d60d2b,wmo,precipitación amazonía,2026-08-20T03:26:00+00:00,Ecuador,0.6674328465683452,2,1,es,NWS,South-America
 '01e50683b4',extremes,Fog,#d60d2b,wmo,niebla fayette clayton,2026-08-07T09:56:00+00:00,United States,0.6664039304505357,0,1,es,CNA,North-America
@@ -283,6 +282,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e7188e5bc5',extremes,Precipitation,#d60d2b,wmo,precipitación col jal,2026-07-30T05:24:00+00:00,Mexico,0.5688411553495781,1,1,es,NCA,North-America
 'ff8dcb04ac',extremes,Flood,#030ba1,wmo,inundación repentina delaware en madison en,2026-08-13T04:26:00+00:00,United States,0.5688151476925543,1,1,es,CNA,North-America
 'ffab3bc6fd',extremes,Flood,#030ba1,wmo,inundación morgan oh washington oh,2026-08-12T04:23:00+00:00,United States,0.5688150639003995,1,1,es,CNA,North-America
+'a86281f168',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón isla grande sur,2026-08-16T03:28:00+00:00,United States,0.568716512404429,1,1,es,CNA,North-America
 'd9d012fe2a',extremes,Flood,#030ba1,wmo,inundación repentina mcmullen tx,2026-08-01T05:42:00+00:00,United States,0.5674319249231845,1,1,es,CNA,North-America
 '86ddfb3f0e',extremes,Wildfire,#d60d2b,wmo,incendio forestal en el este del Panhandle Crescent Lake nwr,2026-08-01T05:42:00+00:00,United States,0.5666706531156613,1,1,es,CNA,North-America
 '1c76a0930d',extremes,Flood,#030ba1,wmo,inundación repentina en el lago cook il,2026-07-28T05:31:00+00:00,United States,0.5658157339946102,1,1,es,CNA,North-America
