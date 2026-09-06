@@ -40,7 +40,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd01480bffd',extremes,Drought,#edc291,edo,sequía en honduras,2026-08-07T04:37:00+00:00,Honduras,0.677380157143254,2,1,es,SCA,North-America
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,nieve argentina,2026-08-18T03:24:00+00:00,Argentina,0.6740342999535309,1,2,es,SES,South-America
 'd737229c25',extremes,Snow&Ice,#d60d2b,wmo,congelar chile,2026-08-06T05:33:00+00:00,Chile,0.6738548085394269,1,1,es,SWS,South-America
-'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,ola de frío brasil,2026-08-07T04:37:00+00:00,Brazil,0.6732699429006475,0,1,es,SAM,South-America
 'b48023de43',extremes,Wildfire,#d60d2b,effis,incendio forestal españa barcelona santa maria d'oló,2026-08-07T11:06:00+00:00,Spain,0.6727633044654779,1,1,es,MED,Europe
 '7ecb7f6962',extremes,Wildfire,#d60d2b,effis,incendio forestal españa lugo baralla,2026-08-07T11:06:00+00:00,Spain,0.6725672942423185,1,1,es,MED,Europe
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2026-08-15T03:13:00+00:00,Brazil,0.672565855504407,0,1,es,SAM,South-America
@@ -54,7 +53,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12141e6d2a',extremes,Storm,#b3b2b1,wmo,tormenta litoral provincia de huasco,2026-09-04T07:23:00+00:00,Chile,0.6676577606777054,2,2,es,SWS,South-America
 '6b6c5a52c1',extremes,Precipitation,#d60d2b,wmo,precipitación amazonía,2026-08-20T03:26:00+00:00,Ecuador,0.6674328465683452,2,1,es,NWS,South-America
 'a7b61f0db1',extremes,Earthquake,#870007,usgs,terremoto satipo,2026-08-10T04:13:00+00:00,Peru,0.6660931185189155,0,1,es,NWS,South-America
-'f6ec81e506',extremes,Flood,#030ba1,wmo,inundación repentina chittenden vt lamoille vt,2026-08-11T04:01:00+00:00,United States,0.665597291552923,0,1,es,CNA,North-America
 '7d68920b56',extremes,Earthquake,#870007,usgs,terremoto nicaragua,2026-07-27T06:05:00+00:00,Nicaragua,0.6653970953365269,0,1,es,SCA,North-America
 '34343550d1',extremes,Heat Wave,#c40202,wmo,ola de calor sierra y pedroches,2026-08-06T05:33:00+00:00,Spain,0.6650783381489548,0,1,es,MED,Europe
 '9a50479963',extremes,Fog,#d60d2b,wmo,niebla jones cedro,2026-08-07T11:06:00+00:00,United States,0.6648340000565796,0,1,es,CNA,North-America
@@ -269,6 +267,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '09deb2b40e',extremes,Drought,#edc291,edo,falta de lluvia belice,2026-08-01T05:42:00+00:00,Belize,0.5757953811931984,1,1,es,SCA,North-America
 '1617e554bb',extremes,Storm,#b3b2b1,wmo,marejada ciclónica en zonas costeras y mar adentro.,2026-07-31T05:51:00+00:00,Belize,0.5750645505119786,1,1,es,SCA,North-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica brasil,2026-08-07T09:56:00+00:00,Brazil,0.5741380649365959,1,1,es,SAM,South-America
+'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,ola de frío brasil,2026-08-07T04:37:00+00:00,Brazil,0.5728795114655504,1,1,es,SAM,South-America
 '89b6ac7d7c',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón isla grande norte,2026-08-14T04:24:00+00:00,United States,0.5702860125227851,1,1,es,CNA,North-America
 '2433af70de',extremes,Storm,#b3b2b1,wmo,marejada ciclónica belice,2026-08-04T05:32:00+00:00,Belize,0.570064458947512,1,1,es,SCA,North-America
 '65916423ca',extremes,Tropical Cyclone,#4f4f4f,wmo,huracán isla grande sureste,2026-08-16T03:28:00+00:00,United States,0.5695737051762009,1,1,es,CNA,North-America
@@ -285,6 +284,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '01e50683b4',extremes,Fog,#d60d2b,wmo,niebla fayette clayton,2026-08-07T09:56:00+00:00,United States,0.5664433408829553,1,1,es,CNA,North-America
 '66e7fd7a8b',extremes,Flood,#030ba1,wmo,inundación cooper mo,2026-08-08T03:51:00+00:00,United States,0.5662769807079532,1,1,es,CNA,North-America
 'd416f39e4d',extremes,Flood,#030ba1,wmo,inundación repentina san bernardino ca,2026-08-11T04:01:00+00:00,United States,0.5661078256478248,1,1,es,CNA,North-America
+'f6ec81e506',extremes,Flood,#030ba1,wmo,inundación repentina chittenden vt lamoille vt,2026-08-11T04:01:00+00:00,United States,0.5657576978199845,1,1,es,CNA,North-America
 'c306e0c761',extremes,Flood,#030ba1,wmo,inundación live oak tx,2026-07-30T05:24:00+00:00,United States,0.565479655979464,1,1,es,CNA,North-America
 '60c2d3576c',extremes,Flood,#030ba1,wmo,inundación del lago Cook Il en,2026-08-02T05:42:00+00:00,United States,0.5639830325098479,1,1,es,CNA,North-America
 '127015718a',extremes,Wildfire,#d60d2b,wmo,incendio forestal bosque nacional clearwater nezperce,2026-08-01T05:42:00+00:00,United States,0.5638586444505936,1,1,es,CNA,North-America
