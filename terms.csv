@@ -53,7 +53,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12141e6d2a',extremes,Storm,#b3b2b1,wmo,tormenta litoral provincia de huasco,2026-09-04T07:23:00+00:00,Chile,0.6676577606777054,2,2,es,SWS,South-America
 '6b6c5a52c1',extremes,Precipitation,#d60d2b,wmo,precipitación amazonía,2026-08-20T03:26:00+00:00,Ecuador,0.6674328465683452,2,1,es,NWS,South-America
 'a7b61f0db1',extremes,Earthquake,#870007,usgs,terremoto satipo,2026-08-10T04:13:00+00:00,Peru,0.6660931185189155,0,1,es,NWS,South-America
-'7d68920b56',extremes,Earthquake,#870007,usgs,terremoto nicaragua,2026-07-27T06:05:00+00:00,Nicaragua,0.6653970953365269,0,1,es,SCA,North-America
 '34343550d1',extremes,Heat Wave,#c40202,wmo,ola de calor sierra y pedroches,2026-08-06T05:33:00+00:00,Spain,0.6650783381489548,0,1,es,MED,Europe
 '9a50479963',extremes,Fog,#d60d2b,wmo,niebla jones cedro,2026-08-07T11:06:00+00:00,United States,0.6648340000565796,0,1,es,CNA,North-America
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tormenta amazonia,2026-08-14T04:24:00+00:00,Ecuador,0.6640096952797476,2,1,es,NWS,South-America
