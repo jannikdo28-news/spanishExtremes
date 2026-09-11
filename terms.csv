@@ -29,9 +29,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '493ff10b88',extremes,Earthquake,#870007,usgs,terremoto panamá,2026-08-01T05:41:00+00:00,Panama,0.7034431016949292,2,3,es,SCA,South-America
 'a828348731',extremes,Storm,#b3b2b1,wmo,tormenta costa rica,2026-08-17T03:28:00+00:00,Costa Rica,0.7027022086445078,1,2,es,SCA,North-America
 'adc8088001',extremes,Fog,#d60d2b,wmo,niebla a mariña,2026-08-14T04:24:00+00:00,Spain,0.7010382241852325,1,2,es,MED,Europe
-'03dcd63deb',extremes,Earthquake,#870007,usgs,terremoto puerto casma,2026-08-31T08:51:00+00:00,Peru,0.7007116190967873,0,1,es,NWS,South-America
-'1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-08-24T03:32:00+00:00,Costa Rica,0.6961555009089943,0,1,es,SCA,South-America
-'393400b105',extremes,Drought,#edc291,edo,sequedad puerto rico,2026-08-24T03:32:00+00:00,Puerto Rico,0.6944653501726578,0,1,es,CAR,North-America
 '7962bed540',extremes,Earthquake,#870007,usgs,terremoto el arenal,2026-08-01T05:41:00+00:00,Mexico,0.6930210926809011,2,2,es,SCA,North-America
 'b26829887e',extremes,Earthquake,#870007,usgs,terremoto jordán,2026-08-31T08:51:00+00:00,Colombia,0.6926672847057853,1,2,es,NWS,South-America
 '76ec205ec6',extremes,Wildfire,#d60d2b,effis,incendio forestal zamora españa,2026-08-22T03:22:00+00:00,Spain,0.6907587199615932,2,3,es,MED,Europe
@@ -58,6 +55,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a7b61f0db1',extremes,Earthquake,#870007,usgs,terremoto satipo,2026-08-10T04:13:00+00:00,Peru,0.6660931185189155,0,1,es,NWS,South-America
 '34343550d1',extremes,Heat Wave,#c40202,wmo,ola de calor sierra y pedroches,2026-08-06T05:33:00+00:00,Spain,0.6650783381489548,0,1,es,MED,Europe
 '6e9b187c22',extremes,Precipitation,#d60d2b,wmo,precipitación litoral norte,2026-09-07T07:29:00+00:00,Ecuador,0.6650137922818582,1,2,es,NWS,South-America
+'1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-08-24T03:32:00+00:00,Costa Rica,0.6648646689544633,1,2,es,SCA,South-America
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,heladas argentina,2026-09-01T07:58:00+00:00,Argentina,0.6646818898258553,2,1,es,SES,South-America
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tormenta amazonia,2026-08-14T04:24:00+00:00,Ecuador,0.6640096952797476,2,1,es,NWS,South-America
 '707d21ad48',extremes,Flood,#030ba1,wmo,inundación repentina graham az,2026-07-30T05:24:00+00:00,United States,0.6637474739402721,0,1,es,CNA,North-America
@@ -266,12 +264,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6705f7fafc',extremes,Wildfire,#d60d2b,effis,incendio forestal españa huesca campo,2026-08-20T03:26:00+00:00,Spain,0.5973681150798594,1,1,es,MED,Europe
 'f7440680d2',extremes,Earthquake,#870007,usgs,terremoto salamanca,2026-09-05T07:04:00+00:00,Chile,0.5968640297212008,1,1,es,SWS,South-America
 'ffa17af6dc',extremes,Earthquake,#870007,usgs,terremoto antofagasta,2026-08-22T03:22:00+00:00,Chile,0.5962418108636433,2,1,es,SWS,South-America
+'03dcd63deb',extremes,Earthquake,#870007,usgs,terremoto puerto casma,2026-08-31T08:51:00+00:00,Peru,0.5956048762322691,1,1,es,NWS,South-America
 '4e4b51dd63',extremes,Precipitation,#d60d2b,wmo,precipitación gto,2026-09-09T07:32:00+00:00,Mexico,0.5947142693029218,1,1,es,NCA,North-America
 '6b16ab4d15',extremes,Precipitation,#d60d2b,wmo,lluvia jal mich zac,2026-08-05T05:31:00+00:00,Mexico,0.5942670049479658,1,1,es,NCA,North-America
 'b446232d99',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial chih dgo sin,2026-08-04T05:32:00+00:00,Mexico,0.5924813418186841,1,1,es,NCA,North-America
 '81f603e8c8',extremes,Wildfire,#d60d2b,effis,incendio forestal huesca españa,2026-08-20T03:26:00+00:00,Spain,0.5917675732327508,2,3,es,MED,Europe
 'cba8176088',extremes,Storm,#b3b2b1,emdat,tormenta regiones de los ríos,2026-08-27T13:01:00+00:00,Chile,0.5910806746821916,2,1,es,SWS,South-America
 'f738617231',extremes,Earthquake,#870007,usgs,terremoto bahía de lobos,2026-08-04T05:31:00+00:00,Mexico,0.5909452915274267,1,1,es,NCA,North-America
+'393400b105',extremes,Drought,#edc291,edo,sequedad puerto rico,2026-08-24T03:32:00+00:00,Puerto Rico,0.5902955476467591,1,1,es,CAR,North-America
 'db0306a243',extremes,Wildfire,#d60d2b,effis,incendio forestal españa madrid aldea del fresno,2026-08-21T03:30:00+00:00,Spain,0.5900255328369846,2,2,es,MED,Europe
 '3dea46c095',extremes,Flood,#030ba1,wmo,inundación repentina estados unidos,2026-08-15T03:13:00+00:00,United States,0.5890270874229003,1,1,es,CNA,North-America
 'd518bac9ec',extremes,Earthquake,#870007,usgs,terremoto huayucachi,2026-08-07T04:37:00+00:00,Peru,0.5881446539819152,1,1,es,NWS,South-America
