@@ -40,7 +40,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,nieve argentina,2026-08-18T03:24:00+00:00,Argentina,0.6740342999535309,1,2,es,SES,South-America
 'd737229c25',extremes,Snow&Ice,#d60d2b,wmo,congelar chile,2026-08-06T05:33:00+00:00,Chile,0.6738548085394269,1,1,es,SWS,South-America
 '5e9ec69dea',extremes,Wildfire,#d60d2b,effis,incendio forestal españa cáceres plasencia,2026-08-07T09:56:00+00:00,Spain,0.6725451735865801,1,1,es,MED,Europe
-'d7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,Brasil helado,2026-08-05T05:31:00+00:00,Brazil,0.6724918856213435,0,1,es,SAM,South-America
 '6cf14ca636',extremes,Drought,#edc291,edo,falta de lluvia guatemala,2026-08-13T04:26:00+00:00,Guatemala,0.6722883022813247,2,1,es,SCA,North-America
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitación litoral,2026-08-20T03:26:00+00:00,Ecuador,0.6713371344298112,2,2,es,NWS,South-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-08-23T03:30:00+00:00,Argentina,0.670883089210103,2,1,es,SES,South-America
@@ -274,6 +273,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ab1b8b2754',extremes,Thunderstorm,#53785a,wmo,clima severo belice,2026-08-12T04:23:00+00:00,Belize,0.5807393632285373,1,1,es,SCA,North-America
 'c6ce45829e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica brasil,2026-08-07T09:56:00+00:00,Brazil,0.5741380649365959,1,1,es,SAM,South-America
 'fc65ecc005',extremes,Cold Wave,#a7e9fa,wmo,ola de frío brasil,2026-08-07T04:37:00+00:00,Brazil,0.5728795114655504,1,1,es,SAM,South-America
+'d7a98ff227',extremes,Cold Wave,#a7e9fa,wmo,Brasil helado,2026-08-05T05:31:00+00:00,Brazil,0.572818222778142,1,1,es,SAM,South-America
 'b48023de43',extremes,Wildfire,#d60d2b,effis,incendio forestal españa barcelona santa maria d'oló,2026-08-07T11:06:00+00:00,Spain,0.5718488087956562,2,1,es,MED,Europe
 '7ecb7f6962',extremes,Wildfire,#d60d2b,effis,incendio forestal españa lugo baralla,2026-08-07T11:06:00+00:00,Spain,0.5716822001059707,2,1,es,MED,Europe
 '89b6ac7d7c',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón isla grande norte,2026-08-14T04:24:00+00:00,United States,0.5702860125227851,1,1,es,CNA,North-America
