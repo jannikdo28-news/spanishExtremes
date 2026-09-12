@@ -44,7 +44,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitación litoral,2026-08-20T03:26:00+00:00,Ecuador,0.6713371344298112,2,2,es,NWS,South-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-08-23T03:30:00+00:00,Argentina,0.670883089210103,2,1,es,SES,South-America
 '0a8dada260',extremes,Drought,#edc291,edo,sequía honduras,2026-08-11T04:01:00+00:00,Honduras,0.6697723069188128,1,1,es,SCA,North-America
-'09e449a99c',extremes,Wildfire,#d60d2b,effis,incendio forestal españa huelva niebla,2026-08-08T03:51:00+00:00,Spain,0.669663924418196,0,1,es,MED,Europe
 '12141e6d2a',extremes,Storm,#b3b2b1,wmo,tormenta litoral provincia de huasco,2026-09-04T07:23:00+00:00,Chile,0.6676577606777054,2,2,es,SWS,South-America
 '6b6c5a52c1',extremes,Precipitation,#d60d2b,wmo,precipitación amazonía,2026-08-20T03:26:00+00:00,Ecuador,0.6674328465683452,2,1,es,NWS,South-America
 'a7b61f0db1',extremes,Earthquake,#870007,usgs,terremoto satipo,2026-08-10T04:13:00+00:00,Peru,0.6660931185189155,0,1,es,NWS,South-America
@@ -241,6 +240,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8d4343544c',extremes,Precipitation,#d60d2b,wmo,lluvia litoral,2026-08-02T05:42:00+00:00,Ecuador,0.6037390131239624,2,3,es,NWS,South-America
 '62a17a1926',extremes,Wildfire,#d60d2b,effis,incendio forestal barcelona españa,2026-08-07T11:06:00+00:00,Spain,0.6035669237694885,2,1,es,MED,Europe
 'ca3ab2d13b',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial chih sin son,2026-09-08T07:23:00+00:00,Mexico,0.6021862533499975,1,1,es,NCA,North-America
+'09e449a99c',extremes,Wildfire,#d60d2b,effis,incendio forestal españa huelva niebla,2026-08-08T03:51:00+00:00,Spain,0.6014375880281938,1,2,es,MED,Europe
 'a0fe6991da',extremes,Precipitation,#d60d2b,wmo,lluvia galápagos,2026-08-22T03:22:00+00:00,Ecuador,0.6013179408523218,2,1,es,NWS,South-America
 '8ae180c51e',extremes,Precipitation,#d60d2b,wmo,precipitación brasil,2026-08-15T03:13:00+00:00,Brazil,0.6006038694514731,1,1,es,SAM,South-America
 '687d982c31',extremes,Drought,#edc291,edo,falta de lluvia costa rica,2026-08-20T03:26:00+00:00,Costa Rica,0.5989339950841176,1,1,es,SCA,South-America
