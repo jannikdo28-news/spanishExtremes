@@ -19,7 +19,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-08-07T04:37:00+00:00,Argentina,0.6881579725557321,1,2,es,SES,South-America
 '85a9fce86a',extremes,Earthquake,#870007,usgs,terremoto san pedro de atacama,2026-09-03T07:20:00+00:00,Bolivia,0.6824914936557689,2,2,es,SWS,South-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-08-20T03:26:00+00:00,Chile,0.6764635783626392,3,1,es,SWS,South-America
-'589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,nieve argentina,2026-08-18T03:24:00+00:00,Argentina,0.6740342999535309,1,2,es,SES,South-America
 '6cf14ca636',extremes,Drought,#edc291,edo,falta de lluvia guatemala,2026-08-13T04:26:00+00:00,Guatemala,0.6722883022813247,2,1,es,SCA,North-America
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitación litoral,2026-08-20T03:26:00+00:00,Ecuador,0.6713371344298112,2,2,es,NWS,South-America
 '6c6666b2af',extremes,Precipitation,#d60d2b,wmo,precipitación argentina,2026-08-23T03:30:00+00:00,Argentina,0.670883089210103,2,1,es,SES,South-America
@@ -163,6 +162,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '66f95f4d60',extremes,Precipitation,#d60d2b,wmo,aguacero pecado hijo,2026-09-07T07:29:00+00:00,Mexico,0.6107048781077266,1,1,es,NCA,North-America
 'c08e41e579',extremes,Precipitation,#d60d2b,wmo,precipitación dgo,2026-09-07T07:29:00+00:00,Mexico,0.6098285024295939,1,1,es,NCA,North-America
 'd389bc4f63',extremes,Earthquake,#870007,usgs,terremoto mexico,2026-08-31T08:51:00+00:00,Mexico,0.6097658916331935,1,1,es,SCA,North-America
+'589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,nieve argentina,2026-08-18T03:24:00+00:00,Argentina,0.609698461778683,2,3,es,SES,South-America
 'cb68d1153d',extremes,Storm,#b3b2b1,wmo,tormenta sierra norte y centro,2026-08-13T04:26:00+00:00,Ecuador,0.6092020823721698,2,1,es,NWS,South-America
 '75399310e2',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial mich,2026-08-17T03:28:00+00:00,Mexico,0.6091029272586828,1,1,es,NCA,North-America
 'bd42029055',extremes,Heat Wave,#c40202,meteo,alta temperatura en España,2026-08-08T03:51:00+00:00,Spain,0.608086622521198,1,2,es,MED,Europe
