@@ -25,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aa63737fed',extremes,Heat Wave,#c40202,wmo,ola de calor litoral sur de valencia,2026-08-19T03:26:00+00:00,Spain,0.6691610035844604,3,1,es,MED,Europe
 '12141e6d2a',extremes,Storm,#b3b2b1,wmo,tormenta litoral provincia de huasco,2026-09-04T07:23:00+00:00,Chile,0.6676577606777054,2,2,es,SWS,South-America
 '6b6c5a52c1',extremes,Precipitation,#d60d2b,wmo,precipitación amazonía,2026-08-20T03:26:00+00:00,Ecuador,0.6674328465683452,2,1,es,NWS,South-America
-'6e9b187c22',extremes,Precipitation,#d60d2b,wmo,precipitación litoral norte,2026-09-07T07:29:00+00:00,Ecuador,0.6650137922818582,1,2,es,NWS,South-America
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,heladas argentina,2026-09-01T07:58:00+00:00,Argentina,0.6646818898258553,2,1,es,SES,South-America
 '9d4815fd24',extremes,Storm,#b3b2b1,wmo,tormenta amazonia,2026-08-14T04:24:00+00:00,Ecuador,0.6640096952797476,2,1,es,NWS,South-America
 '9801f8158e',extremes,Precipitation,#d60d2b,wmo,lluvia ecuador,2026-08-19T03:26:00+00:00,Ecuador,0.6627946097644477,2,2,es,NWS,South-America
@@ -155,6 +154,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd389bc4f63',extremes,Earthquake,#870007,usgs,terremoto mexico,2026-08-31T08:51:00+00:00,Mexico,0.6097658916331935,1,1,es,SCA,North-America
 '589d0558b8',extremes,Snow&Ice,#d60d2b,wmo,nieve argentina,2026-08-18T03:24:00+00:00,Argentina,0.609698461778683,2,3,es,SES,South-America
 'cb68d1153d',extremes,Storm,#b3b2b1,wmo,tormenta sierra norte y centro,2026-08-13T04:26:00+00:00,Ecuador,0.6092020823721698,2,1,es,NWS,South-America
+'6e9b187c22',extremes,Precipitation,#d60d2b,wmo,precipitación litoral norte,2026-09-07T07:29:00+00:00,Ecuador,0.6091694662967223,2,2,es,NWS,South-America
 '75399310e2',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial mich,2026-08-17T03:28:00+00:00,Mexico,0.6091029272586828,1,1,es,NCA,North-America
 'bd42029055',extremes,Heat Wave,#c40202,meteo,alta temperatura en España,2026-08-08T03:51:00+00:00,Spain,0.608086622521198,1,2,es,MED,Europe
 '252d369870',extremes,Precipitation,#d60d2b,wmo,precipitación cdmx mex pue,2026-08-14T04:24:00+00:00,Mexico,0.6076048033759001,1,1,es,NCA,North-America
