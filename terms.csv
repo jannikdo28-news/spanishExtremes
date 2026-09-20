@@ -95,7 +95,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '67931f371a',extremes,Storm,#b3b2b1,wmo,tormenta manabí,2026-08-19T03:26:00+00:00,Ecuador,0.6324089755639274,1,1,es,NWS,South-America
 'd1620bd645',extremes,Storm,#b3b2b1,wmo,marejada ciclónica sierra norte y centro,2026-08-12T04:23:00+00:00,Ecuador,0.631971347732587,1,1,es,NWS,South-America
 '6902568f9a',extremes,Precipitation,#d60d2b,wmo,aguacero litoral,2026-09-04T07:23:00+00:00,Ecuador,0.6318468822503769,1,1,es,NWS,South-America
-'e91081c001',extremes,Earthquake,#870007,usgs,terremoto sipí,2026-08-29T09:18:00+00:00,Colombia,0.631582655387314,2,1,es,NWS,South-America
 'f6d615fe7c',extremes,Drought,#edc291,edo,sequedad venezuela,2026-08-14T04:24:00+00:00,Venezuela,0.6315450668605835,1,1,es,NSA,South-America
 '9b72f3de0f',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial amazonía norte,2026-09-06T07:16:00+00:00,Ecuador,0.6305020212519478,1,1,es,NWS,South-America
 '7404f0c538',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial gro,2026-08-29T09:18:00+00:00,Mexico,0.6298300176959792,1,1,es,NCA,North-America
@@ -184,6 +183,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b26829887e',extremes,Earthquake,#870007,usgs,terremoto jordán,2026-08-31T08:51:00+00:00,Colombia,0.5887672219999175,2,1,es,NWS,South-America
 '76ec205ec6',extremes,Wildfire,#d60d2b,effis,incendio forestal zamora españa,2026-08-22T03:22:00+00:00,Spain,0.5877449719673542,3,3,es,MED,Europe
 '7851b8b348',extremes,Earthquake,#870007,usgs,terremoto la democracia,2026-08-07T04:37:00+00:00,Guatemala,0.5876923431761164,1,2,es,SCA,North-America
+'e91081c001',extremes,Earthquake,#870007,usgs,terremoto sipí,2026-08-29T09:18:00+00:00,Colombia,0.5872953020792169,3,1,es,NWS,South-America
 'f618f5a961',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón isla grande sureste,2026-08-15T03:13:00+00:00,United States,0.5862553555215292,1,1,es,CNA,North-America
 'bb625897a9',extremes,Tropical Cyclone,#4f4f4f,wmo,huracán kohala,2026-08-15T03:13:00+00:00,United States,0.586163033214765,1,1,es,CNA,North-America
 'ad985ec316',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón kona,2026-08-16T03:28:00+00:00,United States,0.5857653023167712,1,1,es,CNA,North-America
