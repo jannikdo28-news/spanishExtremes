@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'a4b1c64658',extremes,Heat Wave,#c40202,wmo,ola de calor sierra de madrid,2026-08-01T05:42:00+00:00,Spain,0.7503881635928944,2,3,es,MED,Europe
 'fe6ff1821c',extremes,Wildfire,#d60d2b,effis,incendios forestales en españa,2026-08-07T11:06:00+00:00,Spain,0.7403090003084287,4,3,es,MED,Europe
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-09-09T07:32:00+00:00,Argentina,0.7284385895718326,2,2,es,SES,South-America
 'a6e9427fb1',extremes,Earthquake,#870007,usgs,terremoto colombia,2026-09-02T07:16:00+00:00,Colombia,0.7255581291136988,2,3,es,NWS,South-America
@@ -18,7 +17,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9607a2cf5a',extremes,Wildfire,#d60d2b,effis,incendio forestal ourense españa,2026-08-22T03:22:00+00:00,Spain,0.6982546649601948,2,2,es,MED,Europe
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-08-07T04:37:00+00:00,Argentina,0.6881579725557321,1,2,es,SES,South-America
 '85a9fce86a',extremes,Earthquake,#870007,usgs,terremoto san pedro de atacama,2026-09-03T07:20:00+00:00,Bolivia,0.6824914936557689,2,2,es,SWS,South-America
-'6cf14ca636',extremes,Drought,#edc291,edo,falta de lluvia guatemala,2026-08-13T04:26:00+00:00,Guatemala,0.6722883022813247,2,1,es,SCA,North-America
 '1512f21012',extremes,Precipitation,#d60d2b,wmo,precipitación litoral,2026-08-20T03:26:00+00:00,Ecuador,0.6713371344298112,2,2,es,NWS,South-America
 'aa63737fed',extremes,Heat Wave,#c40202,wmo,ola de calor litoral sur de valencia,2026-08-19T03:26:00+00:00,Spain,0.6691610035844604,3,1,es,MED,Europe
 '12141e6d2a',extremes,Storm,#b3b2b1,wmo,tormenta litoral provincia de huasco,2026-09-04T07:23:00+00:00,Chile,0.6676577606777054,2,2,es,SWS,South-America
@@ -36,7 +34,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd1e11d341c',extremes,Precipitation,#d60d2b,wmo,lluvia hijo,2026-09-01T07:58:00+00:00,Mexico,0.6507381771119747,1,2,es,NCA,North-America
 'a737b090ab',extremes,Heat Wave,#c40202,wmo,ola de calor sur de ávila,2026-08-01T05:42:00+00:00,Spain,0.6480109784075391,1,3,es,MED,Europe
 'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,hielo argentina,2026-08-31T08:51:00+00:00,Argentina,0.6468899850593516,1,2,es,SES,South-America
-'cdd6a38435',extremes,Snow&Ice,#d60d2b,wmo,nieve reg. 4 cordilleras,2026-08-11T04:01:00+00:00,Chile,0.6458648369412255,1,1,es,SWS,South-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-08-24T03:32:00+00:00,Chile,0.644237950655342,2,1,es,SWS,South-America
 '3cc9c69be7',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial méxico,2026-09-02T07:16:00+00:00,Mexico,0.6441483751440925,1,1,es,NCA,North-America
 '4bd6fc446a',extremes,Wildfire,#d60d2b,effis,incendios forestales Ourense España,2026-08-24T03:32:00+00:00,Spain,0.6440143885839508,2,1,es,MED,Europe
@@ -173,17 +170,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f618f5a961',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón isla grande sureste,2026-08-15T03:13:00+00:00,United States,0.5862553555215292,1,1,es,CNA,North-America
 'bb625897a9',extremes,Tropical Cyclone,#4f4f4f,wmo,huracán kohala,2026-08-15T03:13:00+00:00,United States,0.586163033214765,1,1,es,CNA,North-America
 'ad985ec316',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón kona,2026-08-16T03:28:00+00:00,United States,0.5857653023167712,1,1,es,CNA,North-America
-'10594e15ba',extremes,Earthquake,#870007,usgs,terremoto sechura,2026-08-12T04:22:00+00:00,Peru,0.5843102568679339,1,1,es,NWS,South-America
 'a471dde55c',extremes,Drought,#edc291,edo,sequía cuba,2026-09-01T07:58:00+00:00,Cuba,0.5833795369607783,2,1,es,CAR,North-America
 '5d31bff833',extremes,Thunderstorm,#53785a,wmo,tormenta belice,2026-08-15T03:13:00+00:00,Belize,0.5813378313060669,1,1,es,SCA,North-America
-'ab1b8b2754',extremes,Thunderstorm,#53785a,wmo,clima severo belice,2026-08-12T04:23:00+00:00,Belize,0.5807393632285373,1,1,es,SCA,North-America
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2026-08-20T03:26:00+00:00,Chile,0.5795239101243422,2,1,es,SWS,South-America
 '89b6ac7d7c',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón isla grande norte,2026-08-14T04:24:00+00:00,United States,0.5702860125227851,1,1,es,CNA,North-America
 '65916423ca',extremes,Tropical Cyclone,#4f4f4f,wmo,huracán isla grande sureste,2026-08-16T03:28:00+00:00,United States,0.5695737051762009,1,1,es,CNA,North-America
-'e22ac455ac',extremes,Flood,#030ba1,wmo,inundación repentina en fayette en franklin en,2026-08-13T04:26:00+00:00,United States,0.5694550893154889,1,1,es,CNA,North-America
 '7e302bab2a',extremes,Tropical Cyclone,#4f4f4f,wmo,ciclón tropical interior de la isla grande,2026-08-16T03:28:00+00:00,United States,0.5693816554054201,1,1,es,CNA,North-America
 '56f66f6845',extremes,Flood,#030ba1,wmo,inundación monroe en morgan en owen en,2026-08-16T03:28:00+00:00,United States,0.5689330169239325,1,1,es,CNA,North-America
-'ff8dcb04ac',extremes,Flood,#030ba1,wmo,inundación repentina delaware en madison en,2026-08-13T04:26:00+00:00,United States,0.5688151476925543,1,1,es,CNA,North-America
 'a86281f168',extremes,Tropical Cyclone,#4f4f4f,wmo,tifón isla grande sur,2026-08-16T03:28:00+00:00,United States,0.568716512404429,1,1,es,CNA,North-America
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-08-24T03:32:00+00:00,Costa Rica,0.5651352986112937,2,1,es,SCA,South-America
 'c92435bdaa',extremes,Drought,#edc291,edo,falta de lluvia el salvador,2026-08-18T03:24:00+00:00,El Salvador,0.5565309106625096,2,1,es,SCA,North-America
@@ -196,7 +189,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8b3dfd52b9',extremes,Precipitation,#d60d2b,wmo,aguacero oax ver,2026-09-09T07:32:00+00:00,Mexico,0.5449786113504657,2,1,es,NCA,North-America
 '35a677106a',extremes,Precipitation,#d60d2b,wmo,aguacero hgo mich qro,2026-09-09T07:32:00+00:00,Mexico,0.5444128601745417,2,1,es,NCA,North-America
 'd709206c08',extremes,Storm,#b3b2b1,wmo,tormenta reg. 15 cordillera,2026-08-24T03:32:00+00:00,Chile,0.5434102281144624,2,1,es,SWS,South-America
-'be4e178bab',extremes,Storm,#b3b2b1,wmo,marejada ciclónica uruguay,2026-08-16T03:28:00+00:00,Uruguay,0.5430243761735217,2,1,es,SES,South-America
 'd61de81685',extremes,Storm,#b3b2b1,wmo,marejada ciclónica chile,2026-08-19T03:26:00+00:00,Chile,0.541042473934898,2,1,es,SWS,South-America
 'd2d19893e4',extremes,Precipitation,#d60d2b,wmo,lluvia esmeraldas santo domingo,2026-08-20T03:26:00+00:00,Ecuador,0.5393474150661066,2,1,es,NWS,South-America
 '2c4aa8a107',extremes,Storm,#b3b2b1,wmo,marejada ciclónica esmeraldas manabí y santo domingo,2026-09-04T07:23:00+00:00,Ecuador,0.5385753950293865,2,1,es,NWS,South-America
