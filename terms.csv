@@ -1,5 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'fe6ff1821c',extremes,Wildfire,#d60d2b,effis,incendios forestales en españa,2026-08-07T11:06:00+00:00,Spain,0.7403090003084287,4,3,es,MED,Europe
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-09-09T07:32:00+00:00,Argentina,0.7284385895718326,2,2,es,SES,South-America
 'a6e9427fb1',extremes,Earthquake,#870007,usgs,terremoto colombia,2026-09-02T07:16:00+00:00,Colombia,0.7255581291136988,2,3,es,NWS,South-America
 '66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-08-20T03:26:00+00:00,Chile,0.7252940716082432,4,2,es,SWS,South-America
@@ -143,7 +142,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1f954a1efc',extremes,Precipitation,#d60d2b,wmo,aguacero chih,2026-08-14T04:24:00+00:00,Mexico,0.6048211865502293,1,1,es,NCA,North-America
 'dbae9435ad',extremes,Earthquake,#870007,usgs,catre terremoto,2026-08-28T14:31:00+00:00,Costa Rica,0.6047449611699711,1,1,es,SCA,North-America
 '71152ed2cb',extremes,Wildfire,#d60d2b,effis,incendio forestal españa huelva niebla,2026-08-09T03:59:00+00:00,Spain,0.6041478240105497,1,2,es,MED,Europe
-'8d4343544c',extremes,Precipitation,#d60d2b,wmo,lluvia litoral,2026-08-02T05:42:00+00:00,Ecuador,0.6037390131239624,2,3,es,NWS,South-America
 'ca3ab2d13b',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial chih sin son,2026-09-08T07:23:00+00:00,Mexico,0.6021862533499975,1,1,es,NCA,North-America
 '09e449a99c',extremes,Wildfire,#d60d2b,effis,incendio forestal españa huelva niebla,2026-08-08T03:51:00+00:00,Spain,0.6014375880281938,1,2,es,MED,Europe
 'a0fe6991da',extremes,Precipitation,#d60d2b,wmo,lluvia galápagos,2026-08-22T03:22:00+00:00,Ecuador,0.6013179408523218,2,1,es,NWS,South-America
