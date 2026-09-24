@@ -11,6 +11,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'adc8088001',extremes,Fog,#d60d2b,wmo,niebla a mariña,2026-08-14T04:24:00+00:00,Spain,0.7010382241852325,1,2,es,MED,Europe
 '9607a2cf5a',extremes,Wildfire,#d60d2b,effis,incendio forestal ourense españa,2026-08-22T03:22:00+00:00,Spain,0.6982546649601948,2,2,es,MED,Europe
 '0fa731fd34',extremes,Drought,#edc291,edo,sequedad honduras,2026-08-16T03:28:00+00:00,Honduras,0.6947806359541567,2,2,es,SCA,North-America
+'fc01b1a28e',extremes,Storm,#b3b2b1,wmo,tormenta loja,2026-08-15T03:13:00+00:00,Ecuador,0.6909129217973711,2,2,es,NWS,South-America
 '02711610b5',extremes,Storm,#b3b2b1,wmo,tormenta argentina,2026-08-07T04:37:00+00:00,Argentina,0.6881579725557321,1,2,es,SES,South-America
 '85a9fce86a',extremes,Earthquake,#870007,usgs,terremoto san pedro de atacama,2026-09-03T07:20:00+00:00,Bolivia,0.6824914936557689,2,2,es,SWS,South-America
 'aa63737fed',extremes,Heat Wave,#c40202,wmo,ola de calor litoral sur de valencia,2026-08-19T03:26:00+00:00,Spain,0.6691610035844604,3,1,es,MED,Europe
@@ -36,7 +37,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3853fc9abc',extremes,Wildfire,#d60d2b,effis,incendio forestal españa zamora hermisende,2026-08-22T03:22:00+00:00,Spain,0.6367886291001991,2,2,es,MED,Europe
 'e92ef72a43',extremes,Storm,#b3b2b1,wmo,marejada ciclónica reg. 2 costeras,2026-08-18T03:24:00+00:00,Chile,0.6362982548377548,1,1,es,SWS,South-America
 '3e916b6d8e',extremes,Storm,#b3b2b1,wmo,marejada ciclónica guayas manabí los ríos,2026-08-15T03:13:00+00:00,Ecuador,0.6362647842717366,1,1,es,NWS,South-America
-'fc01b1a28e',extremes,Storm,#b3b2b1,wmo,tormenta loja,2026-08-15T03:13:00+00:00,Ecuador,0.6361916550557307,1,1,es,NWS,South-America
 '0d0c70f1f5',extremes,Storm,#b3b2b1,wmo,tormenta sucumbios orellana pastaza,2026-08-14T04:24:00+00:00,Ecuador,0.6359769004554454,1,1,es,NWS,South-America
 '452a3c5c46',extremes,Storm,#b3b2b1,wmo,tormenta guayas manabí los ríos,2026-08-14T04:24:00+00:00,Ecuador,0.6358833319022789,1,1,es,NWS,South-America
 'af8c57c3a8',extremes,Storm,#b3b2b1,wmo,marejada ciclónica el oro loja,2026-08-17T03:28:00+00:00,Ecuador,0.6358698781186175,1,1,es,NWS,South-America
