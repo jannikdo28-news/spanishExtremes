@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-08-20T03:26:00+00:00,Chile,0.7252940716082432,4,2,es,SWS,South-America
+'66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-08-20T03:26:00+00:00,Chile,0.7667999908670067,5,2,es,SWS,South-America
 '4595f49a65',extremes,Wildfire,#d60d2b,effis,incendio forestal en españa,2026-08-07T11:06:00+00:00,Spain,0.7234436235719479,2,3,es,MED,Europe
 '5ce57f419d',extremes,Earthquake,#870007,usgs,terremoto venezuela,2026-09-01T07:57:00+00:00,Venezuela,0.7217587483307503,2,3,es,NSA,South-America
 'd428cf6769',extremes,Wildfire,#d60d2b,effis,incendio forestal madrid españa,2026-08-21T03:30:00+00:00,Spain,0.7141577775621534,2,3,es,MED,Europe
@@ -25,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'b759e0d5cd',extremes,Drought,#edc291,edo,sequía en Panamá,2026-08-20T03:26:00+00:00,Panama,0.6434352733477352,1,2,es,SCA,North-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-08-24T03:32:00+00:00,Argentina,0.6387323868375365,2,3,es,SES,South-America
 '105ee03aff',extremes,Earthquake,#870007,usgs,terremoto el salvador,2026-08-13T04:26:00+00:00,El Salvador,0.6378540975721735,2,2,es,SCA,North-America
-'c2a1fea0f5',extremes,Storm,#b3b2b1,wmo,marejada ciclónica centro sur litoral región sierra,2026-08-22T03:22:00+00:00,Ecuador,0.63690712930503,1,1,es,NWS,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paraguay,2026-08-30T08:30:00+00:00,Paraguay,0.6368703454592776,1,1,es,SES,South-America
 'c85690d76d',extremes,Precipitation,#d60d2b,wmo,aguacero uruguay,2026-08-17T03:28:00+00:00,Uruguay,0.6367941742577129,1,1,es,SES,South-America
 '3853fc9abc',extremes,Wildfire,#d60d2b,effis,incendio forestal españa zamora hermisende,2026-08-22T03:22:00+00:00,Spain,0.6367886291001991,2,2,es,MED,Europe
@@ -56,7 +55,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '67048cd97c',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial chih,2026-09-05T07:05:00+00:00,Mexico,0.6215472932134044,1,1,es,NCA,North-America
 'd85448eac6',extremes,Precipitation,#d60d2b,wmo,lluvia gto hgo mex mich qro,2026-09-02T07:16:00+00:00,Mexico,0.6214941101009515,1,1,es,NCA,North-America
 '381161c2e5',extremes,Precipitation,#d60d2b,wmo,lluvia bcs,2026-08-19T03:26:00+00:00,Mexico,0.6211193204017843,1,1,es,NCA,North-America
-'6e3b5e5a6a',extremes,Earthquake,#870007,usgs,terremoto estique,2026-08-30T08:29:00+00:00,Peru,0.6208874385912184,1,1,es,SWS,South-America
 '0a2120b175',extremes,Earthquake,#870007,usgs,terremoto diego de almagro,2026-08-23T03:30:00+00:00,Chile,0.6208724533107723,1,1,es,SWS,South-America
 'b6b18b05f5',extremes,Precipitation,#d60d2b,wmo,precipitación pecado hijo,2026-08-30T08:30:00+00:00,Mexico,0.6207228950128886,1,1,es,NCA,North-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-09-09T07:32:00+00:00,Argentina,0.6194728311360577,3,2,es,SES,South-America
@@ -137,6 +135,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f9989e8a04',extremes,Storm,#b3b2b1,wmo,marejada ciclónica sucumbíos,2026-09-05T07:05:00+00:00,Ecuador,0.5424169826589911,2,1,es,NWS,South-America
 'ffcbb36b12',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral,2026-08-21T03:30:00+00:00,Ecuador,0.5423593985186417,2,1,es,NWS,South-America
 '8fb8c234ce',extremes,Storm,#b3b2b1,wmo,marejada ciclónica amazonía sur,2026-09-06T07:16:00+00:00,Ecuador,0.5415935361715078,2,1,es,NWS,South-America
+'c2a1fea0f5',extremes,Storm,#b3b2b1,wmo,marejada ciclónica centro sur litoral región sierra,2026-08-22T03:22:00+00:00,Ecuador,0.5413710599092755,2,1,es,NWS,South-America
 '898e74810b',extremes,Storm,#b3b2b1,wmo,tormenta reg. 1 pampa reg. 2 pampas,2026-08-29T09:18:00+00:00,Chile,0.5393481778812207,2,1,es,SWS,South-America
 'd2d19893e4',extremes,Precipitation,#d60d2b,wmo,lluvia esmeraldas santo domingo,2026-08-20T03:26:00+00:00,Ecuador,0.5393474150661066,2,1,es,NWS,South-America
 '2c4aa8a107',extremes,Storm,#b3b2b1,wmo,marejada ciclónica esmeraldas manabí y santo domingo,2026-09-04T07:23:00+00:00,Ecuador,0.5385753950293865,2,1,es,NWS,South-America
@@ -145,4 +144,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2bd66b922c',extremes,Precipitation,#d60d2b,wmo,aguacero amazonía sur,2026-09-08T07:23:00+00:00,Ecuador,0.5374139966065624,2,1,es,NWS,South-America
 '6a8106842a',extremes,Drought,#edc291,edo,sequía república dominicana,2026-08-28T14:32:00+00:00,Dominican Republic,0.5353710393543278,2,1,es,CAR,North-America
 '7f450bad1e',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial mex,2026-08-21T03:30:00+00:00,Mexico,0.5330928501541928,2,1,es,NCA,North-America
+'6e3b5e5a6a',extremes,Earthquake,#870007,usgs,terremoto estique,2026-08-30T08:29:00+00:00,Peru,0.5277543228025356,2,1,es,SWS,South-America
 '5ef8bde497',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial pue,2026-08-25T03:27:00+00:00,Mexico,0.5241055452213372,2,1,es,NCA,North-America
