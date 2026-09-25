@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-08-20T03:26:00+00:00,Chile,0.7667999908670067,5,2,es,SWS,South-America
+'66889dc3f2',extremes,Earthquake,#870007,usgs,terremoto ollagüe,2026-08-20T03:26:00+00:00,Chile,0.8020800222369557,6,2,es,SWS,South-America
 '4595f49a65',extremes,Wildfire,#d60d2b,effis,incendio forestal en españa,2026-08-07T11:06:00+00:00,Spain,0.7234436235719479,2,3,es,MED,Europe
 '5ce57f419d',extremes,Earthquake,#870007,usgs,terremoto venezuela,2026-09-01T07:57:00+00:00,Venezuela,0.7217587483307503,2,3,es,NSA,South-America
 'd428cf6769',extremes,Wildfire,#d60d2b,effis,incendio forestal madrid españa,2026-08-21T03:30:00+00:00,Spain,0.7141577775621534,2,3,es,MED,Europe
