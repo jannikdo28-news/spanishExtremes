@@ -17,7 +17,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6b6c5a52c1',extremes,Precipitation,#d60d2b,wmo,precipitación amazonía,2026-08-20T03:26:00+00:00,Ecuador,0.6674328465683452,2,1,es,NWS,South-America
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,heladas argentina,2026-09-01T07:58:00+00:00,Argentina,0.6646818898258553,2,1,es,SES,South-America
 '58f77fa85f',extremes,Thunderstorm,#53785a,wmo,granizo españa,2026-08-21T03:30:00+00:00,Spain,0.661206331972439,1,2,es,MED,Europe
-'4f1ece82f6',extremes,Precipitation,#d60d2b,wmo,lluvia ver,2026-08-24T03:32:00+00:00,Mexico,0.6588601516715734,1,2,es,NCA,North-America
 '6560ef8c08',extremes,Storm,#b3b2b1,wmo,tormenta litoral,2026-08-12T04:23:00+00:00,Ecuador,0.6578781325702457,1,2,es,NWS,South-America
 '2f51d04c0e',extremes,Fog,#d60d2b,wmo,niebla españa,2026-08-06T05:33:00+00:00,Spain,0.6556415207134323,2,3,es,MED,Europe
 'd1e11d341c',extremes,Precipitation,#d60d2b,wmo,lluvia hijo,2026-09-01T07:58:00+00:00,Mexico,0.6507381771119747,1,2,es,NCA,North-America
@@ -26,7 +25,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4bd6fc446a',extremes,Wildfire,#d60d2b,effis,incendios forestales Ourense España,2026-08-24T03:32:00+00:00,Spain,0.6440143885839508,2,1,es,MED,Europe
 'b759e0d5cd',extremes,Drought,#edc291,edo,sequía en Panamá,2026-08-20T03:26:00+00:00,Panama,0.6434352733477352,1,2,es,SCA,North-America
 '105ee03aff',extremes,Earthquake,#870007,usgs,terremoto el salvador,2026-08-13T04:26:00+00:00,El Salvador,0.6378540975721735,2,2,es,SCA,North-America
-'8fb8c234ce',extremes,Storm,#b3b2b1,wmo,marejada ciclónica amazonía sur,2026-09-06T07:16:00+00:00,Ecuador,0.6371688660841269,1,1,es,NWS,South-America
 'c2a1fea0f5',extremes,Storm,#b3b2b1,wmo,marejada ciclónica centro sur litoral región sierra,2026-08-22T03:22:00+00:00,Ecuador,0.63690712930503,1,1,es,NWS,South-America
 '4bfa6ec544',extremes,Storm,#b3b2b1,wmo,marejada ciclónica paraguay,2026-08-30T08:30:00+00:00,Paraguay,0.6368703454592776,1,1,es,SES,South-America
 'c85690d76d',extremes,Precipitation,#d60d2b,wmo,aguacero uruguay,2026-08-17T03:28:00+00:00,Uruguay,0.6367941742577129,1,1,es,SES,South-America
@@ -117,6 +115,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f01f783936',extremes,Wildfire,#d60d2b,effis,incendio forestal zaragoza españa,2026-08-31T08:51:00+00:00,Spain,0.5820647946598934,2,1,es,MED,Europe
 'e431c24ff6',extremes,Heat Wave,#c40202,wmo,ola de calor chile,2026-08-20T03:26:00+00:00,Chile,0.5795239101243422,2,1,es,SWS,South-America
 '1133ce1349',extremes,Earthquake,#870007,usgs,terremoto costa rica,2026-08-24T03:32:00+00:00,Costa Rica,0.5651352986112937,2,1,es,SCA,South-America
+'4f1ece82f6',extremes,Precipitation,#d60d2b,wmo,lluvia ver,2026-08-24T03:32:00+00:00,Mexico,0.5649875039208374,2,3,es,NCA,North-America
 '5e67a6e3c8',extremes,Earthquake,#870007,usgs,terremoto coquimbo,2026-08-20T03:26:00+00:00,Chile,0.5549073398587184,2,1,es,SWS,South-America
 '8a6ebb5b5c',extremes,Drought,#edc291,edo,sequedad cuba,2026-08-24T03:32:00+00:00,Cuba,0.5520682850623868,2,1,es,CAR,North-America
 '01f4e3df7d',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial amazonía,2026-09-05T07:05:00+00:00,Ecuador,0.5495222174012324,2,1,es,NWS,South-America
@@ -137,6 +136,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6fbc657cf9',extremes,Storm,#b3b2b1,wmo,tormenta reg. 1 litoral,2026-08-26T03:34:00+00:00,Chile,0.542431613783694,2,1,es,SWS,South-America
 'f9989e8a04',extremes,Storm,#b3b2b1,wmo,marejada ciclónica sucumbíos,2026-09-05T07:05:00+00:00,Ecuador,0.5424169826589911,2,1,es,NWS,South-America
 'ffcbb36b12',extremes,Storm,#b3b2b1,wmo,marejada ciclónica litoral,2026-08-21T03:30:00+00:00,Ecuador,0.5423593985186417,2,1,es,NWS,South-America
+'8fb8c234ce',extremes,Storm,#b3b2b1,wmo,marejada ciclónica amazonía sur,2026-09-06T07:16:00+00:00,Ecuador,0.5415935361715078,2,1,es,NWS,South-America
 '898e74810b',extremes,Storm,#b3b2b1,wmo,tormenta reg. 1 pampa reg. 2 pampas,2026-08-29T09:18:00+00:00,Chile,0.5393481778812207,2,1,es,SWS,South-America
 'd2d19893e4',extremes,Precipitation,#d60d2b,wmo,lluvia esmeraldas santo domingo,2026-08-20T03:26:00+00:00,Ecuador,0.5393474150661066,2,1,es,NWS,South-America
 '2c4aa8a107',extremes,Storm,#b3b2b1,wmo,marejada ciclónica esmeraldas manabí y santo domingo,2026-09-04T07:23:00+00:00,Ecuador,0.5385753950293865,2,1,es,NWS,South-America
