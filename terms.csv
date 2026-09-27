@@ -11,6 +11,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '85a9fce86a',extremes,Earthquake,#870007,usgs,terremoto san pedro de atacama,2026-09-03T07:20:00+00:00,Bolivia,0.6824914936557689,2,2,es,SWS,South-America
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,precipitación ecuador,2026-08-18T03:24:00+00:00,Ecuador,0.6805091560414223,2,2,es,NWS,South-America
 '1c9dc747da',extremes,Drought,#edc291,edo,falta de lluvia cuba,2026-08-18T03:24:00+00:00,Cuba,0.6789958684328435,2,2,es,CAR,North-America
+'335616d808',extremes,Drought,#edc291,edo,sequía costa rica,2026-08-26T03:34:00+00:00,Costa Rica,0.6759145116387318,2,2,es,SCA,South-America
 '12141e6d2a',extremes,Storm,#b3b2b1,wmo,tormenta litoral provincia de huasco,2026-09-04T07:23:00+00:00,Chile,0.6676577606777054,2,2,es,SWS,South-America
 '6b6c5a52c1',extremes,Precipitation,#d60d2b,wmo,precipitación amazonía,2026-08-20T03:26:00+00:00,Ecuador,0.6674328465683452,2,1,es,NWS,South-America
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,heladas argentina,2026-09-01T07:58:00+00:00,Argentina,0.6646818898258553,2,1,es,SES,South-America
@@ -19,10 +20,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd1e11d341c',extremes,Precipitation,#d60d2b,wmo,lluvia hijo,2026-09-01T07:58:00+00:00,Mexico,0.6507381771119747,1,2,es,NCA,North-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-08-24T03:32:00+00:00,Chile,0.644237950655342,2,1,es,SWS,South-America
 '4bd6fc446a',extremes,Wildfire,#d60d2b,effis,incendios forestales Ourense España,2026-08-24T03:32:00+00:00,Spain,0.6440143885839508,2,1,es,MED,Europe
-'b759e0d5cd',extremes,Drought,#edc291,edo,sequía en Panamá,2026-08-20T03:26:00+00:00,Panama,0.6434352733477352,1,2,es,SCA,North-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-08-24T03:32:00+00:00,Argentina,0.6387323868375365,2,3,es,SES,South-America
 '3853fc9abc',extremes,Wildfire,#d60d2b,effis,incendio forestal españa zamora hermisende,2026-08-22T03:22:00+00:00,Spain,0.6367886291001991,2,2,es,MED,Europe
-'e92ef72a43',extremes,Storm,#b3b2b1,wmo,marejada ciclónica reg. 2 costeras,2026-08-18T03:24:00+00:00,Chile,0.6362982548377548,1,1,es,SWS,South-America
 'af8c57c3a8',extremes,Storm,#b3b2b1,wmo,marejada ciclónica el oro loja,2026-08-17T03:28:00+00:00,Ecuador,0.6358698781186175,1,1,es,NWS,South-America
 '8861d1c77d',extremes,Storm,#b3b2b1,wmo,marejada ciclónica sucumbios orellana pastaza,2026-08-17T03:28:00+00:00,Ecuador,0.6351195661300737,1,1,es,NWS,South-America
 '565cc8668f',extremes,Storm,#b3b2b1,wmo,marejada ciclónica loja,2026-08-19T03:26:00+00:00,Ecuador,0.6350416851036799,1,1,es,NWS,South-America
@@ -43,7 +42,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e409d4cfb7',extremes,Wildfire,#d60d2b,effis,incendio forestal burgos españa,2026-09-04T07:23:00+00:00,Spain,0.6253478223884745,2,1,es,MED,Europe
 'c396865962',extremes,Precipitation,#d60d2b,wmo,precipitación gto hgo mich qro,2026-09-01T07:58:00+00:00,Mexico,0.6242860688305935,1,1,es,NCA,North-America
 'a95c18cd3d',extremes,Earthquake,#870007,usgs,terremoto antofagasta de la sierra,2026-09-07T07:29:00+00:00,Argentina,0.6231033922736661,1,1,es,SES,South-America
-'67048cd97c',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial chih,2026-09-05T07:05:00+00:00,Mexico,0.6215472932134044,1,1,es,NCA,North-America
 'd85448eac6',extremes,Precipitation,#d60d2b,wmo,lluvia gto hgo mex mich qro,2026-09-02T07:16:00+00:00,Mexico,0.6214941101009515,1,1,es,NCA,North-America
 '381161c2e5',extremes,Precipitation,#d60d2b,wmo,lluvia bcs,2026-08-19T03:26:00+00:00,Mexico,0.6211193204017843,1,1,es,NCA,North-America
 '0a2120b175',extremes,Earthquake,#870007,usgs,terremoto diego de almagro,2026-08-23T03:30:00+00:00,Chile,0.6208724533107723,1,1,es,SWS,South-America
@@ -55,7 +53,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '50829b1cff',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial cdmx hgo mex pue tlax,2026-09-07T07:29:00+00:00,Mexico,0.6175242092265363,1,1,es,NCA,North-America
 'dd93c6b53d',extremes,Precipitation,#d60d2b,wmo,precipitación méxico,2026-08-30T08:30:00+00:00,Mexico,0.6174462710120655,3,2,es,NCA,North-America
 '18307bdb07',extremes,Earthquake,#870007,usgs,terremoto coihueco,2026-08-26T03:33:00+00:00,Chile,0.61642957827813,1,1,es,SWS,South-America
-'335616d808',extremes,Drought,#edc291,edo,sequía costa rica,2026-08-26T03:34:00+00:00,Costa Rica,0.6162521195749787,1,1,es,SCA,South-America
 '9bcd0073f7',extremes,Precipitation,#d60d2b,wmo,lluvia chih sin hijo,2026-09-06T07:16:00+00:00,Mexico,0.6160316933443979,1,1,es,NCA,North-America
 '301085a00a',extremes,Precipitation,#d60d2b,wmo,precipitación dgo nay sin zac,2026-09-05T07:05:00+00:00,Mexico,0.615403304393979,1,1,es,NCA,North-America
 'd7f0fc3804',extremes,Precipitation,#d60d2b,wmo,lluvia no pecado,2026-08-18T03:24:00+00:00,Mexico,0.6146579272875913,1,1,es,NCA,North-America
@@ -129,6 +126,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2bd66b922c',extremes,Precipitation,#d60d2b,wmo,aguacero amazonía sur,2026-09-08T07:23:00+00:00,Ecuador,0.5374139966065624,2,1,es,NWS,South-America
 '6a8106842a',extremes,Drought,#edc291,edo,sequía república dominicana,2026-08-28T14:32:00+00:00,Dominican Republic,0.5353710393543278,2,1,es,CAR,North-America
 '3cd952f0bb',extremes,Wildfire,#d60d2b,effis,incendio forestal españa león villablino,2026-09-08T07:23:00+00:00,Spain,0.5294402808379324,2,1,es,MED,Europe
+'67048cd97c',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial chih,2026-09-05T07:05:00+00:00,Mexico,0.5283151992313937,2,1,es,NCA,North-America
 '6e3b5e5a6a',extremes,Earthquake,#870007,usgs,terremoto estique,2026-08-30T08:29:00+00:00,Peru,0.5277543228025356,2,1,es,SWS,South-America
 'd2cb2b9f19',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial chis oax,2026-09-05T07:05:00+00:00,Mexico,0.5254779190095481,2,1,es,NCA,North-America
 '5ef8bde497',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial pue,2026-08-25T03:27:00+00:00,Mexico,0.5241055452213372,2,1,es,NCA,North-America
