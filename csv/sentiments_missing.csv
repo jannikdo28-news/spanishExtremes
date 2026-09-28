@@ -345,33 +345,33 @@ year,year,DATE,,,en,1.9000000000000001
 Conaprole,Conaprole,NORP,,,en,1.9000000000000001
 the 21st century,the 21st century,DATE,,,en,1.9000000000000001
 February 2026,February 2026,DATE,,,en,1.9000000000000001
-Boca,Boca,FAC,0.13157894736842105,0.24912280701754386,en,1.9000000000000001
-44ºC,44ºC,CARDINAL,,,en,1.9000000000000001
+1970,1970,DATE,,,en,1.9000000000000001
+May long weekend,May long weekend,DATE,,,en,1.9000000000000001
 four months,four months,DATE,,,en,1.9000000000000001
-29,29,CARDINAL,,,en,1.9000000000000001
-1877,1877,DATE,,,en,1.9000000000000001
 151,151,CARDINAL,,,en,1.9000000000000001
 Uruguayan Championship 2026,Uruguayan Championship 2026,EVENT,,,en,1.9000000000000001
 Last year,Last year,DATE,,,en,1.9000000000000001
-May long weekend,May long weekend,DATE,,,en,1.9000000000000001
-1970,1970,DATE,,,en,1.9000000000000001
-Aragonese,Aragonese,NORP,,,en,1.9000000000000001
-Dutch,Dutch,NORP,,,en,1.9000000000000001
 May 22,May 22,DATE,,,en,1.9000000000000001
-250,250,CARDINAL,,,en,1.9
+44ºC,44ºC,CARDINAL,,,en,1.9000000000000001
+Dutch,Dutch,NORP,,,en,1.9000000000000001
+Aragonese,Aragonese,NORP,,,en,1.9000000000000001
+Boca,Boca,FAC,0.13157894736842105,0.24912280701754386,en,1.9000000000000001
+29,29,CARDINAL,,,en,1.9000000000000001
+1877,1877,DATE,,,en,1.9000000000000001
 "this Tuesday, December 16","this Tuesday, December 16",DATE,,,en,1.9
-up to 20 liters,up to 20 liters,QUANTITY,,,en,1.9
 This last weekend,This last weekend,DATE,,,en,1.9
-April 15,April 15,DATE,,,en,1.8
+250,250,CARDINAL,,,en,1.9
+up to 20 liters,up to 20 liters,QUANTITY,,,en,1.9
 the month of February,the month of February,DATE,,,en,1.8
 the winter season,the winter season,DATE,,,en,1.8
-trans-Andean,trans-Andean,NORP,,,en,1.8
+Chavista,Chavista,NORP,,,en,1.8
+37,37,CARDINAL,,,en,1.8
 6.1,6.1,CARDINAL,,,en,1.8
 38 degrees,38 degrees,QUANTITY,,,en,1.8
-37,37,CARDINAL,,,en,1.8
+April 15,April 15,DATE,,,en,1.8
 19%,19%,PERCENT,,,en,1.8
 the second half of the year,the second half of the year,DATE,,,en,1.8
-Chavista,Chavista,NORP,,,en,1.8
+trans-Andean,trans-Andean,NORP,,,en,1.8
 2011,2011,DATE,,,en,1.8
 Half,Half,CARDINAL,,,en,1.8
 "More than 8,000","More than 8,000",CARDINAL,,,en,1.8
@@ -1879,7 +1879,7 @@ Welsh,Welsh,NORP,,,en,1.0
 the last afternoon,the last afternoon,TIME,,,en,1.0
 "9,000","9,000",CARDINAL,,,en,1.0
 3D,3D,CARDINAL,,,en,1.0
-"2,600 years","2,600 years",DATE,,,en,1.0
+1912,1912,DATE,,,en,1.0
 120 million,120 million,CARDINAL,,,en,1.0
 June to July,June to July,DATE,,,en,1.0
 three minutes,three minutes,TIME,,,en,1.0
@@ -1914,11 +1914,11 @@ a start to the week,a start to the week,DATE,,,en,1.0
 April 2025,April 2025,DATE,,,en,1.0
 the Six Nations,the Six Nations,FAC,,,en,1.0
 Vichy,Vichy,PRODUCT,,,en,1.0
-the year began,the year began,DATE,,,en,1.0
-up to 5 meters,up to 5 meters,QUANTITY,,,en,1.0
-26 centuries,26 centuries,DATE,,,en,1.0
-1912,1912,DATE,,,en,1.0
 "Last Thursday, March 5","Last Thursday, March 5",DATE,,,en,1.0
+up to 5 meters,up to 5 meters,QUANTITY,,,en,1.0
+"2,600 years","2,600 years",DATE,,,en,1.0
+the year began,the year began,DATE,,,en,1.0
+26 centuries,26 centuries,DATE,,,en,1.0
 International Women's Day,International Women's Day,EVENT,,,en,1.0
 95,95,CARDINAL,,,en,1.0
 Pro,Pro,PRODUCT,,,en,1.0
@@ -2810,9 +2810,9 @@ the beginning of April,the beginning of April,DATE,,,en,1.0
 the 27th,the 27th,DATE,,,en,1.0
 the XXV Prize,the XXV Prize,WORK_OF_ART,,,en,1.0
 the Prado Museum,the Prado Museum,FAC,,,en,1.0
+The first month,The first month,DATE,,,en,1.0
 the Nonguén National Park,the Nonguén National Park,FAC,,,en,1.0
 52 days,52 days,DATE,,,en,1.0
-The first month,The first month,DATE,,,en,1.0
 one rainy night,one rainy night,TIME,,,en,1.0
 the 70s and 80s,the 70s and 80s,DATE,,,en,1.0
 Jew,Jew,NORP,,,en,1.0
@@ -2871,8 +2871,8 @@ USD $800 million,USD $800 million,MONEY,,,en,1.0
 up to USD $800 million,up to USD $800 million,MONEY,,,en,1.0
 a few km,a few km,QUANTITY,,,en,1.0
 the Champs-Élysées,the Champs-Élysées,FAC,,,en,1.0
-its first day,its first day,DATE,,,en,1.0
 thousands of years ago,thousands of years ago,DATE,,,en,1.0
+its first day,its first day,DATE,,,en,1.0
 Instagram,Instagram,WORK_OF_ART,,,en,1.0
 Many years later,Many years later,DATE,,,en,1.0
 65 years ago,65 years ago,DATE,,,en,1.0

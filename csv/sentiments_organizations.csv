@@ -191,14 +191,14 @@ UCO,UCO,ORG,-0.03205128205128205,0.22435897435897437,en,1.3
 Cabildo,Cabildo,ORG,0.0,0.0,en,1.3
 Dancefloor,Dancefloor,ORG,0.0,0.0,en,1.3
 SpaceX,SpaceX,ORG,-0.3097902097902098,0.46993006993006997,en,1.3
-Lamborghini Squadra Corse,Lamborghini Squadra Corse,ORG,0.07925407925407925,0.10256410256410256,en,1.3
+Abbott,Abbott,ORG,0.07692307692307693,0.0,en,1.3
 phydigital,phydigital,ORG,0.1311188811188811,0.14235764235764234,en,1.3
 Cáritas,Cáritas,ORG,0.0,0.1923076923076923,en,1.3
 Delta,Delta,ORG,-0.038461538461538464,0.0,en,1.3
 Goya Awards 2026,Goya Awards 2026,ORG,0.07692307692307693,0.0,en,1.3
 Jeep,Jeep,ORG,0.25641025641025644,0.16987179487179485,en,1.3
 FIA,FIA,ORG,0.15384615384615385,0.7692307692307692,en,1.3
-Abbott,Abbott,ORG,0.07692307692307693,0.0,en,1.3
+Lamborghini Squadra Corse,Lamborghini Squadra Corse,ORG,0.07925407925407925,0.10256410256410256,en,1.3
 Sierra Nevada,Sierra Nevada,ORG,0.0,0.0,en,1.3
 Finetwork,Finetwork,ORG,-0.3461538461538461,0.07692307692307693,en,1.3
 Borden,Borden,ORG,0.0,0.0,en,1.3
@@ -449,8 +449,8 @@ the Montevideo Marathon,the Montevideo Marathon,ORG,0.0,0.0,en,1.0
 the FEMA Review Council,the FEMA Review Council,ORG,0.0,0.0,en,1.0
 Sant Feliu de Guíxols,Sant Feliu de Guíxols,ORG,-0.125,0.0,en,1.0
 ​​what,​​what,ORG,0.35,0.0,en,1.0
-the National Meat Institute,the National Meat Institute,ORG,-0.15,0.0,en,1.0
 La Industria Responde 7,La Industria Responde 7,ORG,0.0,0.0,en,1.0
+the National Meat Institute,the National Meat Institute,ORG,-0.15,0.0,en,1.0
 Irisarri,Irisarri,ORG,0.0,0.0,en,1.0
 Pedregal Gardens,Pedregal Gardens,ORG,0.16666666666666666,0.0,en,1.0
 McDonald,McDonald,ORG,0.0,0.0,en,1.0
@@ -639,17 +639,17 @@ l/m²,l/m²,ORG,0.0,0.0,en,1.0
 La Alameda,La Alameda,ORG,0.0,0.0,en,1.0
 the Court of San Miguel,the Court of San Miguel,ORG,0.0,0.0,en,1.0
 the 10th Guarantee Court of Santiago,the 10th Guarantee Court of Santiago,ORG,0.0,0.0,en,1.0
-Cashea,Cashea,ORG,0.0,0.0,en,1.0
+Casheam,Casheam,ORG,0.0,0.0,en,1.0
 Bodymoor Heath,Bodymoor Heath,ORG,0.1,0.0,en,1.0
 Super Niño,Super Niño,ORG,0.16166666666666665,0.0,en,1.0
 The Bank of Costa Rica,The Bank of Costa Rica,ORG,0.5,0.0,en,1.0
 Structural Dampness,Structural Dampness,ORG,0.3125,0.0,en,1.0
 Murprotec,Murprotec,ORG,0.3125,0.0,en,1.0
 the Sierra Oeste de Madrid,the Sierra Oeste de Madrid,ORG,-0.03571428571428571,0.0,en,1.0
-Fintech,Fintech,ORG,0.0,0.0,en,1.0
-World Central Kitchen,World Central Kitchen,ORG,0.0,0.0,en,1.0
-Casheam,Casheam,ORG,0.0,0.0,en,1.0
 fintech,fintech,ORG,0.0,0.0,en,1.0
+World Central Kitchen,World Central Kitchen,ORG,0.0,0.0,en,1.0
+Cashea,Cashea,ORG,0.0,0.0,en,1.0
+Fintech,Fintech,ORG,0.0,0.0,en,1.0
 Pelayos de la Presa,Pelayos de la Presa,ORG,0.10833333333333332,0.0,en,1.0
 Lola Indigo,Lola Indigo,ORG,0.0,0.0,en,1.0
 El Hierro,El Hierro,ORG,0.33999999999999997,0.0,en,1.0
@@ -1218,8 +1218,8 @@ The Minister of Economy and Finance,The Minister of Economy and Finance,ORG,0.0,
 the Croatia Rally,the Croatia Rally,ORG,0.05,0.0,en,1.0
 France Football,France Football,ORG,0.35357142857142854,0.0,en,1.0
 Copa Libertadores,Copa Libertadores,ORG,0.0,0.0,en,1.0
-Italy Final,Italy Final,ORG,0.18333333333333335,0.0,en,1.0
 the Houston Astros,the Houston Astros,ORG,0.03125,0.0,en,1.0
+Italy Final,Italy Final,ORG,0.18333333333333335,0.0,en,1.0
 Irving,Irving,ORG,0.8,0.0,en,1.0
 the Barcelona Open Banc Sabadell-Conde de Godó Trophy,the Barcelona Open Banc Sabadell-Conde de Godó Trophy,ORG,0.0,0.0,en,1.0
 The World Rally Championship,The World Rally Championship,ORG,0.05,0.0,en,1.0
