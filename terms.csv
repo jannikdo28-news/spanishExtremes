@@ -1,7 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'5746fa4adb',extremes,Wildfire,#d60d2b,effis,incendio forestal en españa,2026-08-07T09:56:00+00:00,Spain,0.7091262533471137,2,3,es,MED,Europe
 'd18c9a3f35',extremes,Earthquake,#870007,usgs,terremoto san antonio de los cobres,2026-08-22T03:22:00+00:00,Argentina,0.7028738362830301,5,2,es,SES,South-America
 'adc8088001',extremes,Fog,#d60d2b,wmo,niebla a mariña,2026-08-14T04:24:00+00:00,Spain,0.7010382241852325,1,2,es,MED,Europe
+'4bd6fc446a',extremes,Wildfire,#d60d2b,effis,incendios forestales Ourense España,2026-08-24T03:32:00+00:00,Spain,0.6978622752963581,3,2,es,MED,Europe
 '0fa731fd34',extremes,Drought,#edc291,edo,sequedad honduras,2026-08-16T03:28:00+00:00,Honduras,0.6947806359541567,2,2,es,SCA,North-America
 'a6e9427fb1',extremes,Earthquake,#870007,usgs,terremoto colombia,2026-09-02T07:16:00+00:00,Colombia,0.6902215625801018,4,3,es,NWS,South-America
 '85a9fce86a',extremes,Earthquake,#870007,usgs,terremoto san pedro de atacama,2026-09-03T07:20:00+00:00,Bolivia,0.6824914936557689,2,2,es,SWS,South-America
@@ -14,7 +14,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ce57f419d',extremes,Earthquake,#870007,usgs,terremoto venezuela,2026-09-01T07:57:00+00:00,Venezuela,0.654809877444774,3,3,es,NSA,South-America
 'd1e11d341c',extremes,Precipitation,#d60d2b,wmo,lluvia hijo,2026-09-01T07:58:00+00:00,Mexico,0.6507381771119747,1,2,es,NCA,North-America
 '34fd30e809',extremes,Earthquake,#870007,usgs,terremoto calama,2026-08-24T03:32:00+00:00,Chile,0.644237950655342,2,1,es,SWS,South-America
-'4bd6fc446a',extremes,Wildfire,#d60d2b,effis,incendios forestales Ourense España,2026-08-24T03:32:00+00:00,Spain,0.6440143885839508,2,1,es,MED,Europe
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-08-24T03:32:00+00:00,Argentina,0.6387323868375365,2,3,es,SES,South-America
 '6902568f9a',extremes,Precipitation,#d60d2b,wmo,aguacero litoral,2026-09-04T07:23:00+00:00,Ecuador,0.6379699399128204,2,2,es,NWS,South-America
 '3853fc9abc',extremes,Wildfire,#d60d2b,effis,incendio forestal españa zamora hermisende,2026-08-22T03:22:00+00:00,Spain,0.6367886291001991,2,2,es,MED,Europe
