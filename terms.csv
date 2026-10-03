@@ -1,6 +1,7 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '4bd6fc446a',extremes,Wildfire,#d60d2b,effis,incendios forestales Ourense España,2026-08-24T03:32:00+00:00,Spain,0.7436329790019044,4,2,es,MED,Europe
 '58f77fa85f',extremes,Thunderstorm,#53785a,wmo,granizo españa,2026-08-21T03:30:00+00:00,Spain,0.7169761771765731,2,3,es,MED,Europe
+'6902568f9a',extremes,Precipitation,#d60d2b,wmo,aguacero litoral,2026-09-04T07:23:00+00:00,Ecuador,0.6933245539258973,3,2,es,NWS,South-America
 'a6e9427fb1',extremes,Earthquake,#870007,usgs,terremoto colombia,2026-09-02T07:16:00+00:00,Colombia,0.6902215625801018,4,3,es,NWS,South-America
 '85a9fce86a',extremes,Earthquake,#870007,usgs,terremoto san pedro de atacama,2026-09-03T07:20:00+00:00,Bolivia,0.6824914936557689,2,2,es,SWS,South-America
 'd0cb3b04e6',extremes,Precipitation,#d60d2b,wmo,precipitación ecuador,2026-08-18T03:24:00+00:00,Ecuador,0.6805091560414223,2,2,es,NWS,South-America
@@ -9,7 +10,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '12141e6d2a',extremes,Storm,#b3b2b1,wmo,tormenta litoral provincia de huasco,2026-09-04T07:23:00+00:00,Chile,0.6676577606777054,2,2,es,SWS,South-America
 'c88b43e0ba',extremes,Snow&Ice,#d60d2b,wmo,heladas argentina,2026-09-01T07:58:00+00:00,Argentina,0.6646818898258553,2,1,es,SES,South-America
 'd1e11d341c',extremes,Precipitation,#d60d2b,wmo,lluvia hijo,2026-09-01T07:58:00+00:00,Mexico,0.6507381771119747,1,2,es,NCA,North-America
-'6902568f9a',extremes,Precipitation,#d60d2b,wmo,aguacero litoral,2026-09-04T07:23:00+00:00,Ecuador,0.6379699399128204,2,2,es,NWS,South-America
 '5ce57f419d',extremes,Earthquake,#870007,usgs,terremoto venezuela,2026-09-01T07:57:00+00:00,Venezuela,0.6324894758280579,4,3,es,NSA,South-America
 'a04b9bbfb7',extremes,Earthquake,#870007,usgs,terremoto tocopilla,2026-09-01T07:57:00+00:00,Chile,0.630392472537659,3,2,es,SWS,South-America
 '7404f0c538',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial gro,2026-08-29T09:18:00+00:00,Mexico,0.6298300176959792,1,1,es,NCA,North-America
