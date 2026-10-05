@@ -6,11 +6,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a6e9427fb1',extremes,Earthquake,#870007,usgs,terremoto colombia,2026-09-02T07:16:00+00:00,Colombia,0.6337463860502294,5,3,es,NWS,South-America
 '5ce57f419d',extremes,Earthquake,#870007,usgs,terremoto venezuela,2026-09-01T07:57:00+00:00,Venezuela,0.6324894758280579,4,3,es,NSA,South-America
 'a04b9bbfb7',extremes,Earthquake,#870007,usgs,terremoto tocopilla,2026-09-01T07:57:00+00:00,Chile,0.630392472537659,3,2,es,SWS,South-America
-'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,hielo argentina,2026-08-31T08:51:00+00:00,Argentina,0.6257570723004487,2,3,es,SES,South-America
-'e409d4cfb7',extremes,Wildfire,#d60d2b,effis,incendio forestal burgos españa,2026-09-04T07:23:00+00:00,Spain,0.6253478223884745,2,1,es,MED,Europe
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-09-09T07:32:00+00:00,Argentina,0.6194728311360577,3,2,es,SES,South-America
 'dd93c6b53d',extremes,Precipitation,#d60d2b,wmo,precipitación méxico,2026-08-30T08:30:00+00:00,Mexico,0.6174462710120655,3,2,es,NCA,North-America
-'9bcd0073f7',extremes,Precipitation,#d60d2b,wmo,lluvia chih sin hijo,2026-09-06T07:16:00+00:00,Mexico,0.6160316933443979,1,1,es,NCA,North-America
 '301085a00a',extremes,Precipitation,#d60d2b,wmo,precipitación dgo nay sin zac,2026-09-05T07:05:00+00:00,Mexico,0.615403304393979,1,1,es,NCA,North-America
 '4c23f79fc0',extremes,Earthquake,#870007,usgs,terremoto talca,2026-08-28T14:31:00+00:00,Chile,0.6133875249588584,2,1,es,SWS,South-America
 '34383a5b38',extremes,Precipitation,#d60d2b,wmo,lluvia amazonía sur,2026-09-07T07:29:00+00:00,Ecuador,0.6128107325441573,2,1,es,NWS,South-America
@@ -45,7 +42,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2bd66b922c',extremes,Precipitation,#d60d2b,wmo,aguacero amazonía sur,2026-09-08T07:23:00+00:00,Ecuador,0.5374139966065624,2,1,es,NWS,South-America
 '7404f0c538',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial gro,2026-08-29T09:18:00+00:00,Mexico,0.5353555150415823,2,1,es,NCA,North-America
 '461fc9a314',extremes,Precipitation,#d60d2b,wmo,precipitación mex pue,2026-09-01T07:58:00+00:00,Mexico,0.5325356821728752,2,1,es,NCA,North-America
+'edae5a8a2b',extremes,Snow&Ice,#d60d2b,wmo,hielo argentina,2026-08-31T08:51:00+00:00,Argentina,0.5318941264553815,3,2,es,SES,South-America
 'c2ececbbb4',extremes,Drought,#edc291,edo,sequía en belice,2026-09-02T07:17:00+00:00,Belize,0.531730962936465,3,1,es,SCA,North-America
+'e409d4cfb7',extremes,Wildfire,#d60d2b,effis,incendio forestal burgos españa,2026-09-04T07:23:00+00:00,Spain,0.5316956640302033,3,1,es,MED,Europe
 'c396865962',extremes,Precipitation,#d60d2b,wmo,precipitación gto hgo mich qro,2026-09-01T07:58:00+00:00,Mexico,0.5306431585060044,2,1,es,NCA,North-America
 'a95c18cd3d',extremes,Earthquake,#870007,usgs,terremoto antofagasta de la sierra,2026-09-07T07:29:00+00:00,Argentina,0.5296378834326162,2,1,es,SES,South-America
 '3cd952f0bb',extremes,Wildfire,#d60d2b,effis,incendio forestal españa león villablino,2026-09-08T07:23:00+00:00,Spain,0.5294402808379324,2,1,es,MED,Europe
@@ -56,6 +55,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd2cb2b9f19',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial chis oax,2026-09-05T07:05:00+00:00,Mexico,0.5254779190095481,2,1,es,NCA,North-America
 'dbbf1cabe9',extremes,Earthquake,#870007,usgs,terremoto aroa,2026-09-08T07:23:00+00:00,Venezuela,0.5251628629129256,2,1,es,NSA,South-America
 '50829b1cff',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial cdmx hgo mex pue tlax,2026-09-07T07:29:00+00:00,Mexico,0.5248955778425558,2,1,es,NCA,North-America
+'9bcd0073f7',extremes,Precipitation,#d60d2b,wmo,lluvia chih sin hijo,2026-09-06T07:16:00+00:00,Mexico,0.5236269393427382,2,1,es,NCA,North-America
 '66f95f4d60',extremes,Precipitation,#d60d2b,wmo,aguacero pecado hijo,2026-09-07T07:29:00+00:00,Mexico,0.5190991463915675,2,1,es,NCA,North-America
 'c08e41e579',extremes,Precipitation,#d60d2b,wmo,precipitación dgo,2026-09-07T07:29:00+00:00,Mexico,0.5185042420651548,2,1,es,NCA,North-America
 'f9841b5e6b',extremes,Wildfire,#d60d2b,effis,incendio forestal españa zaragoza villafranca de ebro,2026-08-31T08:51:00+00:00,Spain,0.5164527611336086,2,1,es,MED,Europe
