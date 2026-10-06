@@ -1,12 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '335616d808',extremes,Drought,#edc291,edo,sequía costa rica,2026-08-26T03:34:00+00:00,Costa Rica,0.6759145116387318,2,2,es,SCA,South-America
-'58f77fa85f',extremes,Thunderstorm,#53785a,wmo,granizo españa,2026-08-21T03:30:00+00:00,Spain,0.6690362061556427,3,3,es,MED,Europe
 '12141e6d2a',extremes,Storm,#b3b2b1,wmo,tormenta litoral provincia de huasco,2026-09-04T07:23:00+00:00,Chile,0.6676577606777054,2,2,es,SWS,South-America
 'a6e9427fb1',extremes,Earthquake,#870007,usgs,terremoto colombia,2026-09-02T07:16:00+00:00,Colombia,0.6337463860502294,5,3,es,NWS,South-America
 'a04b9bbfb7',extremes,Earthquake,#870007,usgs,terremoto tocopilla,2026-09-01T07:57:00+00:00,Chile,0.630392472537659,3,2,es,SWS,South-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-09-09T07:32:00+00:00,Argentina,0.6194728311360577,3,2,es,SES,South-America
-'dd93c6b53d',extremes,Precipitation,#d60d2b,wmo,precipitación méxico,2026-08-30T08:30:00+00:00,Mexico,0.6174462710120655,3,2,es,NCA,North-America
-'4c23f79fc0',extremes,Earthquake,#870007,usgs,terremoto talca,2026-08-28T14:31:00+00:00,Chile,0.6133875249588584,2,1,es,SWS,South-America
 '34383a5b38',extremes,Precipitation,#d60d2b,wmo,lluvia amazonía sur,2026-09-07T07:29:00+00:00,Ecuador,0.6128107325441573,2,1,es,NWS,South-America
 '318d89e818',extremes,Precipitation,#d60d2b,wmo,precipitación litoral sur,2026-09-07T07:29:00+00:00,Ecuador,0.6127356148011751,2,2,es,NWS,South-America
 'fc83c4610c',extremes,Storm,#b3b2b1,wmo,tormenta litoral sur,2026-09-08T07:23:00+00:00,Ecuador,0.6101012282931828,3,2,es,NWS,South-America
