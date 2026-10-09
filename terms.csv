@@ -7,14 +7,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '318d89e818',extremes,Precipitation,#d60d2b,wmo,precipitación litoral sur,2026-09-07T07:29:00+00:00,Ecuador,0.6127356148011751,2,2,es,NWS,South-America
 'fc83c4610c',extremes,Storm,#b3b2b1,wmo,tormenta litoral sur,2026-09-08T07:23:00+00:00,Ecuador,0.6101012282931828,3,2,es,NWS,South-America
 'd389bc4f63',extremes,Earthquake,#870007,usgs,terremoto mexico,2026-08-31T08:51:00+00:00,Mexico,0.5936010378882144,2,2,es,SCA,North-America
-'a471dde55c',extremes,Drought,#edc291,edo,sequía cuba,2026-09-01T07:58:00+00:00,Cuba,0.5833795369607783,2,1,es,CAR,North-America
-'85a9fce86a',extremes,Earthquake,#870007,usgs,terremoto san pedro de atacama,2026-09-03T07:20:00+00:00,Bolivia,0.5801178146074035,3,1,es,SWS,South-America
 'e529bb6ac5',extremes,Precipitation,#d60d2b,wmo,lluvia argentina,2026-08-24T03:32:00+00:00,Argentina,0.5660559369937243,3,3,es,SES,South-America
 '5ce57f419d',extremes,Earthquake,#870007,usgs,terremoto venezuela,2026-09-01T07:57:00+00:00,Venezuela,0.565294212181122,5,3,es,NSA,South-America
 '4f1ece82f6',extremes,Precipitation,#d60d2b,wmo,lluvia ver,2026-08-24T03:32:00+00:00,Mexico,0.5649875039208374,2,3,es,NCA,North-America
 '6e9b187c22',extremes,Precipitation,#d60d2b,wmo,precipitación litoral norte,2026-09-07T07:29:00+00:00,Ecuador,0.5500175686249412,3,2,es,NWS,South-America
 '01f4e3df7d',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial amazonía,2026-09-05T07:05:00+00:00,Ecuador,0.5495222174012324,2,1,es,NWS,South-America
-'3cc9c69be7',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial méxico,2026-09-02T07:16:00+00:00,Mexico,0.5476761338724786,2,1,es,NCA,North-America
 'b2fb6b7960',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial bcs,2026-09-04T07:23:00+00:00,Mexico,0.5463431476630157,2,1,es,NCA,North-America
 '471ac42a85',extremes,Precipitation,#d60d2b,wmo,aguacero bcs,2026-09-07T07:29:00+00:00,Mexico,0.5457605147051228,2,1,es,NCA,North-America
 '8fb8c234ce',extremes,Storm,#b3b2b1,wmo,marejada ciclónica amazonía sur,2026-09-06T07:16:00+00:00,Ecuador,0.5415935361715078,2,1,es,NWS,South-America
@@ -25,7 +22,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a95c18cd3d',extremes,Earthquake,#870007,usgs,terremoto antofagasta de la sierra,2026-09-07T07:29:00+00:00,Argentina,0.5296378834326162,2,1,es,SES,South-America
 '3cd952f0bb',extremes,Wildfire,#d60d2b,effis,incendio forestal españa león villablino,2026-09-08T07:23:00+00:00,Spain,0.5294402808379324,2,1,es,MED,Europe
 '67048cd97c',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial chih,2026-09-05T07:05:00+00:00,Mexico,0.5283151992313937,2,1,es,NCA,North-America
-'d85448eac6',extremes,Precipitation,#d60d2b,wmo,lluvia gto hgo mex mich qro,2026-09-02T07:16:00+00:00,Mexico,0.5282699935858087,2,1,es,NCA,North-America
 'd2cb2b9f19',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial chis oax,2026-09-05T07:05:00+00:00,Mexico,0.5254779190095481,2,1,es,NCA,North-America
 'dbbf1cabe9',extremes,Earthquake,#870007,usgs,terremoto aroa,2026-09-08T07:23:00+00:00,Venezuela,0.5251628629129256,2,1,es,NSA,South-America
 '50829b1cff',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial cdmx hgo mex pue tlax,2026-09-07T07:29:00+00:00,Mexico,0.5248955778425558,2,1,es,NCA,North-America
