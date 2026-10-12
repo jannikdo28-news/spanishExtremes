@@ -1,5 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'318d89e818',extremes,Precipitation,#d60d2b,wmo,precipitación litoral sur,2026-09-07T07:29:00+00:00,Ecuador,0.6727759625809988,3,3,es,NWS,South-America
+'318d89e818',extremes,Precipitation,#d60d2b,wmo,precipitación litoral sur,2026-09-07T07:29:00+00:00,Ecuador,0.6722647736483944,4,3,es,NWS,South-America
 'fc83c4610c',extremes,Storm,#b3b2b1,wmo,tormenta litoral sur,2026-09-08T07:23:00+00:00,Ecuador,0.6417189422310235,4,3,es,NWS,South-America
 'a04b9bbfb7',extremes,Earthquake,#870007,usgs,terremoto tocopilla,2026-09-01T07:57:00+00:00,Chile,0.630392472537659,3,2,es,SWS,South-America
 'd1d9cf4e58',extremes,Snow&Ice,#d60d2b,wmo,argentina helada,2026-09-09T07:32:00+00:00,Argentina,0.6194728311360577,3,2,es,SES,South-America
@@ -7,7 +7,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ce57f419d',extremes,Earthquake,#870007,usgs,terremoto venezuela,2026-09-01T07:57:00+00:00,Venezuela,0.565294212181122,5,3,es,NSA,South-America
 '4f1ece82f6',extremes,Precipitation,#d60d2b,wmo,lluvia ver,2026-08-24T03:32:00+00:00,Mexico,0.5649875039208374,2,3,es,NCA,North-America
 '6e9b187c22',extremes,Precipitation,#d60d2b,wmo,precipitación litoral norte,2026-09-07T07:29:00+00:00,Ecuador,0.5500175686249412,3,2,es,NWS,South-America
-'0a775f4dbb',extremes,Storm,#b3b2b1,wmo,tormenta guayas,2026-09-05T07:05:00+00:00,Ecuador,0.5388599634046036,2,1,es,NWS,South-America
 '2bd66b922c',extremes,Precipitation,#d60d2b,wmo,aguacero amazonía sur,2026-09-08T07:23:00+00:00,Ecuador,0.5374139966065624,2,1,es,NWS,South-America
 '67048cd97c',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial chih,2026-09-05T07:05:00+00:00,Mexico,0.5283151992313937,2,1,es,NCA,North-America
 'd2cb2b9f19',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial chis oax,2026-09-05T07:05:00+00:00,Mexico,0.5254779190095481,2,1,es,NCA,North-America
