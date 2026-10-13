@@ -6,8 +6,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5ce57f419d',extremes,Earthquake,#870007,usgs,terremoto venezuela,2026-09-01T07:57:00+00:00,Venezuela,0.565294212181122,5,3,es,NSA,South-America
 '4f1ece82f6',extremes,Precipitation,#d60d2b,wmo,lluvia ver,2026-08-24T03:32:00+00:00,Mexico,0.5649875039208374,2,3,es,NCA,North-America
 '6e9b187c22',extremes,Precipitation,#d60d2b,wmo,precipitación litoral norte,2026-09-07T07:29:00+00:00,Ecuador,0.5500175686249412,3,2,es,NWS,South-America
-'dbbf1cabe9',extremes,Earthquake,#870007,usgs,terremoto aroa,2026-09-08T07:23:00+00:00,Venezuela,0.5251628629129256,2,1,es,NSA,South-America
-'50829b1cff',extremes,Precipitation,#d60d2b,wmo,lluvia torrencial cdmx hgo mex pue tlax,2026-09-07T07:29:00+00:00,Mexico,0.5248955778425558,2,1,es,NCA,North-America
 '9bcd0073f7',extremes,Precipitation,#d60d2b,wmo,lluvia chih sin hijo,2026-09-06T07:16:00+00:00,Mexico,0.5236269393427382,2,1,es,NCA,North-America
 '66f95f4d60',extremes,Precipitation,#d60d2b,wmo,aguacero pecado hijo,2026-09-07T07:29:00+00:00,Mexico,0.5190991463915675,2,1,es,NCA,North-America
 'c08e41e579',extremes,Precipitation,#d60d2b,wmo,precipitación dgo,2026-09-07T07:29:00+00:00,Mexico,0.5185042420651548,2,1,es,NCA,North-America
