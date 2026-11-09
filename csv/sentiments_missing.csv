@@ -126,47 +126,47 @@ the afternoon,the afternoon,TIME,,,en,4.2
 recent years,recent years,DATE,,,en,4.2
 10 years,10 years,DATE,,,en,4.1000000000000005
 Thousands,Thousands,CARDINAL,,,en,4.1
-40th,40th,ORDINAL,,,en,4.0
 the last hour,the last hour,TIME,,,en,4.0
 seconds,seconds,TIME,,,en,4.0
+40th,40th,ORDINAL,,,en,4.0
+night,night,TIME,,,en,3.9000000000000004
+33,33,CARDINAL,,,en,3.9000000000000004
+6,6,CARDINAL,,,en,3.9000000000000004
 Juiz de Fora,Juiz de Fora,FAC,,,en,3.9000000000000004
 eight days,eight days,DATE,,,en,3.9000000000000004
-6,6,CARDINAL,,,en,3.9000000000000004
-33,33,CARDINAL,,,en,3.9000000000000004
-night,night,TIME,,,en,3.9000000000000004
-40 degrees,40 degrees,QUANTITY,,,en,3.8999999999999995
 This Friday,This Friday,DATE,,,en,3.8999999999999995
-million-dollar,million-dollar,MONEY,,,en,3.8
+40 degrees,40 degrees,QUANTITY,,,en,3.8999999999999995
 a week,a week,DATE,,,en,3.8
 7.2 and 7.5,7.2 and 7.5,CARDINAL,,,en,3.8
+million-dollar,million-dollar,MONEY,,,en,3.8
 August 12,August 12,DATE,,,en,3.799999999999999
-last minute,last minute,TIME,,,en,3.7
 hours,hours,TIME,,,en,3.7
+last minute,last minute,TIME,,,en,3.7
 10 degrees,10 degrees,QUANTITY,,,en,3.6999999999999993
 Russian,Russian,NORP,,,en,3.5999999999999996
 next week,next week,DATE,,,en,3.5999999999999988
-British,British,NORP,,,en,3.5
 Three,Three,CARDINAL,,,en,3.5
+British,British,NORP,,,en,3.5
 This week,This week,DATE,,,en,3.499999999999999
 The week,The week,DATE,,,en,3.4000000000000004
 more than a century,more than a century,DATE,,,en,3.4000000000000004
+more than 700,more than 700,CARDINAL,,,en,3.3999999999999995
+La Guaira,La Guaira,FAC,-0.10964912280701752,0.32017543859649117,en,3.3999999999999995
 fifth,fifth,ORDINAL,,,en,3.3999999999999995
 tens of thousands,tens of thousands,CARDINAL,,,en,3.3999999999999995
-La Guaira,La Guaira,FAC,-0.10964912280701752,0.32017543859649117,en,3.3999999999999995
-more than 700,more than 700,CARDINAL,,,en,3.3999999999999995
-Argentines,Argentines,NORP,,,en,3.3
-35,35,CARDINAL,,,en,3.3
-May Long Weekend,May Long Weekend,DATE,,,en,3.3
-First,First,ORDINAL,,,en,3.3
 a few hours,a few hours,TIME,,,en,3.3
+35,35,CARDINAL,,,en,3.3
+First,First,ORDINAL,,,en,3.3
+Argentines,Argentines,NORP,,,en,3.3
+May Long Weekend,May Long Weekend,DATE,,,en,3.3
 weeks,weeks,DATE,,,en,3.3
 five days,five days,DATE,,,en,3.2999999999999994
 48,48,CARDINAL,,,en,3.2
 sixth,sixth,ORDINAL,,,en,3.1999999999999993
 100,100,CARDINAL,,,en,3.1
-Cali,Cali,NORP,-0.05324074074074074,0.5578703703703705,en,3.0999999999999996
-2022,2022,DATE,,,en,3.0999999999999996
 8,8,CARDINAL,,,en,3.0999999999999996
+2022,2022,DATE,,,en,3.0999999999999996
+Cali,Cali,NORP,-0.05324074074074074,0.5578703703703705,en,3.0999999999999996
 Aemet,Aemet,PRODUCT,0.3939393939393939,1.7350427350427349,en,3.0999999999999996
 the days,the days,DATE,,,en,3.0999999999999996
 minutes,minutes,TIME,,,en,3.0999999999999996
@@ -191,9 +191,9 @@ annual,annual,DATE,,,en,2.8999999999999995
 4.3,4.3,CARDINAL,,,en,2.8
 these days,these days,DATE,,,en,2.8
 Korean,Korean,NORP,,,en,2.8
-a World Cup,a World Cup,EVENT,,,en,2.8
 MetSul,MetSul,WORK_OF_ART,,,en,2.8
 Castilla-La Mancha,Castilla-La Mancha,FAC,,,en,2.8
+a World Cup,a World Cup,EVENT,,,en,2.8
 This Saturday,This Saturday,DATE,,,en,2.7
 the May long weekend,the May long weekend,DATE,,,en,2.7
 2010,2010,DATE,,,en,2.7
@@ -240,24 +240,24 @@ at least 20,at least 20,CARDINAL,,,en,2.4
 7.7,7.7,CARDINAL,,,en,2.4
 Saharan,Saharan,NORP,,,en,2.4
 a weekend,a weekend,DATE,,,en,2.4
-more than 40 degrees,more than 40 degrees,QUANTITY,,,en,2.4
-overnight,overnight,TIME,,,en,2.4
+"1,430","1,430",CARDINAL,,,en,2.4
 the last century,the last century,DATE,,,en,2.4
 Andalusian,Andalusian,NORP,,,en,2.4
 up to 90 km/h,up to 90 km/h,QUANTITY,,,en,2.4
 recent decades,recent decades,DATE,,,en,2.4
-World Championship,World Championship,EVENT,,,en,2.4
-"1,430","1,430",CARDINAL,,,en,2.4
+more than 40 degrees,more than 40 degrees,QUANTITY,,,en,2.4
+overnight,overnight,TIME,,,en,2.4
 the last few hours,the last few hours,TIME,,,en,2.4
 Cubans,Cubans,NORP,,,en,2.4
 Android,Android,PRODUCT,,,en,2.4
 64,64,CARDINAL,,,en,2.4
+World Championship,World Championship,EVENT,,,en,2.4
 the Goya Awards,the Goya Awards,WORK_OF_ART,,,en,2.3000000000000003
 a few days,a few days,DATE,,,en,2.3
+Spaniard,Spaniard,NORP,,,en,2.3
 20 years,20 years,DATE,,,en,2.3
 this summer,this summer,DATE,,,en,2.3
 a month,a month,DATE,,,en,2.3
-Spaniard,Spaniard,NORP,,,en,2.3
 10 days,10 days,DATE,,,en,2.3
 40ºC,40ºC,CARDINAL,,,en,2.3
 2005,2005,DATE,,,en,2.3
@@ -278,8 +278,8 @@ morning,morning,TIME,,,en,2.2
 9,9,CARDINAL,,,en,2.2
 5%,5%,PERCENT,,,en,2.2
 Australian,Australian,NORP,,,en,2.2
-Polish,Polish,NORP,,,en,2.2
 German,German,NORP,,,en,2.2
+Polish,Polish,NORP,,,en,2.2
 More than 360,More than 360,CARDINAL,,,en,2.1999999999999997
 one hour,one hour,TIME,,,en,2.1999999999999997
 21,21,CARDINAL,,,en,2.1999999999999997
@@ -308,25 +308,25 @@ Seven,Seven,CARDINAL,,,en,2.0
 6 degrees,6 degrees,QUANTITY,,,en,2.0
 four days,four days,DATE,,,en,2.0
 June 21,June 21,DATE,,,en,2.0
-112,112,CARDINAL,,,en,2.0
 last night,last night,TIME,,,en,2.0
-February 28,February 28,DATE,,,en,2.0
+112,112,CARDINAL,,,en,2.0
 the coming hours,the coming hours,TIME,,,en,2.0
-Dozens,Dozens,CARDINAL,,,en,2.0
-at least one,at least one,CARDINAL,,,en,2.0
 2020,2020,DATE,,,en,2.0
-1950,1950,DATE,,,en,2.0
 42 degrees,42 degrees,QUANTITY,,,en,2.0
+1950,1950,DATE,,,en,2.0
+at least one,at least one,CARDINAL,,,en,2.0
+Dozens,Dozens,CARDINAL,,,en,2.0
+February 28,February 28,DATE,,,en,2.0
 the Centenario Stadium,the Centenario Stadium,FAC,,,en,1.9999999999999998
-the Copa Libertadores,the Copa Libertadores,FAC,,,en,1.9000000000000001
-Asturian,Asturian,NORP,,,en,1.9000000000000001
+Indian,Indian,NORP,,,en,1.9000000000000001
 4.1,4.1,CARDINAL,,,en,1.9000000000000001
 500,500,CARDINAL,,,en,1.9000000000000001
+the Copa Libertadores,the Copa Libertadores,FAC,,,en,1.9000000000000001
 the 1950s,the 1950s,DATE,,,en,1.9000000000000001
 Puerto Rican,Puerto Rican,NORP,0.25,1.2333333333333334,en,1.9000000000000001
 120,120,CARDINAL,,,en,1.9000000000000001
+Asturian,Asturian,NORP,,,en,1.9000000000000001
 This Sunday,This Sunday,DATE,,,en,1.9000000000000001
-Indian,Indian,NORP,,,en,1.9000000000000001
 the first day,the first day,DATE,,,en,1.9000000000000001
 the second half,the second half,DATE,,,en,1.9000000000000001
 Central American,Central American,NORP,,,en,1.9000000000000001
@@ -335,8 +335,8 @@ the night,the night,TIME,,,en,1.9000000000000001
 2030,2030,DATE,,,en,1.9000000000000001
 70%,70%,PERCENT,,,en,1.9000000000000001
 day,day,DATE,,,en,1.9000000000000001
-7,7,CARDINAL,,,en,1.9000000000000001
 Moroccan,Moroccan,NORP,,,en,1.9000000000000001
+7,7,CARDINAL,,,en,1.9000000000000001
 4%,4%,PERCENT,,,en,1.9000000000000001
 three years,three years,DATE,,,en,1.9000000000000001
 24 hours,24 hours,TIME,,,en,1.9000000000000001
@@ -345,33 +345,33 @@ year,year,DATE,,,en,1.9000000000000001
 Conaprole,Conaprole,NORP,,,en,1.9000000000000001
 the 21st century,the 21st century,DATE,,,en,1.9000000000000001
 February 2026,February 2026,DATE,,,en,1.9000000000000001
-1970,1970,DATE,,,en,1.9000000000000001
-May long weekend,May long weekend,DATE,,,en,1.9000000000000001
+Boca,Boca,FAC,0.13157894736842105,0.24912280701754386,en,1.9000000000000001
+44ºC,44ºC,CARDINAL,,,en,1.9000000000000001
 four months,four months,DATE,,,en,1.9000000000000001
+29,29,CARDINAL,,,en,1.9000000000000001
+1877,1877,DATE,,,en,1.9000000000000001
 151,151,CARDINAL,,,en,1.9000000000000001
 Uruguayan Championship 2026,Uruguayan Championship 2026,EVENT,,,en,1.9000000000000001
 Last year,Last year,DATE,,,en,1.9000000000000001
-May 22,May 22,DATE,,,en,1.9000000000000001
-44ºC,44ºC,CARDINAL,,,en,1.9000000000000001
-Dutch,Dutch,NORP,,,en,1.9000000000000001
+May long weekend,May long weekend,DATE,,,en,1.9000000000000001
+1970,1970,DATE,,,en,1.9000000000000001
 Aragonese,Aragonese,NORP,,,en,1.9000000000000001
-Boca,Boca,FAC,0.13157894736842105,0.24912280701754386,en,1.9000000000000001
-29,29,CARDINAL,,,en,1.9000000000000001
-1877,1877,DATE,,,en,1.9000000000000001
-"this Tuesday, December 16","this Tuesday, December 16",DATE,,,en,1.9
-This last weekend,This last weekend,DATE,,,en,1.9
+Dutch,Dutch,NORP,,,en,1.9000000000000001
+May 22,May 22,DATE,,,en,1.9000000000000001
 250,250,CARDINAL,,,en,1.9
+"this Tuesday, December 16","this Tuesday, December 16",DATE,,,en,1.9
 up to 20 liters,up to 20 liters,QUANTITY,,,en,1.9
+This last weekend,This last weekend,DATE,,,en,1.9
+April 15,April 15,DATE,,,en,1.8
 the month of February,the month of February,DATE,,,en,1.8
 the winter season,the winter season,DATE,,,en,1.8
-Chavista,Chavista,NORP,,,en,1.8
-37,37,CARDINAL,,,en,1.8
+trans-Andean,trans-Andean,NORP,,,en,1.8
 6.1,6.1,CARDINAL,,,en,1.8
 38 degrees,38 degrees,QUANTITY,,,en,1.8
-April 15,April 15,DATE,,,en,1.8
+37,37,CARDINAL,,,en,1.8
 19%,19%,PERCENT,,,en,1.8
 the second half of the year,the second half of the year,DATE,,,en,1.8
-trans-Andean,trans-Andean,NORP,,,en,1.8
+Chavista,Chavista,NORP,,,en,1.8
 2011,2011,DATE,,,en,1.8
 Half,Half,CARDINAL,,,en,1.8
 "More than 8,000","More than 8,000",CARDINAL,,,en,1.8
@@ -775,7 +775,7 @@ half a century,half a century,DATE,,,en,1.0
 Sonic,Sonic,PRODUCT,,,en,1.0
 more than 600 km,more than 600 km,QUANTITY,,,en,1.0
 Polynesian,Polynesian,NORP,,,en,1.0
-84%,84%,PERCENT,,,en,1.0
+1.0,1.0,CARDINAL,,,en,1.0
 just 300 meters,just 300 meters,QUANTITY,,,en,1.0
 1:15 p.m.,1:15 p.m.,TIME,,,en,1.0
 "June 25, 2026","June 25, 2026",DATE,,,en,1.0
@@ -794,7 +794,7 @@ Spring,Spring,DATE,,,en,1.0
 116,116,CARDINAL,,,en,1.0
 Turbo,Turbo,PRODUCT,,,en,1.0
 World Cups,World Cups,EVENT,,,en,1.0
-1.0,1.0,CARDINAL,,,en,1.0
+84%,84%,PERCENT,,,en,1.0
 Every week,Every week,DATE,,,en,1.0
 the beginning of this Saturday,the beginning of this Saturday,DATE,,,en,1.0
 Horizon Zero Dawn Remastered,Horizon Zero Dawn Remastered,WORK_OF_ART,,,en,1.0
@@ -1243,9 +1243,9 @@ Sabido,Sabido,NORP,,,en,1.0
 88 years,88 years,DATE,,,en,1.0
 LACC,LACC,NORP,,,en,1.0
 60 years,60 years,DATE,,,en,1.0
-five years ago,five years ago,DATE,,,en,1.0
 Eight decades,Eight decades,DATE,,,en,1.0
 80 years,80 years,DATE,,,en,1.0
+five years ago,five years ago,DATE,,,en,1.0
 One year,One year,DATE,,,en,1.0
 Patagonian,Patagonian,NORP,,,en,1.0
 Chapter 7,Chapter 7,LAW,,,en,1.0
@@ -1696,10 +1696,10 @@ the 2027 World Cup,the 2027 World Cup,EVENT,,,en,1.0
 the northern half,the northern half,DATE,,,en,1.0
 "2,359","2,359",CARDINAL,,,en,1.0
 rescued years ago,rescued years ago,DATE,,,en,1.0
-at least two,at least two,CARDINAL,,,en,1.0
+At least three,At least three,CARDINAL,,,en,1.0
 "Friday, July 3","Friday, July 3",DATE,,,en,1.0
 "this Friday, July 3","this Friday, July 3",DATE,,,en,1.0
-At least three,At least three,CARDINAL,,,en,1.0
+at least two,at least two,CARDINAL,,,en,1.0
 "today, Thursday, July 2","today, Thursday, July 2",DATE,,,en,1.0
 last Wednesday the 24th,last Wednesday the 24th,DATE,,,en,1.0
 Tablato,Tablato,NORP,,,en,1.0
@@ -1975,8 +1975,8 @@ the first week of this month of February,the first week of this month of Februar
 "this Sunday, March 29","this Sunday, March 29",DATE,,,en,1.0
 "this Sunday, days","this Sunday, days",DATE,,,en,1.0
 "today, Saturday, March 28","today, Saturday, March 28",DATE,,,en,1.0
-more than 96 tons,more than 96 tons,QUANTITY,,,en,1.0
 four years ago,four years ago,DATE,,,en,1.0
+more than 96 tons,more than 96 tons,QUANTITY,,,en,1.0
 The Wine Edition,The Wine Edition,WORK_OF_ART,,,en,1.0
 The Triumph of Nature,The Triumph of Nature,WORK_OF_ART,,,en,1.0
 "Saturday, March 28","Saturday, March 28",DATE,,,en,1.0
@@ -2690,9 +2690,9 @@ April 12,April 12,DATE,,,en,1.0
 the Image Center,the Image Center,FAC,,,en,1.0
 7 p.m.,7 p.m.,TIME,,,en,1.0
 next Wednesday the 15th,next Wednesday the 15th,DATE,,,en,1.0
-the first quarter,the first quarter,DATE,,,en,1.0
 next Thursday,next Thursday,DATE,,,en,1.0
 15 degrees,15 degrees,QUANTITY,,,en,1.0
+the first quarter,the first quarter,DATE,,,en,1.0
 1848,1848,DATE,,,en,1.0
 a busy week,a busy week,DATE,,,en,1.0
 between the 19th and 22nd of this month,between the 19th and 22nd of this month,DATE,,,en,1.0
@@ -2810,9 +2810,9 @@ the beginning of April,the beginning of April,DATE,,,en,1.0
 the 27th,the 27th,DATE,,,en,1.0
 the XXV Prize,the XXV Prize,WORK_OF_ART,,,en,1.0
 the Prado Museum,the Prado Museum,FAC,,,en,1.0
-The first month,The first month,DATE,,,en,1.0
 the Nonguén National Park,the Nonguén National Park,FAC,,,en,1.0
 52 days,52 days,DATE,,,en,1.0
+The first month,The first month,DATE,,,en,1.0
 one rainy night,one rainy night,TIME,,,en,1.0
 the 70s and 80s,the 70s and 80s,DATE,,,en,1.0
 Jew,Jew,NORP,,,en,1.0

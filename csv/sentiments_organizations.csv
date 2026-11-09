@@ -38,6 +38,7 @@ Meteored,Meteored,ORG,0.11711711711711713,0.341932841932842,en,3.699999999999999
 Aragon,Aragon,ORG,0.342101571268238,0.5714085297418632,en,3.5999999999999996
 Castellón,Castellón,ORG,0.2381854256854257,0.5876932591218306,en,3.5
 l/m2,l/m2,ORG,0.1715686274509804,0.48774509803921573,en,3.3999999999999995
+Huesca,Huesca,ORG,-0.23737373737373738,0.3787878787878788,en,3.3
 Autonomous Communities,Autonomous Communities,ORG,0.34848484848484845,0.6818181818181819,en,3.3
 UN,UN,ORG,0.30078125000000006,0.8385416666666667,en,3.1999999999999993
 Mercosur,Mercosur,ORG,0.12250529488432718,0.5546594982078853,en,3.0999999999999996
@@ -47,7 +48,6 @@ Community,Community,ORG,0.37950396825396826,0.5657671957671958,en,3.0
 Forest,Forest,ORG,-0.14444444444444446,0.41111111111111104,en,3.0
 Meteocat,Meteocat,ORG,0.007196969696969692,0.4712121212121212,en,3.0
 DGT,DGT,ORG,0.07896825396825399,0.04761904761904762,en,2.9999999999999996
-Huesca,Huesca,ORG,-0.27011494252873564,0.4310344827586207,en,2.9
 CDMX,CDMX,ORG,-0.017625231910946202,0.5323129251700681,en,2.8
 Kast,Kast,ORG,0.12797619047619047,0.09523809523809525,en,2.8
 TVE,TVE,ORG,0.0,0.059523809523809534,en,2.8
@@ -191,14 +191,14 @@ UCO,UCO,ORG,-0.03205128205128205,0.22435897435897437,en,1.3
 Cabildo,Cabildo,ORG,0.0,0.0,en,1.3
 Dancefloor,Dancefloor,ORG,0.0,0.0,en,1.3
 SpaceX,SpaceX,ORG,-0.3097902097902098,0.46993006993006997,en,1.3
-Lamborghini Squadra Corse,Lamborghini Squadra Corse,ORG,0.07925407925407925,0.10256410256410256,en,1.3
+Abbott,Abbott,ORG,0.07692307692307693,0.0,en,1.3
 phydigital,phydigital,ORG,0.1311188811188811,0.14235764235764234,en,1.3
 Cáritas,Cáritas,ORG,0.0,0.1923076923076923,en,1.3
 Delta,Delta,ORG,-0.038461538461538464,0.0,en,1.3
 Goya Awards 2026,Goya Awards 2026,ORG,0.07692307692307693,0.0,en,1.3
 Jeep,Jeep,ORG,0.25641025641025644,0.16987179487179485,en,1.3
 FIA,FIA,ORG,0.15384615384615385,0.7692307692307692,en,1.3
-Abbott,Abbott,ORG,0.07692307692307693,0.0,en,1.3
+Lamborghini Squadra Corse,Lamborghini Squadra Corse,ORG,0.07925407925407925,0.10256410256410256,en,1.3
 Sierra Nevada,Sierra Nevada,ORG,0.0,0.0,en,1.3
 Finetwork,Finetwork,ORG,-0.3461538461538461,0.07692307692307693,en,1.3
 Borden,Borden,ORG,0.0,0.0,en,1.3
@@ -449,8 +449,8 @@ the Montevideo Marathon,the Montevideo Marathon,ORG,0.0,0.0,en,1.0
 the FEMA Review Council,the FEMA Review Council,ORG,0.0,0.0,en,1.0
 Sant Feliu de Guíxols,Sant Feliu de Guíxols,ORG,-0.125,0.0,en,1.0
 ​​what,​​what,ORG,0.35,0.0,en,1.0
-the National Meat Institute,the National Meat Institute,ORG,-0.15,0.0,en,1.0
 La Industria Responde 7,La Industria Responde 7,ORG,0.0,0.0,en,1.0
+the National Meat Institute,the National Meat Institute,ORG,-0.15,0.0,en,1.0
 Irisarri,Irisarri,ORG,0.0,0.0,en,1.0
 Pedregal Gardens,Pedregal Gardens,ORG,0.16666666666666666,0.0,en,1.0
 McDonald,McDonald,ORG,0.0,0.0,en,1.0
@@ -1218,8 +1218,8 @@ The Minister of Economy and Finance,The Minister of Economy and Finance,ORG,0.0,
 the Croatia Rally,the Croatia Rally,ORG,0.05,0.0,en,1.0
 France Football,France Football,ORG,0.35357142857142854,0.0,en,1.0
 Copa Libertadores,Copa Libertadores,ORG,0.0,0.0,en,1.0
-the Houston Astros,the Houston Astros,ORG,0.03125,0.0,en,1.0
 Italy Final,Italy Final,ORG,0.18333333333333335,0.0,en,1.0
+the Houston Astros,the Houston Astros,ORG,0.03125,0.0,en,1.0
 Irving,Irving,ORG,0.8,0.0,en,1.0
 the Barcelona Open Banc Sabadell-Conde de Godó Trophy,the Barcelona Open Banc Sabadell-Conde de Godó Trophy,ORG,0.0,0.0,en,1.0
 The World Rally Championship,The World Rally Championship,ORG,0.05,0.0,en,1.0
